@@ -23,31 +23,9 @@
 <script src="/assets/js/prod/scripts.js"></script>
 
 {% if page.layout == 'front' %}
-<script src="/assets/js/prod/data.js" type="text/javascript"></script>
-<script src="/assets/js/prod/zepto.revolver.min.js" type="text/javascript"></script>
 
-
-<script type="text/javascript">
-    $(".front-hero-wrapper").revolver({
-        draggingMS: 300,
-        controlsMS: 800,
-        autoplayMS: 4000,
-        returnToStart: true,
-        returnToStartMS: 1000,
-        stopOnHover: true,
-        navigation: ["&larr;", "&rarr;"],
-        pagination: true,
-        paginationNumbers: false,
-        items: 1,
-        breakpoints: [
-            [1199, 1],
-            [979, 1],
-            [768, 1],
-            [479, 1]
-        ]
-    });
-</script>
-{% endif %} {% if include.class == 'contact' %}
+{% endif %} 
+{% if include.class == 'contact' %}
 <script src="/assets/js/prod/contact.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
 {% endif %} {% comment %} {% if site.cloudinaryurl %}
