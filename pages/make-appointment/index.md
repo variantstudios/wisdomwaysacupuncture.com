@@ -7,4 +7,7 @@ search_engine_optimization:
 layout: page
 permalink: "/make-appointment/"
 ---
-# WisdomWays Acupuncture Make Appointment
+
+# Make Appointment
+
+coming soon
