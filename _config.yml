@@ -1,9 +1,9 @@
 # Site settings
-title: "Oral and Maxillofacial Surgery of Greeley PC"
+title: "WisdomWays Acupuncture"
 email: "team@variantstudios.com"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
-url: "https://useful-anteater.cloudvent.net" # the base hostname & protocol for your site - don't include the forward slash
+url: "https://solitary-chinchilla.cloudvent.net" # the base hostname & protocol for your site - don't include the forward slash
 #timezone: America/Denver - Don't set for CloudCannon...for reasons.
 version: "3.8.2" # the version of jekyll
 
@@ -31,20 +31,32 @@ compress_html:
 
 #Collections
 collections:
-  procedures:
+  conditions:
     output: true
-    permalink: '/procedures/:title/'
+    permalink: '/conditions/:title/'
+  services:
+    output: true
+    permalink: '/services/:title/'
 
 defaults:
   -
     scope:
-      type: procedures
+      type: conditions
     values:
-      layout: procedure
-      class: procedures
+      layout: conditions
+      class: conditions
       _options:
         image_path: # Front matter field
-          uploads_dir: "assets/images/procedures/"
+          uploads_dir: "assets/images/conditions/"
+  -
+    scope:
+      type: services
+    values:
+      layout: services
+      class: services
+      _options:
+        image_path: # Front matter field
+          uploads_dir: "assets/images/services/"
   -
     scope:
       type: categories
@@ -80,6 +92,7 @@ _options:
     link: true
     image: true
     styles: /assets/css/wysiwyg.css
+    embed: true
   share_image_path:
     width: 1200
     height: 1200
@@ -99,8 +112,6 @@ _comments:
 
 # Google Analytics 
 google_analytics_tracking_id:
-
-include: ["_collections"]
 
 exclude: [
   "siteicon.png",

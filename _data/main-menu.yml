@@ -1,26 +1,43 @@
-- text: Home
-  url: /
-- text: Procedures
-  subitems:
-    - text: Wisdom Teeth
-      url: /procedures/wisdom-teeth/
-    - text: IV Sedation
-      url: /procedures/iv-sedation/
-    - text: Oral Pathology
-      url: /procedures/oral-pathology/
-    - text: Impacted Canines
-      url: /procedures/impacted-canines/
-    - text: Bone Augmentation/Grafting
-      url: /procedures/bone-augmentation-grafting/
-    - text: Cone Beam CT
-      url: /procedures/cone-beam-ct/
-    - text: Dental Implants
-      url: /procedures/dental-implants/
-    - text: Dentures
-      url: /procedures/dentures/
-    - text: Procedure Videos
-      url: /procedures/procedure-videos/
-- text: About
-  url: /about/
-- text: Contact
-  url: /contact/
+- text: Conditions Treated
+  url: /conditions-treated/
+  subitems: 
+    - text: "Women's Health"
+      url: /conditions-treated/womens-health/
+    - text: "Headaches/Migraines"
+      url: /conditions-treated/headaches-migraines/
+    - text: Digestion
+      url: /conditions-treated/digestion/
+    - text: Fatigue
+      url: /conditions-treated/fatigue/
+    - text: "Frequent Illness/Chronic Pathology"
+      url: /conditions-treated/frequent-illness-chronic-pathology/
+    - text: "Stress/Anxiety/Depression"
+      url: /conditions-treated/stress-anxiety-depression/
+    - text: Auto-Immune
+      url: /conditions-treated/auto-immune/
+    - text: Insomnia
+      url: /conditions-treated/insomnia/
+    - text: General Wellness
+      url: /conditions-treated/general-wellness/
+- text: Our Team
+  url: /our-team/
+- text: Services Offered
+  url: /services-offered/
+  subitems: 
+    - text: Acupuncture
+      url: /services-offered/acupuncture/
+    - text: Chinese Herbs
+      url: /services-offered/chinese-herbs/
+    - text: Nutritional Guidance
+      url: /services-offered/nutritional-guidance/
+- text: blog
+  url: /blog/
+- text: Testimonials
+  url: /testimonials/
+- text: Make Appointment
+  url: /make-appointment/
+  subitems: 
+    - text: Forms to Complete
+      url: /make-appointment/forms-to-complete/
+    - text: Payment Info
+      url: /make-appointment/payment-info/

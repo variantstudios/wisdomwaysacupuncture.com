@@ -13,23 +13,6 @@ layout: default
 </div>
 <div class="content-bg clearfix">
     <div class="subpage clearfix">
-        <div class="white-bg">
-
-            <h3 class="procedures-list-title">Our Procedures</h3>
-            <ul class="procedures-list">
-                {% for procedure in site.procedures %}
-                {% if procedure.title != 'Procedure Videos' %}
-                <li><a href="{{procedure.url}}">{{procedure.title}}</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-
-            <ul class="calls-to-action">
-                {% for cta in page.calls_to_action %}
-                <li><a href="{{cta.link_path}}"><img src="{{cta.image}}" alt="{{cta.title}}"></a></li>
-                {% endfor %}
-            </ul>
-        
-        </div>
+        {{content}}
     </div>
 </div>
