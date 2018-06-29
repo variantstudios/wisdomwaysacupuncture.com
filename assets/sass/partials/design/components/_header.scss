@@ -16,15 +16,17 @@ header.siteheader {
     .logo {
         //text-align: center;
         // transform: scale(.75);
-        @include breakpoint($bp-medium, $no-query: ".no-mq") {
-            @include grid-span(4, 1, $gutter: 0);
-        }
+        // @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        //     @include grid-span(4, 1, $gutter: 0);
+        // }
+        width: 100%;
+        text-align: center;
     }
     .main-nav {
         width: 100%;
         float: none;
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
-            @include grid-span(8, 5, $gutter: 0);
+            //@include grid-span(8, 5, $gutter: 0);
         }
     }
     span.tel {
