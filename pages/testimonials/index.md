@@ -87,6 +87,236 @@ testimonials:
       tell me it must all be a coincidence, because acupuncture isn&rsquo;t
       &ldquo;proven&rdquo;, I just chuckle inside.</p>
     testimonial_name: D.D.
+  - testimonial_html: >-
+      <p>I&rsquo;ve had chronic digestive issues since I was a kid. I&rsquo;ve
+      been on numerous drugs, some which would help for a little while, some
+      which didn&rsquo;t help at all.&nbsp; My digestive symptoms started
+      improving right after I started acupuncture, and are almost completely
+      gone now, 2 months after starting treatment. If I do get a flare-up,
+      it&rsquo;s invariably because I accidentally ate something that we figured
+      out is causing problems. I&rsquo;m also much more relaxed and calm since I
+      started, which was an unexpected side effect. I really love my
+      treatments.</p>
+    testimonial_name: Merideth
+  - testimonial_html: >-
+      <p>I started seeing Inger for heavy bleeding and really irregular periods
+      related to the start of menopause.&nbsp; My doctor told me my only option
+      was a hysterectomy or cauterization because none of the hormones were
+      stopping it.&nbsp; We did herbs and acupuncture together, and my bleeding
+      stopped almost immediately. Then we continued with acupuncture and my
+      periods completely normalized over the next few cycles. The PMS that had
+      gotten really bad over the past couple years almost completely went away,
+      to the point that I can&rsquo;t even tell my period is coming now, until I
+      start bleeding.</p>
+    testimonial_name: Cheryl
+  - testimonial_html: >-
+      <p>I have a baby!&nbsp; I call her my acupuncture baby. I had been doing
+      ART of one sort or another for 1.5 years before finally trying
+      acupuncture. I didn&rsquo;t really believe it could work because I
+      couldn&rsquo;t understand how sticking some needles in me and taking herbs
+      could really change anything if my eggs weren&rsquo;t good quality. But we
+      had spent more money than I want to admit on all the western stuff, and we
+      agreed we&rsquo;d give the Chinese medicine 6 months, and then give up and
+      look at adoption.&nbsp; Four and a half months later, I conceived
+      naturally, and my baby girl is a healthy 3 month old now.&nbsp; The best
+      part is, I hadn&rsquo;t really been feeling well for many years before the
+      infertility came up, I was fatigued, didn&rsquo;t sleep well, and got bad
+      headaches a few times almost every week. The ART just made it all
+      worse.&nbsp; Now, I not only have my girl, but all those symptoms are
+      gone. I had a great pregnancy and feel that I have the health and energy
+      to really be there for my daughter.</p>
+    testimonial_name: Emily
+  - testimonial_html: >-
+      <p>Inger got rid of the headache I&rsquo;d had for three weeks straight,
+      at the first appointment. Now we&rsquo;re working on them not coming back,
+      and it&rsquo;s amazing that I&rsquo;m not taking any medication at all but
+      somehow it&rsquo;s working. ??&nbsp; I&rsquo;ve been seeing her for about
+      a month now, and my headaches are about 75% less than when I came in. I am
+      SO excited to see how this is going to turn out!</p>
+    testimonial_name: Jessica
+  - testimonial_html: >-
+      <p>My life is so different since I started acupuncture. It was to the
+      point where I was on so many medications that I had to write them down on
+      a spreadsheet to remember when to take them all.&nbsp; Somehow, I just
+      knew something wasn&rsquo;t right about this. The fact that I wasn&rsquo;t
+      really feeling any better on them really made me feel bad.&nbsp; I felt
+      like I was just &lsquo;existing&rsquo;. I couldn&rsquo;t even do the
+      things I loved anymore, and to be honest, I couldn&rsquo;t even remember
+      what it felt like to care. My life was spiraling quickly downward. On a
+      whim, I started researching online and found Inger. Long story short,
+      I&rsquo;m off all my medications except 2, and I found a doctor who would
+      support me in the more natural approach I&rsquo;m trying to take with
+      Inger.&nbsp; And I&rsquo;m feeling better than I ever did on all those
+      medications. I&rsquo;m still working on lifestyle changes, which is hard,
+      but even when I&rsquo;m not perfect the acupuncture is helping everything
+      feel better, and that encourages me. I wish more people knew about how
+      much this can help them.</p>
+    testimonial_name: Mrs. F.
+  - testimonial_html: >-
+      <p>I had &lsquo;tried everything&rsquo; for my migraines when I finally
+      decided I had nothing to lose by finding an acupuncturist. I started
+      asking around, and finally heard of someone else with migraines who had
+      gone to Inger.&nbsp; I made my appointment, and that is the day everything
+      started changing for me. I was literally at the point of being completely
+      dysfunctional and it was only getting worse. Now, I have the day of my
+      first appointment marked on my calendar with a big red circle, and my
+      husband and I go out to dinner every year as an anniversary, to celebrate
+      my mostly migraine-free life! I&rsquo;m coming up on the three year
+      anniversary of starting acupuncture. It&rsquo;s probably the thing that
+      has had the biggest impact on my health, that I&rsquo;ve ever done for
+      myself.</p>
+    testimonial_name: Carol
+  - testimonial_html: >-
+      <p>At my first treatment, Inger explained that this wasn&rsquo;t really a
+      good medicine for people who just wanted something &lsquo;done to
+      them&rsquo; to &lsquo;fix&rsquo; them. She explained that this was team
+      work, and that we were equal partners on the journey of my healing.
+      Honestly, that was about the last thing I was wanting to hear at that
+      stage. I was pretty committed to my lifestyle at that point, so I have to
+      admit that even though I felt pretty good after my first appointment, it
+      took me a while to reschedule another one.&nbsp; I LIKED my busy life that
+      required the convenience of frozen foods. I LIKED my diet sodas! For about
+      6 more months I went to other doctors again, who gave me prescriptions.
+      That made me really happy&hellip;until they didn&rsquo;t work. So when I
+      got sick and tired enough of feeling sick and tired, and realized it was
+      only me who could make this better, I rescheduled.&nbsp; That, my friends,
+      is when I finally started getting better.&nbsp; Like, REAL better. Not
+      just temporary symptoms masked by pills as others are sprouting up.&nbsp;
+      Now, we are truly a team. She helps me feel better, and I help myself feel
+      better too.</p>
+    testimonial_name: The Stubborn Old Goat
+  - testimonial_html: >-
+      <p>From my entire Chronic Fatigue support group, we all together say THANK
+      YOU for the work you&rsquo;re doing, and your dedication to walking with
+      people through their most difficult times. We have so much respect for
+      your obvious passion for the medicine, for your commitment to keep on
+      learning, and your encouragement to us all. We can speak as a group when
+      we say that you helped us all remember who we are&hellip;people who now
+      remember what it feels like to feel alive again.&nbsp; Some of us felt
+      immediate improvement, while others progressed more slowly, but across the
+      board we all noticed change happening once we started treatment.&nbsp;
+      Thank you so&nbsp; much for being here for us all! You have been so much
+      more than just a health care provider for us, you stand out as a bright
+      light in our long, difficult healing process.</p>
+    testimonial_name: The whole CFIDS group!
+  - testimonial_html: >-
+      <p>Inger was the first medical person to bring up potential parasites and
+      food allergies and sensitivities, after I&rsquo;d been to 6 other people
+      over the past 4 years, trying to figure out what was causing my extreme
+      fatigue and other weird symptoms.&nbsp; I finally feel well again.</p>
+    testimonial_name: Linda
+  - testimonial_html: >-
+      <p>Endometriosis runs in my family. It&rsquo;s so bad that my mother and
+      one sister both had hysterectomies.&nbsp; Luckily, I have a twin who heard
+      about acupuncture for endometriosis and went to Inger because her friend
+      had had good results.&nbsp; I figured I&rsquo;d watch how she did, and if
+      she felt better, I&rsquo;d go too.&nbsp; I&rsquo;m really young still, and
+      want to be able to have kids and I was getting really depressed thinking
+      about surgery as my only option. So of course I went, and I think in the
+      second treatment we started herbs.&nbsp; Eight months later, I&rsquo;m
+      almost symptom free.&nbsp; I still go for &ldquo;maintenance&rdquo;
+      treatments around my period, and take herbs. At this point, I&rsquo;m so
+      happy with the improvement that even if I had to do this for life, it
+      would be way better than any other option. Especially because I
+      don&rsquo;t even mind going in, my treatments are like my &ldquo;spa
+      days&rdquo; for myself, because they&rsquo;re so relaxing and help the
+      irritability I can get at my period.&nbsp; Not a bad option if you ask
+      me!</p>
+    testimonial_name: April S.
+  - testimonial_html: >-
+      <p>When it finally got to the point where the only medication that would
+      make a dent in my migraines was one my insurance wouldn&rsquo;t cover and
+      one pill was the cost of a nice dinner out, I started looking into other
+      options.&nbsp; I found Inger and had three acupuncture treatments that
+      first week because they were so bad.&nbsp; By my third acupuncture, I went
+      4 days without a migraine for the first time in months. After that I came
+      in twice per week for several weeks and was much better, having less
+      migraines and the ones I got were less intense.&nbsp; When I got to the
+      point where I was only getting them around my periods, we backed down to
+      once per week, and now, I only get them when I PMS if it&rsquo;s been a
+      really stressful month.&nbsp; The thing I didn&rsquo;t expect, was how
+      much better I felt in general.&nbsp; I never paid much attention to my
+      body before seeing Inger, but she taught me about the different between
+      coping and thriving.&nbsp; Before, I would run my body into the ground and
+      as long as there was a pill that would take my migraines away, I
+      didn&rsquo;t care.&nbsp; Now, I know what it feels like to actually feel
+      great.&nbsp; Good energy, I sleep better, and I crave healthier
+      foods.&nbsp; And, Inger&rsquo;s just really nice, so I always look forward
+      to my treatments!</p>
+    testimonial_name: Rosanne F.
+  - testimonial_html: >-
+      <p>Thank you, Inger, for providing such a safe and comfortable place for
+      me to come and get healing.&nbsp; You have something very special and I
+      know you will touch the lives of many people in a very special way, like
+      you touched mine.&nbsp; You are a truly gifted acupuncturist.</p>
+    testimonial_name: Monica B.
+  - testimonial_html: >-
+      <p>I came for acupuncture after meeting another woman with Lyme Disease
+      who said Inger&rsquo;s treatment had been the only thing that
+      helped.&nbsp; I had been diagnosed with Lyme Disease 2 years ago and life
+      as I knew it had stopped.&nbsp; I had to quit my job and go on
+      disability.&nbsp; I had no energy and was in constant pain in my muscles,
+      as well as a heavy burning pain in my upper body.&nbsp; I never used to be
+      anxious but ever since the Lyme I had severe anxiety.&nbsp; I went through
+      the whole western treatment but nothing was helping, and I thought
+      I&rsquo;d never feel well again.&nbsp; As soon as I started acupuncture,
+      the heavy burning feelings improved, and I could do more things without
+      needing a nap.&nbsp; I slowly and gradually, but very noticeably, started
+      improving all around, and even though it took several months to feel back
+      to myself, everything started changing once I started Chinese Medicine.
+      Inger also helped me understand the foods I needed to eat to heal, and
+      gave me the right herbs to get the Lyme out of my system. I&rsquo;m so
+      grateful that I started this process, it scares me to think about where
+      I&rsquo;d be now if I hadn&rsquo;t found her.</p>
+    testimonial_name: Charlotte M.
+  - testimonial_html: >-
+      <p>I&rsquo;m sorry but those herbs you give me taste like absolute
+      crap!&nbsp; So why do I keep taking them you ask?&nbsp; Because they work!
+      Yes yes they do! Those, and the acupuncture, have been a God-send for my
+      RLS.&nbsp; Thank you!</p>
+    testimonial_name: Victoria J.
+  - testimonial_html: >-
+      <p>I can&rsquo;t really find the words to explain the difference in how I
+      feel&hellip;Some of it is tangible, like my nausea, headaches, dizziness,
+      poor appetite, and fatigue that have completely gone since around my third
+      treatment.&nbsp; But the rest is hard to put a finger on.&nbsp; You say
+      it&rsquo;s &ldquo;balance&rdquo;, and I don&rsquo;t really know what that
+      means, but it must be what I&rsquo;m feeling.&nbsp; I haven&rsquo;t had to
+      take a nap since I started coming in&hellip;I feel like I&rsquo;ve gotten
+      my life back.&nbsp; I&rsquo;m so glad that this medicine is making
+      it&rsquo;s way out into the world, and I can&rsquo;t express my thanks to
+      you enough, Inger&hellip;Thank you!</p>
+    testimonial_name: Louis T.
+  - testimonial_html: >-
+      <p>When I first went in to see Inger, I was &ldquo;flashing&rdquo; about
+      20 times a day!&nbsp; My husband would say he could feel my heat from
+      about 3 feet away.&nbsp; She immediately put me on herbs and gave me an
+      acupuncture treatment.&nbsp; The next time I came in, 3 days later, my
+      flashes had gone down to about 3 or 4 a day and my husband couldn&rsquo;t
+      feel my heat anymore.&nbsp; He was so impressed that he ended up coming in
+      for his chronic back pain, and that got better, too!&nbsp; We&rsquo;re
+      believers now!</p>
+    testimonial_name: Sylvia S.
+  - testimonial_html: <p>Those herbs for my digestion have helped immensely!</p>
+    testimonial_name: Donna F.
+  - testimonial_html: >-
+      <p>I had felt so bad for so long, that I was giving up.&nbsp; My
+      fibromyalgia pain made it so that all I could do was lay around in
+      bed.&nbsp; I couldn&rsquo;t even raise my own kids, we had people helping
+      us with everything.&nbsp; Then, I met someone at church who had gone to
+      Inger for acupuncture for&nbsp; fibromyalgia and chronic fatigue.&nbsp;
+      She said after a handful of months of acupuncture and herbs, she was
+      probably about 75% better, and she&rsquo;s still getting better with her
+      treatments.&nbsp; Sometimes I have setbacks for a couple weeks here and
+      there,&nbsp; which Inger explained was normal.&nbsp; But overall I can
+      definitely say my life has taken a huge turn since starting my treatments,
+      and now I know I will get better, because it&rsquo;s already happening. I
+      got rid of my kid&rsquo;s after school helper and now I cook dinner for my
+      family every day and can take them to their events. I have a lot of other
+      people in my family who are also very grateful for Inger for the work she
+      is doing.&nbsp; Her clinic is always quiet and never stressful too, so I
+      always get a relaxing nap when I have my acupuncture.</p>
+    testimonial_name: Irene J.
 search_engine_optimization:
   page_title: Testimonials - WisdomWays Acupuncture
   page_description:
