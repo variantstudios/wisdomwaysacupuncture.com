@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="subpage-header" style="background-image:url({{page.header_image}})"></div>
+<main>
+  <div class="subpage with-sidebar clearfix">
+    {% include_cached sidebar.html gys_company=page._gys_company %}
+     <div class="content clearfix">
+      {{ content }}
+    </div>
+  </div>
+</main>
+

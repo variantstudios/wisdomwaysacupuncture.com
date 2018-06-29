@@ -1,0 +1,26 @@
+- text: Home
+  url: /
+- text: Procedures
+  subitems:
+    - text: Wisdom Teeth
+      url: /procedures/wisdom-teeth/
+    - text: IV Sedation
+      url: /procedures/iv-sedation/
+    - text: Oral Pathology
+      url: /procedures/oral-pathology/
+    - text: Impacted Canines
+      url: /procedures/impacted-canines/
+    - text: Bone Augmentation/Grafting
+      url: /procedures/bone-augmentation-grafting/
+    - text: Cone Beam CT
+      url: /procedures/cone-beam-ct/
+    - text: Dental Implants
+      url: /procedures/dental-implants/
+    - text: Dentures
+      url: /procedures/dentures/
+    - text: Procedure Videos
+      url: /procedures/procedure-videos/
+- text: About
+  url: /about/
+- text: Contact
+  url: /contact/
