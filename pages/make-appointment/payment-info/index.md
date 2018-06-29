@@ -7,4 +7,7 @@ search_engine_optimization:
 layout: page
 permalink: "/make-appointment/payment-info/"
 ---
+
 # WisdomWays Acupuncture Payment Info
+
+coming soon
