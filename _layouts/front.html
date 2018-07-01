@@ -4,13 +4,20 @@ layout: default
 <div class="front-hero clearfix">
     <div class="front-hero-wrapper clearfix">
         <div class="slide">
-            <h3>{{page.front_hero.title}}</h3>
+            
             <img src="{{page.front_hero.image}}" alt="{{page.front_hero.title}}">
+            <h3>{{page.front_hero.title}}</h3>
         </div>
     </div>
 </div>
 <div class="content-bg clearfix">
     <div class="subpage clearfix">
-        {{content}}
+        <div class="left">
+                {{content}}
+        </div>
+        <div class="right">
+            right
+        </div>
+        
     </div>
 </div>
