@@ -33,7 +33,7 @@ compress_html:
 collections:
   conditions:
     output: true
-    permalink: '/conditions/:title/'
+    permalink: '/conditions-treated/:title/'
   services:
     output: true
     permalink: '/services/:title/'

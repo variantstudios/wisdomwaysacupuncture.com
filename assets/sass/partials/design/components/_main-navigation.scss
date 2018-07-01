@@ -90,11 +90,11 @@
         opacity: 0;
         visibility: hidden;
         transition: all 225ms cubic-bezier(0.47, 0.39, 0.25, 1.35);
-        text-align: center;
+        text-align: left;
         margin: 0 0 1rem 1rem;
         @include breakpoint($bp-medium, $no-query: '.no-mq') {
             margin: 0;
-            //text-align: center;
+            text-align: center;
             opacity: 1;
             visibility: visible;
             display: block;
@@ -159,11 +159,11 @@
                 @include breakpoint($bp-medium, $no-query: '.no-mq') {
                     padding: .4rem 0;
                     text-align: right;
-                    right: 16px;
+                    right: 11px;
                     position: absolute;
                     visibility: hidden;
                     opacity: 0;
-                    width: 280px;
+                    width: 300px;
                     text-align: right;
                     background: $color-one;
                     margin-top: 1px;
@@ -172,11 +172,12 @@
                     border-radius: 0 0 3px 3px;
                     li {
                         margin: 0;
-                        padding: .4em .9em;
+                        padding: .3em .6em;
                         display: block;
                         a {
                             color: #fff;
                             font-weight: 400;
+                            font-size: .8rem;
                             &:hover {
                                 color: $color-two;
                             }
