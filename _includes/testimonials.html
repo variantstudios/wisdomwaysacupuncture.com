@@ -1,6 +1,7 @@
 {% for testimonial in page.testimonials %}
 <div class="testimonial">
-{{testimonial.testimonial_html}}
-<span class="author">{{testimonial.testimonial_name}}</span>
+    {{testimonial.testimonial_html}}
+    <span class="icon-quote"></span>
+
 </div>
-{% endfor %}
+<span class="author">{{testimonial.testimonial_name}}</span> {% endfor %}

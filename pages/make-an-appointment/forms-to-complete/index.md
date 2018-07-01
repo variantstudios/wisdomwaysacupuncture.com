@@ -5,7 +5,7 @@ search_engine_optimization:
   page_description:
   share_image_path:
 layout: page
-permalink: "/make-appointment/forms-to-complete/"
+permalink: "/make-an-appointment/forms-to-complete/"
 ---
 
 # WisdomWays Acupuncture Forms to Complete

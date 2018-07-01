@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .clearfix:before, .clearfix:after {
   display: table;
   content: "";
@@ -1325,11 +1326,7 @@ a.call-to-action:hover {
   max-width: 1200px;
 }
 
-.content-bg {
-  background: #F4F4F4;
-}
 .content-bg .subpage {
-  background: #fff;
   margin: 2rem auto;
 }
 
@@ -2172,4 +2169,67 @@ body.not-front .subpage-header {
 }
 .board .board-wrapper ul li {
   display: block;
+}
+
+.testimonial {
+  background: #f7f7f7;
+  border-radius: 15px;
+  padding: 1.5rem 2rem .5rem 2rem;
+  position: relative;
+  margin: 1.5rem 0 1rem 0;
+}
+@media (min-width: 50em) {
+  .testimonial {
+    padding: 2rem 2rem .5rem 4rem;
+    margin: 3rem 0 2rem 0;
+  }
+  .testimonial:after {
+    content: '“';
+    position: absolute;
+    top: -10px;
+    left: 15px;
+    font-size: 8rem;
+    color: #dadada;
+  }
+}
+.no-mq .testimonial {
+  padding: 2rem 2rem .5rem 4rem;
+  margin: 3rem 0 2rem 0;
+}
+.no-mq .testimonial:after {
+  content: '“';
+  position: absolute;
+  top: -10px;
+  left: 15px;
+  font-size: 8rem;
+  color: #dadada;
+}
+.testimonial .icon-quote {
+  position: absolute;
+  bottom: -12px;
+  left: 45px;
+  display: block;
+  border-color: transparent;
+  border-top-color: #f7f7f7;
+  border-style: solid;
+  border-width: 12px 12px 0;
+  width: 0;
+  height: 0;
+  line-height: 0;
+}
+
+span.author {
+  font-weight: 700;
+  top: -5px;
+  left: 40px;
+  position: relative;
+  font-size: 1.2rem;
+}
+@media (min-width: 50em) {
+  span.author {
+    top: -20px;
+  }
+}
+.no-mq span.author {
+  top: -20px;
 }
