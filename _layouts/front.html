@@ -4,8 +4,15 @@ layout: default
 <div class="front-hero clearfix">
     <div class="front-hero-wrapper clearfix">
         <div class="slide">
-            
-            <img src="{{page.front_hero.image}}" alt="{{page.front_hero.title}}">
+            <img sizes="(max-width: 1200px) 100vw, 1200px" srcset="
+            {{site.cloudinaryurl}}image/fetch/w_400,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 400w,
+            {{site.cloudinaryurl}}image/fetch/w_600,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 600w,
+            {{site.cloudinaryurl}}image/fetch/w_800,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 800w,
+            {{site.cloudinaryurl}}image/fetch/w_1000,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 1000w,
+            {{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 1200w"
+            src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" 
+            alt="{{page.front_hero.title}}">
+
             <h3>{{page.front_hero.title}}</h3>
         </div>
     </div>
