@@ -5,9 +5,9 @@ $small: 80%;
 $rem: 16px;
 // Colors
 // Sites Main Colors
-$color-one: #333; // Light gray
-$color-two: #EFA099; // Pink
-$color-three: #444; // Deep Pink
+$color-one: #461516; // Dark Red #5C0A0D
+$color-two: #7F8337; // Green
+$color-three: #DDDEC0; // Tan
 // Regions - Use Site Main Colors variables for these if they fit
 $nav-bg: $color-three;
 $site-bg: #fff;
@@ -17,9 +17,9 @@ $footer-bg: #272727;
 //nav
 $nav-border: #CFCFCF;
 // Typography
-$body-copy-color: #333;
-$heading-color: #333;
-$link: #4DA4F1;
+$body-copy-color: #272727;
+$heading-color: $color-one;
+$link: $color-one;
 $visited: darken($link, 10%);
 $hover: lighten($link, 10%);
 // Misc
