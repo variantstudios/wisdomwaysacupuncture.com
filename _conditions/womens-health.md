@@ -6,4 +6,3 @@ search_engine_optimization:
   share_image_path:
 ---
 
-Coming soon.
