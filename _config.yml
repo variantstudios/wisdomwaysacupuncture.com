@@ -36,7 +36,7 @@ collections:
     permalink: '/conditions-treated/:title/'
   services:
     output: true
-    permalink: '/services/:title/'
+    permalink: '/services-offered/:title/'
 
 defaults:
   -
