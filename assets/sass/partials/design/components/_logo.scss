@@ -10,6 +10,8 @@
         padding: 0 .5rem;
         @include breakpoint($bp-medium, $no-query: '.no-mq') {
             padding: 0;
+            margin: 1rem auto 2rem auto;
+            width: 656px;
         }
         // @include breakpoint($bp-large, $no-query: '.no-mq') {
         //     margin: 0;

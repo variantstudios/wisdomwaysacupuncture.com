@@ -1,7 +1,13 @@
 body.front .footer-wrapper-top,
 body.not-front .footer-wrapper-top {
-    background-color: #424448;
+    background-color: #55090B;
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        background-image: url(/assets/images/red-footer-logo.svg);
+        background-position: 10px center;
+        background-repeat: no-repeat;
+    }
     color: #fff;
+    padding: 1rem 0;
     .subpage {
         background: none;
         margin: 0 auto;
@@ -14,23 +20,30 @@ body.not-front .footer-wrapper-top {
             //padding-bottom: 2rem;
         }
     }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #fff;
+        margin-bottom: .2rem;
+    }
     .footer-inner {
         margin: 1rem auto;
-        span {
+        a {
             color: #fff;
-            a {
-                color: #fff;
-            }
         }
         .left {
             font-size: .8rem;
             @include breakpoint($bp-medium, $no-query: ".no-mq") {
-                @include grid-span(6, 1, $gutter: 0);
+                @include grid-span(3, 3, $gutter: 0);
                 text-align: left;
             }
             text-align: center;
         }
         .right {
+            font-size: .8rem;
             margin-top: .5rem;
             a img {
                 transform: scale(.7);
@@ -38,12 +51,12 @@ body.not-front .footer-wrapper-top {
             @include breakpoint($bp-medium, $no-query: ".no-mq") {
                 @include grid-span(6, 7, $gutter: 0);
                 margin-top: 0;
-                text-align: right;
+                //text-align: right;
                 a img {
                     transform: scale(1);
                 }
             }
-            text-align: center;
+            text-align: left;
         }
     }
     .lb {
@@ -53,7 +66,7 @@ body.not-front .footer-wrapper-top {
 
 body.front .footer-wrapper-bottom,
 body.not-front .footer-wrapper-bottom {
-    background-color: #232426;
+    background-color: #780D10;
     text-align: center;
     .subpage {
         background: none;
