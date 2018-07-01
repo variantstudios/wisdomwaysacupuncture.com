@@ -117,7 +117,7 @@
             }
             @include breakpoint($bp-large, $no-query: '.no-mq') {
                 display: inline-block;
-                padding: .75em .6em;
+                padding: .75em .75em;
             }
             // @include breakpoint(1200px, $no-query: '.no-mq') {
             //     padding: .75em 1em;
@@ -128,8 +128,8 @@
                 padding: 0;
                 display: block;
                 color: #000;
-                text-transform: uppercase;
-                font-weight: 700;
+                //text-transform: uppercase;
+                //font-weight: 700;
                 &:hover {
                     color: $color-two;
                 }
@@ -137,7 +137,7 @@
                     position: relative;
                 }
                 @include breakpoint($bp-medium, $no-query: '.no-mq') {
-                    font-size: .9rem;
+                    font-size: 1.4rem;
                 }
                 // @include breakpoint($bp-large, $no-query: '.no-mq') {
                 //     font-size: .9rem;
@@ -163,7 +163,7 @@
                     position: absolute;
                     visibility: hidden;
                     opacity: 0;
-                    width: 300px;
+                    width: 280px;
                     text-align: right;
                     background: $color-one;
                     margin-top: 1px;
@@ -176,8 +176,8 @@
                         display: block;
                         a {
                             color: #fff;
-                            font-weight: 400;
-                            font-size: .8rem;
+                            //font-weight: 400;
+                            font-size: 1rem;
                             &:hover {
                                 color: $color-two;
                             }
