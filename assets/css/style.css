@@ -1560,9 +1560,6 @@ form .align-right {
   text-align: right;
 }
 
-body.front {
-  /* revolver Slider container */
-}
 body.front .front-hero {
   background: #f4f4f4;
 }
@@ -1571,30 +1568,17 @@ body.front .front-hero .front-hero-wrapper {
   margin: 0 auto;
   position: relative;
 }
-body.front .front-hero .front-hero-wrapper .slide::after {
-  display: block;
-  position: relative;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), to(#000000));
-  background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #000000 100%);
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #000000 100%);
-  margin-top: -200px;
-  height: 200px;
-  margin-left: auto;
-  margin-right: auto;
-  content: '';
-}
-body.front .front-hero .front-hero-wrapper .slide {
-  position: relative;
-}
 body.front .front-hero .front-hero-wrapper img {
   display: block;
   width: 100%;
 }
 body.front .front-hero .front-hero-wrapper h3 {
   font-family: "Forum", Helvetica, Arial, sans-serif;
-  position: absolute;
-  bottom: 1.5rem;
-  left: 2rem;
+  width: 100%;
+  background: #461515;
+  position: relative;
+  width: 100%;
+  text-align: center;
   font-size: 1.5rem;
   color: #fff;
   z-index: 1;
@@ -1602,11 +1586,24 @@ body.front .front-hero .front-hero-wrapper h3 {
 }
 @media (min-width: 50em) {
   body.front .front-hero .front-hero-wrapper h3 {
+    background: none;
+    position: absolute;
     font-size: 2.6rem;
+    width: 45%;
+    left: 2rem;
+    top: 1.5rem;
   }
 }
 .no-mq body.front .front-hero .front-hero-wrapper h3 {
+  background: none;
+  position: absolute;
   font-size: 2.6rem;
+  width: 45%;
+  left: 2rem;
+  top: 1.5rem;
+}
+body.front .content-bg .subpage {
+  margin: 0 auto 2rem auto;
 }
 body.front #site-header {
   background-repeat: no-repeat;
@@ -1645,178 +1642,6 @@ body.front #site-header {
 }
 .no-mq body.front #site-header {
   min-height: 660px;
-}
-body.front h3.procedures-list-title {
-  text-align: center;
-  color: #7F8337;
-  margin-top: 0;
-}
-body.front ul.procedures-list {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
-  -ms-flex-line-pack: center;
-      align-content: center;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-flow: row wrap;
-          flex-flow: row wrap;
-  padding: 0;
-}
-body.front ul.procedures-list li {
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  margin: .8rem .5rem;
-  width: 100%;
-  padding: 0;
-  padding: .5rem;
-  display: block;
-  background: #313234;
-  border-radius: 3px;
-  text-align: center;
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-  -webkit-transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  position: relative;
-}
-@media (min-width: 50em) {
-  body.front ul.procedures-list li {
-    min-width: 325px;
-    padding: 0;
-  }
-}
-.no-mq body.front ul.procedures-list li {
-  min-width: 325px;
-  padding: 0;
-}
-body.front ul.procedures-list li:hover {
-  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-          box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-  top: -2px;
-}
-body.front ul.procedures-list li:hover a {
-  color: #7F8337;
-}
-body.front ul.procedures-list li a {
-  -webkit-transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  color: #fff;
-  text-decoration: none;
-  font-size: 1.3rem;
-  font-weight: 700;
-  display: block;
-  padding: .5rem 0;
-}
-body.front ul.calls-to-action {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
-  -ms-flex-line-pack: center;
-      align-content: center;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-flow: row wrap;
-          flex-flow: row wrap;
-  padding: 0;
-}
-body.front ul.calls-to-action li {
-  text-align: center;
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  padding: .5rem 0;
-  margin: 0 0 1rem 0;
-  display: block;
-}
-body.front .revolver {
-  display: none;
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-}
-body.front .rv-buttons {
-  display: none;
-}
-body.front .revolver .rv-wrapper {
-  display: none;
-  position: relative;
-}
-body.front .revolver .rv-wrapper:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  line-height: 0;
-  height: 0;
-}
-body.front .revolver .rv-item {
-  float: left;
-}
-body.front .revolver .rv-wrapper,
-body.front .revolver .rv-item {
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility: hidden;
-  -ms-backface-visibility: hidden;
-}
-body.front .revolver .rv-page {
-  cursor: pointer;
-}
-body.front .revolver .grabbing {
-  cursor: pointer;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
-  user-select: none;
-}
-body.front .revolver .rv-controls {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
-  user-select: none;
-  -webkit-tap-highlight-color: transparent;
-  text-align: center;
-  padding: 0;
-}
-body.front .revolver .rv-controls .rv-page {
-  width: 12px;
-  height: 12px;
-  background: #313234;
-  -webkit-transition: background 300ms;
-  transition: background 300ms;
-  display: -moz-inline-box;
-  display: inline-block;
-  vertical-align: middle;
-  *vertical-align: auto;
-}
-body.front .revolver .rv-controls .rv-page {
-  *display: inline;
-}
-body.front .revolver .rv-controls .rv-page:first-child {
-  border-top-left-radius: 4px;
-  border-bottom-left-radius: 4px;
-}
-body.front .revolver .rv-controls .rv-page:last-child {
-  border-top-right-radius: 4px;
-  border-bottom-right-radius: 4px;
-}
-body.front .revolver .rv-controls .rv-page.active {
-  background: #7F8337;
-}
-body.front .revolver .rv-controls.clickable .rv-page:hover {
-  position: relative;
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-  z-index: 1;
 }
 
 .center-container {
