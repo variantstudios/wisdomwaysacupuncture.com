@@ -104,8 +104,8 @@ _options:
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
 
-# Cloudinary
-# cloudinaryurl: 'https://res.cloudinary.com/grow-your-storage/'
+#Cloudinary
+cloudinaryurl: 'https://res.cloudinary.com/wisdomways/'
 
 # Typekit
 # typekit: "dan8xfd"

@@ -1,0 +1,43 @@
+.testimonial {
+    background: #f7f7f7;
+    border-radius: 15px;
+    padding: 1.5rem 2rem .5rem 2rem;
+    position: relative;
+    margin: 1.5rem 0 1rem 0;
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        padding: 2rem 2rem .5rem 4rem;
+        margin: 3rem 0 2rem 0;
+        &:after {
+            content: '“';
+            position: absolute;
+            top: -10px;
+            left: 15px;
+            font-size: 8rem;
+            color: #dadada;
+        }
+    }
+    .icon-quote {
+        position: absolute;
+        bottom: -12px;
+        left: 45px;
+        display: block;
+        border-color: transparent;
+        border-top-color: #f7f7f7;
+        border-style: solid;
+        border-width: 12px 12px 0;
+        width: 0;
+        height: 0;
+        line-height: 0;
+    }
+}
+
+span.author {
+    font-weight: 700;
+    top: -5px;
+    left: 40px;
+    position: relative;
+    font-size: 1.2rem;
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        top: -20px;
+    }
+}

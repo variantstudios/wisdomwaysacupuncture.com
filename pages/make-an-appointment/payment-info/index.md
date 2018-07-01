@@ -5,7 +5,7 @@ search_engine_optimization:
   page_description:
   share_image_path:
 layout: page
-permalink: "/make-appointment/payment-info/"
+permalink: "/make-an-appointment/payment-info/"
 ---
 
 # WisdomWays Acupuncture Payment Info

@@ -34,10 +34,10 @@
   url: /blog/
 - text: Testimonials
   url: /testimonials/
-- text: Make Appointment
-  url: /make-appointment/
+- text: Make an Appointment
+  url: /make-an-appointment/
   subitems: 
     - text: Forms to Complete
-      url: /make-appointment/forms-to-complete/
+      url: /make-an-appointment/forms-to-complete/
     - text: Payment Info
-      url: /make-appointment/payment-info/
+      url: /make-an-appointment/payment-info/
