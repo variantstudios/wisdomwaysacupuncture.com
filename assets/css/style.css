@@ -2006,6 +2006,9 @@ body.front .popular-blog-topics-wrapper ul li h4 {
   padding: 0;
 }
 
+body.not-front .content-bg .subpage {
+  max-width: 940px;
+}
 body.not-front .subpage-header {
   background-position: center center;
   background-size: cover;
