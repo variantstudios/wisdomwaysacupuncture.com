@@ -129,12 +129,27 @@ body.front {
             margin: 0;
             li {
                 text-align: center;
-                width: 45%;
+                width: 100%;
                 //margin: 0 1rem;
                 display: block;
                 padding: 1rem;
                 img {
-                    border-radius: 50%;
+                    display: block;
+                }
+                h4 {
+                    display: block;
+                    background: #5C0A0C;
+                    color: #fff;
+                    font-size: 1.1rem;
+                    margin: 0;
+                    padding: .4rem 0;
+                }
+            }
+        }
+        @include breakpoint($bp-small, $no-query: '.no-mq') {
+            ul {
+                li {
+                    width: 49%
                 }
             }
         }

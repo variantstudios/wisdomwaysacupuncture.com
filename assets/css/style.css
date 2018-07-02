@@ -1719,12 +1719,28 @@ body.front .popular-blog-topics-wrapper ul {
 }
 body.front .popular-blog-topics-wrapper ul li {
   text-align: center;
-  width: 45%;
+  width: 100%;
   display: block;
   padding: 1rem;
 }
 body.front .popular-blog-topics-wrapper ul li img {
-  border-radius: 50%;
+  display: block;
+}
+body.front .popular-blog-topics-wrapper ul li h4 {
+  display: block;
+  background: #5C0A0C;
+  color: #fff;
+  font-size: 1.1rem;
+  margin: 0;
+  padding: .4rem 0;
+}
+@media (min-width: 37.5em) {
+  body.front .popular-blog-topics-wrapper ul li {
+    width: 49%;
+  }
+}
+.no-mq body.front .popular-blog-topics-wrapper ul li {
+  width: 49%;
 }
 @media (min-width: 50em) {
   body.front .popular-blog-topics-wrapper ul li {
