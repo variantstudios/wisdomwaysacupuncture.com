@@ -74,6 +74,46 @@ body.front {
             min-height: 660px;
         }
     }
+    .areas-of-specialties-wrapper {
+        .subpage {
+            margin: 1rem auto 1rem auto;
+        }
+        background-color: $color-three;
+        a {
+            text-decoration: none;
+        }
+        ul {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 0;
+            margin: 0;
+            li {
+                text-align: center;
+                width: 45%;
+                //margin: 0 1rem;
+                display: block;
+                padding: 1rem;
+                img {
+                    border-radius: 50%;
+                }
+            }
+        }
+        @include breakpoint($bp-medium, $no-query: '.no-mq') {
+            ul {
+                li {
+                    width: 32%
+                }
+            }
+        }
+        @include breakpoint($bp-large, $no-query: '.no-mq') {
+            ul {
+                li {
+                    width: 20%;
+                }
+            }
+        }
+    }
 }
 
 .center-container {

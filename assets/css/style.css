@@ -831,21 +831,6 @@ body.front .footer-wrapper-top,
 body.not-front .footer-wrapper-top {
   background-color: #55090B;
   color: #fff;
-  padding: 1rem 0;
-}
-@media (min-width: 50em) {
-  body.front .footer-wrapper-top,
-  body.not-front .footer-wrapper-top {
-    background-image: url(/assets/images/red-footer-logo.svg);
-    background-position: 10px center;
-    background-repeat: no-repeat;
-  }
-}
-.no-mq body.front .footer-wrapper-top, .no-mq
-body.not-front .footer-wrapper-top {
-  background-image: url(/assets/images/red-footer-logo.svg);
-  background-position: 10px center;
-  background-repeat: no-repeat;
 }
 body.front .footer-wrapper-top .subpage,
 body.not-front .footer-wrapper-top .subpage {
@@ -853,6 +838,22 @@ body.not-front .footer-wrapper-top .subpage {
   margin: 0 auto;
   padding-top: 0;
   padding-bottom: 0;
+}
+@media (min-width: 50em) {
+  body.front .footer-wrapper-top .subpage,
+  body.not-front .footer-wrapper-top .subpage {
+    background-image: url(/assets/images/red-footer-logo.svg);
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+.no-mq body.front .footer-wrapper-top .subpage, .no-mq
+body.not-front .footer-wrapper-top .subpage {
+  background-image: url(/assets/images/red-footer-logo.svg);
+  background-position: 10px center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 body.front .footer-wrapper-top .footer-inner.clearfix.container-padding-medium,
 body.not-front .footer-wrapper-top .footer-inner.clearfix.container-padding-medium {
@@ -1651,6 +1652,52 @@ body.front #site-header {
 }
 .no-mq body.front #site-header {
   min-height: 660px;
+}
+body.front .areas-of-specialties-wrapper {
+  background-color: #DDDEC0;
+}
+body.front .areas-of-specialties-wrapper .subpage {
+  margin: 1rem auto 1rem auto;
+}
+body.front .areas-of-specialties-wrapper a {
+  text-decoration: none;
+}
+body.front .areas-of-specialties-wrapper ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+body.front .areas-of-specialties-wrapper ul li {
+  text-align: center;
+  width: 45%;
+  display: block;
+  padding: 1rem;
+}
+body.front .areas-of-specialties-wrapper ul li img {
+  border-radius: 50%;
+}
+@media (min-width: 50em) {
+  body.front .areas-of-specialties-wrapper ul li {
+    width: 32%;
+  }
+}
+.no-mq body.front .areas-of-specialties-wrapper ul li {
+  width: 32%;
+}
+@media (min-width: 62.5em) {
+  body.front .areas-of-specialties-wrapper ul li {
+    width: 20%;
+  }
+}
+.no-mq body.front .areas-of-specialties-wrapper ul li {
+  width: 20%;
 }
 
 .center-container {

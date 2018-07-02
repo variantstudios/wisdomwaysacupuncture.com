@@ -1,18 +1,21 @@
 body.front .footer-wrapper-top,
 body.not-front .footer-wrapper-top {
     background-color: #55090B;
-    @include breakpoint($bp-medium, $no-query: ".no-mq") {
-        background-image: url(/assets/images/red-footer-logo.svg);
-        background-position: 10px center;
-        background-repeat: no-repeat;
-    }
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {}
     color: #fff;
-    padding: 1rem 0;
+    //padding: 1rem 0;
     .subpage {
         background: none;
         margin: 0 auto;
         padding-top: 0;
         padding-bottom: 0;
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            //padding-bottom: 2rem;
+            background-image: url(/assets/images/red-footer-logo.svg);
+            background-position: 10px center;
+            background-repeat: no-repeat;
+            background-size: contain;
+        }
     }
     .footer-inner.clearfix.container-padding-medium {
         padding-bottom: 0;
