@@ -31,6 +31,9 @@ compress_html:
 
 #Collections
 collections:
+  categories:
+    output: true
+    permalink: '/blog/category/:title/'
   conditions:
     output: true
     permalink: '/conditions-treated/:title/'
@@ -65,7 +68,15 @@ defaults:
       class: blog
       pagination: 
         enabled: true
-  
+  -
+    scope:
+      type: categories
+    values:
+      layout: category
+      class: blog
+      pagination: 
+        enabled: true
+        
 # Cloudcannon Options
 _options:
   some_markdown:
