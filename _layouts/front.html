@@ -9,9 +9,7 @@ layout: default
             {{site.cloudinaryurl}}image/fetch/w_600,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 600w,
             {{site.cloudinaryurl}}image/fetch/w_800,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 800w,
             {{site.cloudinaryurl}}image/fetch/w_1000,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 1000w,
-            {{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 1200w"
-            src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" 
-            alt="{{page.front_hero.title}}">
+            {{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 1200w" src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" alt="{{page.front_hero.title}}">
 
             <h3>{{page.front_hero.title}}</h3>
         </div>
@@ -23,7 +21,7 @@ layout: default
             <h3>Specializing in Acupuncture for Women's Health &amp; Chronic Ailments</h3>
         </div>
         <div class="left">
-                {{content}}
+            {{content}}
         </div>
         <div class="right">
             <div class="video videoWrapper">
@@ -32,8 +30,33 @@ layout: default
             <p>
                 <a class="call-to-action" href="{{page.call_to_action_button.link_url}}">{{page.call_to_action_button.text}}</a>
             </p>
-            
+
         </div>
-        
+    </div>
+   <div class="areas-of-specialties-wrapper clearfix">
+    <div class="subpage">
+            <div class="header editable">
+                <h3>Areas of Specialties</h3>
+                <p>Click the Conditions Treated link above for more specialties. </p>
+            </div>
+            <ul>
+                {% assign sorted_conditions = site.conditions | sort:"areas_of_specialties.selected_order"  %}
+                {% for specialty in sorted_conditions %}
+                {% if specialty.areas_of_specialties.selected == true %}
+                <li>
+                    <a href="{{specialty.url}}">
+                       <img src="{{site.cloudinaryurl}}image/fetch/w_85,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image_url}}" 
+                        srcset="{{site.cloudinaryurl}}image/fetch/w_120,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image_url}} 400w,
+                        {{site.cloudinaryurl}}image/fetch/w_165,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image_url}} 500w, 
+                        {{site.cloudinaryurl}}image/fetch/w_210,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image_url}} 600w, 
+                        {{site.cloudinaryurl}}image/fetch/w_205,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image_url}} 800w" 
+                        alt="{{specialty.areas_of_specialties.selected_title}}">
+                        <h4>{{specialty.areas_of_specialties.selected_title}}</h4>
+                    </a>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+    </div>
     </div>
 </div>
