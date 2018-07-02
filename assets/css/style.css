@@ -1699,6 +1699,49 @@ body.front .areas-of-specialties-wrapper ul li img {
 .no-mq body.front .areas-of-specialties-wrapper ul li {
   width: 20%;
 }
+body.front .popular-blog-topics-wrapper .subpage {
+  margin: 1rem auto 1rem auto;
+}
+body.front .popular-blog-topics-wrapper a {
+  text-decoration: none;
+}
+body.front .popular-blog-topics-wrapper ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+body.front .popular-blog-topics-wrapper ul li {
+  text-align: center;
+  width: 45%;
+  display: block;
+  padding: 1rem;
+}
+body.front .popular-blog-topics-wrapper ul li img {
+  border-radius: 50%;
+}
+@media (min-width: 50em) {
+  body.front .popular-blog-topics-wrapper ul li {
+    width: 32%;
+  }
+}
+.no-mq body.front .popular-blog-topics-wrapper ul li {
+  width: 32%;
+}
+@media (min-width: 62.5em) {
+  body.front .popular-blog-topics-wrapper ul li {
+    width: 20%;
+  }
+}
+.no-mq body.front .popular-blog-topics-wrapper ul li {
+  width: 20%;
+}
 
 .center-container {
   margin: 0 auto;

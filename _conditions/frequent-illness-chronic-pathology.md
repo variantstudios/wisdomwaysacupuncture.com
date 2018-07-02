@@ -3,7 +3,7 @@ title: 'Frequent Illness, Chronic Pathology'
 areas_of_specialties:
   selected: false
   selected_title: 
-  selected_image_url:
+  selected_image:
   selected_order:
 search_engine_optimization:
   page_title:
