@@ -33,7 +33,28 @@ body.front {
         }
     }
     .content-bg .subpage {
-        margin: 0 auto 2rem auto;
+        margin: 2rem auto 2rem auto;
+        padding: 0 1.5rem;
+        @include breakpoint($bp-xlarge, $no-query: ".no-mq") {
+            padding: 0;
+        }
+        .top {
+            margin: 0 0 2rem 0;
+            text-align: center;
+        }
+        .left {
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                @include grid-span(7, 1, $gutter: .5);
+            }
+        }
+        .right {
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                @include grid-span(5, 8, $gutter: .5);
+            }
+            a.call-to-action {
+                width: 100%;
+            }
+        }
     }
     #site-header {
         background-repeat: no-repeat;
