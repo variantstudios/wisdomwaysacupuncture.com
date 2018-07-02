@@ -3,6 +3,17 @@
   subitems: 
     - text: "Women's Health"
       url: /conditions-treated/womens-health/
+      subitems:
+        - text: "Menstrual Problems"
+          ulr: "#"
+        - text: "Fertility"
+          ulr: "#"
+        - text: "Hormone Imbalance"
+          ulr: "#"
+        - text: "Menopause"
+          ulr: "#"
+        - text: "Gynecology"
+          ulr: "#
     - text: "Headaches/Migraines"
       url: /conditions-treated/headaches-migraines/
     - text: Digestion
