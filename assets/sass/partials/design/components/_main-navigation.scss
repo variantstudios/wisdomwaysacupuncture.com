@@ -153,7 +153,7 @@
             // DropDown Menu
             ul {
                 z-index: 4;
-                padding: 0 0 0 1.5em;
+                padding: 0 0 0 0;
                 opacity: 1;
                 visibility: visible;
                 @include breakpoint($bp-medium, $no-query: '.no-mq') {
@@ -163,7 +163,7 @@
                     position: absolute;
                     visibility: hidden;
                     opacity: 0;
-                    width: 280px;
+                    width: 290px;
                     text-align: right;
                     background: $color-one;
                     margin-top: 1px;
@@ -172,7 +172,7 @@
                     border-radius: 0 0 3px 3px;
                     li {
                         margin: 0;
-                        padding: .3em .6em;
+                        padding: .3em .6em .3em .6em;
                         display: block;
                         a {
                             color: #fff;
@@ -181,6 +181,22 @@
                             &:hover {
                                 color: $color-two;
                             }
+                        }
+                        &:hover ul.menu {
+                            @include breakpoint($bp-medium, $no-query: '.no-mq') {
+                                opacity: 1;
+                                visibility: visible;
+                            }
+                        }
+                        ul.menu {
+                            position: absolute;
+                            width: 250px;
+                            right: -251px;
+                            top: -8px;
+                            opacity: 0;
+                            visibility: hidden;
+                            transition: ease-out 0.35s;
+                            text-align: left;
                         }
                     }
                 }
@@ -191,4 +207,9 @@
             text-decoration: none;
         }
     }
+}
+
+.menu>li ul li a:first-child:nth-last-child(2) {
+    background: url('/assets/images/icons/right-arrow.svg') right center no-repeat;
+    padding: 0 15px 0 0;
 }
