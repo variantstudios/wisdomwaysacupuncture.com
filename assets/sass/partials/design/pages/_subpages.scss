@@ -1,4 +1,37 @@
 body.not-front {
+    .front-hero {
+        background: #f4f4f4;
+        .front-hero-wrapper {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+            img {
+                display: block;
+                //height: 450px;
+                width: 100%;
+            }
+            h3 {
+                font-family: $font-secondary;
+                width: 100%;
+                background: #461515;
+                position: relative;
+                width: 100%;
+                text-align: center;
+                font-size: 1.5rem;
+                color: #fff;
+                z-index: 1;
+                margin: 0;
+                @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                    background: none;
+                    position: absolute;
+                    font-size: 2.6rem;
+                    width: 45%;
+                    left: 2rem;
+                    top: 2rem;
+                }
+            }
+        }
+    }
     .content-bg .subpage {
         max-width: 940px;
     }
