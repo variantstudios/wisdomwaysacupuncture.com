@@ -1,19 +1,27 @@
 --- 
 layout: default 
 ---
+{% if page.hero_image %}
+<div class="front-hero clearfix">
+    <div class="front-hero-wrapper clearfix">
+        <div class="slide">
+            <img sizes="(max-width: 1200px) 100vw, 1200px" srcset="
+            {{site.cloudinaryurl}}image/fetch/w_400,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image }} 400w,
+            {{site.cloudinaryurl}}image/fetch/w_600,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image }} 600w,
+            {{site.cloudinaryurl}}image/fetch/w_800,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image }} 800w,
+            {{site.cloudinaryurl}}image/fetch/w_1000,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image }} 1000w,
+            {{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image }} 1200w" src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image }}" alt="{{page.title}}">
+        </div>
+    </div>
+</div>
+{% endif %}
 <div class="content-bg clearfix">
-  <div class="subpage clearfix">
-    <div class="content">
-      {{ content }}
+    <div class="subpage clearfix">
+        <div class="content">
+            {{ content }}
+        </div>
+        <div class="content">
+            {% if page.permalink == "/contact/" %} {% include contact-form.html %} {% elsif page.permalink == "/testimonials/" %} {% include testimonials.html %} {% elsif page.permalink == "/search/" %} {% include google-search.html %} {% endif %}
+        </div>
     </div>
-    <div class="content">
-        {% if page.permalink == "/contact/" %} 
-        {% include contact-form.html %} 
-        {% elsif page.permalink == "/testimonials/" %}
-        {% include testimonials.html %} 
-        {% elsif page.permalink == "/search/" %}
-        {% include google-search.html %} 
-        {% endif %} 
-    </div>
-  </div>
 </div>
