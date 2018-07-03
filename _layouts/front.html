@@ -4,14 +4,16 @@ layout: default
 <div class="front-hero clearfix">
     <div class="front-hero-wrapper clearfix">
         <div class="slide">
-            <img sizes="(max-width: 1200px) 100vw, 1200px" srcset="
-            {{site.cloudinaryurl}}image/fetch/w_400,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 400w,
-            {{site.cloudinaryurl}}image/fetch/w_600,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 600w,
-            {{site.cloudinaryurl}}image/fetch/w_800,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 800w,
-            {{site.cloudinaryurl}}image/fetch/w_1000,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 1000w,
-            {{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }} 1200w" 
-            src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" alt="{{page.front_hero.title}}">
-
+            <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_400,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" media="(max-width: 400px)">
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_600,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" media="(max-width: 600px)">
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_800,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" media="(max-width: 800px)">
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_1000,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" media="(max-width: 1000px)">
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" media="(min-width: 1200px)">
+                <!--[if IE 9]></video><![endif]-->
+                <img src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.front_hero.image }}" alt="{{page.front_hero.title}}">
+            </picture>
             <h3>{{page.front_hero.title}}</h3>
         </div>
     </div>
@@ -93,25 +95,3 @@ layout: default
         </div>
     </div>
 </div>
-
-
-{% comment %} 
-
- <img sizes="(min-width: 40em) 80vw, 100vw"
-                        srcset="{{site.cloudinaryurl}}image/fetch/w_550,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}} 375w,
-                        {{site.cloudinaryurl}}image/fetch/w_250,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}} 768w"
-                             src="{{site.cloudinaryurl}}image/fetch/w_550,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}}"
-                             alt="{{popular.popular_blog_topics.popular_title}}">
-<picture>
-  <!--[if IE 9]><video style="display: none;"><![endif]-->
-  <source srcset="examples/images/extralarge.jpg" media="(min-width: 1000px)">
-  <source srcset="examples/images/large.jpg" media="(min-width: 800px)">
-  <!--[if IE 9]></video><![endif]-->
-  <img alt="…">
-</picture>
-
-
-<img src="swing-400.jpg" 
-sizes="(max-width: 30em) 100vw, (max-width: 50em) 50vw, calc(33vw - 100px)" 
-srcset="swing-200.jpg 200w, swing-400.jpg 400w, swing-800.jpg 800w, swing-1600.jpg 1600w" 
-alt="Kettlebell Swing" /> {% endcomment %}
