@@ -1,0 +1,42 @@
+--- 
+layout: page 
+---
+
+    <section class="blog-post">
+        <p><a href="/blog/"> < Back to all blogs</a></p>
+
+        <h1>{{page.title}}</h1>
+        <p>posted {{ page.date | date: "%a, %b %d, %Y" }}</p>
+
+        {% if page.categories %}
+            <p class="category-label">Categories: 
+            {% for cat in page.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a>
+            {% endfor %} 
+            </p>
+        {% endif %}
+
+        <div>{{ content }}</div>
+        
+        {% if page.iframe.url %}
+        <div id="iframe">
+            <h3>{{page.iframe.title}}</h3>
+            <iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
+        </div>
+        {% endif %}
+
+        <nav class="pagination" role="navigation">
+        <ul class="pager">
+            {% if page.previous.url %}
+            <li class="previous left">
+                <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.title | truncate: 50 }}</a> {% endif %} {% if page.next.url %}
+            </li>{% endif %} {% if page.next.url %}
+            <li class="next right">
+                <a class="next" href="{{page.next.url}}">{{ page.next.title | truncate: 50 }} &raquo;</a>
+            </li>
+        </ul>
+        {% endif %}
+        </ul>
+    </nav>
+
+    </section>
+</div>

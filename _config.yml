@@ -14,6 +14,10 @@ uploads_dir: "assets/images"
 plugins:
   - jekyll-sitemap # Simple jekyll plugin that creates a sitemap.xml file and you can exclude files by adding 'sitemap:false' to the frontmatter of any file(s).
   - jekyll-include-cache # Cache jekyll includes to improve build times
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # Permalinks
 permalink: pretty
@@ -31,6 +35,9 @@ compress_html:
 
 #Collections
 collections:
+  posts:
+    output: true
+    permalink: '/blog/:title/'
   categories:
     output: true
     permalink: '/blog/category/:title/'
@@ -42,6 +49,15 @@ collections:
     permalink: '/services-offered/:title/'
 
 defaults:
+  -
+    scope:
+      type: posts
+    values:
+      layout: post
+      class: single post
+      _options:
+        image_path: # Front matter field
+          uploads_dir: "assets/images/posts/"  
   -
     scope:
       type: conditions
