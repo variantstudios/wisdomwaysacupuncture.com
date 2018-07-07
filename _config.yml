@@ -83,14 +83,12 @@ defaults:
     scope:
       type: categories
     values:
-      title:
       layout: category
       class: blog
   -
     scope:
       type: tags
     values:
-      title:
       layout: tags
       class: blog
         
