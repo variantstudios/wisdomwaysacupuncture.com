@@ -18,6 +18,7 @@ thesis_thumb_height:
   - "66"
 categories:
   - My Approach/Philosophy and Stories
+tags:
 ---
 Some years ago, something &#8220;horrible&#8221; happened in the life of myself and my Significant Other (SO): his eyes one day got wonky, and long story short when he went to the doctor that week for an elbow injury and mentioned his eye symptoms, the doctor immediately walked out of the room, made a phone call, and within 2 minutes my SO was on his way to a specialist. Within hours, we found ourselves in the hospital radiology department after two brain MRIs with a diagnosis of Multiple Sclerosis (MS).
 
