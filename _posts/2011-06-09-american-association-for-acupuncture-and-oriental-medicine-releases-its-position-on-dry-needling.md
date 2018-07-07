@@ -5,7 +5,7 @@ date: 2011-06-09T13:46:54+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1074
-permalink: /2011/06/09/american-association-for-acupuncture-and-oriental-medicine-releases-its-position-on-dry-needling/
+
 thesis_title:
   - Professional Acupuncture Association Releases its position paper on Dry Needling
 thesis_description:

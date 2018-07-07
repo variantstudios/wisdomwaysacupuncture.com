@@ -5,7 +5,7 @@ date: 2018-03-15T11:21:45+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=3639
-permalink: /2018/03/15/clinical-success-stories-two-fertility-patients-far-end-of-extremes-in-severity-of-problem-duration-of-treatment/
+
 thesis_title:
   - 'Clinic Success Stories: Two Fertility Patients, Two Treatment Paths'
 thesis_description:

@@ -5,7 +5,7 @@ date: 2013-04-02T10:37:25+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1484
-permalink: /2013/04/02/ucsf-study-acupuncture-for-pain-as-effective-as-morphine/
+
 thesis_title:
   - 'UCSF study: Acupuncture for Pain as Effective as Morphine'
 thesis_description:

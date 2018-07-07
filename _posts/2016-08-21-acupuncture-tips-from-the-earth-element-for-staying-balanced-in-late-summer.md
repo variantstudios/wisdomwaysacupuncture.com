@@ -5,7 +5,7 @@ date: 2016-08-21T16:50:57+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1628
-permalink: /2016/08/21/acupuncture-tips-from-the-earth-element-for-staying-balanced-in-late-summer/
+
 thesis_description:
   - 'This time of year, recognized by Acupuncturists as "Late Summer", is associated with the Earth Element, and the organs of digestion.  It relates to taking in nourishment and distributing the resources so that the entire self, including body and spirit, are nourished. This article will give tips from an acupuncture perspective on what you can do to stay balanced as the season unfolds. '
 thesis_keywords:

@@ -5,7 +5,7 @@ date: 2014-02-14T15:39:28+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1923
-permalink: /2014/02/14/cellular-changes-meditation-matters-keeping-liver-happy/
+
 thesis_title:
   - Why Meditation is as Important as Acupuncture for Decreasing Stress
 thesis_description:

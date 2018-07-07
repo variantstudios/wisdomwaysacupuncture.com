@@ -5,7 +5,7 @@ date: 2017-12-29T10:00:27+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1210
-permalink: /2017/12/29/is-your-jing-depleted/
+
 thesis_title:
   - 'Acupuncture and Your Jing: Is Your Jing Depleted?'
 thesis_description:

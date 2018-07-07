@@ -5,7 +5,7 @@ date: 2014-03-11T09:56:07+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1988
-permalink: /2014/03/11/paleo-bread/
+
 thesis_title:
   - A Paleo approved grain-free sugar free veggie full "Paleo Bread" loaf!
 thesis_description:

@@ -5,7 +5,7 @@ date: 2015-03-30T09:03:43+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1882
-permalink: /2015/03/30/do-you-feel-the-wood-energy-rising-already-tips-for-staying-sane-as-we-switch-from-winter-to-spring/
+
 thesis_title:
   - Tips for Staying Sane as we Move from Winter to Spring/Wood Element Time
 thesis_description:

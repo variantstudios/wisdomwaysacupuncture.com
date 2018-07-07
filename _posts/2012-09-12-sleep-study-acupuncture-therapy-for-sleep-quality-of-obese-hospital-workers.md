@@ -5,7 +5,7 @@ date: 2012-09-12T12:04:56+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1335
-permalink: /2012/09/12/sleep-study-acupuncture-therapy-for-sleep-quality-of-obese-hospital-workers/
+
 thesis_title:
   - 'Sleep Study: Acupuncture Therapy for Sleep Quality'
 thesis_description:

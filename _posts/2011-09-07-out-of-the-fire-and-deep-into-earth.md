@@ -5,7 +5,7 @@ date: 2011-09-07T09:35:53+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1143
-permalink: /2011/09/07/out-of-the-fire-and-deep-into-earth/
+
 thesis_title:
   - "Summer's over, we're in Earth Element Season of Acupuncture Theory: Use Earth's Bounty to Build Up Your Qi"
 thesis_description:

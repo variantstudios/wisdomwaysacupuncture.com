@@ -5,7 +5,7 @@ date: 2014-02-19T15:07:29+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=3736
-permalink: /2014/02/19/success-stories-from-the-acupuncture-clinic-migraines-of-the-most-difficult-type-to-treat/
+
 thesis_title:
   - 'Success Stories from the Acupuncture Clinic: Very Difficult Migraines'
 thesis_description:

@@ -5,7 +5,7 @@ date: 2012-05-16T18:38:56+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1295
-permalink: /2012/05/16/chinese-health-insurance-something-to-ponder/
+
 thesis_title:
   - Preventative Care AS Chinese Health Insurance...Somthing Acupuncturists Ponder!
 thesis_description:

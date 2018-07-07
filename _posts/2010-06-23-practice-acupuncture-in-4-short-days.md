@@ -5,7 +5,7 @@ date: 2010-06-23T11:31:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=800
-permalink: /2010/06/23/practice-acupuncture-in-4-short-days/
+
 thesis_title:
   - 'Problems with Medical Acupuncture '
 thesis_description:

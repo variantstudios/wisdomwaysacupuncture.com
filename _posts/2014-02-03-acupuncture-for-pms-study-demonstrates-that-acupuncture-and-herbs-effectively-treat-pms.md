@@ -5,7 +5,7 @@ date: 2014-02-03T10:58:14+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1847
-permalink: /2014/02/03/acupuncture-for-pms-study-demonstrates-that-acupuncture-and-herbs-effectively-treat-pms/
+
 thesis_title:
   - 'Acupuncture for PMS: Good News! Study Reveals Acupuncture and Herbs both Extremely Effective'
 thesis_description:

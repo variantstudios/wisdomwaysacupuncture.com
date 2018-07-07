@@ -5,7 +5,7 @@ date: 2018-06-30T09:26:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=3801
-permalink: /2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic/
+
 thesis_title:
   - |
     What Acupuncturists Mean by "Balance" and How to Know if You're There

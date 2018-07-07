@@ -6,7 +6,7 @@ author: Inger Giffin, L.Ac., Dipl. Ac.
 excerpt: "So a curious thing is happening this season...it seems many people I know, just when they're finally over their last cold and ready to start getting out there and exercising, taking their herbs, etc...are finding themselves sick AGAIN. There go those plans for exercising! And back into the cabinet go those herbs. Soooo frustrating!  While it may be true that these colds can be clues into the ways in which we're not caring for ourselves, I'd like to offer a deeper look that may help you feel a bit more understanding of what may be going on here."
 layout: post
 guid: http://66.147.244.194/~wisdomw1/?p=533
-permalink: /2010/02/10/whos-this-uninvited-guest-who-keeps-making-you-sick/
+
 thesis_title:
   - 'Sick Again! Reasons for Constant Colds, from an Acupuncture Perspective  '
 thesis_description:

@@ -5,7 +5,7 @@ date: 2010-07-21T15:51:58+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=875
-permalink: /2010/07/21/enjoying-the-local-summer-harvest/
+
 thesis_title:
   - What to do with this Local Harvest Bounty? Check out these local resources.
 thesis_description:

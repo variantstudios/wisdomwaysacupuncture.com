@@ -5,7 +5,7 @@ date: 2012-03-21T18:07:50+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1262
-permalink: /2012/03/21/uh-mazing-beet-recipe-for-beet-haters-an-acupuncturists-dream-for-nourishing-your-liver/
+
 thesis_title:
   - "Uh-MAZing Beet Recipe for Beet Haters! An Acupuncturist's Dream for Nourishing your Liver"
 thesis_description:

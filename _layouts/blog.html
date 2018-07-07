@@ -5,11 +5,10 @@ search_engine_optimization:
   share_image_path:
 layout: page 
 ---
-
 <section class="blog-preface">{{ content }}</section>
-{{paginator}}
+
 <section class="blog-wrapper">
-    {% for post in site.posts %}
+    {% for post in pagitator.posts %}
     <div class="blog-item clearfix">
         <div class="left-image">
             {% if post.image_path %}

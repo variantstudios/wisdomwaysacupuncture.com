@@ -5,7 +5,7 @@ date: 2011-03-02T13:21:40+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=999
-permalink: /2011/03/02/its-almost-that-time-of-year-again-are-you-prepared/
+
 thesis_title:
   - "Acupuncturist Question: It's Almost WOOD time of Year Again...are you prepared?"
 thesis_description:

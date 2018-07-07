@@ -5,7 +5,7 @@ date: 2015-02-23T19:03:51+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=2479
-permalink: /2015/02/23/fodmaps-yet-foods-need-avoid/
+
 thesis_title:
   - 'FODMAPs: Yet More Foods We Need to Avoid?...Or Do We?'
 thesis_thumb:

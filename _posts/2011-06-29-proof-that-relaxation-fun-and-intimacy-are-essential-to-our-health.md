@@ -5,7 +5,7 @@ date: 2011-06-29T13:06:12+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1112
-permalink: /2011/06/29/proof-that-relaxation-fun-and-intimacy-are-essential-to-our-health/
+
 thesis_title:
   - 'Acupuncture Clinical Proof: Relaxation, Fun, and Intimacy are Essential to our Health'
 thesis_description:

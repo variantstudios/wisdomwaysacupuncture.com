@@ -5,7 +5,7 @@ date: 2011-03-20T12:21:33+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1010
-permalink: /2011/03/20/want-the-acupuncture-covered-under-your-insurance-plan-to-cover-treatment-by-legitimate-licensed-acupuncturists/
+
 thesis_title:
   - Support your rights to have acupuncture administered by a licensed acupuncturist, covered by insurance.
 thesis_description:

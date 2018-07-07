@@ -5,7 +5,7 @@ date: 2011-05-11T20:10:55+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1066
-permalink: /2011/05/11/that-feeling-when-the-rain-comes-let-the-raindrops-nourish-your-liver/
+
 thesis_title:
   - That Feeling When the Rain Comes...Let the Raindrops Nourish your Liver.
 thesis_description:

@@ -5,7 +5,7 @@ date: 2015-01-07T13:28:29+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1231
-permalink: /2015/01/07/acupuncture-jing-meditation-5-minute-meditation-for-greater-strength-vitality-and-joy/
+
 thesis_title:
   - 'Acupuncture and Your Jing: 5 Minute Meditation for Greater Strength, Vitality, and Joy!'
 thesis_description:

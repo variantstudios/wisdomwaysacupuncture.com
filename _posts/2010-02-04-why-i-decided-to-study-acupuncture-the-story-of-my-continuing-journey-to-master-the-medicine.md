@@ -5,7 +5,6 @@ date: 2010-02-04T14:14:13+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1869
-#permalink: /2010/02/04/why-i-decided-to-study-acupuncture-the-story-of-my-continuing-journey-to-master-the-medicine/
 thesis_title:
   - 'Why I decided to study acupuncture: The story of my continuing journey to master the medicine'
 thesis_description:

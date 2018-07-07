@@ -5,7 +5,7 @@ date: 2012-01-23T16:50:25+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1270
-permalink: /2012/01/23/happy-chinese-new-year-from-your-acupuncturist/
+
 thesis_title:
   - Happy Chinese New Year from your Acupuncturist!
 thesis_description:

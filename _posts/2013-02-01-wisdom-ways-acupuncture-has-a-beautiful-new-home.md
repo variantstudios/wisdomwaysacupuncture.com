@@ -5,7 +5,7 @@ date: 2013-02-01T15:49:21+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1390
-permalink: /2013/02/01/wisdom-ways-acupuncture-has-a-beautiful-new-home/
+
 thesis_title:
   - Wisdom Ways Acupuncture Has Moved to a New Home
 thesis_description:

@@ -5,7 +5,7 @@ date: 2014-01-21T14:45:50+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1797
-permalink: /2014/01/21/acupuncture-paleo-practitioner-hamburger-bun-pancake-recipe-perfectly-balancing-for-cold-winter-months/
+
 thesis_title:
   - An Acupuncture Paleo Practitioner Approved "hamburger bun" Recipe
 thesis_description:

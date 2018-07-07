@@ -5,7 +5,7 @@ date: 2011-11-20T17:56:46+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1208
-permalink: /2011/11/20/the-gift-of-inspiration-tips-for-holiday-shopping-from-the-metal-element/
+
 thesis_title:
   - 'The Gift of Inspiration: Tips for Holiday Shopping from the Metal Element '
 thesis_description:

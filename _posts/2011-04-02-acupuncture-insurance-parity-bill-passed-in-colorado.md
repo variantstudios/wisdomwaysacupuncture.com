@@ -5,7 +5,7 @@ date: 2011-04-02T13:02:51+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1019
-permalink: /2011/04/02/acupuncture-insurance-parity-bill-passed-in-colorado/
+
 thesis_title:
   - Acupuncture Insurance Parity Bill Passed in Colorado!
 thesis_description:

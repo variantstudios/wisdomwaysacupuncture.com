@@ -5,7 +5,7 @@ date: 2010-09-08T18:32:36+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=882
-permalink: /2010/09/08/can-you-guess-the-real-leading-cause-of-death-in-the-us/
+
 thesis_title:
   - 'Acupuncture, the New Primary Health Care: Western Med a leading cause of death'
 thesis_description:

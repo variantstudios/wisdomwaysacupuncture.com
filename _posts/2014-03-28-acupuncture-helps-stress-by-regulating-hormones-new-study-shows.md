@@ -5,7 +5,7 @@ date: 2014-03-28T16:28:35+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1767
-permalink: /2014/03/28/acupuncture-helps-stress-by-regulating-hormones-new-study-shows/
+
 thesis_title:
   - Acupuncture helps Stress by Regulating Hormones, New Study Shows
 thesis_description:

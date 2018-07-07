@@ -5,7 +5,7 @@ date: 2017-05-06T12:58:29+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=2064
-permalink: /2017/05/06/dont-throw-dandelion-greens-away-theres-powerful-medicine-springtime-garden-weeds/
+
 thesis_title:
   - "Don't Throw Those Dandelion Greens Away! They balance the Spring Liver"
 thesis_description:

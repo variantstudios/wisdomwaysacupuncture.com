@@ -5,7 +5,7 @@ date: 2010-06-24T10:58:18+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=811
-permalink: /2010/06/24/no-ones-ever-called-me-a-sportsfan-but-these-famous-sportsmen-are-definitely-fans-of-acupuncture/
+
 thesis_title:
   - Famous sportspeople use acupuncture to stay healthy, strong, and improve their game.
 thesis_description:

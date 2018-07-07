@@ -5,7 +5,7 @@ date: 2013-05-09T17:49:34+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1499
-permalink: /2013/05/09/when-youre-constantly-sick-and-constantly-sick-in-co-part-vi-when-your-diet-just-isnt-cutting-it-these-supplements-can-be-the-missing-link/
+
 thesis_title:
   - "When Your Diet Isn't Cutting It, Adding Supplements to your Acupuncture Can Help Boost Your Immune System"
 thesis_description:

@@ -5,7 +5,7 @@ date: 2017-09-09T15:37:25+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=2407
-permalink: /2017/09/09/earth-element-acupuncture-late-summer-season-video-live/
+
 thesis_title:
   - 'Earth Element of Acupuncture: Inger Giffin, Acupuncture Fort Collins, Co'
 thesis_description:

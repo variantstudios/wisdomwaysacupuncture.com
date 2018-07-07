@@ -5,7 +5,7 @@ date: 2013-01-16T05:59:01+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1379
-permalink: /2013/01/16/acupuncture-clinic-moving-to-new-permanent-location-next-month/
+
 thesis_title:
   - New Acupuncture Clinic for Wisdom Ways Acupuncture
 thesis_description:

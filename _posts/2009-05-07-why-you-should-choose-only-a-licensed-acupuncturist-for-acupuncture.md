@@ -5,7 +5,6 @@ date: 2009-05-07T16:53:07+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://66.147.244.194/~wisdomw1/?p=582
-#permalink: /2009/05/07/why-you-should-choose-only-a-licensed-acupuncturist-for-acupuncture/
 thesis_title:
   - Why You Should Choose ONLY a Licensed Acupuncturist for Acupuncture
 thesis_description:

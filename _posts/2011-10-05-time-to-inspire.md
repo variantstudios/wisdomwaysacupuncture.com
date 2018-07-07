@@ -5,7 +5,7 @@ date: 2011-10-05T20:24:46+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1169
-permalink: /2011/10/05/time-to-inspire/
+
 thesis_title:
   - 'Time to Inspire! '
 thesis_description:

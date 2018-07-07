@@ -5,7 +5,7 @@ date: 2012-05-30T17:11:03+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1305
-permalink: /2012/05/30/autoimmune-disease-and-women-can-acupuncture-both-prevent-and-alleviate-it/
+
 thesis_title:
   - 'Autoimmune Disease and Women: Can Acupuncture both Prevent and Alleviate it?'
 thesis_description:

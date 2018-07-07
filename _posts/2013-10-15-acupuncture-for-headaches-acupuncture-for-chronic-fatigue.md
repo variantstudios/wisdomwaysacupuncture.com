@@ -5,7 +5,7 @@ date: 2013-10-15T16:43:59+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1644
-permalink: /2013/10/15/acupuncture-for-headaches-acupuncture-for-chronic-fatigue/
+
 thesis_title:
   - 'Acupuncture Success Stories: Acupuncture for headaches and Chronic fatigue'
 thesis_description:

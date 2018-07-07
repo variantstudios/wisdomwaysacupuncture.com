@@ -5,7 +5,7 @@ date: 2012-04-25T16:57:42+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1281
-permalink: /2012/04/25/avoid-random-pains-by-keeping-your-liver-healthy/
+
 thesis_title:
   - "Avoid Random Pains by Keeping your Liver Healthy: An Acupuncturist's Tip for Decreasing Pain"
 thesis_description:

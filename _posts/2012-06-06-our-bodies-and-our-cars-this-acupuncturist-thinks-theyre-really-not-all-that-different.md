@@ -5,7 +5,7 @@ date: 2012-06-06T17:35:46+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1310
-permalink: /2012/06/06/our-bodies-and-our-cars-this-acupuncturist-thinks-theyre-really-not-all-that-different/
+
 thesis_title:
   - "Our Bodies and Our Cars...From an Acupuncture Perspective, They're Really Not All that Different."
 thesis_description:

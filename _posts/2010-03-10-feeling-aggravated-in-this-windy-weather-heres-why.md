@@ -6,7 +6,7 @@ author: Inger Giffin, L.Ac., Dipl. Ac.
 excerpt: "All around town; in my classes, with friends, and in the clinic, people have been mentioning how edgy they get when the wind picks up.  Chinese Medicine documented thousands of years ago the imbalances that can occur when we're exposed to wind, and I wanted to give you a little insight into this phenomenon so you can...uhhh, weather the upcoming windy Spring with a bit more stability."
 layout: post
 guid: http://66.147.244.194/~wisdomw1/?p=511
-permalink: /2010/03/10/feeling-aggravated-in-this-windy-weather-heres-why/
+
 thesis_title:
   - "Feel Extra Aggravated in Windy Weather? Here's the Why and What to Do!"
 thesis_description:

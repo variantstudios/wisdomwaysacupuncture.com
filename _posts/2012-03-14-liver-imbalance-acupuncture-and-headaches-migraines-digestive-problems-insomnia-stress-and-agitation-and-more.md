@@ -5,7 +5,7 @@ date: 2012-03-14T12:59:06+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1255
-permalink: /2012/03/14/liver-imbalance-acupuncture-and-headaches-migraines-digestive-problems-insomnia-stress-and-agitation-and-more/
+
 thesis_title:
   - 'Liver Imbalance: Acupuncture and Headaches, Migraines, Digestive Problems, Insomnia, Stress and Agitation and More'
 thesis_description:

@@ -5,7 +5,7 @@ date: 2013-03-06T14:48:05+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1414
-permalink: /2013/03/06/constantly-sick-in-co-what-can-we-do-part-iii-an-acupuncturists-approach-to-supercharging-your-immunity/
+
 thesis_title:
   - "Constantly Sick in CO, What Can We Do Part III: An Acupuncturist's Approach to Supercharging Your Immunity"
 thesis_description:

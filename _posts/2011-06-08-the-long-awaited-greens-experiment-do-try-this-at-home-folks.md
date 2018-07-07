@@ -5,7 +5,7 @@ date: 2011-06-08T12:46:28+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1068
-permalink: /2011/06/08/the-long-awaited-greens-experiment-do-try-this-at-home-folks/
+
 thesis_title:
   - Greens balance your liver according to Chinese Medicine and acupuncture philosophy.
 thesis_description:

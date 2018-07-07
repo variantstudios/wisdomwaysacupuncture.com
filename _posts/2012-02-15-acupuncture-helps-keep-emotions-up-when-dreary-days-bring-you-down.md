@@ -5,7 +5,7 @@ date: 2012-02-15T12:21:58+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1240
-permalink: /2012/02/15/acupuncture-helps-keep-emotions-up-when-dreary-days-bring-you-down/
+
 thesis_title:
   - Acupuncture can Help Keep Emotions Up when the Dreary Days Come
 thesis_description:
