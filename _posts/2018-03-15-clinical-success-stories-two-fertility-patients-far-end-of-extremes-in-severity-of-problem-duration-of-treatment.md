@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Story of two acupuncture fertility patients ending with a healthy baby, yet vastly different treatments and journeys along the way. '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, fertility
+  - acupuncture-fort-collins, Fort Collins Acupuncture, fertility
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:

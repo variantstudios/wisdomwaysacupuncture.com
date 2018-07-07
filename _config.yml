@@ -12,15 +12,15 @@ uploads_dir: "assets/images"
 
 # Gems for plugins
 plugins:
-  - jekyll-paginate
+ # - jekyll-paginate
   - jekyll-sitemap # Simple jekyll plugin that creates a sitemap.xml file and you can exclude files by adding 'sitemap:false' to the frontmatter of any file(s).
   - jekyll-include-cache # Cache jekyll includes to improve build times
 
-paginate: 5
-paginate_path: "/blog/page:num/"
+#paginate: 5
+#paginate_path: "/blog/page:num/"
 
 # Permalinks
-#permalink: pretty
+permalink: pretty
 
 # Compress HTML
 compress_html:
@@ -40,10 +40,10 @@ collections:
     permalink: '/blog/:title/'
   categories:
     output: true
-    permalink: '/blog/category/:title/'
+    permalink: '/blog/category/:path/'
   tags:
     output: true
-    permalink: '/blog/tags/:title/'
+    permalink: '/blog/tag/:path/'
   conditions:
     output: true
     permalink: '/conditions-treated/:title/'

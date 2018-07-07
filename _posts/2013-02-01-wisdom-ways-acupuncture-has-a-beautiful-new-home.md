@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - "Wisdom Ways Acupuncture has a new home, 363 W. Drake Road Suite 1. It's cozy, inviting, and centrally located just west of College on Drake Road.  "
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -19,8 +19,8 @@ thesis_thumb_height:
 categories:
   - uncategorized
 tags:
-  - acupuncture fort collins
-  - fort collins acupuncture
+  - acupuncture-fort-collins
+  - fort-collins-acupuncture
 ---
 [<img class="alignleft wp-image-1396 " title="Acupuncture Reception " src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/02/IMG_2035-150x112.jpg" alt="Acupuncture Reception area" width="270" height="201" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/02/IMG_2035.jpg)Wisdom Ways Acupuncture has moved, and I&#8217;m so pleased with the new location!
 

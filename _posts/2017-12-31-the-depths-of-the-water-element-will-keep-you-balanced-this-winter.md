@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Acupuncture 5 Elements theory says winter relates to the Water Element. Tips for keeping your Water Element strong for a healthy winter & spring ahead.'
 thesis_keywords:
-  - water element, kidneys
+  - water-element, kidneys
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:

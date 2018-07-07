@@ -11,11 +11,11 @@ thesis_title:
 thesis_description:
   - 'Acupuncture Classic: "The sages of antiquity did not treat diseases that had already manifested, but diseases which had not yet manifested."  '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - random-musings
 tags:
-  - preventative medicine
+  - preventative-medicine
 ---
 **_&#8220;The sages of antiquity did not treat diseases that had already manifested, but diseases which had not yet manifested. When you wait until a disease has broken out to treat it, is that not like waiting to be thirsty to dig a well, or until you&#8217;re in battle before casting weapons._&#8220;**
 

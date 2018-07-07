@@ -18,8 +18,8 @@ categories:
   - nutrition--food
   - random-musings
 tags:
-  - food safety
-  - monsanto evil
+  - food-safety
+  - monsanto-evil
 ---
 <h5 style="text-align: left;">
   <span style="color: #999999;">5/9/2012</span>

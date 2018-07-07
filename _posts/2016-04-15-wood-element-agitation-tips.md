@@ -11,16 +11,16 @@ thesis_title:
 thesis_description:
   - "The Wood element, related to the Liver & Spring, can bring increased irritability/anger in Spring due to the liver's relationship with these emotions."
 thesis_keywords:
-  - Wood Element, Acupuncture Irritability, Acupuncture Anger, Acupuncture Anxiety, Acupuncture Stress, Wood Element
+  - wood-element, Acupuncture Irritability, Acupuncture Anger, Acupuncture Anxiety, Acupuncture Stress, Wood Element
 categories:
   - spring--wood-element
 tags:
-  - liver qi stagnation
-  - liver imbalance
-  - acupuncture and stress
-  - acupuncture and anxiety
-  - acupuncture and irritability
-  - acupuncture and depression
+  - liver-qi-stagnation
+  - liver-imbalance
+  - acupuncture-and-stress
+  - acupuncture-and-anxiety
+  - acupuncture-and-irritability
+  - acupuncture-and-depression
 ---
 <div id="attachment_1950" style="width: 160px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/acupuncture-helps-agitation.jpg"><img class="size-thumbnail wp-image-1950" style="border: 0.5px solid black;" title="Acupuncture Fort Collins for Wood Element Imbalance" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/acupuncture-helps-agitation-150x120.jpg" alt="Acupuncture balances the wood element" width="150" height="120" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/acupuncture-helps-agitation-150x120.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/acupuncture-helps-agitation-300x241.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/acupuncture-helps-agitation.jpg 345w" sizes="(max-width: 150px) 100vw, 150px" /></a>

@@ -18,8 +18,8 @@ categories:
   - exciting-acupuncture-research
   - womens-health
 tags:
-  - acupuncture and hot flashes
-  - acupuncture and menopause
+  - acupuncture-and-hot-flashes
+  - acupuncture-and-menopause
 ---
 **The latest study on hot flashes revealed that acupuncture dramatically improved hot flashes for the study participants.** The women were either given real or sham acupuncture, and **those who received real acupuncture reported dramatic improvement after receiving their acupuncture treatments.**
 

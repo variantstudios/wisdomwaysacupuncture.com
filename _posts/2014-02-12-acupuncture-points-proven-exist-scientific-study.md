@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - Science able to "see" and confirm the existence of acupuncture points! LCD thermal imaging and other technology shows exact location of points.
 thesis_keywords:
-  - Acupuncture Fort Collins, Acupuncture studies, acupuncture points proven to exist
+  - acupuncture-fort-collins, Acupuncture studies, acupuncture points proven to exist
 image: /wp-content/uploads/2014/02/acupuncture-points-light-up.jpg
 categories:
   - my-approach--philosophy-and-stories

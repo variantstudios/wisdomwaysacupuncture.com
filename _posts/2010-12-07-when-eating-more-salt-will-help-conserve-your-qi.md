@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - "Acupuncture theory says that the 5 flavors medicinally balance the body and conserve Qi.  Salt draws your Qi to your core, where it's stored in winter."
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, water element, salt
+  - acupuncture-fort-collins, Fort Collins Acupuncture, water element, salt
 categories:
   - winter--water-element
   - eating-with-the-seasons

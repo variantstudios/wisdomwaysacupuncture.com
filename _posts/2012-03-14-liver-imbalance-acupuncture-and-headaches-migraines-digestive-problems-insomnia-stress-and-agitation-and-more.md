@@ -11,14 +11,14 @@ thesis_title:
 thesis_description:
   - 'Liver imbalance brings blocked Qi, with common symptoms: headaches, migraines, digestive problems, insomnia, & anxiety. Acupuncture moves blocked Qi. '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, liver imbalance
+  - acupuncture-fort-collins, Fort Collins Acupuncture, liver imbalance
 categories:
   - my-approach--philosophy-and-stories
   - spring--wood-element
 tags:
-  - liver qi stagnation
+  - liver-qi-stagnation
   - stress
-  - liver imbalance
+  - liver-imbalance
 ---
 ## <span style="color: #808000;"><strong>Liver related symptoms get exacerbated in the Wood Element Season of acupuncture theory</strong></span>
 

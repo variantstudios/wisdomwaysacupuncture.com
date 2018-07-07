@@ -11,12 +11,12 @@ thesis_title:
 thesis_description:
   - 'We can understand our own symptoms by looking at what we see happening around us. This article compares Yin Deficiency to an overheating car. '
 thesis_keywords:
-  - acupuncture fort collins, fort collins acupuncture, yin deficiency
+  - acupuncture-fort-collins, fort collins acupuncture, yin deficiency
 categories:
   - my-approach--philosophy-and-stories
   - random-musings
 tags:
-  - yin deficiency
+  - yin-deficiency
 ---
 <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/113.jpg" alt="acupuncture yin deficiency overheating" width="216" height="143" align="left" border="0" hspace="5" vspace="5" />
 

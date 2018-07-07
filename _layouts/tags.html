@@ -5,14 +5,15 @@ search_engine_optimization:
   share_image_path:
 layout: page
 ---
-{% assign page_id = page.id | remove:'/blog/category/' %}
+{% assign page_id = page.id | remove:'/blog/tag/' %}
 <h2>Blog posts in: {{ page_id |  replace: '-', ' ' | capitalize }}</h2>
 
 <section class="blog-preface">{{ content }}</section>
 
 <section class="blog-wrapper">
+
     {% for post in site.posts %}
-    {% if post.categories contains page_id %}
+    {% if post.tags contains page_id %}
 
     <div class="blog-item clearfix">
         <div class="left-image">
@@ -38,7 +39,7 @@ layout: page
 
             {% if post.tags %}
             <p class="tags-label">Tags: 
-            {% for cat in post.tags %} <a href="{{ cat | prepend: '/blog/tags/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a>
+            {% for cat in post.tags %} <a href="{{ cat | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a>
             {% endfor %} 
             </p>
             {% endif %}

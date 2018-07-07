@@ -15,12 +15,12 @@ thesis_keywords:
 categories:
   - exciting-acupuncture-research
 tags:
-  - liver qi stagnation
-  - liver imbalance
-  - acupuncture and stress
-  - acupuncture and anxiety
-  - acupuncture and irritability
-  - acupuncture and depression
+  - liver-qi-stagnation
+  - liver-imbalance
+  - acupuncture-and-stress
+  - acupuncture-and-anxiety
+  - acupuncture-and-irritability
+  - acupuncture-and-depression
 ---
 ## <span style="color: #808000;">Acupuncture helps Stress&#8230;but HOW?</span>
 

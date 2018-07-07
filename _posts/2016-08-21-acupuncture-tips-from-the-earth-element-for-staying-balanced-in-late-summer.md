@@ -14,7 +14,7 @@ categories:
   - late-summer--earth-element
   - eating-with-the-seasons
 tags:
-  - Medicinal Foods
+  - medicinal-foods
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/164.jpg" alt="Acupuncturist's Harvest" width="182" height="121" align="left" border="0" hspace="5" vspace="5" />
 

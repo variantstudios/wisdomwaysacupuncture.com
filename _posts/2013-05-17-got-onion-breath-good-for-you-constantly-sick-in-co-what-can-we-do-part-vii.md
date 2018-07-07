@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Last in a series of acupuncture blogs re: people being constantly sick in CO, and what we can do about it. '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:

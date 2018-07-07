@@ -11,12 +11,12 @@ thesis_title:
 thesis_description:
   - "As an acupuncturist, since moving to CO I'm shocked at how often patients get sick. This blog series explores the Why's, and how to work with immunity. "
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - nutrition--food
 tags:
-  - acupuncture fort collins
-  - fort collins acupuncture
+  - acupuncture-fort-collins
+  - fort-collins-acupuncture
 ---
 <div>
   I<img src="http://ih.constantcontact.com/fs124/1102844965003/img/141.jpg" alt="Immunity acupuncture" width="228" height="181" align="left" border="0" hspace="10" vspace="5" />f you read my article last week, then you know my focus over the next several weeks is going to be about the issue of the constant common sicknesses I see affecting people in Colorado, and what we can do to prevent this. This week, <strong>I&#8217;m going to go into more detail on how vital it is to build our immune Qi or energy with the food we eat, why I suspect that even when we&#8217;re doing &#8220;everything right&#8221; it&#8217;s still not working. Lastly, I&#8217;m going to invite you on an adventure. :-)</strong>

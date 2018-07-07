@@ -11,11 +11,11 @@ thesis_title:
 thesis_description:
   - Acupuncture and Chinese herbs can not only prevent auto-immune symptoms, but can effectively treat them once they are occurring.
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - random-musings
 tags:
-  - yin deficiency
+  - yin-deficiency
   - auto-immunity
   - autoimmunity
 ---

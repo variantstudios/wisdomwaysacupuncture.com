@@ -12,7 +12,7 @@ thesis_title:
 thesis_description:
   - "Jamie Oliver was one of my first inspirations in the foodie/local eating scene. I've long since moved onto Paleo, but his fun & playfulness still inspire."
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, seasonal eating
+  - acupuncture-fort-collins, Fort Collins Acupuncture, seasonal eating
 categories:
   - nutrition--food
 ---

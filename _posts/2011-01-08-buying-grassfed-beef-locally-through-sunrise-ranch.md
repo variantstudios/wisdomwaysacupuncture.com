@@ -11,11 +11,11 @@ thesis_title:
 thesis_description:
   - In my acupuncture clinic, I recommend patients eat only grass-fed, sustainable meats, to avoid the physical and environmental problems of CAFO meats.
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, pastured animals, grass-fed
+  - acupuncture-fort-collins, Fort Collins Acupuncture, pastured animals, grass-fed
 categories:
   - nutrition--food
 tags:
-  - local food
+  - local-food
   - grass-fed
 ---
 <p style="text-align: center;">

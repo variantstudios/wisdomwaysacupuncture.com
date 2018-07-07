@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'As an acupuncturist, it is helpful to combine the Chinese medicine nutritional approach with what modern science says about nourishing our immunity. '
 thesis_keywords:
-  - immune system, Acupuncture Fort Collins, Fort Collins Acupuncture
+  - immune-system, Acupuncture Fort Collins, Fort Collins Acupuncture
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -20,7 +20,7 @@ categories:
   - nutrition--food
 tags:
   - immunity
-  - immune system
+  - immune-system
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/65.jpg" alt="dark leafy greens" width="199" height="149" align="left" border="0" hspace="10" vspace="5" />
 

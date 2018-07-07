@@ -19,8 +19,8 @@ thesis_thumb_height:
 categories:
   - uncategorized
 tags:
-  - acupuncture fort collins
-  - fort collins acupuncture
+  - acupuncture-fort-collins
+  - fort-collins-acupuncture
 ---
 <div>
   <div id="attachment_1380" style="width: 160px" class="wp-caption alignleft">

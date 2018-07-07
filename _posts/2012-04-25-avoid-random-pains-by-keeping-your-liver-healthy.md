@@ -11,14 +11,14 @@ thesis_title:
 thesis_description:
   - 'If you have random roaming pains, balancing your liver with acupuncture can help get to the source of the niggling pains that "come out of nowhere". '
 thesis_keywords:
-  - acupuncture fort collins, fort collins acupuncture, acupuncture
+  - acupuncture-fort-collins, fort collins acupuncture, acupuncture
 categories:
   - random-musings
 tags:
-  - liver qi stagnation
-  - liver imbalance
-  - roaming pain
-  - migrating pain
+  - liver-qi-stagnation
+  - liver-imbalance
+  - roaming-pain
+  - migrating-pain
 ---
 <p style="text-align: center;">
   <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/107.jpg" alt="pain acupuncture" width="152" height="152" align="left" border="0" hspace="5" vspace="5" />Does this sound like you?

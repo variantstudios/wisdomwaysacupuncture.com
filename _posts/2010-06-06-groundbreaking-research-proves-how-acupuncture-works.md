@@ -12,7 +12,7 @@ thesis_title:
 thesis_description:
   - 'More research continues to validate the effectiveness of acupuncture. '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - exciting-acupuncture-research
 ---

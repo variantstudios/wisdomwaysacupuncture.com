@@ -16,7 +16,7 @@ categories:
   - random-musings
 tags:
   - acupuncture
-  - acupuncture fort collins
+  - acupuncture-fort-collins
 ---
 **At some point in the course of most patient&#8217;s treatment with me, I typically get the question, &#8220;How did you get into acupuncture?&#8221;.  So I thought I&#8217;d answer that question here and share my acupuncture story openly.  While my story is pretty typical, I believe the most interesting thing about it is that I know it&#8217;s not my own; it&#8217;s shared with thousands of other people who had the same beliefs, dreams, or struggles, and who now call themselves Licensed Acupuncturists.** 
 

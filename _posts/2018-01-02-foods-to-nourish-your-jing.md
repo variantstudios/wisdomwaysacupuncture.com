@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'As acupuncturists, we believe we need to do everything possible to avoid tapping into and therefore depleting our Jing -- the root of all energy.'
 thesis_keywords:
-  - Water Element, Kidneys, Jing
+  - water-element, Kidneys, Jing
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -20,10 +20,10 @@ categories:
   - eating-with-the-seasons
 tags:
   - acupuncture
-  - 5 Elements
-  - acupuncture fort collins
-  - fort collins acupuncture
-  - seasonal eating
+  - 5-elements
+  - acupuncture-fort-collins
+  - fort-collins-acupuncture
+  - seasonal-eating
 ---
 **
   

@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Acupuncturists know the Liver/Wood Element is more challenged in Spring.  A goal like exercise to move the Qi is a great step towards staying balanced. '
 thesis_keywords:
-  - acupuncture fort collins, fort collins acupuncture, wood element, liver imbalance
+  - acupuncture-fort-collins, fort collins acupuncture, wood element, liver imbalance
 categories:
   - spring--wood-element
 ---

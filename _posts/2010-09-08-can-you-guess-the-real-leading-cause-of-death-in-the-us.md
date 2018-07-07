@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'As statistics show western med as a leading cause of death, more need to turn to natural medicines like acupuncture that are safer & prevent disease  '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, causes of death
+  - acupuncture-fort-collins, Fort Collins Acupuncture, causes of death
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -19,7 +19,7 @@ thesis_thumb_height:
 categories:
   - random-musings
 tags:
-  - western medicine
+  - western-medicine
 ---
 [<img class="size-full wp-image-915 alignleft" title="Acupuncture preserves the true intent of medicine" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/medicine.jpg" alt="Acupuncture preserves the true intent of medicine" width="113" height="113" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/medicine.jpg 225w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/medicine-150x149.jpg 150w" sizes="(max-width: 113px) 100vw, 113px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/medicine.jpg)
 

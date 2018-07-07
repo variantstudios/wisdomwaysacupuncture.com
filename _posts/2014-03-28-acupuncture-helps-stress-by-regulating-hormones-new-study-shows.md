@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - This study shows that acupuncture upregulates, downregulates, and inhibits hormones related to stress, explaining how acupuncture helps stress.
 thesis_keywords:
-  - Acupuncture and stress, acupuncture reduces stress, acupuncturist, acupuncture fort collins, fort collins acupuncture
+  - acupuncture-and-stress, acupuncture reduces stress, acupuncturist, acupuncture fort collins, fort collins acupuncture
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -19,12 +19,12 @@ thesis_thumb_height:
 categories:
   - exciting-acupuncture-research
 tags:
-  - liver qi stagnation
-  - liver imbalance
-  - acupuncture and stress
-  - acupuncture and anxiety
-  - acupuncture and irritability
-  - acupuncture and depression
+  - liver-qi-stagnation
+  - liver-imbalance
+  - acupuncture-and-stress
+  - acupuncture-and-anxiety
+  - acupuncture-and-irritability
+  - acupuncture-and-depression
 ---
 ## <span style="color: #808000;">It&#8217;s finally proven: Acupuncture helps stress</span>
 

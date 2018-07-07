@@ -13,7 +13,7 @@ thesis_description:
     Famous athletes use acupuncture to stay on top of their game.  Take their clue and let acupuncture be a regular part of your wellness routine!
     
 thesis_keywords:
-  - acupuncture fort collins, fort collins acupuncture
+  - acupuncture-fort-collins, fort collins acupuncture
 categories:
   - uncategorized
 ---

@@ -7,18 +7,18 @@ layout: post
 
 
 thesis_title:
-  - Chinese Medicine says use benevolence to balance your Wood Element this Spring.
+  - chinese-medicine says use benevolence to balance your Wood Element this Spring.
 thesis_description:
   - 'Chinese Medicine and acupuncture theory have recognized that benevolence can be used to calm runaway Wood energy, which can lead to self-centerdness and ruthlessness.  We are especially susceptible to these qualities in Spring, the season related to the Wood Element in Chinese Medicine.'
 thesis_keywords:
-  - Wood Element, Chinese Medicine and Wood element, five elements, 5 elements, Liver
+  - wood-element, Chinese Medicine and Wood element, five elements, 5 elements, Liver
 categories:
   - spring--wood-element
 tags:
   - acupuncture
-  - 5 Elements
-  - Wood element
-  - Chinese medicine
+  - 5-elements
+  - wood-element
+  - chinese-medicine
   - five-elements
 ---
 <table width="180" align="left">

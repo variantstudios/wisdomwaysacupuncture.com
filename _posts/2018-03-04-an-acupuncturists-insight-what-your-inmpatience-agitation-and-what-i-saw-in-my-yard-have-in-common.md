@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Spring relates to the Wood Element & the Liver.  The liver easily gets imbalanced as spring hits. See what you can do to keep your liver happy!'
 thesis_keywords:
-  - liver imbalance, wood element
+  - liver-imbalance, wood element
 thesis_thumb:
   - http://ih.constantcontact.com/fs085/1102844965003/img/103.jpg
 ampforwp_custom_content_editor:
@@ -27,12 +27,12 @@ thesis_thumb_height:
 categories:
   - spring--wood-element
 tags:
-  - liver qi stagnation
-  - liver imbalance
-  - acupuncture and stress
-  - acupuncture and anxiety
-  - acupuncture and irritability
-  - acupuncture and depression
+  - liver-qi-stagnation
+  - liver-imbalance
+  - acupuncture-and-stress
+  - acupuncture-and-anxiety
+  - acupuncture-and-irritability
+  - acupuncture-and-depression
 ---
 &nbsp;
 

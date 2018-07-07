@@ -15,7 +15,7 @@ thesis_keywords:
 categories:
   - nutrition--food
 tags:
-  - Medicinal Foods
+  - medicinal-foods
 ---
 &nbsp;
 

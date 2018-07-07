@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Acupuncture and herbs can be effective for raising immunity, and even studies are finding proven links between acupuncture and immune system improvement.  '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, acupuncture for immune system
+  - acupuncture-fort-collins, Fort Collins Acupuncture, acupuncture for immune system
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -20,7 +20,7 @@ categories:
   - exciting-acupuncture-research
 tags:
   - immunity
-  - immune system
+  - immune-system
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/91.jpg" alt="Lungs and Wei Qi" width="141" height="105" align="left" border="0" hspace="5" vspace="5" />I hope you&#8217;ve all been staying warm and cozy through our first couple snow storms of the year! **As the weather gets colder, many people come to me for a few seasonal &#8220;tune-up&#8221; treatments to prepare their body for winter and ward off illness. While Chinese medicine has its own theory for why acupuncture and herbs can be effective for raising immunity, even scientific studies are finding proven links between acupuncture and immune system improvement.**
 

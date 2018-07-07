@@ -18,7 +18,7 @@ categories:
   - nutrition--food
 tags:
   - locavore
-  - local food
+  - local-food
 ---
 <div>
   <div id="attachment_1515" style="width: 131px" class="wp-caption alignleft">

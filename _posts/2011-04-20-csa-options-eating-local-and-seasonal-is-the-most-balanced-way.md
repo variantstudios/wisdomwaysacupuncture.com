@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - "Eating Seasonally Nurtures what Acupuncturists Call Balance. Why not get a CSA and support your own body's balance, & local farmers all at once!?"
 thesis_keywords:
-  - seasonal eating, acupuncturist fort collins, fort collins acupuncture
+  - seasonal-eating, acupuncturist fort collins, fort collins acupuncture
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -19,7 +19,7 @@ thesis_thumb_height:
 categories:
   - eating-with-the-seasons
 tags:
-  - local foods
+  - local-foods
 ---
 <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/69.jpg" alt="Old town farmer's market" width="114" height="130" align="left" border="0" hspace="5" vspace="25" />
 

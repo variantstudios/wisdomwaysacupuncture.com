@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Study Confirms: Acupuncture Alleviates Menstrual/Period Pain. This is great because so many of my acupuncture patients are coming for menstrual pain. '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, period pain, menstrual pain
+  - acupuncture-fort-collins, Fort Collins Acupuncture, period pain, menstrual pain
 categories:
   - exciting-acupuncture-research
   - womens-health

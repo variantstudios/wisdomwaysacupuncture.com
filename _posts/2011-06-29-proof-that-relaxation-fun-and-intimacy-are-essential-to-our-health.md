@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - "Fire element of acupuncture theory says fun and communion aren't luxuries, but cruicial for staying healthy and balanced & avoiding fire element problems. "
 thesis_keywords:
-  - chinese medicine, acupuncture, acupunture fort collins, fort collins acupuncture, fire element, five elements
+  - chinese-medicine, acupuncture, acupunture fort collins, fort collins acupuncture, fire element, five elements
 categories:
   - summer--fire-element
 ---

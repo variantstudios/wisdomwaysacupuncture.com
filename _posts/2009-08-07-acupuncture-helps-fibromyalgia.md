@@ -10,7 +10,7 @@ thesis_title:
 thesis_description:
   - A study by the Mayo Clinic reported acupuncture helpful in treating Fibromyalgia. One month after the study, patients revealed marked improvement.
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, fibromyalgia
+  - acupuncture-fort-collins, Fort Collins Acupuncture, fibromyalgia
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:

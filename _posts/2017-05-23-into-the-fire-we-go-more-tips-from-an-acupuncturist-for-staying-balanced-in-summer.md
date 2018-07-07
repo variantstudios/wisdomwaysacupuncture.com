@@ -15,12 +15,12 @@ thesis_keywords:
 categories:
   - uncategorized
 tags:
-  - 5 Elements
-  - Fire season
-  - acupuncture fort collins
-  - Fire element
-  - acupuncture and depression
-  - Chinese medicine
+  - 5-elements
+  - fire-season
+  - acupuncture-fort-collins
+  - fire-element
+  - acupuncture-and-depression
+  - chinese-medicine
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/111.jpg" alt="Fire Heart Acupuncture" width="181" height="144" align="left" border="0" hspace="5" vspace="5" />
 

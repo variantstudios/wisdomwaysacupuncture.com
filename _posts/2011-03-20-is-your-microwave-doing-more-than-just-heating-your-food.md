@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - "As an acupuncturist and health promoter, I can't support the use of microwaves, and here's why. Are the risks really worth it? "
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, microwaves
+  - acupuncture-fort-collins, Fort Collins Acupuncture, microwaves
 categories:
   - nutrition--food
 tags:

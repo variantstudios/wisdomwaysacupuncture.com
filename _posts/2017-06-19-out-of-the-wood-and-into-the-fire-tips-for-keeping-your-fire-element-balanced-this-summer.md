@@ -22,11 +22,11 @@ categories:
   - summer--fire-element
 tags:
   - acupuncture
-  - 5 Elements
-  - Fire element
-  - Wood element
-  - Chinese medicine
-  - summer season
+  - 5-elements
+  - fire-element
+  - wood-element
+  - chinese-medicine
+  - summer-season
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/79.jpg" alt="Summer Sun" width="155.4" height="116.4" align="left" border="0" hspace="5" vspace="5" />**We&#8217;ve made it through the Wood season!**
 

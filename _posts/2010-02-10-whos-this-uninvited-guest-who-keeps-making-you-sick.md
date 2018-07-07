@@ -12,7 +12,7 @@ thesis_title:
 thesis_description:
   - 'Common Colds usually come down to a few different explanations from an acupuncture perspective. And there are effective treatments for each one. '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, common colds
+  - acupuncture-fort-collins, Fort Collins Acupuncture, common colds
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -20,10 +20,10 @@ thesis_thumb_height:
 categories:
   - my-approach--philosophy-and-stories
 tags:
-  - evil qi
-  - strengthening your immune system
-  - acupuncture and immunity
-  - acupuncture and common colds
+  - evil-qi
+  - strengthening-your-immune-system
+  - acupuncture-and-immunity
+  - acupuncture-and-common-colds
 ---
 **A curious thing is happening this season. Many people I know, just when they&#8217;re finally over their last cold and ready to start getting out there and exercising again, back into normal life, etc&#8230; are finding themselves sick AGAIN.** 
 

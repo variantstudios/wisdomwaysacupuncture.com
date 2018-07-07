@@ -21,8 +21,8 @@ categories:
   - eating-with-the-seasons
   - recipes
 tags:
-  - Medicinal Foods
-  - liver blood
+  - medicinal-foods
+  - liver-blood
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/105.jpg" alt="Beets Acupuncture" width="142" height="189" align="left" border="0" hspace="5" vspace="5" />People love hating beets.
 
