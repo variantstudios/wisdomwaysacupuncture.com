@@ -1,10 +1,10 @@
 ---
-id: 1175
+
 title: 'What We Learn from the Leaves, As they Leave&#8230;'
 date: 2011-10-26T05:00:01+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1175
+
 
 thesis_title:
   - "What We Learn from the Leaves as they Leave... An acupuncturist's look at the changing of the season."

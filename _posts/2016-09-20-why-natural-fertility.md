@@ -1,10 +1,10 @@
 ---
-id: 3762
+
 title: Why Natural Fertility?
 date: 2016-09-20T10:11:52+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=3762
+
 
 thesis_title:
   - 'Natural Fertility: Why I Treat Only Natural Fertility & Refer for ART'

@@ -1,10 +1,10 @@
 ---
-id: 1214
+
 title: Success Stories from the Wintertime Acupuncture Clinic
 date: 2012-01-08T10:30:04+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1214
+
 
 thesis_title:
   - Success Stories from the Wintertime Acupuncture Clinic

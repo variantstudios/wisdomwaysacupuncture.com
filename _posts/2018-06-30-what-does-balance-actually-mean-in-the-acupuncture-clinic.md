@@ -1,10 +1,10 @@
 ---
-id: 3801
+
 title: 'What does &#8220;Balance&#8221; Actually Mean in the Acupuncture Clinic? How to Know if You&#8217;re Balanced and How we Get You Back to Balance'
 date: 2018-06-30T09:26:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=3801
+
 
 thesis_title:
   - |

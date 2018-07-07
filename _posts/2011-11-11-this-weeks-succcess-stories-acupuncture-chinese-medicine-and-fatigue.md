@@ -1,10 +1,10 @@
 ---
-id: 1202
+
 title: 'Succcess Stories from the Acupuncture Clinic: Fatigue, Menopause'
 date: 2011-11-11T11:05:36+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1202
+
 
 thesis_title:
   - "This Week's Succcess Stories: Acupuncture, Chinese Medicine, and Fatigue"

@@ -1,10 +1,10 @@
 ---
-id: 1332
+
 title: 'Research: Acupuncture Improves Memory and Cognitive Function&#8212;Alzheimer&#8217;s Help'
 date: 2012-09-19T11:38:41+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1332
+
 
 thesis_title:
   - "Research: Acupuncture Improves Memory, Brain Fog, and Cognitive Function---Alzheimer's Help"

@@ -1,10 +1,10 @@
 ---
-id: 1143
+
 title: 'Out of the Fire and Deep Into Earth: Use Earth&#8217;s Bounty to Build Up Your Qi as we Head into Earth Element Season'
 date: 2011-09-07T09:35:53+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1143
+
 
 thesis_title:
   - "Summer's over, we're in Earth Element Season of Acupuncture Theory: Use Earth's Bounty to Build Up Your Qi"

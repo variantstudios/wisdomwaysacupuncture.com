@@ -1,10 +1,10 @@
 ---
-id: 1004
+
 title: Is your Microwave Doing More than just Heating your Food? Risks that Might Not be Worth it.
 date: 2011-03-20T11:44:56+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1004
+
 
 thesis_title:
   - 'Acupuncturists support health, microwaves damage it. '

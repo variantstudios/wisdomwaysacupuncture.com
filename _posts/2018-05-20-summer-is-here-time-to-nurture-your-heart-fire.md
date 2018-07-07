@@ -1,10 +1,10 @@
 ---
-id: 1087
+
 title: Summer is Here! Time to Nurture your Heart Fire
 date: 2018-05-20T05:14:39+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1087
+
 
 thesis_title:
   - Summer is Here! Time to Nurture your Heart Fire

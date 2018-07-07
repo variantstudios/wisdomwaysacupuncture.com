@@ -1,10 +1,10 @@
 ---
-id: 1791
+
 title: Exciting Developements in the Understanding Between Gut Health and Inflammation
 date: 2014-06-11T17:59:27+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1791
+
 
 thesis_title:
   - 'Gut Health & Inflammation'

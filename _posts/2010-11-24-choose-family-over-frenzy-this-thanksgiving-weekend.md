@@ -1,10 +1,10 @@
 ---
-id: 992
+
 title: Choose Family Over Frenzy this Thanksgiving Weekend
 date: 2010-11-24T20:38:48+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=992
+
 
 thesis_title:
   - 'Metal Element Agrees: Choose Family Over Frenzy this Thanksgiving'

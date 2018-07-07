@@ -1,10 +1,10 @@
 ---
-id: 1074
+
 title: 'American Association for Acupuncture and Oriental Medicine Releases it&#8217;s Position on &#8220;Dry Needling&#8221;'
 date: 2011-06-09T13:46:54+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1074
+
 
 thesis_title:
   - Professional Acupuncture Association Releases its position paper on Dry Needling

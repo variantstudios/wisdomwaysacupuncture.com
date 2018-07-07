@@ -1,10 +1,10 @@
 ---
-id: 1373
+
 title: More Americans Using Acupuncture for Common Ailments
 date: 2013-01-03T14:21:00+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1373
+
 
 thesis_title:
   - More Americans Using Acupuncture for Common Ailments

@@ -1,10 +1,10 @@
 ---
-id: 1029
+
 title: 'Foods to Eat to Balance your Liver this Spring: A Seasonal 5 Elements Approach'
 date: 2011-04-06T12:37:54+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1029
+
 
 thesis_title:
   - 'Foods to Eat to Balance your Liver this Spring: A Seasonal 5 Elements Approach'

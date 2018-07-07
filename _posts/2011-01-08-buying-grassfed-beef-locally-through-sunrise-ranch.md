@@ -1,10 +1,10 @@
 ---
-id: 978
+
 title: Buying Grassfed Beef Locally through Sunrise Ranch
 date: 2011-01-08T20:05:35+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=978
+
 
 thesis_title:
   - Buying Grassfed Beef Locally through Sunrise Ranch

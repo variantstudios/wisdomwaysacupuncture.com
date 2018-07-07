@@ -1,10 +1,10 @@
 ---
-id: 1021
+
 title: 'It&#8217;s Wood Season: Tips for Keeping your Liver Happy this Spring'
 date: 2011-03-21T14:00:30+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1021
+
 
 thesis_title:
   - "It's Wood Season according to Chinese Medicine and acupuncture theory: Tips for Keeping your Liver Happy this Spring"

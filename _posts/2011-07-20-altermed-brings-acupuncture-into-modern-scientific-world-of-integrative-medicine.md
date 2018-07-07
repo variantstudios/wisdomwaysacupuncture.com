@@ -1,10 +1,10 @@
 ---
-id: 1119
+
 title: AlterMed brings acupuncture into the modern scientific medical world of integrative medicine
 date: 2011-07-20T05:45:28+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1119
+
 
 thesis_title:
   - Integrative Medicine Conference brings acupuncture into the modern world.

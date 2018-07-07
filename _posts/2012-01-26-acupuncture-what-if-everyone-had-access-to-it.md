@@ -1,10 +1,10 @@
 ---
-id: 1237
+
 title: 'Acupuncture: What if Everyone Had Access to It?'
 date: 2012-01-26T19:14:24+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1237
+
 
 thesis_title:
   - Acupuncture and Chinese Medicine Should be Included as an Essential Health Benefit

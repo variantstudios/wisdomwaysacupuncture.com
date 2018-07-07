@@ -1,10 +1,10 @@
 ---
-id: 1797
+
 title: 'Another Acupuncture Paleo Practitioner Approved, Amazingly Yummy and Filling Non-grain &#8220;bun/pancake&#8221; Recipe, Perfectly Balancing for Cold Winter Months'
 date: 2014-01-21T14:45:50+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1797
+
 
 thesis_title:
   - An Acupuncture Paleo Practitioner Approved "hamburger bun" Recipe

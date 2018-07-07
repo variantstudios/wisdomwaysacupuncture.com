@@ -1,10 +1,10 @@
 ---
-id: 3736
+
 title: 'Success Stories from the Acupuncture Clinic: Migraines of the Most Difficult Type to Treat'
 date: 2014-02-19T15:07:29+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=3736
+
 
 thesis_title:
   - 'Success Stories from the Acupuncture Clinic: Very Difficult Migraines'

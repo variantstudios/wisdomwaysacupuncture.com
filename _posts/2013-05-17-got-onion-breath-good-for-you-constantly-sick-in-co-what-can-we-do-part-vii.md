@@ -1,10 +1,10 @@
 ---
-id: 1504
+
 title: 'Got Onion Breath?  Good for You!: Constantly Sick in CO, What Can We Do? Part VII'
 date: 2013-05-17T16:58:25+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1504
+
 
 thesis_title:
   - "Got Onion Breath? Good for You!: An Acupuncturist's Advice for Boosting Your Immunity. Constantly Sick in CO: Part VII"

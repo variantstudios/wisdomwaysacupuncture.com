@@ -1,10 +1,10 @@
 ---
-id: 1488
+
 title: 'It&#8217;s a Kale Conspiracy!!!  An Acupuncturist gets Inundated with Kale&#8230;'
 date: 2013-04-03T16:15:48+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1488
+
 
 thesis_title:
   - "A Kale Conspiracy Puts a Mountain of Kale on this Acupuncturist's plate"

@@ -1,10 +1,10 @@
 ---
-id: 964
+
 title: 'Research: Acupuncture Effectively Treats Raynaud&#8217;s'
 date: 2011-01-08T18:47:17+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=964
+
 
 thesis_title:
   - "Acupuncture Successfully treats Raynaud's "

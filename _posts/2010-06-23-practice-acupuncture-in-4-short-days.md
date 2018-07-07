@@ -1,10 +1,10 @@
 ---
-id: 800
+
 title: '&#8220;Practice Acupuncture in 4 Short Days!&#8221;'
 date: 2010-06-23T11:31:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=800
+
 
 thesis_title:
   - 'Problems with Medical Acupuncture '

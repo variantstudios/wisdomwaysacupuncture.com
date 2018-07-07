@@ -1,10 +1,10 @@
 ---
-id: 1262
+
 title: 'Uh-MAZing Beet Recipe for Beet-Haters! An Acupuncturist&#8217;s Dream for Nourishing your Liver'
 date: 2012-03-21T18:07:50+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1262
+
 
 thesis_title:
   - "Uh-MAZing Beet Recipe for Beet Haters! An Acupuncturist's Dream for Nourishing your Liver"

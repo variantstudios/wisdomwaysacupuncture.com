@@ -1,10 +1,10 @@
 ---
-id: 1210
+
 title: 'Is Your Jing Depleted?  A Chinese Medicine Concept you may Want to Know About'
 date: 2017-12-29T10:00:27+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1210
+
 
 thesis_title:
   - 'Acupuncture and Your Jing: Is Your Jing Depleted?'

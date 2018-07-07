@@ -1,10 +1,10 @@
 ---
-id: 1912
+
 title: Acupuncture Points Proven to Exist in Scientific Study!
 date: 2014-02-12T14:08:45+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1912
+
 
 thesis_title:
   - Acupuncture Points Proven to Exist in Many Scientific Studies

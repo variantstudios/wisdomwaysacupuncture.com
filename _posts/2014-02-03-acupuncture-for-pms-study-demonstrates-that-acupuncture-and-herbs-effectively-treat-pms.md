@@ -1,10 +1,10 @@
 ---
-id: 1847
+
 title: 'Acupuncture for PMS: Good News! Study Reveals Acupuncture and Herbs both Extremely Effective'
 date: 2014-02-03T10:58:14+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1847
+
 
 thesis_title:
   - 'Acupuncture for PMS: Good News! Study Reveals Acupuncture and Herbs both Extremely Effective'

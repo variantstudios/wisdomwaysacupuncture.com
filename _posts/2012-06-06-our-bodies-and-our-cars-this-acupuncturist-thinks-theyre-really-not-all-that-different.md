@@ -1,10 +1,10 @@
 ---
-id: 1310
+
 title: 'Your Body and Your Car&#8230;This Acupuncturist Thinks They&#8217;re Not All that Different!'
 date: 2012-06-06T17:35:46+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1310
+
 
 thesis_title:
   - "Our Bodies and Our Cars...From an Acupuncture Perspective, They're Really Not All that Different."

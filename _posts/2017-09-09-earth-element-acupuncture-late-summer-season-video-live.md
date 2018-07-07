@@ -1,10 +1,10 @@
 ---
-id: 2407
+
 title: 'Late-Summer Season/Earth Element of Acupuncture VIDEO: Receiving and Nurturing for Yourself &#038; Others'
 date: 2017-09-09T15:37:25+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=2407
+
 
 thesis_title:
   - 'Earth Element of Acupuncture: Inger Giffin, Acupuncture Fort Collins, Co'

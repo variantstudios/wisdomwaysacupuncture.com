@@ -1,10 +1,10 @@
 ---
-id: 3296
+
 title: 'Fall/Metal Element Video: Finding Fulfillment &#038; Balance Through Quieter Times'
 date: 2017-10-15T16:35:37+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=3296
+
 
 thesis_title:
   - 'Balance your Metal Element: Metal 5 Elements Video'

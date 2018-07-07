@@ -1,10 +1,10 @@
 ---
-id: 1787
+
 title: 'The Big Question: Are Dietary Changes Really Necessary to Achieve Results from Acupuncture?'
 date: 2014-01-22T15:28:48+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1787
+
 
 thesis_title:
   - 'The Big Question: Are dietary changes necessary to acheive results with acupuncture'

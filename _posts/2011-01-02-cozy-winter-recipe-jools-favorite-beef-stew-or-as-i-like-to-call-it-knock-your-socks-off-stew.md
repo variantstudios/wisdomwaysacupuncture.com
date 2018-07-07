@@ -1,10 +1,10 @@
 ---
-id: 971
+
 title: 'Cozy Winter Recipe: Jool&#8217;s Favorite Beef Stew (or as I like to call it &#8220;Knock Your Socks Off Stew)'
 date: 2011-01-02T18:54:26+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=971
+
 
 thesis_title:
   - 'Cozy Winter Recipe: Qi and Yang Building Foods in Winter to Stay Balanced.'

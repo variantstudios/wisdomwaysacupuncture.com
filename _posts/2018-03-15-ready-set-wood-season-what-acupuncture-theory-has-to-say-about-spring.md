@@ -1,10 +1,10 @@
 ---
-id: 1471
+
 title: 'Ready, Set&#8230;WOOD SEASON! Acupuncture Advice for Staying Balanced in Spring'
 date: 2018-03-15T09:34:28+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1471
+
 
 thesis_title:
   - "It's WOOD SEASON! Acupuncture Advice on Staying Balanced in Spring"

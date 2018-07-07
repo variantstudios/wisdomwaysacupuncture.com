@@ -1,10 +1,10 @@
 ---
-id: 1197
+
 title: 'It&#8217;s Asian and Oriental (Chinese) Medicine Day!'
 date: 2011-10-24T10:13:33+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1197
+
 
 thesis_title:
   - "It's Asian and Oriental (Chinese) Medicine Day! "

@@ -1,10 +1,10 @@
 ---
-id: 1062
+
 title: When Eating Beef and Eggs can Help Balance your Liver
 date: 2011-05-04T22:26:52+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1062
+
 
 thesis_title:
   - 'Grass fed and pastured Beef and hens can help keep your Chinese Medicine '

@@ -1,10 +1,10 @@
 ---
-id: 1192
+
 title: Take a Hot Ginger Bath During the First Stages of a Common Cold
 date: 2011-11-10T12:51:26+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1192
+
 
 thesis_title:
   - 'Acupuncturist Recommendation: Take a Hot Ginger Bath During the First Stages of a Common Cold'
