@@ -15,7 +15,7 @@ thesis_keywords:
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 tags:
   - sleep
   - insomnia

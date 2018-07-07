@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - acupuncture, acupuncture fort collins, fort collins acupuncture, local eating
 categories:
-  - Eating with the Seasons
-  - Recipes
+  - eating-with-the-seasons
+  - recipes
 ---
 <div id="attachment_3486" style="width: 201px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/08/peach-3425656_1280.jpg"><img class=" wp-image-3486" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/08/peach-3425656_1280-150x100.jpg" alt="acupuncturist loves local peaches" width="191" height="127" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/08/peach-3425656_1280-150x100.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/08/peach-3425656_1280-300x199.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/08/peach-3425656_1280-768x510.jpg 768w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/08/peach-3425656_1280-1024x680.jpg 1024w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/08/peach-3425656_1280.jpg 1280w" sizes="(max-width: 191px) 100vw, 191px" /></a>

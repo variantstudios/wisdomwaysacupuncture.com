@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - chinese herbs, menstrual problems, period problems, hormone imbalance
 categories:
-  - My Approach/Philosophy and Stories
-  - "Women's Health"
+  - my-approach--philosophy-and-stories
+  - womens-health
 ---
 ## <span style="color: #808000;">Does Every Hormone Imbalance or Menstrual Problem Require Herbs for Successful Treatment?</span>
 

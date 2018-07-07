@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - chinese medicine, liver, wood season, five elements, acupuncture, Wood element
 categories:
-  - Five Elements
-  - Random Musings
+  - five-elements
+  - random-musings
 ---
 <table width="150" align="left">
   <tr>

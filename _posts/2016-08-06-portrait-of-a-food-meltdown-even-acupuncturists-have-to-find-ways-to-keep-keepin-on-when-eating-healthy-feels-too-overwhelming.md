@@ -17,8 +17,8 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Nutrition/Food
-  - My Paleo Life
+  - nutrition--food
+  - my-paleo-life
 ---
 <table id="content_LETTER.BLOCK21" border="0" width="819" cellspacing="0" cellpadding="0">
   <tr>

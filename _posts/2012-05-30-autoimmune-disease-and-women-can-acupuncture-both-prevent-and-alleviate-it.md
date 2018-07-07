@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
-  - Random Musings
+  - random-musings
 tags:
   - yin deficiency
   - auto-immunity

@@ -15,7 +15,7 @@ thesis_keywords:
 thesis_robots:
   - 'a:2:{s:7:"noindex";b:1;s:8:"nofollow";b:1;}'
 categories:
-  - Nutrition/Food
+  - nutrition--food
 tags:
   - Medicinal Foods
 ---

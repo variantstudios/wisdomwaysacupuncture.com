@@ -12,8 +12,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture, My acupuncture story
 categories:
-  - My Approach/Philosophy and Stories
-  - Random Musings
+  - my-approach--philosophy-and-stories
+  - random-musings
 tags:
   - acupuncture
   - acupuncture fort collins

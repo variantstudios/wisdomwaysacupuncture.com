@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Acupuncture success stories: severe fatigue and menopause symptoms'
 categories:
-  - 'Success Stories from the Clinic: Before and After Patient Cases'
+  - 'success-stories-from-the-clinic-before-and-after-patient-cases'
 tags:
   - fatigue
   - menopause

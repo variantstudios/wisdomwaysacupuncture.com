@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture, acupuncture fort collins, fort collins acupuncture, acupuncture for fibromyalgia
 categories:
-  - My Approach/Philosophy and Stories
+  - my-approach--philosophy-and-stories
 tags:
   - liver qi stagnation
   - stress

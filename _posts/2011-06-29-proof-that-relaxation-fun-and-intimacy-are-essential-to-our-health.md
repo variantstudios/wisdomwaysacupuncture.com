@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - chinese medicine, acupuncture, acupunture fort collins, fort collins acupuncture, fire element, five elements
 categories:
-  - Summer/Fire Element
+  - summer--fire-element
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/80.jpg" alt="relaxation" width="165" height="109.8" align="left" border="0" hspace="5" vspace="5" />
 

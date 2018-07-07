@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture reduces pain, Acupuncture, acupuncturist, acupuncture fort collins, fort collins acupuncture
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 ---
 ## <span style="color: #808000;">Acupuncture for Fibromyalgia and Chronic Pain: It works!</span>
 

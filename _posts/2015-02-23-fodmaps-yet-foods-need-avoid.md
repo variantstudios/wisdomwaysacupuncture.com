@@ -13,7 +13,7 @@ thesis_thumb:
 thesis_thumb_frame:
   - 'on'
 categories:
-  - Nutrition/Food
+  - nutrition--food
 ---
 <div id="attachment_2480" style="width: 173px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2015/02/FODMAPs.jpg"><img class=" wp-image-2480" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2015/02/FODMAPs-115x150.jpg" alt="FODMAPs" width="163" height="212" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2015/02/FODMAPs-115x150.jpg 115w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2015/02/FODMAPs-231x300.jpg 231w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2015/02/FODMAPs-791x1024.jpg 791w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2015/02/FODMAPs.jpg 1275w" sizes="(max-width: 163px) 100vw, 163px" /></a>

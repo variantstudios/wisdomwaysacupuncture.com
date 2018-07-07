@@ -13,7 +13,7 @@ thesis_keywords:
 thesis_title:
   - 'Can Acupuncture & Nutrition Prevent the Need for Antibiotics?'
 categories:
-  - Random Musings
+  - random-musings
 tags:
   - immunity
   - immune system

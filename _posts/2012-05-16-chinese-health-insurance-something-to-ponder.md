@@ -15,8 +15,8 @@ thesis_keywords:
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
-  - My Approach/Philosophy and Stories
-  - Random Musings
+  - my-approach--philosophy-and-stories
+  - random-musings
 tags:
   - preventative medicine
   - healthy lifestyle

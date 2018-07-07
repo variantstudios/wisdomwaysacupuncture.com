@@ -13,9 +13,9 @@ thesis_description:
 thesis_keywords:
   - Acupuncture, chinese medicine, immunity, immune system, Acupuncture Fort Collins, Fort Collins Acupuncture, eating for immunity
 categories:
-  - Spring/Wood Element
-  - Eating with the Seasons
-  - Recipes
+  - spring--wood-element
+  - eating-with-the-seasons
+  - recipes
 ---
 ##### <img src="http://ih.constantcontact.com/fs124/1102844965003/img/146.jpg" alt="mushroom spinach salad acupuncturist superfood" width="206" height="137" align="right" border="0" hspace="10" vspace="5" />**<span style="color: #999999;">(UPDATE: Since going paleo I no longer eat cheese. Booooo! :-( This sure was yummy though!)</span>** 
 

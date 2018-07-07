@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - acupuncture fort collins, fort collins acupuncture, wood element, liver element, water element
 categories:
-  - Spring/Wood Element
-  - Winter/Water Element
+  - spring--wood-element
+  - winter--water-element
 tags:
   - liver qi stagnation
 ---

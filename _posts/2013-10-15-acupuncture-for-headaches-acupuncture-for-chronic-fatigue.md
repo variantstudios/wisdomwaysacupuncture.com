@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture for headaches, acupuncture for chronic fatigue
 categories:
-  - 'Success Stories from the Clinic: Before and After Patient Cases'
+  - 'success-stories-from-the-clinic-before-and-after-patient-cases'
 tags:
   - acupuncture for headaches
   - acupuncture for chronic fatigue

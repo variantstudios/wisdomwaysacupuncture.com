@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - 'Success Stories from the Clinic: Before and After Patient Cases'
+  - 'success-stories-from-the-clinic-before-and-after-patient-cases'
 ---
 Today&#8217;s success story is about a case that has actually been one of my most difficult migraine cases ever.
 

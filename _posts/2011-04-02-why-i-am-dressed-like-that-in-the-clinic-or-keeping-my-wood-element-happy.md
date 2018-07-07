@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture fort collins, fort collins acupuncture, wood element, liver imbalance
 categories:
-  - Spring/Wood Element
+  - spring--wood-element
 ---
 &nbsp;
 

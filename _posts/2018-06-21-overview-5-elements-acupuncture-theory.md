@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - 5 Elements, Acupuncture, Acupuncture Fort Collins, Five Elements
 categories:
-  - Five Elements
+  - five-elements
 ---
 During acupuncture treatments as well as out and about when I&#8217;m giving talks, people are usually fascinated when I start talking about the 5 Elements of acupuncture theory, because they reveal so much about what makes us tick, as well as the health issues we&#8217;re likely to encounter.
 

@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Chinese Medicine, Acupuncture, Chinese Medical Nutrition, Acupuncture Fort Collins, Fort Collins Acupuncture, Acupuncture and SAD
 categories:
-  - My Approach/Philosophy and Stories
-  - Winter/Water Element
+  - my-approach--philosophy-and-stories
+  - winter--water-element
 tags:
   - seasonal affective disorder
 ---

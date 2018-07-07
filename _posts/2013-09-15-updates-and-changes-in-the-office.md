@@ -15,7 +15,7 @@ thesis_keywords:
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
-  - Uncategorized
+  - uncategorized
 ---
 <div>
   <strong>Phyoo, what a summer it&#8217;s been in the acupuncture clinic! In fact, what a year it&#8217;s been!  There has been much growth and change over here at Wisdom Ways Acupuncture, and I look forward to the new foundations making things even better. </strong>

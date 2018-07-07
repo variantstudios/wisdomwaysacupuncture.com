@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - natural fertility, natural fertility fort collins, acupuncture for fertility, acupuncture for infertility
 categories:
-  - My Approach/Philosophy and Stories
-  - "Women's Health"
+  - my-approach--philosophy-and-stories
+  - womens-health
 ---
 ## <span style="color: #808000;"><b>Natural Fertility vs. ART/IVF</b></span>
 

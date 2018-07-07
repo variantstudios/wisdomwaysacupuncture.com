@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture for migraines
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 ---
 <h2 style="text-align: center;">
   <span style="color: #808000;">Acupuncture for Migraines more effective than medications</span>

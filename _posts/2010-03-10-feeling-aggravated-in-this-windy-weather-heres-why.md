@@ -15,7 +15,7 @@ thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, liver imbalance, wood season
 image: /wp-content/uploads/2010/03/windy-days-aggravate-your-qi.jpg
 categories:
-  - Spring/Wood Element
+  - spring--wood-element
 tags:
   - wind
   - liver qi stagnation

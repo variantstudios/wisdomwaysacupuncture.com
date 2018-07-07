@@ -17,8 +17,8 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Winter/Water Element
-  - Recipes
+  - winter--water-element
+  - recipes
 tags:
   - Medicinal Foods
   - yang deficiency

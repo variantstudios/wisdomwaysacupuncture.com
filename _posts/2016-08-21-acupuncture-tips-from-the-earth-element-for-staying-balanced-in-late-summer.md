@@ -11,8 +11,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture, 5 Elements, Earth Element, Medicinal Foods, Acupuncture Fort Collins, Fort Collins acupuncture
 categories:
-  - Late Summer/Earth Element
-  - Eating with the Seasons
+  - late-summer--earth-element
+  - eating-with-the-seasons
 tags:
   - Medicinal Foods
 ---

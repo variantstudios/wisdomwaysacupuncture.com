@@ -14,7 +14,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 ---
 ## <span style="color: #808000;">How acupuncture eases pain</span>
 

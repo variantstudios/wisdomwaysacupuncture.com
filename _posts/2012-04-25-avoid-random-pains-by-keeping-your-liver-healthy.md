@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture fort collins, fort collins acupuncture, acupuncture
 categories:
-  - Random Musings
+  - random-musings
 tags:
   - liver qi stagnation
   - liver imbalance

@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture, Chinese Medicine, access to natural medicine, fort collins acupuncture
 categories:
-  - Uncategorized
+  - uncategorized
 tags:
   - acupuncture legislation
 ---

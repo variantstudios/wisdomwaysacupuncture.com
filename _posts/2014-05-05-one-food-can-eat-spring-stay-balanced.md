@@ -7,7 +7,7 @@ layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=2293
 
 categories:
-  - Eating with the Seasons
+  - eating-with-the-seasons
 ---
 <div id="attachment_1030" style="width: 160px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens.jpg"><img class="size-thumbnail wp-image-1030" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens-150x112.jpg" alt="Acupuncture nutrient therapy believes greens balance your liver" width="150" height="112" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens-150x112.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens-300x225.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens.jpg 480w" sizes="(max-width: 150px) 100vw, 150px" /></a>

@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture, acupuncture fort collins, fort collins acupuncture, metal element
 categories:
-  - Autumn/Metal Element
+  - autumn--metal-element
 ---
 &nbsp;
 

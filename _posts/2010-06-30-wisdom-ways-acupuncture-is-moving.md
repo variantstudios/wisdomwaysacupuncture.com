@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - 'Acupuncture Fort Collins, Acupuncture '
 categories:
-  - Uncategorized
+  - uncategorized
 ---
 After much consideration, I am very excited to announce that on July 1 **I will be moving my acupuncture practice just a few minutes north** into the beautiful and quiet Nature&#8217;s Healing Center.  **This office offers a serene and tranquil atmosphere that will help facilitate relaxation from the moment you walk into the waiting room.** (Hint: no more chiropractic drop-table BANGS! outside the door while you relax with your acupuncture needles!)
 

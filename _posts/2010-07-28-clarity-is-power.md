@@ -11,9 +11,9 @@ thesis_title:
 thesis_description:
   - 'Clarity is an important trait of the Fire Element.  When we can access our Fire Element, we feel clear on who we are and passionate towards life. '
 thesis_keywords:
-  - Five Elements, 5 Elements, Chinese Medicine
+  - five-elements, 5 Elements, Chinese Medicine
 categories:
-  - Summer/Fire Element
+  - summer--fire-element
 ---
 <div style="width: 180px" class="wp-caption alignleft">
   <img class=" " src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/38.jpg" alt="Fire element and Clarity" width="170" height="113" />

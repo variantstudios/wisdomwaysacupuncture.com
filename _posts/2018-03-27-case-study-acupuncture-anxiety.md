@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - stress, anxiety
 categories:
-  - 'Success Stories from the Clinic: Before and After Patient Cases'
-  - Uncategorized
+  - 'success-stories-from-the-clinic-before-and-after-patient-cases'
+  - uncategorized
 tags:
   - acupuncture and anxiety
 ---

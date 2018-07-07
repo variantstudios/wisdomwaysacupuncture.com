@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture, acupuncturist, acupuncture fort collins, fort collins acupuncture, acupuncture vision, acupuncture eyes
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 ---
 [<img class="alignleft size-thumbnail wp-image-1761" title="Acupuncture for the Eyes_11 (2)" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2-150x136.jpg" alt="Acupuncture helps vision" width="150" height="136" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2-150x136.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2-300x272.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2.jpg 323w" sizes="(max-width: 150px) 100vw, 150px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2.jpg)While we in the field of acupuncture know that it works because we see the results every day and have extensively studied the archives dating back thousands of years of Chinese medicine, it is always cool when a new study demonstrates not only _that_, but _how_,  acupuncture works. This <a title="Acupuncture point UB 60 improves vision" href="http://www.healthcmi.com/Acupuncture-Continuing-Education-News/786-mriub60tb5#sthash.AlhSvOOR.gbpl" target="_blank" rel="noopener">study</a> is citing the affects of a common acupuncture point on the outer ankle, Urinary Bladder (UB) 60, for improving vision.
 

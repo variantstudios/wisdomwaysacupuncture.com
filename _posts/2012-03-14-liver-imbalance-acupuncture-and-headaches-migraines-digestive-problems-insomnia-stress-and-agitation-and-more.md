@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, liver imbalance
 categories:
-  - My Approach/Philosophy and Stories
-  - Spring/Wood Element
+  - my-approach--philosophy-and-stories
+  - spring--wood-element
 tags:
   - liver qi stagnation
   - stress

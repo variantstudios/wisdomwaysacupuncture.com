@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - 'Acupuncture Fort Collins, Fort Collins Acupuncture, metal element, '
 categories:
-  - Autumn/Metal Element
-  - Random Musings
+  - autumn--metal-element
+  - random-musings
 ---
 <img class="" style="margin: 5px; border: 0pt none;" title="Acupuncture reminds us what is valuable." src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/53.jpg" alt="Acupuncture reminds us to focus on what's valuable" width="240" height="157" align="left" border="0" hspace="5" vspace="5" />
 

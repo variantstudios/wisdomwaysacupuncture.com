@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - inflammation and gut health, leaky gut and inflammation
 categories:
-  - Random Musings
+  - random-musings
 ---
 I am so excited after seeing one of my patients today!  She is someone who recently started acupuncture with me, and is recovering from very serious illness after the side-effects of a medication that they have now found can cause blood cancer and other serious blood disorders. In Chinese medicine, we say that once something has gotten to the level of the blood, it is among the most serious of imbalances or diseases. This patient is now having inflammation throughout her entire system.
 

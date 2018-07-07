@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - migraines, acupuncture for migraines, acupuncture for migraines in Fort Collins
 categories:
-  - 'Success Stories from the Clinic: Before and After Patient Cases'
+  - 'success-stories-from-the-clinic-before-and-after-patient-cases'
 tags:
   - migraines
 ---

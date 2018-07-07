@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - "acupuncture, acupuncture fort collins, fort collins acupuncture, raynaud's"
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 tags:
   - "raynaud's"
 ---

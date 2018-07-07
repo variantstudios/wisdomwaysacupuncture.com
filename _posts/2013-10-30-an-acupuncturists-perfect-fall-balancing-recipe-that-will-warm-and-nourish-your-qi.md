@@ -13,8 +13,8 @@ thesis_description:
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
-  - Eating with the Seasons
-  - Recipes
+  - eating-with-the-seasons
+  - recipes
 ---
 <div id="attachment_1659" style="width: 194px" class="wp-caption alignleft">
   <a title="Acupuncture recipe for perfect Qi building fall meal" href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato.jpg"><img class="size-thumbnail wp-image-1659 " title="acupuncturist roasted chicken and tomato" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato-150x112.jpg" alt="An acupuncturist's recipe for a fall balancing dinner" width="184" height="137" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato-150x112.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato-300x225.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato-1024x768.jpg 1024w" sizes="(max-width: 184px) 100vw, 184px" /></a>

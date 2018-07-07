@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
-  - Nutrition/Food
+  - nutrition--food
 ---
 <div>
   <img src="http://ih.constantcontact.com/fs124/1102844965003/img/148.jpg" alt="berries help acupuncture" width="186" height="124" align="left" border="0" hspace="10" vspace="5" /> After a short break to welcome in Spring from an acupuncture perspective with my article on the Wood/Spring season, it&#8217;s time to continue our discussion on the immune system and how we can best take care of it using nutrition. (see recent <a href="http://r20.rs6.net/tn.jsp?e=0013_swFUGQfzXxRSL-U8qDDC9vVnk4b-ZTwpzxc1gzD6X9OAuekUBvfolFeWAuDfZW4jQ-_IgZtEUfVuufm3D4bRBXfYCI020Wr1b4rJ40MrfGbweab1tC9TKfdTsI0HcsSfVAihFwzgkzftW1_k8GwnmtX8uh1w2f" target="_blank" rel="noopener">blogs </a>for the complete series) As those of you  who have been following this series know, it was prompted out of my concern over the frequency of common colds that I see people, both in my acupuncture practice as well as in the general public, coming down with since I moved to this climate where our weather constantly changes.

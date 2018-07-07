@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - nutrition fort collins, acupuncture nutrition fort collins
 categories:
-  - Nutrition/Food
+  - nutrition--food
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/162.png" alt="acupuncture and grains" width="189" height="141" align="left" border="0" hspace="5" vspace="5" />**If you&#8217;ve been coming in to see me lately, you&#8217;ve probably noticed that I&#8217;ve been talking about grains more than I ever did before. Actually, I haven&#8217;t just been talking about grains, I&#8217;ve been \*thinking\* about grains&#8230;a _lot_.** 
 

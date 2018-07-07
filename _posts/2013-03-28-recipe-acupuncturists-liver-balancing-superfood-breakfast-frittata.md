@@ -17,8 +17,8 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Eating with the Seasons
-  - Recipes
+  - eating-with-the-seasons
+  - recipes
 tags:
   - Medicinal Foods
 ---

@@ -15,8 +15,8 @@ thesis_keywords:
 thesis_image:
   - http://abcnews.go.com/Health/study-shows-acupuncture-curb-severity-hot-flashes-menopause/story?id=13075594
 categories:
-  - Exciting Acupuncture Research
-  - "Women's Health"
+  - exciting-acupuncture-research
+  - womens-health
 tags:
   - acupuncture and hot flashes
   - acupuncture and menopause

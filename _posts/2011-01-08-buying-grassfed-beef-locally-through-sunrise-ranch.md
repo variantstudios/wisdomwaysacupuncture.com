@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, pastured animals, grass-fed
 categories:
-  - Nutrition/Food
+  - nutrition--food
 tags:
   - local food
   - grass-fed

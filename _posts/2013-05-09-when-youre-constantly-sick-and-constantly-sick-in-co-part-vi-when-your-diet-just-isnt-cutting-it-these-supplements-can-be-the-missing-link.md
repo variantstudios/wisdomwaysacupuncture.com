@@ -19,7 +19,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Nutrition/Food
+  - nutrition--food
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/154.jpg" alt="IgG Helps Acupuncture for Immunity" width="177" height="174" align="left" border="0" hspace="10" vspace="5" />
 

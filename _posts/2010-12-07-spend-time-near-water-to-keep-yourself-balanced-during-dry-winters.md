@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, water element,
 categories:
-  - Winter/Water Element
-  - Random Musings
+  - winter--water-element
+  - random-musings
 tags:
   - positive ions
 ---

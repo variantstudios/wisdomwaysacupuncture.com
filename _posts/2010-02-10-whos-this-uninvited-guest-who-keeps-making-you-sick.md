@@ -18,7 +18,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - My Approach/Philosophy and Stories
+  - my-approach--philosophy-and-stories
 tags:
   - evil qi
   - strengthening your immune system

@@ -14,7 +14,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, seasonal eating
 categories:
-  - Nutrition/Food
+  - nutrition--food
 ---
 So I got your attention, eh?
 

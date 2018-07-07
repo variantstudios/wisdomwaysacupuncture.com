@@ -17,9 +17,9 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Spring/Wood Element
-  - Eating with the Seasons
-  - Recipes
+  - spring--wood-element
+  - eating-with-the-seasons
+  - recipes
 tags:
   - Medicinal Foods
   - liver blood

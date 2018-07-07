@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture, alternative medicine, chinese medicine, acupuncture fort collins, fort collins acupuncture, alternative medicine, integrative medicine
 categories:
-  - Uncategorized
+  - uncategorized
 tags:
   - acupuncture and insurance
 ---

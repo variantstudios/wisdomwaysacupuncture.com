@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - acupuncture for PMS, Chinese herbs for PMS
 categories:
-  - Exciting Acupuncture Research
-  - "Women's Health"
+  - exciting-acupuncture-research
+  - womens-health
 tags:
   - PMS
 ---
