@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Summer/Fire Element
+  - summer--fire-element
 tags:
   - "Meagan O'Nan"
 ---

@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Eating with the Seasons
+  - eating-with-the-seasons
 tags:
   - acupuncture
   - 5 Elements

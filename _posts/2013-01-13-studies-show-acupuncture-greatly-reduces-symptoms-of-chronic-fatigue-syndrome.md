@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture, chinese medicine, chronic fatigue, fibromyalgia, Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 ---
 <div id="attachment_1383" style="width: 130px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/01/fatigue.jpg"><img class="size-full wp-image-1383" title="Acupuncture help chronic fatigue" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/01/fatigue.jpg" alt="Chinese medicine helps Chronic fatigue" width="120" height="80" /></a>

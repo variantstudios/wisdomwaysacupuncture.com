@@ -14,7 +14,7 @@ thesis_keywords:
   - acupuncture and Christianity, Acupuncture Fort Collins
 image: /wp-content/uploads/2014/03/christianity-and-acupuncture.gif
 categories:
-  - Uncategorized
+  - uncategorized
 tags:
   - Acupuncture and Christianity
   - Acupuncture and Religion

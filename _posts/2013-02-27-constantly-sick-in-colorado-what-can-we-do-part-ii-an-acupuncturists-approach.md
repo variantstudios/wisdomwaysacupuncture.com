@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
-  - Nutrition/Food
+  - nutrition--food
 tags:
   - acupuncture fort collins
   - fort collins acupuncture

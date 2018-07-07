@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - acupuncture, acupuncture fort collins, fort collins acupuncture
 categories:
-  - 'Success Stories from the Clinic: Before and After Patient Cases'
-  - Winter/Water Element
+  - 'success-stories-from-the-clinic-before-and-after-patient-cases'
+  - winter--water-element
 ---
 **We’re in the middle of winter, and that means in my acupuncture clinic I am commonly treating issues which have to do with the kidneys and bladder, the two organs associated with the [Water Element](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), according to Chinese Medicine.
   

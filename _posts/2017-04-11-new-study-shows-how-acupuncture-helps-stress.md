@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture for stress, acupuncture helps stress
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 tags:
   - liver qi stagnation
   - liver imbalance

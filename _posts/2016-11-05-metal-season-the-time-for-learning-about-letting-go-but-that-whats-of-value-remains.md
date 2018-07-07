@@ -13,12 +13,12 @@ thesis_description:
 thesis_keywords:
   - acupuncture, western medicicne, alternative medicine, metal element, five elements, chinese medicine, acupuncture fort collins, fort collins acupuncture, alternative medicine, integrative medicine
 categories:
-  - Autumn/Metal Element
-  - Eating with the Seasons
+  - autumn--metal-element
+  - eating-with-the-seasons
 tags:
   - 5 Elements
   - acupuncture fort collins
-  - Five Elements
+  - five-elements
   - Metal Element
   - seasonal eating
 ---

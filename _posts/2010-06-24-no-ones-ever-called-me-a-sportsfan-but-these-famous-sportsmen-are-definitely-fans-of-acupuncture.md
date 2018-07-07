@@ -15,7 +15,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture fort collins, fort collins acupuncture
 categories:
-  - Uncategorized
+  - uncategorized
 ---
 <p style="text-align: center;">
   <strong>No one&#8217;s ever accused me of being a sportsfan.</strong>

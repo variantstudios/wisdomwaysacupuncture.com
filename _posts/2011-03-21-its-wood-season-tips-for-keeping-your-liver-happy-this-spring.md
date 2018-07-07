@@ -15,14 +15,14 @@ thesis_keywords:
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
-  - Five Elements
+  - five-elements
 tags:
   - acupuncture
   - 5 Elements
   - Wood season
   - Wood element
   - Chinese medicine
-  - Five Elements
+  - five-elements
 ---
 <p style="text-align: center;">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/sapling.jpg"><img class="size-thumbnail wp-image-1022 alignleft" title="Sapling in Spring" alt="It's Wood Season according to Chinese Medicine, and all is bursting forth" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/sapling-150x112.jpg" width="150" height="112" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/sapling-150x112.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/sapling.jpg 259w" sizes="(max-width: 150px) 100vw, 150px" /></a><strong><em>“And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom”   – Anaïs Nin</em></strong>

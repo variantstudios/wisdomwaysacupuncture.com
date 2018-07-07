@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Paleo practitioner, paleo hamburger buns
 categories:
-  - My Paleo Life
-  - Recipes
+  - my-paleo-life
+  - recipes
 ---
 &nbsp;
 

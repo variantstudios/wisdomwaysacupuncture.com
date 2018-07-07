@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture and depression, acupuncture, acupuncture fort collins
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 tags:
   - depression
 ---

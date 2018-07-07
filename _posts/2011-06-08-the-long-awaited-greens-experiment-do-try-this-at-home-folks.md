@@ -15,7 +15,7 @@ thesis_keywords:
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
-  - Eating with the Seasons
+  - eating-with-the-seasons
 ---
 [<img class="size-thumbnail wp-image-1069 alignleft" title="Kale is good for your liver" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/06/kale-150x112.jpg" alt="Kale balances your liver" width="150" height="112" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/06/kale-150x112.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/06/kale-300x225.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/06/kale.jpg 680w" sizes="(max-width: 150px) 100vw, 150px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/06/kale.jpg)**Is this another shameless plug to try to get you to eat more greens?**
 

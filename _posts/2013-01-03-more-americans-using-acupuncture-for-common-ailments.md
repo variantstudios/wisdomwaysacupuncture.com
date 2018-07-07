@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture fort collins, fort collins acupuncture
 categories:
-  - Random Musings
+  - random-musings
 ---
 [<img class="alignleft size-thumbnail wp-image-726" title="man laying with acupuncture needles" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/man-laying-with-acupuncture-needles-135x150.jpg" alt="acupuncture" width="135" height="150" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/man-laying-with-acupuncture-needles-135x150.jpg 135w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/man-laying-with-acupuncture-needles.jpg 138w" sizes="(max-width: 135px) 100vw, 135px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/man-laying-with-acupuncture-needles.jpg)A new survey is indicating that more and more Americans are using acupuncture not only as a complementary or alternative treatment, but as a primary form of medicine focusing on the promotion of general health&#8230;what acupuncturists would call &#8220;balance&#8221;.
 

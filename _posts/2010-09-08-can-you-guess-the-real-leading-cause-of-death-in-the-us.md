@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Random Musings
+  - random-musings
 tags:
   - western medicine
 ---

@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture, acupuncture fort collins, fort collins acupuncture, common colds
 categories:
-  - My Approach/Philosophy and Stories
+  - my-approach--philosophy-and-stories
 ---
 **<img src="http://ih.constantcontact.com/fs085/1102844965003/img/92.jpg" alt="Hot Baths for Common Colds" width="120" height="120" align="left" border="0" hspace="5" vspace="5" />As we have hit cold season full-force, the past couple weeks I&#8217;ve been focusing on what we can do to keep our immune systems strong, and herbs we can take if we&#8217;ve come down with a cold. Today I&#8217;d like to share another tip, which can be used right when you first feel the cold symptoms coming on.**
 

@@ -15,8 +15,8 @@ thesis_keywords:
 thesis_thumb:
   - http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg
 categories:
-  - Spring/Wood Element
-  - Eating with the Seasons
+  - spring--wood-element
+  - eating-with-the-seasons
 tags:
   - liver qi stagnation
   - liver imbalance

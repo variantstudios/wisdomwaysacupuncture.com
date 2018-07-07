@@ -18,8 +18,8 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Nutrition/Food
-  - Random Musings
+  - nutrition--food
+  - random-musings
 tags:
   - intuitive eating
   - balanced eating

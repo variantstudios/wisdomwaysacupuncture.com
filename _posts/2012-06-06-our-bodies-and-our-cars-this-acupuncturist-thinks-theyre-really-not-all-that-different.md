@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - acupuncture fort collins, fort collins acupuncture, yin deficiency
 categories:
-  - My Approach/Philosophy and Stories
-  - Random Musings
+  - my-approach--philosophy-and-stories
+  - random-musings
 tags:
   - yin deficiency
 ---

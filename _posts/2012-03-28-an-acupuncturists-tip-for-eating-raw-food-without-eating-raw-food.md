@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - 'acupuncture, acupuncture fort collins, fort collins acupuncture, '
 categories:
-  - Nutrition/Food
+  - nutrition--food
 tags:
   - Medicinal Foods
 ---

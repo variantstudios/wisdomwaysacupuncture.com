@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
-  - Nutrition/Food
-  - Random Musings
+  - nutrition--food
+  - random-musings
 ---
 **This spring, an interesting and unlikely event occurred&#8230;yours truly conducted a spontaneous and unplanned study in which I ate worse than I&#8217;ve eaten since I moved out of my childhood home after high school.** I ate more pints of Ben & Jerry&#8217;s in those short 10 weeks than I had in the last 10 years combined.  I ate more home-popped popcorn for dinner than any person needs to eat in a year.  (OK so it _was_ organic&#8230;) I barely cooked at all, I ate burritos and &#8220;health&#8221; bars, and had less servings of vegetables in a whole week than I usually do in a day.
 

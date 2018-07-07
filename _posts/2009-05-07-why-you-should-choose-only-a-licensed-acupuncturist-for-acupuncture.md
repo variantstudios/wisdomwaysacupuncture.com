@@ -19,8 +19,8 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - My Approach/Philosophy and Stories
-  - Random Musings
+  - my-approach--philosophy-and-stories
+  - random-musings
 tags:
   - Problems with medical acupuncture
 ---

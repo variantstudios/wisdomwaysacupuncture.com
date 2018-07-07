@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - Wood Element, Acupuncture Irritability, Acupuncture Anger, Acupuncture Anxiety, Acupuncture Stress, Wood Element
 categories:
-  - Spring/Wood Element
+  - spring--wood-element
 tags:
   - liver qi stagnation
   - liver imbalance

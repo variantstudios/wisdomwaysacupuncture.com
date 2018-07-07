@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Acupuncture theory says that many mushrooms clear dampness out of the system, and western medicine says they are anti-cancer. '
 categories:
-  - Nutrition/Food
+  - nutrition--food
 tags:
   - acupuncture fort collins
   - fort collins acupuncture

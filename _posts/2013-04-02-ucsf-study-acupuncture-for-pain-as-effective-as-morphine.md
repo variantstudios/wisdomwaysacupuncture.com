@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 ---
 ## <span style="color: #808000;"><strong>Using Acupuncture for pain as a substitute for drugs like morphine</strong></span>
 

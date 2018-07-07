@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Summer/Fire Element
+  - summer--fire-element
 ---
 <div style="width: 145px" class="wp-caption alignleft">
   <img style="margin: 5px; border: 0pt none;" title="Acupuncture theory and Chinese Medicine help you awaken your heart fire." src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/81.jpg" alt="Acupuncture: summer and your heart fire" width="135" height="135" align="left" border="0" hspace="5" vspace="5" />

@@ -15,7 +15,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Late Summer/Earth Element
+  - late-summer--earth-element
 ---
 **Hello and welcome to [Earth Element Season](http://www.wisdomwaysacupuncture.com/2011/09/10/late-summer-is-the-most-important-time-to-nourish-your-qi/)! &#8212; an extra season that we recognize in Chinese medicine called &#8220;Late Summer&#8221;.**
 

@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Uncategorized
+  - uncategorized
 ---
 **Over the past several years, several non-acupuncture professionals, including Physical Therapists (PT) have started performing the insertion of needles under the name of &#8220;dry needling&#8221;, or &#8220;trigger point dry needling&#8221; (TDN).  While it is basically performing a technique of acupuncture known as &#8220;ashi point&#8221; needling (or, needling a local point of sensitivity) it has been renamed and classified as not practicing acupuncture, and thus opening the flood gates for pretty much any medical person to practice acupuncture.** 
 

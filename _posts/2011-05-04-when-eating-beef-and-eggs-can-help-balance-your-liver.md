@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, pastured animals, grass-fed, stress, anxiety
 categories:
-  - Spring/Wood Element
-  - Nutrition/Food
+  - spring--wood-element
+  - nutrition--food
 tags:
   - liver imbalance
 ---

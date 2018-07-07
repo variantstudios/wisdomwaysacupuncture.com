@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, period pain, menstrual pain
 categories:
-  - Exciting Acupuncture Research
-  - "Women's Health"
+  - exciting-acupuncture-research
+  - womens-health
 ---
 [<img class="alignleft wp-image-3630" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/young-woman-2239269_1920-150x111.jpg" alt="acupuncture helps menstrual cramps" width="254" height="188" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/young-woman-2239269_1920-150x111.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/young-woman-2239269_1920-300x222.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/young-woman-2239269_1920-768x568.jpg 768w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/young-woman-2239269_1920-1024x757.jpg 1024w" sizes="(max-width: 254px) 100vw, 254px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/young-woman-2239269_1920.jpg)**An [acupuncture study](http://www.healthcmi.com/Acupuncture-Continuing-Education-News/1780-acupuncture-alleviates-menstrual-pain-in-australia) in Australia confirmed what I see clinically with so many of my patients: that acupuncture is very beneficial for menstrual/period pain.**
 

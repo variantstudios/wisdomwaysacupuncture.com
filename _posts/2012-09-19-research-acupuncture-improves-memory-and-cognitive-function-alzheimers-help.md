@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - acupuncture and poor memory, acupuncture and brain fog, acupuncture fort collins, fort collins acupuncture
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 tags:
   - brain fog
   - cognitive function

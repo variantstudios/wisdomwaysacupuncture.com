@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - acupuncture, acupuncture fort collins, fort collins acupuncture, earth element
 categories:
-  - Late Summer/Earth Element
-  - Eating with the Seasons
+  - late-summer--earth-element
+  - eating-with-the-seasons
 ---
 <table style="height: 276px;" width="276" align="left">
   <tr>

@@ -14,7 +14,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture legislation, acupuncture in Colorado, acupuncture and insurance, acupuncture parity bill
 categories:
-  - Uncategorized
+  - uncategorized
 tags:
   - acupuncture and insurance
 ---

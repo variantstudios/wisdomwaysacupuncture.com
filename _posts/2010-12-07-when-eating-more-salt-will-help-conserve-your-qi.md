@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, water element, salt
 categories:
-  - Winter/Water Element
-  - Eating with the Seasons
+  - winter--water-element
+  - eating-with-the-seasons
 ---
 <div id="attachment_945" style="width: 129px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/12/salt.jpg"><img class="size-full wp-image-945" title="salt" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/12/salt.jpg" alt="Salt can Help Your Qi" width="119" height="78" /></a>

@@ -15,7 +15,7 @@ thesis_keywords:
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
-  - Recipes
+  - recipes
 ---
 ##### <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/158.jpg" alt="kale hummus acupuncture" width="207" height="137" align="right" border="0" hspace="10" vspace="5" /> <span style="color: #999999;">(post update: This was written before I went paleo&#8230;you can still make it by just subbing steamed cauliflower for the beans!)</span>
 

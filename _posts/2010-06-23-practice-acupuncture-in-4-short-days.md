@@ -14,7 +14,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, medical acupuncture
 categories:
-  - Uncategorized
+  - uncategorized
 tags:
   - medical acupuncture
   - dry needling

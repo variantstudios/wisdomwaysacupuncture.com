@@ -17,8 +17,8 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Autumn/Metal Element
-  - Random Musings
+  - autumn--metal-element
+  - random-musings
 ---
 <p style="text-align: left;">
   <img src="http://ih.constantcontact.com/fs085/1102844965003/img/93.jpg" alt="Shopping" width="155" height="105" align="left" border="0" hspace="5" vspace="5" /><strong><span style="color: #808000;">Stuff, stuff, and more stuff!</span> </strong>

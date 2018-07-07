@@ -9,8 +9,8 @@ guid: http://www.wisdomwaysacupuncture.com/?p=2396
 thesis_description:
   - "In the wake of William's death, and the utter sadness I know so many of us share over the loss of this beautiful spirit, I felt moved to write a post from the perspective of the 5 Elements---explaining how depression fits in, what it means that we're in the middle of the Fire element, how it all connects, and a few things we can all do to help keep a little more joy alive in our lives."
 categories:
-  - Summer/Fire Element
-  - Autumn/Metal Element
+  - summer--fire-element
+  - autumn--metal-element
 ---
 <div id="attachment_2397" style="width: 222px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/08/robin-williams.jpg"><img class=" wp-image-2397 " src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/08/robin-williams-150x105.jpg" alt="" width="212" height="157" /></a>

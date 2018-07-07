@@ -17,7 +17,7 @@ thesis_post_image_horizontal:
 thesis_post_image_vertical:
   - after-headline
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 tags:
   - acupuncture for depression
 ---

@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Winter/Water Element
+  - winter--water-element
 ---
 **[<img class="alignleft wp-image-3511" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/01/winter-2952290_1920-150x113.jpg" alt="Water Element Acupunture 5 Elements" width="202" height="152" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/01/winter-2952290_1920-150x113.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/01/winter-2952290_1920-300x225.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/01/winter-2952290_1920-768x576.jpg 768w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/01/winter-2952290_1920-1024x768.jpg 1024w" sizes="(max-width: 202px) 100vw, 202px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/01/winter-2952290_1920.jpg)It’s the midst of winter and all is elusive…the days are short and dark, the fields barren.  Not much occurs on the surface, and when we are in rhythm with the patterns of nature, our lives reflect this dormancy as well.  In this time of rest, and especially in our do-ing culture, it is all too easy to underestimate the subtleties of power and transformation that are brewing beneath the surface.**
 

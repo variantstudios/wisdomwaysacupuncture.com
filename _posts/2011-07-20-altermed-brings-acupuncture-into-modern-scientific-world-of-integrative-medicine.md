@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Random Musings
+  - random-musings
 ---
 **[<img class="alignleft size-thumbnail wp-image-1121" title="Alternative Medicine Research Foundation Logo" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/07/altermed-logo-150x111.jpg" alt="AlterMed Research Foundation" width="150" height="111" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/07/altermed-logo-150x111.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/07/altermed-logo-300x223.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/07/altermed-logo.jpeg 600w" sizes="(max-width: 150px) 100vw, 150px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/07/altermed-logo.jpeg)This weekend, as an acupuncturist I was honored to participate in the AlterMed Colorado Integrative Medicine Conference. I walked away from the conference with many ah-ha&#8217;s, some of which I am excited to share with all of you because I wish to convey to you how powerful your choice to care for yourself with Chinese Medicine has been.** 
 

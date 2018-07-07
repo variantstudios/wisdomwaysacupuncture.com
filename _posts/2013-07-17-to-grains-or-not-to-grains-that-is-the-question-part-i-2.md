@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - nutrition fort collins, acupuncture nutrition fort collins
 categories:
-  - Nutrition/Food
+  - nutrition--food
 ---
 &nbsp;
 

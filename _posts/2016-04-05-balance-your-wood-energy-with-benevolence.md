@@ -13,13 +13,13 @@ thesis_description:
 thesis_keywords:
   - Wood Element, Chinese Medicine and Wood element, five elements, 5 elements, Liver
 categories:
-  - Spring/Wood Element
+  - spring--wood-element
 tags:
   - acupuncture
   - 5 Elements
   - Wood element
   - Chinese medicine
-  - Five Elements
+  - five-elements
 ---
 <table width="180" align="left">
   <tr>

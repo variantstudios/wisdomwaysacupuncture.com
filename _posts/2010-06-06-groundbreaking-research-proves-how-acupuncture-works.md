@@ -14,7 +14,7 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 ---
 **A scientific breakthrough has finally been able to prove how acupuncture works.**
 

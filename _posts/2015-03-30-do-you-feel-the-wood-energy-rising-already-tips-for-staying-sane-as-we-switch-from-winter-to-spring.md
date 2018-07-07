@@ -23,7 +23,7 @@ ampforwp_custom_content_editor_checkbox:
 ampforwp-amp-on-off:
   - default
 categories:
-  - Spring/Wood Element
+  - spring--wood-element
 tags:
   - liver qi stagnation
   - liver imbalance

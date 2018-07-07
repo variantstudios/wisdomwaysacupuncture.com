@@ -13,8 +13,8 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncturist, Fort Collins Acupuncture, Acupuncturist Fort Collins
 categories:
-  - My Approach/Philosophy and Stories
-  - Nutrition/Food
+  - my-approach--philosophy-and-stories
+  - nutrition--food
 ---
 It&#8217;s the beginning of the year and just about the time when the motivation to keep New Year&#8217;s resolutions is wearing off fast. While I&#8217;m not one for New Year&#8217;s resolutions (mostly because I&#8217;ve never really been successful at keeping them, and as an acupuncturist prefer instead to just keep myself on track and balanced in smaller increments all throughout the year), there is no denying that many people feel that the beginning of the year is an opportunity for a fresh start,  a chance for a &#8220;do-over&#8221;. I don&#8217;t know the stats around it, but I&#8217;m sure some people do go on to have success and make big changes that stick, and which dramatically improve their lives.
 

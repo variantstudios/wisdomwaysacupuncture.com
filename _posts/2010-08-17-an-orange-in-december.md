@@ -13,13 +13,13 @@ thesis_description:
 thesis_keywords:
   - Acupuncture Fort Collins, Fort Collins Acupuncture, fire element, gratitude
 categories:
-  - Summer/Fire Element
-  - Eating with the Seasons
-  - Random Musings
+  - summer--fire-element
+  - eating-with-the-seasons
+  - random-musings
 tags:
   - 5 Elements
   - Fire element
-  - Five Elements
+  - five-elements
   - gratitude
 ---
 <div id="attachment_3579" style="width: 244px" class="wp-caption alignleft">

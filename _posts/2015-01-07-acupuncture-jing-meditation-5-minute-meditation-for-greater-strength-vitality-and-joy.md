@@ -14,8 +14,8 @@ thesis_description:
 thesis_keywords:
   - Chinese Medicine, Acupuncture, Chinese Medical Nutrition, Water Element, Kidneys, Jing, Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
-  - My Approach/Philosophy and Stories
-  - Winter/Water Element
+  - my-approach--philosophy-and-stories
+  - winter--water-element
 tags:
   - acupuncture
   - 5 Elements

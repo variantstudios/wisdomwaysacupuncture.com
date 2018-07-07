@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Nutrition/Food
+  - nutrition--food
 ---
 <div id="attachment_1505" style="width: 160px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/05/onions-and-garlic.jpg"><img class="size-thumbnail wp-image-1505" title="onions and garlic acupuncture" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/05/onions-and-garlic-150x126.jpg" alt="acupuncture believes onions are good for immunity" width="150" height="126" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/05/onions-and-garlic-150x126.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/05/onions-and-garlic.jpg 245w" sizes="(max-width: 150px) 100vw, 150px" /></a>

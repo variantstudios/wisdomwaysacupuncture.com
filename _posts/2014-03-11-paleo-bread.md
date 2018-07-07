@@ -17,8 +17,8 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - My Paleo Life
-  - Recipes
+  - my-paleo-life
+  - recipes
 ---
 [<img class=" wp-image-1990 alignleft" style="border: 0.5px solid black;" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/IMG_3925-150x112.jpg" alt="Acupuncture and bread" width="303" height="226" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/IMG_3925-150x112.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/IMG_3925-300x225.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/IMG_3925-1024x768.jpg 1024w" sizes="(max-width: 303px) 100vw, 303px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/03/IMG_3925.jpg)
 

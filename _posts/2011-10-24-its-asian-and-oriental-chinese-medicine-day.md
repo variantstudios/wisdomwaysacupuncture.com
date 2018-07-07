@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Uncategorized
+  - uncategorized
 ---
 <span style="color: #000000; font-family: Arial,Helvetica,sans-serif;">Today is AOM day!  AOM stands for Asian and Oriental Medicine, another term used to describe the group of modalities included in Chinese Medicine, which includes acupuncture, Chinese herbal medicine, Asian bodywork, Qi Gong, and Chinese nutritional therapy.  AOM day is part of an effort designed to increase public awareness of the progress, promise, and benefits of acupuncture and Oriental medicine in the field of modern medicine. </span>
 

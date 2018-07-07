@@ -17,7 +17,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - My Approach/Philosophy and Stories
+  - my-approach--philosophy-and-stories
 ---
 ## <span style="color: #808000;">The Change from Classical to Traditional Chinese Medicine</span>
 

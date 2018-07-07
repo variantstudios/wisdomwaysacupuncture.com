@@ -17,8 +17,8 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - 'Success Stories from the Clinic: Before and After Patient Cases'
-  - "Women's Health"
+  - 'success-stories-from-the-clinic-before-and-after-patient-cases'
+  - womens-health
 tags:
   - fertility
 ---

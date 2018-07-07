@@ -16,7 +16,7 @@ thesis_thumb_width:
 thesis_thumb_height:
   - "66"
 categories:
-  - Exciting Acupuncture Research
+  - exciting-acupuncture-research
 tags:
   - fibromyalgia
 ---

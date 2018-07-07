@@ -14,9 +14,9 @@ thesis_keywords:
   - Acupuncture Fort Collins, Acupuncture studies, acupuncture points proven to exist
 image: /wp-content/uploads/2014/02/acupuncture-points-light-up.jpg
 categories:
-  - My Approach/Philosophy and Stories
-  - Exciting Acupuncture Research
-  - Random Musings
+  - my-approach--philosophy-and-stories
+  - exciting-acupuncture-research
+  - random-musings
 ---
 [<img class="size-thumbnail wp-image-664 alignleft" title="Acupunctture Channels " src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/back-of-acupuncture-man-100x150.jpg" alt="acupuncture meridians and acupuncture points" width="100" height="150" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/back-of-acupuncture-man-100x150.jpg 100w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/back-of-acupuncture-man.jpg 135w" sizes="(max-width: 100px) 100vw, 100px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/back-of-acupuncture-man.jpg)**It seems that science has finally been able to &#8220;see&#8221; and therefore acknowledge the existence of acupuncture points! In some exciting studies that were recently done, researchers used CT scans on the body to measure the difference between acupuncture and non-acupuncture points. The resulting images showed that there are marked differences between the locations that acupuncturists mapped out long ago&#8212;and which are now used in acupuncture treatment&#8212;and non acupuncture points.**
 

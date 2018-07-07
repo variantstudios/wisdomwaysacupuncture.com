@@ -13,9 +13,9 @@ thesis_description:
 thesis_keywords:
   - endometriosis, acupuncture for endometriosis, acupuncture for endometriosis in Fort Collins
 categories:
-  - My Approach/Philosophy and Stories
-  - Exciting Acupuncture Research
-  - "Women's Health"
+  - my-approach--philosophy-and-stories
+  - exciting-acupuncture-research
+  - womens-health
 ---
 <div id="attachment_3635" style="width: 160px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920.jpg"><img class="size-thumbnail wp-image-3635" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg" alt="endometriosis acupuncture" width="150" height="100" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-300x200.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-768x513.jpg 768w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-1024x684.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /></a>
