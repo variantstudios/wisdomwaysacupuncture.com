@@ -5,7 +5,7 @@ date: 2014-05-05T11:26:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=2293
-permalink: /2014/05/05/one-food-can-eat-spring-stay-balanced/
+
 categories:
   - Eating with the Seasons
 ---

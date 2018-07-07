@@ -5,7 +5,7 @@ date: 2014-01-07T15:42:55+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1685
-permalink: /2014/01/07/acupuncture-for-fibromyalgia-and-chronic-pain-patients-meta-analysis-reveals-acupuncture-to-be-an-effective-treatment-option/
+
 thesis_title:
   - Meta-Analysis shows Acupuncture Effectively Treats Chronic Pain
 thesis_description:

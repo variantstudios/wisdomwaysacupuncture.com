@@ -5,7 +5,7 @@ date: 2013-05-17T17:57:10+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1514
-permalink: /2013/05/17/food-revolution-day-old-town-farmers-market-opening-this-week/
+
 thesis_title:
   - "I May Be an Acupuncturist, but I'm also a Foodie, so You'll Find me at the opening of our Old Town Fort Collins Farmer's Market!"
 thesis_description:

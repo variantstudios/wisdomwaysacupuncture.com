@@ -5,7 +5,7 @@ date: 2013-10-10T17:08:48+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1634
-permalink: /2013/10/10/3-tips-from-an-acupuncturist-for-a-perfect-fall-cleanse/
+
 thesis_title:
   - 3 Tips from an Acupuncturist for a Perfect Fall Cleanse
 thesis_description:

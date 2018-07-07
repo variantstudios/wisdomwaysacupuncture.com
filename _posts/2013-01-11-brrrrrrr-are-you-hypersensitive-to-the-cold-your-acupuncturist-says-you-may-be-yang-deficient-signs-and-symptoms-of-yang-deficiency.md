@@ -5,7 +5,7 @@ date: 2013-01-11T14:08:45+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1369
-permalink: /2013/01/11/brrrrrrr-are-you-hypersensitive-to-the-cold-your-acupuncturist-says-you-may-be-yang-deficient-signs-and-symptoms-of-yang-deficiency/
+
 thesis_title:
   - 'Acupuncture theory: Symptom of Yang Deficiency. COLD! '
 thesis_description:

@@ -5,7 +5,7 @@ date: 2018-01-10T13:21:26+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1363
-permalink: /2018/01/10/chronic-inflammatory-diseases-and-chronic-parasitism-an-acupuncture-approach-to-treatment/
+
 thesis_title:
   - 'Chronic Inflammatory Diseases & Parasitism: An Acupuncture Approach'
 thesis_description:

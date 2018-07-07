@@ -5,7 +5,6 @@ date: 2009-08-07T08:56:45+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://66.147.244.194/~wisdomw1/?p=572
-#permalink: /2009/08/07/acupuncture-helps-fibromyalgia/
 thesis_title:
   - 'Acupuncture Helps Fibromyalgia Pain, Study Shows '
 thesis_description:

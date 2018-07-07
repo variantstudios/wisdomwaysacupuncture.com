@@ -5,7 +5,7 @@ date: 2013-03-14T17:56:51+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1449
-permalink: /2013/03/14/an-acupuncturist-makes-dinner-mushroom-spinach-goat-cheese-salad-yummy-your-way-to-superimmunity/
+
 thesis_title:
   - 'An Acupuncturist Makes Dinner: Yummy Your Way to a Supercharged Immune System with this Mushroom Spinach Salad.'
 thesis_description:

@@ -5,7 +5,7 @@ date: 2018-03-15T09:34:28+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1471
-permalink: /2018/03/15/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/
+
 thesis_title:
   - "It's WOOD SEASON! Acupuncture Advice on Staying Balanced in Spring"
 thesis_description:

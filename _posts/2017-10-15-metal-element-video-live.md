@@ -5,7 +5,7 @@ date: 2017-10-15T16:35:37+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=3296
-permalink: /2017/10/15/metal-element-video-live/
+
 thesis_title:
   - 'Balance your Metal Element: Metal 5 Elements Video'
 thesis_description:

@@ -5,7 +5,7 @@ date: 2011-01-02T18:54:26+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=971
-permalink: /2011/01/02/cozy-winter-recipe-jools-favorite-beef-stew-or-as-i-like-to-call-it-knock-your-socks-off-stew/
+
 thesis_title:
   - 'Cozy Winter Recipe: Qi and Yang Building Foods in Winter to Stay Balanced.'
 thesis_description:

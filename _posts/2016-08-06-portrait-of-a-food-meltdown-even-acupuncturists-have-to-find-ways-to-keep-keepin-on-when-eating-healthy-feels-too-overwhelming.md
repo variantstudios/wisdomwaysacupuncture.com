@@ -5,7 +5,7 @@ date: 2016-08-06T15:29:19+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1711
-permalink: /2016/08/06/portrait-of-a-food-meltdown-even-acupuncturists-have-to-find-ways-to-keep-keepin-on-when-eating-healthy-feels-too-overwhelming/
+
 thesis_title:
   - "Portrait of a Food Meltdown: Even Acupuncturists Have to Find Ways to Keep Keepin' on, When Eating Healthy Feels Too Overwhelming"
 thesis_description:

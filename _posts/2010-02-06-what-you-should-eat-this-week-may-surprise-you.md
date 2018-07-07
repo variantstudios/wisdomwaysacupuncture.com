@@ -6,7 +6,7 @@ author: Inger Giffin, L.Ac., Dipl. Ac.
 excerpt: '...But hold on…what could possibly be that important about a simple bowl of peaches and whipped cream that a lesson of balance and self-care would come out of it? Answer:  the fact that too often I get the sincere questions: How much should I eat?  Is this good for me?  What should I eat?  How much should I drink?  The fact is, we have become so disconnected from our bodies, and their signals which tell us what we need to be strong and happy; that we leave it to some book or a site on the internet to tell us what we should be putting into our bodies.  There’s this diet and that plan and fruit is good–no, fruit is bad, and carbs make you fat and on and on and on.  But what about the simple question:  How do you FEEL when you eat this?'
 layout: post
 guid: http://66.147.244.194/~wisdomw1/?p=492
-permalink: /2010/02/06/what-you-should-eat-this-week-may-surprise-you/
+
 thesis_title:
   - What you Should Eat this Week may Surprise You
 thesis_description:

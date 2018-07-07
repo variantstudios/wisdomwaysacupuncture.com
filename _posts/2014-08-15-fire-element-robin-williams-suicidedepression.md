@@ -5,7 +5,7 @@ date: 2014-08-15T15:57:19+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=2396
-permalink: /2014/08/15/fire-element-robin-williams-suicidedepression/
+
 thesis_description:
   - "In the wake of William's death, and the utter sadness I know so many of us share over the loss of this beautiful spirit, I felt moved to write a post from the perspective of the 5 Elements---explaining how depression fits in, what it means that we're in the middle of the Fire element, how it all connects, and a few things we can all do to help keep a little more joy alive in our lives."
 categories:

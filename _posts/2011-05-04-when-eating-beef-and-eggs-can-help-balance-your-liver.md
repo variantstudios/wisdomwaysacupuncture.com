@@ -5,7 +5,7 @@ date: 2011-05-04T22:26:52+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1062
-permalink: /2011/05/04/when-eating-beef-and-eggs-can-help-balance-your-liver/
+
 thesis_title:
   - 'Grass fed and pastured Beef and hens can help keep your Chinese Medicine '
 thesis_description:

@@ -5,7 +5,7 @@ date: 2011-11-11T11:05:36+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1202
-permalink: /2011/11/11/this-weeks-succcess-stories-acupuncture-chinese-medicine-and-fatigue/
+
 thesis_title:
   - "This Week's Succcess Stories: Acupuncture, Chinese Medicine, and Fatigue"
 thesis_description:

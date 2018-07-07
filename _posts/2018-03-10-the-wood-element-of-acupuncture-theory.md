@@ -5,7 +5,7 @@ date: 2018-03-10T02:37:22+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1941
-permalink: /2018/03/10/the-wood-element-of-acupuncture-theory/
+
 thesis_title:
   - 'Wood Element of Acupuncture Theory: Tips to Keep Your Wood Balanced'
 thesis_description:

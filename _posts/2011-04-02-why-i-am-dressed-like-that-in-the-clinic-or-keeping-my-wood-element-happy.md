@@ -5,7 +5,7 @@ date: 2011-04-02T12:45:00+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1016
-permalink: /2011/04/02/why-i-am-dressed-like-that-in-the-clinic-or-keeping-my-wood-element-happy/
+
 thesis_title:
   - Dress for Wood Element Success! My Plan for Keeping my Liver Balanced
 thesis_description:

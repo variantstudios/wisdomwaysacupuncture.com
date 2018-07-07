@@ -5,7 +5,7 @@ date: 2013-10-30T15:11:42+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1658
-permalink: /2013/10/30/an-acupuncturists-perfect-fall-balancing-recipe-that-will-warm-and-nourish-your-qi/
+
 thesis_title:
   - "An Acupuncturist's perfect Fall Balancing Recipe that will Warm and Nourish your Qi"
 thesis_description:

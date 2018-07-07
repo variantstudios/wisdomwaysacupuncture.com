@@ -5,7 +5,7 @@ date: 2013-03-06T15:30:50+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1425
-permalink: /2013/03/06/nightmare-bacteria-shrugging-off-antibiotics-on-rise-in-u-s-is-prevention-via-acupuncture-and-nutrition-a-better-approach-to-health-care/
+
 thesis_description:
   - 'With the rise of resistant bacteria, using acupuncture & nutrition to prevent infections is more important than ever.   '
 thesis_keywords:

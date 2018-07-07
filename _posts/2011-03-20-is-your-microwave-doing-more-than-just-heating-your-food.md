@@ -5,7 +5,7 @@ date: 2011-03-20T11:44:56+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1004
-permalink: /2011/03/20/is-your-microwave-doing-more-than-just-heating-your-food/
+
 thesis_title:
   - 'Acupuncturists support health, microwaves damage it. '
 thesis_description:

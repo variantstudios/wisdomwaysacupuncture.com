@@ -5,7 +5,7 @@ date: 2013-09-15T16:59:44+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1630
-permalink: /2013/09/15/updates-and-changes-in-the-office/
+
 thesis_title:
   - Updates and Changes in the Acupuncture Office!
 thesis_description:

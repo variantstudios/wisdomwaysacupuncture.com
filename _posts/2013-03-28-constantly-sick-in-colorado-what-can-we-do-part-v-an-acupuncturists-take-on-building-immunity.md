@@ -5,7 +5,7 @@ date: 2013-03-28T18:53:57+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1469
-permalink: /2013/03/28/constantly-sick-in-colorado-what-can-we-do-part-v-an-acupuncturists-take-on-building-immunity/
+
 thesis_title:
   - "Constantly Sick in Colorado, What Can We Do? Part V: An Acupuncturist's Take on Building Immunity"
 thesis_description:

@@ -5,7 +5,7 @@ date: 2011-09-21T03:10:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1163
-permalink: /2011/09/21/beyond-nourishment-the-key-to-feeding-yourself-without-food/
+
 thesis_title:
   - 'Beyond Nourishment: The Key to Feeding Yourself without Food'
 thesis_description:

@@ -5,7 +5,7 @@ date: 2012-05-02T14:52:08+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1286
-permalink: /2012/05/02/fibromyalgia-stress-your-liver-what-acupuncture-has-to-say-about-all-3/
+
 thesis_title:
   - 'Fibromyalgia, Stress, your Liver: What Acupuncture has to Say about all 3'
 thesis_description:

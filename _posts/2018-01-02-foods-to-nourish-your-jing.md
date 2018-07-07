@@ -5,7 +5,7 @@ date: 2018-01-02T11:34:06+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1218
-permalink: /2018/01/02/foods-to-nourish-your-jing/
+
 thesis_title:
   - "Chinese Medicine Foods to Nourish Your Jing: An Acupuncturist's Approach"
 thesis_description:

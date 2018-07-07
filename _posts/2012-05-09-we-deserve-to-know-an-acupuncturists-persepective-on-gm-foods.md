@@ -5,7 +5,7 @@ date: 2012-05-09T12:41:12+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1290
-permalink: /2012/05/09/we-deserve-to-know-an-acupuncturists-persepective-on-gm-foods/
+
 thesis_title:
   - "We Deserve to Know: An Acupuncturist's Persepective on GM Foods"
 thesis_description:

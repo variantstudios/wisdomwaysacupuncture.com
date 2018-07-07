@@ -9,5 +9,5 @@ gem 'compass', '1.0.3'
 group :jekyll_plugins do
     gem 'jekyll-sitemap', '0.10.0'
     gem 'jekyll-include-cache', '0.1.0'
-    gem 'jekyll-paginate'
+    gem 'jekyll-paginate', '1.1.0'
 end

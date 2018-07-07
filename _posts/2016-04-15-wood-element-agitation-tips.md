@@ -5,7 +5,7 @@ date: 2016-04-15T09:00:14+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1948
-permalink: /2016/04/15/wood-element-agitation-tips/
+
 thesis_title:
   - '3 Tips to turn impatience & agitation of Wood Element to your advantage'
 thesis_description:

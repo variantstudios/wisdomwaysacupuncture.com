@@ -5,7 +5,7 @@ date: 2011-09-14T22:02:28+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1150
-permalink: /2011/09/14/its-pear-season-a-great-fall-recipe-for-those-farmers-market-pears/
+
 thesis_title:
   - It’s Pear Season! A Great Late-Summer Medicinal Recipe for those Farmer’s Market Pears.
 thesis_description:

@@ -5,7 +5,7 @@ date: 2018-05-10T14:38:05+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=3720
-permalink: /2018/05/10/success-stories-from-the-clinic-severe-migraines/
+
 thesis_title:
   - 'Success Stories from the Acupuncture Clinic: Severe Migraines'
 thesis_description:

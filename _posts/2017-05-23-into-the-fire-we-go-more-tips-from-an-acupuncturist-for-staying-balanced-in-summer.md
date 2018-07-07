@@ -5,7 +5,7 @@ date: 2017-05-23T20:45:53+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1299
-permalink: /2017/05/23/into-the-fire-we-go-more-tips-from-an-acupuncturist-for-staying-balanced-in-summer/
+
 thesis_title:
   - Into the Fire we Go!--More Tips from an Acupuncturist for Staying Balanced in Summer
 thesis_description:

@@ -5,7 +5,7 @@ date: 2013-01-13T12:31:15+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1382
-permalink: /2013/01/13/studies-show-acupuncture-greatly-reduces-symptoms-of-chronic-fatigue-syndrome/
+
 thesis_title:
   - 'Studies show acupuncture has a dramatic effect on Chronic Fatigue '
 thesis_description:

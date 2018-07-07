@@ -12,15 +12,15 @@ uploads_dir: "assets/images"
 
 # Gems for plugins
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap # Simple jekyll plugin that creates a sitemap.xml file and you can exclude files by adding 'sitemap:false' to the frontmatter of any file(s).
   - jekyll-include-cache # Cache jekyll includes to improve build times
-  - jekyll-paginate
 
 paginate: 5
 paginate_path: "/blog/page:num/"
 
 # Permalinks
-permalink: pretty
+#permalink: pretty
 
 # Compress HTML
 compress_html:
@@ -82,16 +82,12 @@ defaults:
     values:
       layout: category
       class: blog
-      pagination: 
-        enabled: true
   -
     scope:
       type: categories
     values:
       layout: category
       class: blog
-      pagination: 
-        enabled: true
         
 # Cloudcannon Options
 _options:

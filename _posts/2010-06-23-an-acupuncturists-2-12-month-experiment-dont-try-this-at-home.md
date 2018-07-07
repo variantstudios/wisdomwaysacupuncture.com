@@ -5,7 +5,7 @@ date: 2010-06-23T15:46:49+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=871
-permalink: /2010/06/23/an-acupuncturists-2-12-month-experiment-dont-try-this-at-home/
+
 thesis_title:
   - How this Acupuncturist got Back on Board with Healthy Eating
 thesis_description:

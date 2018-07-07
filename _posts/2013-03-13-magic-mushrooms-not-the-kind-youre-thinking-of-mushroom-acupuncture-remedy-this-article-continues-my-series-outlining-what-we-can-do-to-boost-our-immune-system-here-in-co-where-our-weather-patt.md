@@ -5,7 +5,7 @@ date: 2013-03-13T17:54:10+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1444
-permalink: /2013/03/13/magic-mushrooms-not-the-kind-youre-thinking-of-mushroom-acupuncture-remedy-this-article-continues-my-series-outlining-what-we-can-do-to-boost-our-immune-system-here-in-co-where-our-weather-patt/
+
 thesis_title:
   - "Magic Mushrooms!: Not the kind you're thinking of, but an acupuncturist's advice for using everyday mushrooms to supercharge your immunity."
 thesis_description:

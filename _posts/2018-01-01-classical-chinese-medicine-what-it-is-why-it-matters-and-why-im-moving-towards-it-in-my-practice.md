@@ -5,7 +5,7 @@ date: 2018-01-01T07:15:36+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=3752
-permalink: /2018/01/01/classical-chinese-medicine-what-it-is-why-it-matters-and-why-im-moving-towards-it-in-my-practice/
+
 thesis_title:
   - "Classical Chinese Medicine - What it is, Why it Matters, and why I'm Moving Towards it in my Acupuncture Practice"
 thesis_description:

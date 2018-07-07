@@ -5,7 +5,7 @@ date: 2011-04-20T05:30:33+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1039
-permalink: /2011/04/20/csa-options-eating-local-and-seasonal-is-the-most-balanced-way/
+
 thesis_title:
   - 'Eating Seasonally Supports what Acupuncturists Call Balance: CSA Options'
 thesis_description:

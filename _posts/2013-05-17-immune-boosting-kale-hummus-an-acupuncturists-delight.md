@@ -5,7 +5,7 @@ date: 2013-05-17T17:15:45+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1510
-permalink: /2013/05/17/immune-boosting-kale-hummus-an-acupuncturists-delight/
+
 thesis_title:
   - "Recipe - Kale Hummus: An Acupuncturist's Liver Balancing Delight"
 thesis_description:

@@ -5,7 +5,7 @@ date: 2013-04-03T16:15:48+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1488
-permalink: /2013/04/03/its-a-kale-conspiracy-an-acupuncturist-gets-inundated-with-kale/
+
 thesis_title:
   - "A Kale Conspiracy Puts a Mountain of Kale on this Acupuncturist's plate"
 thesis_description:

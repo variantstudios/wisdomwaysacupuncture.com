@@ -5,7 +5,7 @@ date: 2013-09-17T16:00:22+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1625
-permalink: /2013/09/17/acupuncture-support-for-flood-victims-complimentary-trauma-treatments/
+
 thesis_title:
   - 'Acupuncture Support for Flood Victims - Complimentary Trauma Treatments'
 thesis_description:

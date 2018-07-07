@@ -5,7 +5,7 @@ date: 2010-07-14T13:07:01+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=867
-permalink: /2010/07/14/research-acupuncture-for-depression-at-least-as-effective-as-medication/
+
 thesis_title:
   - 'Research:  Acupuncture for Depression at least as Effective as Medication'
 thesis_description:

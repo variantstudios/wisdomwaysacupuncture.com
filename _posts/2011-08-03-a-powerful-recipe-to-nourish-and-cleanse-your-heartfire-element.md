@@ -5,7 +5,7 @@ date: 2011-08-03T16:53:23+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1132
-permalink: /2011/08/03/a-powerful-recipe-to-nourish-and-cleanse-your-heartfire-element/
+
 thesis_title:
   - 'Communication is an important expression of the Fire Element in Chinese Medicine. '
 thesis_description:

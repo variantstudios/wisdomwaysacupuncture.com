@@ -5,7 +5,7 @@ date: 2016-04-05T12:54:58+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1053
-permalink: /2016/04/05/balance-your-wood-energy-with-benevolence/
+
 thesis_title:
   - Chinese Medicine says use benevolence to balance your Wood Element this Spring.
 thesis_description:

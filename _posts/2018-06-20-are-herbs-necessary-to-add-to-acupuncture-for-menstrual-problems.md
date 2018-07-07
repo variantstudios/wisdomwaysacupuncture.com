@@ -5,7 +5,7 @@ date: 2018-06-20T15:46:43+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=3776
-permalink: /2018/06/20/are-herbs-necessary-to-add-to-acupuncture-for-menstrual-problems/
+
 thesis_title:
   - Are Herbs Necessary to Add to Acupuncture for Menstrual Problems?
 thesis_description:

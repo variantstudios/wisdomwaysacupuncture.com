@@ -5,7 +5,7 @@ date: 2013-01-16T11:49:50+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=1376
-permalink: /2013/01/16/if-prevention-is-medically-unglamorous-be-unglamorous/
+
 thesis_title:
   - 'Acupuncturists Say: If Prevention is Medically Unglamorous...Be Unglamorous!'
 thesis_description:

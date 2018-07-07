@@ -5,7 +5,7 @@ date: 2017-07-07T18:07:36+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
 guid: http://www.wisdomwaysacupuncture.com/?p=2376
-permalink: /2017/07/07/latest-5-element-video-fire-season-released/
+
 thesis_title:
   - 'Video: Fire Element of Chinese Medicine. Tips for Keeing yours Balanced.'
 thesis_description:
