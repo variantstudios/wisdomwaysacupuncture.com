@@ -1,10 +1,10 @@
 ---
-id: 1139
+
 title: Peach and Lavender Butter Recipe
 date: 2011-08-31T09:37:29+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1139
+
 
 thesis_title:
   - 'Peach Lavender Butter: Put up the Summer Harvest!'

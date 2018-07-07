@@ -1,10 +1,10 @@
 ---
-id: 1169
+
 title: Time to Inspire! Wisdom from the Metal Element as we Head Into Fall
 date: 2011-10-05T20:24:46+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1169
+
 
 thesis_title:
   - 'Time to Inspire! '

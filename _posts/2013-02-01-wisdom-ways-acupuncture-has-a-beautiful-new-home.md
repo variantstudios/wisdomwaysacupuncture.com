@@ -1,10 +1,10 @@
 ---
-id: 1390
+
 title: Wisdom Ways Acupuncture Has a Beautiful New Home!
 date: 2013-02-01T15:49:21+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1390
+
 
 thesis_title:
   - Wisdom Ways Acupuncture Has Moved to a New Home

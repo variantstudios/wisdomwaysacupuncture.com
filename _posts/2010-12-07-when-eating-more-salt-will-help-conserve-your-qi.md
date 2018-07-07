@@ -1,10 +1,10 @@
 ---
-id: 943
+
 title: When Eating More Salt will Help Conserve Your Qi
 date: 2010-12-07T17:10:41+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=943
+
 
 thesis_title:
   - Eating More Salt Can Help Conserve Your Qi

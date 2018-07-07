@@ -1,10 +1,10 @@
 ---
-id: 1882
+
 title: 'Do You Feel the Wood Element Energy Rising Already?: Tips for Staying Sane as we Move from Winter to Spring'
 date: 2015-03-30T09:03:43+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1882
+
 
 thesis_title:
   - Tips for Staying Sane as we Move from Winter to Spring/Wood Element Time

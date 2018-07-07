@@ -1,10 +1,10 @@
 ---
-id: 1189
+
 title: 'Chinese Medicine and your Immunity: Boost your Wei Qi Now to Stay Healthy This Winter'
 date: 2011-11-02T16:56:14+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1189
+
 
 thesis_title:
   - 'Chinese Medicine and your Immunity: Boost your Wei Qi Now to Stay Healthy This Winter'

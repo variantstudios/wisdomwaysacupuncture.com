@@ -1,10 +1,10 @@
 ---
-id: 1181
+
 title: 'Metal Season: The Time for Learning about Letting Go &#8212; but that what&#8217;s of Value Remains'
 date: 2016-11-05T18:09:55+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1181
+
 
 thesis_title:
   - "Metal Season: The Time for Learning about Letting Go, but that what's of Value Remains"

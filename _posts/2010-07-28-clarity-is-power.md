@@ -1,10 +1,10 @@
 ---
-id: 877
+
 title: Clarity is Power
 date: 2010-07-28T15:58:30+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=877
+
 
 thesis_title:
   - 'The Fire Element: Clarity is Power'

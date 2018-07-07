@@ -1,10 +1,10 @@
 ---
-id: 3786
+
 title: 'Fascinated by Disease&#8230;or Fascinated by Wellness? This Makes All the Difference'
 date: 2018-06-27T09:04:46+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=3786
+
 
 thesis_title:
   - Fascinated by Disease, or by Wellness? This Makes All the Difference

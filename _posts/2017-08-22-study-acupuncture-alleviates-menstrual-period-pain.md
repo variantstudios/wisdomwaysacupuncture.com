@@ -1,10 +1,10 @@
 ---
-id: 3629
+
 title: 'Study: Acupuncture Alleviates Menstrual/Period Pain'
 date: 2017-08-22T07:59:05+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=3629
+
 
 thesis_title:
   - 'Study Confirms: Acupuncture Alleviates Menstrual/Period Pain'

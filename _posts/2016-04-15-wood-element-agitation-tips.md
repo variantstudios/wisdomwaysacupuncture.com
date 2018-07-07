@@ -1,10 +1,10 @@
 ---
-id: 1948
+
 title: 3 Tips for turning the added impatience and agitation of the Wood Element Season to your advantage
 date: 2016-04-15T09:00:14+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1948
+
 
 thesis_title:
   - '3 Tips to turn impatience & agitation of Wood Element to your advantage'

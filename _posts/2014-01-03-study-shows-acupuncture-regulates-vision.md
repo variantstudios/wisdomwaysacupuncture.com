@@ -1,10 +1,10 @@
 ---
-id: 1754
+
 title: Study Shows Acupuncture Regulates the Eyes and Vision
 date: 2014-01-03T13:28:35+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1754
+
 
 thesis_title:
   - Acupuncture Regulates and Improves Vision, According to New Study

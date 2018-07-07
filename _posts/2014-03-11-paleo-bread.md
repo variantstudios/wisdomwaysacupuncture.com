@@ -1,10 +1,10 @@
 ---
-id: 1988
+
 title: 'How to Make &#8220;Paleo Bread&#8221; that&#8217;s just Veggie &#038; Protein, Without Unhealthy Gluten-Free Substitutes'
 date: 2014-03-11T09:56:07+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1988
+
 
 thesis_title:
   - A Paleo approved grain-free sugar free veggie full "Paleo Bread" loaf!

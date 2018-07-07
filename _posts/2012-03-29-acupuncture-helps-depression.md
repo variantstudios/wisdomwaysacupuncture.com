@@ -1,10 +1,10 @@
 ---
-id: 1274
+
 title: 'Acupuncture Helps Depression: Acupuncture Research'
 date: 2012-03-29T11:11:51+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1274
+
 
 thesis_title:
   - 'Acupuncture Helps Depression: Acupuncture Research'

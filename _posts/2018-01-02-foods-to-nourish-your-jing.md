@@ -1,10 +1,10 @@
 ---
-id: 1218
+
 title: 'Foods to Nourish Your Jing&#8211;An Acupuncturist&#8217;s Approach to using Chinese Medicine Nutritional Principles for Staying Healthy'
 date: 2018-01-02T11:34:06+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1218
+
 
 thesis_title:
   - "Chinese Medicine Foods to Nourish Your Jing: An Acupuncturist's Approach"

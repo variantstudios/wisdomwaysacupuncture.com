@@ -1,10 +1,10 @@
 ---
-id: 1476
+
 title: 'Recipe: Acupuncturist&#8217;s Liver Balancing Superfood Breakfast Frittata'
 date: 2013-03-28T19:06:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1476
+
 
 thesis_title:
   - "An Acupuncturist's favorite liver balancing and immune boosting breakfast: Superfood Frittata"

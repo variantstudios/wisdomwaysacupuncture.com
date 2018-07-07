@@ -1,10 +1,10 @@
 ---
-id: 871
+
 title: 'An Acupuncturist&#8217;s 2 1/2 month experiment:  Don&#8217;t try this at home!'
 date: 2010-06-23T15:46:49+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=871
+
 
 thesis_title:
   - How this Acupuncturist got Back on Board with Healthy Eating

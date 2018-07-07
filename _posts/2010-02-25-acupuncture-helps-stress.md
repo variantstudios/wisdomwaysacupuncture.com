@@ -1,11 +1,11 @@
 ---
-id: 517
+
 title: 'Acupuncture Helps Stress: So You&#8217;re Stressed; What&#8217;s the Big Deal?'
 date: 2010-02-25T17:10:45+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 excerpt: 'The most frequent imbalances I treat in my acupuncture practice are those due to stress. More accurately, these imbalances are not just due to stress--stress is the imbalance.  When our body is balanced and relaxed, our Qi flows smoothly.  When our qi flows smoothly, the energy needed reaches our organs and tissues, and they function optimally and we are symptom free.  Stress interrupts this flow of Qi, with the result of weakened organs. This causes a vicious cycle which somehow must be broken to avoid following a path that surely leads to dis-ease. '
 layout: post
-guid: http://66.147.244.194/~wisdomw1/?p=517
+
 
 thesis_title:
   - "Acupuncture Helps Stress: So I'm Stressed...What's the Big Deal?"

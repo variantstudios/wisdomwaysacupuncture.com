@@ -1,10 +1,10 @@
 ---
-id: 1053
+
 title: 'Balancing your Wood Element with Benevolence: Is Your Internal Wood energy a Leader or a Fighter?'
 date: 2016-04-05T12:54:58+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1053
+
 
 thesis_title:
   - Chinese Medicine says use benevolence to balance your Wood Element this Spring.

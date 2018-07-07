@@ -1,10 +1,10 @@
 ---
-id: 1935
+
 title: 'Overview of the 5 Elements of Acupuncture Theory: Can You Guess Your Elemental Type?'
 date: 2018-06-21T01:24:32+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1935
+
 
 thesis_title:
   - 'The 5 Elements of Acupuncture Theory: Can you Guess Your Elemental Type?'

@@ -1,10 +1,10 @@
 ---
-id: 1425
+
 title: '&#8220;Nightmare bacteria,&#8221; on rise in U.S.: Is Prevention via Acupuncture &#038; Nutrition a Better Approach to Health Care?'
 date: 2013-03-06T15:30:50+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1425
+
 
 thesis_description:
   - 'With the rise of resistant bacteria, using acupuncture & nutrition to prevent infections is more important than ever.   '

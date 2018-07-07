@@ -1,10 +1,10 @@
 ---
-id: 880
+
 title: 'An Orange in December&#8230;'
 date: 2010-08-17T16:11:04+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=880
+
 
 thesis_title:
   - An Orange in December... Gifts of Gratitude from the Fire Element

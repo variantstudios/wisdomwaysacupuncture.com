@@ -1,10 +1,10 @@
 ---
-id: 1956
+
 title: 'Acupuncture and Christianity: Does Acupuncture Interfere with Christian Beliefs?'
 date: 2014-03-10T11:59:58+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1956
+
 
 thesis_title:
   - 'Acupuncture and Christianity: are they opposed?'

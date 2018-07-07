@@ -1,10 +1,10 @@
 ---
-id: 862
+
 title: 'Interview:  Meagan O&#8217;Nan,The &#8220;Mistress of Happiness&#8221; Creating Your Heaven on Earth'
 date: 2010-07-14T12:57:57+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=862
+
 
 thesis_title:
   - "Meagan O'Nan, an Example of a Balanced Fire Element on Fire"

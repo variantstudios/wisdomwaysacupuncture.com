@@ -1,10 +1,10 @@
 ---
-id: 832
+
 title: Wisdom Ways Acupuncture is Moving!
 date: 2010-06-30T12:50:36+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=832
+
 
 thesis_title:
   - Wisdom Ways Acupuncture has a new home!

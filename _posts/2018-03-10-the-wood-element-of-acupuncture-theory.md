@@ -1,10 +1,10 @@
 ---
-id: 1941
+
 title: 'Wood Element/Spring &#038; Acupuncture Theory VIDEO: Tips to Keep Your Wood Element Balanced as we Head Into Spring'
 date: 2018-03-10T02:37:22+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1941
+
 
 thesis_title:
   - 'Wood Element of Acupuncture Theory: Tips to Keep Your Wood Balanced'

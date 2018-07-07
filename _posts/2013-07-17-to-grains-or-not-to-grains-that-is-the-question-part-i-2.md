@@ -1,10 +1,10 @@
 ---
-id: 1537
+
 title: 'To Grains or Not to Grains: That is the Question, Part II'
 date: 2013-07-17T15:37:02+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1537
+
 
 thesis_title:
   - 'An Acupuncturist Asks, To Grains or Not to Grains: That is the Question Part II'

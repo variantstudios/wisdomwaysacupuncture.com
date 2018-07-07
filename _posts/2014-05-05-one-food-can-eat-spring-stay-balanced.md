@@ -1,10 +1,10 @@
 ---
-id: 2293
+
 title: 'The One Food That&#8217;s the Most Beneficial for Helping You Stay Balanced in Spring'
 date: 2014-05-05T11:26:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=2293
+
 
 categories:
   - eating-with-the-seasons

@@ -1,10 +1,10 @@
 ---
-id: 1270
+
 title: Happy Chinese New Year from your Acupuncturist!
 date: 2012-01-23T16:50:25+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1270
+
 
 thesis_title:
   - Happy Chinese New Year from your Acupuncturist!

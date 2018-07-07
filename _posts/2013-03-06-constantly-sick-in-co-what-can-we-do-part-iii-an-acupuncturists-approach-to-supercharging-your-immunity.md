@@ -1,10 +1,10 @@
 ---
-id: 1414
+
 title: 'Constantly Sick in CO, What Can We Do, Part III: An Acupuncturist&#8217;s Approach to Supercharging Your Immunity'
 date: 2013-03-06T14:48:05+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1414
+
 
 thesis_title:
   - "Constantly Sick in CO, What Can We Do Part III: An Acupuncturist's Approach to Supercharging Your Immunity"

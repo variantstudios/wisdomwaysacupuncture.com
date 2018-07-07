@@ -1,10 +1,10 @@
 ---
-id: 1444
+
 title: 'Magic Mushrooms: An Acupuncturist&#8217;s Approach to More Immune Boosting Foods. Part IV of Constantly Sick in CO, What can we do?'
 date: 2013-03-13T17:54:10+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1444
+
 
 thesis_title:
   - "Magic Mushrooms!: Not the kind you're thinking of, but an acupuncturist's advice for using everyday mushrooms to supercharge your immunity."

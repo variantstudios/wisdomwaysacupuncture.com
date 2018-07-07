@@ -1,10 +1,10 @@
 ---
-id: 3622
+
 title: The Depths of the Water Element will Keep you Balanced this Winter
 date: 2017-12-31T06:53:54+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=3622
+
 
 thesis_title:
   - Staying Balanced with the Water Element in the Depths of Winter

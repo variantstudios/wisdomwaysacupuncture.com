@@ -1,10 +1,10 @@
 ---
-id: 1250
+
 title: 'An Acupuncturist&#8217;s Insight: What your Impatience/Agitation and What I Saw in My Garden Have in Common'
 date: 2018-03-04T14:40:06+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1250
+
 
 thesis_title:
   - 'What your Impatience/Agitation & What I Saw in My Yard Have in Common'

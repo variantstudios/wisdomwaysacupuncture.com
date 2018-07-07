@@ -1,10 +1,10 @@
 ---
-id: 1464
+
 title: 'Case Study: Acupuncture for Anxiety, a Real World Example'
 date: 2018-03-27T15:38:05+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1464
+
 
 thesis_title:
   - 'Success! Acupuncture for Anxiety: Another Real World Example '

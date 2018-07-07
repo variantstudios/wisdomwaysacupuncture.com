@@ -1,10 +1,10 @@
 ---
-id: 1265
+
 title: 'An Acupuncturist&#8217;s Tip for Eating Raw Food without Eating Raw Food'
 date: 2012-03-28T16:23:31+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1265
+
 
 thesis_title:
   - "Tips for Eating Raw Food without Eating Raw Food--From an Acupuncturist's Kitchen"

@@ -1,10 +1,10 @@
 ---
-id: 1923
+
 title: Cellular and Genetic Changes from Meditation, and Why that Matters for Keeping your Liver (and you!) Happy.
 date: 2014-02-14T15:39:28+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1923
+
 
 thesis_title:
   - Why Meditation is as Important as Acupuncture for Decreasing Stress

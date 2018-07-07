@@ -1,10 +1,10 @@
 ---
-id: 1085
+
 title: 'Out of the Wood and Into the Fire: Tips for Keeping your Fire Element Balanced This Summer'
 date: 2017-06-19T15:54:24+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1085
+
 
 thesis_title:
   - 'Out of the Wood and Into the Fire: Tips for Keeping your Fire element balanced this Summer'

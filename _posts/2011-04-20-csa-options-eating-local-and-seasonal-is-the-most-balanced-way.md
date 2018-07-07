@@ -1,10 +1,10 @@
 ---
-id: 1039
+
 title: 'Eat Seasonal, Balance your Elements, and Support our Local Farmers All At Once: CSA Options'
 date: 2011-04-20T05:30:33+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1039
+
 
 thesis_title:
   - 'Eating Seasonally Supports what Acupuncturists Call Balance: CSA Options'

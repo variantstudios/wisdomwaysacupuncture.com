@@ -1,10 +1,10 @@
 ---
-id: 986
+
 title: Spend Time Near Water to Keep Yourself Balanced During Dry Winters
 date: 2010-12-07T20:25:31+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=986
+
 
 thesis_title:
   - Spend Time Near Water to Keep Yourself Balanced During Dry Winters

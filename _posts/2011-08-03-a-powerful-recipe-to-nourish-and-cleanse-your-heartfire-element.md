@@ -1,10 +1,10 @@
 ---
-id: 1132
+
 title: A Powerful Recipe to Nourish and Cleanse your Heart/Fire Element
 date: 2011-08-03T16:53:23+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1132
+
 
 thesis_title:
   - 'Communication is an important expression of the Fire Element in Chinese Medicine. '

@@ -1,10 +1,10 @@
 ---
-id: 1478
+
 title: Study Shows Acupuncture For Migraines More Effective than Common Medication
 date: 2013-04-01T15:38:59+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1478
+
 
 thesis_title:
   - Study Shows Acupuncture For Migraines More Effective than Medication

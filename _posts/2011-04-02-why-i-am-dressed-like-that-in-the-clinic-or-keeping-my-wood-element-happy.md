@@ -1,10 +1,10 @@
 ---
-id: 1016
+
 title: Why I am Dressed like that in the Clinic? ~or~ Keeping my Wood Element Happy!
 date: 2011-04-02T12:45:00+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1016
+
 
 thesis_title:
   - Dress for Wood Element Success! My Plan for Keeping my Liver Balanced

@@ -1,10 +1,10 @@
 ---
-id: 1636
+
 title: Will the Affordable Care Act Help or Hurt your Access to Acupuncture?
 date: 2013-10-18T17:28:20+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1636
+
 
 thesis_title:
   - Will the Affordable Care Act Help or Hurt your Access to Acupuncture?

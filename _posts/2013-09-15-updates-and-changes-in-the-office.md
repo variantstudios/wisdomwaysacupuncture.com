@@ -1,10 +1,10 @@
 ---
-id: 1630
+
 title: Updates from the Acupuncture Clinic!
 date: 2013-09-15T16:59:44+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1630
+
 
 thesis_title:
   - Updates and Changes in the Acupuncture Office!

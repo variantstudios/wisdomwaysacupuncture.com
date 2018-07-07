@@ -1,10 +1,10 @@
 ---
-id: 3634
+
 title: 'Study: Acupuncture Effective for Endometriosis &#8211; Study Results and Clinical Experience'
 date: 2018-05-08T08:49:03+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=3634
+
 
 thesis_title:
   - 'Acupuncture & Endometriosis-Study Results & Successful Clinical Experience'

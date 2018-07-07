@@ -1,10 +1,10 @@
 ---
-id: 1499
+
 title: 'Constantly Sick in CO, Part VI: When Your Diet Just Isn&#8217;t Cutting It, These Supplements Can Be the Missing Link'
 date: 2013-05-09T17:49:34+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1499
+
 
 thesis_title:
   - "When Your Diet Isn't Cutting It, Adding Supplements to your Acupuncture Can Help Boost Your Immune System"

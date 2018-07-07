@@ -1,10 +1,10 @@
 ---
-id: 1045
+
 title: 'Study Results: Acupuncture Dramatically Eases Hot Flashes'
 date: 2011-04-20T12:09:33+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1045
+
 
 thesis_title:
   - Acupuncture Dramatically Eases Hot Flashes in Study Participants

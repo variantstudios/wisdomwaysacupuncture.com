@@ -1,10 +1,10 @@
 ---
-id: 1869
+
 title: 'My Acupuncture Story, or Why I decided to study acupuncture: The beginning and ongoing journey to master the medicine'
 date: 2010-02-04T14:14:13+00:00
 author: Inger Giffin, L.Ac., Dipl. Ac.
 layout: post
-guid: http://www.wisdomwaysacupuncture.com/?p=1869
+
 thesis_title:
   - 'Why I decided to study acupuncture: The story of my continuing journey to master the medicine'
 thesis_description:
