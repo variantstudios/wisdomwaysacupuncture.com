@@ -17,6 +17,7 @@ thesis_keywords:
 categories:
   - My Approach/Philosophy and Stories
   - Random Musings
+tags:
 ---
 As acupuncturists, we frequently use the very vague word &#8220;balance&#8221;. Because this word can mean so many things, I find it helps my patients if I can explain what this means.
 
