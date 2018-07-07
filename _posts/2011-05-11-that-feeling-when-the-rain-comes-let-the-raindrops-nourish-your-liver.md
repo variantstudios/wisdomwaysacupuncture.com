@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - Acupuncture theory says spending time near water can be an easy and relaxing way to stay balanced in the middle of busy lives and to soften our liver.
 thesis_keywords:
-  - chinese medicine, liver, wood season, five elements, acupuncture, Wood element
+  - chinese-medicine, liver, wood season, five elements, acupuncture, Wood element
 categories:
   - five-elements
   - random-musings

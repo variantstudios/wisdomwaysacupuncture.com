@@ -11,12 +11,12 @@ thesis_title:
 thesis_description:
   - 'Acupuncture is very effective for Seasonal Affective Disorder, otherwise appropriately known as SAD. Schedule appointments when shorter days hit. '
 thesis_keywords:
-  - Chinese Medicine, Acupuncture, Chinese Medical Nutrition, Acupuncture Fort Collins, Fort Collins Acupuncture, Acupuncture and SAD
+  - chinese-medicine, Acupuncture, Chinese Medical Nutrition, Acupuncture Fort Collins, Fort Collins Acupuncture, Acupuncture and SAD
 categories:
   - my-approach--philosophy-and-stories
   - winter--water-element
 tags:
-  - seasonal affective disorder
+  - seasonal-affective-disorder
 ---
 <div>
   <strong> </strong>

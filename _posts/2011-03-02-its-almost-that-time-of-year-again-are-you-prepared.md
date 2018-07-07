@@ -11,12 +11,12 @@ thesis_title:
 thesis_description:
   - Acupuncturists say nurture your Water Element now to have a balanced Wood Element once spring hits soon.
 thesis_keywords:
-  - acupuncture fort collins, fort collins acupuncture, wood element, liver element, water element
+  - acupuncture-fort-collins, fort collins acupuncture, wood element, liver element, water element
 categories:
   - spring--wood-element
   - winter--water-element
 tags:
-  - liver qi stagnation
+  - liver-qi-stagnation
 ---
 &nbsp;
 

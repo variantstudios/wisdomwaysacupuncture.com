@@ -15,7 +15,7 @@ thesis_keywords:
 categories:
   - uncategorized
 tags:
-  - acupuncture legislation
+  - acupuncture-legislation
 ---
 ## <span style="color: #808000;"><strong>Right now, there is a huge problem withing the field of Acupuncture and Chinese Medicine.</strong></span>
 

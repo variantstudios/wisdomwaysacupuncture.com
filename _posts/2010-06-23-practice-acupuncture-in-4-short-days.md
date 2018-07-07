@@ -12,12 +12,12 @@ thesis_description:
   - |
     Acupuncture's growing popularity has led health professionals to seek extremely short trainings in "medical acupuncture" and/or dry needling. This is often dangerous.
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, medical acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture, medical acupuncture
 categories:
   - uncategorized
 tags:
-  - medical acupuncture
-  - dry needling
+  - medical-acupuncture
+  - dry-needling
 ---
 <div id="attachment_806" style="width: 102px" class="wp-caption alignleft">
   <img class="size-full wp-image-806 " title="Woman afraid to get acupuncture from untrained medical professional" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/image-scared-person1-e1277314104924.jpg" alt="Acupuncture without training is scary" width="92" height="141" />

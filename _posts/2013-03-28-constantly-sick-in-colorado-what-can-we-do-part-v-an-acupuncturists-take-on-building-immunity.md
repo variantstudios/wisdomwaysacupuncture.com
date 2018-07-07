@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - Outlines what I believe, as an acupuncturist, we need to do to avoid all the colds people come down with as our weather constantly changes here in CO
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - nutrition--food
 ---

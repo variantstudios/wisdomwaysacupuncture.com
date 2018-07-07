@@ -12,14 +12,14 @@ thesis_title:
 thesis_description:
   - "Stress relates the Liver in acupuncture theory, so if we're stressed, we get other symptoms related to Liver imbalance as well. "
 thesis_keywords:
-  - acupuncture fort collins, fort collins acupuncture, wood element, liver imbalance, stress
+  - acupuncture-fort-collins, fort collins acupuncture, wood element, liver imbalance, stress
 categories:
   - my-approach--philosophy-and-stories
 tags:
-  - liver qi stagnation
+  - liver-qi-stagnation
   - stress
-  - liver imbalance
-  - acupuncture and stress
+  - liver-imbalance
+  - acupuncture-and-stress
 ---
 <div id="attachment_2032" style="width: 160px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/02/acupuncture-helps-stress.jpg"><img class="size-thumbnail wp-image-2032" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/02/acupuncture-helps-stress-150x136.jpg" alt="Acupuncture helps stress and tension" width="150" height="136" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/02/acupuncture-helps-stress-150x136.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/02/acupuncture-helps-stress-300x273.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/02/acupuncture-helps-stress.jpg 432w" sizes="(max-width: 150px) 100vw, 150px" /></a>

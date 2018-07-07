@@ -20,7 +20,7 @@ categories:
   - eating-with-the-seasons
   - recipes
 tags:
-  - Medicinal Foods
+  - medicinal-foods
 ---
 <div>
   <strong>Have you</strong><strong> ever made a frittata? </strong> I learned a recipe for a simple fritatta using artichoke hearts a few years ago, and I&#8217;ve been making it over and over again ever since.  Some people think that being an acupuncturist and a healthy eater, that I must not eat very interesting or yummy food.  This recipe proves that you can eat like an acupuncturist and still feel satisfied and fulfilled! <strong>It&#8217;s not only a great make-ahead breakfast, allowing for a nutritious start to my mornings even when I don&#8217;t have time to cook, but its flavor and presentation make it a great party pleaser too.<br /> </strong>

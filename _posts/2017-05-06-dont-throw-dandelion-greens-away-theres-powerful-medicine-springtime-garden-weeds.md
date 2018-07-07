@@ -22,8 +22,8 @@ categories:
   - spring--wood-element
   - eating-with-the-seasons
 tags:
-  - liver qi stagnation
-  - liver imbalance
+  - liver-qi-stagnation
+  - liver-imbalance
 ---
 <div align="center">
   <p>

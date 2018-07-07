@@ -16,11 +16,11 @@ categories:
   - autumn--metal-element
   - eating-with-the-seasons
 tags:
-  - 5 Elements
-  - acupuncture fort collins
+  - 5-elements
+  - acupuncture-fort-collins
   - five-elements
-  - Metal Element
-  - seasonal eating
+  - metal-element
+  - seasonal-eating
 ---
 &nbsp;
 

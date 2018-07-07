@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - "Even the best of us slip up. After eating healthy my entire adult life, I went on a crazy junk-food binge. Here's the story and how I recovered. "
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - nutrition--food
   - random-musings

@@ -17,8 +17,8 @@ thesis_robots:
 categories:
   - uncategorized
 tags:
-  - Affordable Care Act and Acupuncture
-  - ObamaCare and Acupuncture
+  - affordable-care-act-and-acupuncture
+  - obamacare-and-acupuncture
 ---
 <div style="width: 263px" class="wp-caption alignleft">
   <a title="Your Acupuncture and the Affordable Care Act" href="http://www.hhs.gov/opa/affordable-care-act/" target="_blank" rel="noopener"><img class=" " style="margin: 5px; border: 0px none;" title="Acupuncture and The Affordable Care Act" src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/166.jpg" alt="How the Affordable Care Act affects your acupuncture treatment" width="253" height="158" align="left" border="0" hspace="5" vspace="5" /></a>

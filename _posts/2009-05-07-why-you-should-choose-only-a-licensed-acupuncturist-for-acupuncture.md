@@ -22,7 +22,7 @@ categories:
   - my-approach--philosophy-and-stories
   - random-musings
 tags:
-  - Problems with medical acupuncture
+  - problems-with-medical-acupuncture
 ---
 <div id="attachment_659" style="width: 160px" class="wp-caption alignleft">
   <a title="Licensed Acupuncturist pulse diagnosis" href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/acupuncture-pulse-taking.jpg"><img class=" wp-image-659 " title="Licensed Acupuncturist doing pulse reading" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/06/acupuncture-pulse-taking.jpg" alt="Licensed Acupuncturist" width="150" height="207" /></a>

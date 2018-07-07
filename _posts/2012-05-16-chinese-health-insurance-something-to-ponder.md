@@ -18,8 +18,8 @@ categories:
   - my-approach--philosophy-and-stories
   - random-musings
 tags:
-  - preventative medicine
-  - healthy lifestyle
+  - preventative-medicine
+  - healthy-lifestyle
 ---
 <h2 style="text-align: left;">
   <img src="http://ih.constantcontact.com/fs085/1102844965003/img/110.jpg" alt="Chinese Medicine Care" width="180" height="128" align="left" border="0" hspace="5" vspace="5" /><span style="color: #808000;"><strong>Acupuncture in ancient China</strong></span>

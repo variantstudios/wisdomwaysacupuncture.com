@@ -11,12 +11,12 @@ thesis_title:
 thesis_description:
   - 'Case studies of two patients that I am currently successfully treating: acupuncture for headaches, acupuncture for chronic fatigue.'
 thesis_keywords:
-  - Acupuncture for headaches, acupuncture for chronic fatigue
+  - acupuncture-for-headaches, acupuncture for chronic fatigue
 categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
 tags:
-  - acupuncture for headaches
-  - acupuncture for chronic fatigue
+  - acupuncture-for-headaches
+  - acupuncture-for-chronic-fatigue
 ---
 **Every so often, I like to share case studies from the clinic to not only give people a better idea of how acupuncture works, but also what they can expect from their treatments.** Most people are surprised by all that acupuncture can treat, since mostly people hear only about its effectiveness for pain.
 

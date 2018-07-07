@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Metal Element 5 Elements Video: Related to Fall, Grief/Sorrow, the Lungs/Large Intestine; but also inspiration & wisdom. Tips to Balance Metal'
 thesis_keywords:
-  - Metal Element, 5 elements, Fall
+  - metal-element, 5 elements, Fall
 categories:
   - autumn--metal-element
 ---

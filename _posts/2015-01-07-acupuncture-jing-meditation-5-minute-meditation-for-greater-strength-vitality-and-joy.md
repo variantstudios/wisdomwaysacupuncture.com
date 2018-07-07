@@ -12,16 +12,16 @@ thesis_description:
   - |
     According to acupuncture theory found in ancient Chinese texts, the Dan Tian is the source of vitality and joy, as well as the center of physical strength and source of stamina. The past few weeks I've been focusing on our Jing, which is stored in our Kidneys, and is related to the Water Element in Chinese Medicine. Now, I will teach you a simple, pleasurable meditation exercise that you can do daily, to increase your kidney function, build your vital Qi to enhance health and immunity, and connect back into your peaceful center. This peaceful center is known as the lower "Dan Tian".
 thesis_keywords:
-  - Chinese Medicine, Acupuncture, Chinese Medical Nutrition, Water Element, Kidneys, Jing, Acupuncture Fort Collins, Fort Collins Acupuncture
+  - chinese-medicine, Acupuncture, Chinese Medical Nutrition, Water Element, Kidneys, Jing, Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
   - my-approach--philosophy-and-stories
   - winter--water-element
 tags:
   - acupuncture
-  - 5 Elements
-  - acupuncture fort collins
-  - Chinese medicine
-  - Water Element
+  - 5-elements
+  - acupuncture-fort-collins
+  - chinese-medicine
+  - water-element
 ---
 **
   

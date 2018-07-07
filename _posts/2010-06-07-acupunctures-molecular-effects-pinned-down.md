@@ -12,7 +12,7 @@ thesis_title:
 thesis_description:
   - 'As acupuncture research continues, exciting explanations for its success -- from a scientific biomechanical perspective, continue to surface'
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - exciting-acupuncture-research
 ---

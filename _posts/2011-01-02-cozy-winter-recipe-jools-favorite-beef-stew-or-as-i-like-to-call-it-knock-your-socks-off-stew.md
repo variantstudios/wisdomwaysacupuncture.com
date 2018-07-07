@@ -20,8 +20,8 @@ categories:
   - winter--water-element
   - recipes
 tags:
-  - Medicinal Foods
-  - yang deficiency
+  - medicinal-foods
+  - yang-deficiency
 ---
 <div id="attachment_974" style="width: 154px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Beef-Stew.jpg"><img class="size-thumbnail wp-image-974" title="Qi and Yang Building Stew" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Beef-Stew-144x150.jpg" alt="Qi and Yang Building Stew" width="144" height="150" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Beef-Stew-144x150.jpg 144w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Beef-Stew.jpg 220w" sizes="(max-width: 144px) 100vw, 144px" /></a>

@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'In this video I review the 5 Element types used in 5 Elements acupuncture, and by the end you might have some guesses for what type you might be! '
 thesis_keywords:
-  - 5 Elements, Acupuncture, Acupuncture Fort Collins, Five Elements
+  - 5-elements, Acupuncture, Acupuncture Fort Collins, Five Elements
 categories:
   - five-elements
 ---

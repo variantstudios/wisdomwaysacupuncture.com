@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Each season has foods that relate to it, according to acupuncture and Chinese Medicine philosophy.  And none are better for balancing and healing the liver in Springtime, than greens. '
 thesis_keywords:
-  - chinese medicine, liver, wood season, five elements, acupuncture, medicinal eating
+  - chinese-medicine, liver, wood season, five elements, acupuncture, medicinal eating
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:

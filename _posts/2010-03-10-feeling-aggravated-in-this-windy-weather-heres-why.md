@@ -12,14 +12,14 @@ thesis_title:
 thesis_description:
   - 'Acupuncture theory says wind relates to the Liver & Wood season, and the liver regulates stress. Windy days can stir up the Liver, causing agitation! '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, liver imbalance, wood season
+  - acupuncture-fort-collins, Fort Collins Acupuncture, liver imbalance, wood season
 image: /wp-content/uploads/2010/03/windy-days-aggravate-your-qi.jpg
 categories:
   - spring--wood-element
 tags:
   - wind
-  - liver qi stagnation
-  - liver imbalance
+  - liver-qi-stagnation
+  - liver-imbalance
 ---
 <div style="text-align: center;">
   <p>

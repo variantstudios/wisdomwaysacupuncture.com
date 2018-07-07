@@ -11,18 +11,18 @@ thesis_title:
 thesis_description:
   - 'Explains the emotional and physical relationships/challenges with the Wood Element, and what we can do to stay balanced in spring/Wood Season. '
 thesis_keywords:
-  - wood element, liver imbalance
+  - wood-element, liver imbalance
 thesis_thumb:
   - http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg
 categories:
   - spring--wood-element
   - eating-with-the-seasons
 tags:
-  - liver qi stagnation
-  - liver imbalance
-  - acupuncture and stress
-  - acupuncture and anxiety
-  - acupuncture and depression
+  - liver-qi-stagnation
+  - liver-imbalance
+  - acupuncture-and-stress
+  - acupuncture-and-anxiety
+  - acupuncture-and-depression
 ---
 <p style="text-align: center;">
   <em>&#8220;And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom&#8221;</em>

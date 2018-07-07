@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'There has been a 600% increase in the number of Americans turning to acupuncture in the last decade.  '
 thesis_keywords:
-  - acupuncture fort collins, fort collins acupuncture
+  - acupuncture-fort-collins, fort collins acupuncture
 categories:
   - random-musings
 ---

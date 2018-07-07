@@ -11,12 +11,12 @@ thesis_title:
 thesis_description:
   - Both western science and acupuncture theory agree that spending time near moving water is beneficial for our health. Make it a priority during dry winters.
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, water element,
+  - acupuncture-fort-collins, Fort Collins Acupuncture, water element,
 categories:
   - winter--water-element
   - random-musings
 tags:
-  - positive ions
+  - positive-ions
 ---
 <table style="height: 52px;" width="160" align="left">
   <tr>

@@ -13,9 +13,9 @@ thesis_description:
 categories:
   - nutrition--food
 tags:
-  - acupuncture fort collins
-  - fort collins acupuncture
-  - Medicinal Foods
+  - acupuncture-fort-collins
+  - fort-collins-acupuncture
+  - medicinal-foods
 ---
 <div>
   <img src="http://ih.constantcontact.com/fs124/1102844965003/img/145.jpg" alt="mushroom acupuncture remedy" width="228" height="178" align="left" border="0" hspace="10" vspace="5" />

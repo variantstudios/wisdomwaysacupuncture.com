@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - Research shows that acupuncture is at least as effective as meds for depression. For me, when combined with herbs it offers exceptional response.
 thesis_keywords:
-  - Acupuncture and depression, acupuncture, acupuncture fort collins
+  - acupuncture-and-depression, acupuncture, acupuncture fort collins
 categories:
   - exciting-acupuncture-research
 tags:

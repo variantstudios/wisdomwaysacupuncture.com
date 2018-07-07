@@ -38,7 +38,7 @@ layout: page
 
             {% if post.tags %}
             <p class="tags-label">Tags: 
-            {% for cat in post.tags %} <a href="{{ cat | prepend: '/blog/tags/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a>
+            {% for cat in post.tags %} <a href="{{ cat | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a>
             {% endfor %} 
             </p>
             {% endif %}

@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - 'Acupuncturists notice the energies of the yearly cycles. With the economic crisis and increase in natural disasters, the luck of the Dragon is timely!  '
 thesis_keywords:
-  - acupuncture fort collins, fort collins acupuncture
+  - acupuncture-fort-collins, fort collins acupuncture
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -19,8 +19,8 @@ thesis_thumb_height:
 categories:
   - uncategorized
 tags:
-  - chinese new year
-  - year of dragon
+  - chinese-new-year
+  - year-of-dragon
 ---
 As an acupuncturist I am very interested in health and longevity&#8230;therefore, the year 2012 is an exciting time in the Chinese calendar!
 

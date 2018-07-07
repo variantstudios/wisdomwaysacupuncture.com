@@ -11,17 +11,17 @@ thesis_title:
 thesis_description:
   - "It's Wood Season according to Chinese Medicine and acupuncture theory: Tips for Keeping your Liver Happy this Spring!"
 thesis_keywords:
-  - Wood Season, five elements, 5 elements, chinese medicine, acupuncture
+  - wood-season, five elements, 5 elements, chinese medicine, acupuncture
 thesis_robots:
   - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - five-elements
 tags:
   - acupuncture
-  - 5 Elements
-  - Wood season
-  - Wood element
-  - Chinese medicine
+  - 5-elements
+  - wood-season
+  - wood-element
+  - chinese-medicine
   - five-elements
 ---
 <p style="text-align: center;">

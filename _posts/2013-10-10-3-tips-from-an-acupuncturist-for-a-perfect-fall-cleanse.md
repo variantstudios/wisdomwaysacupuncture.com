@@ -17,7 +17,7 @@ thesis_robots:
 categories:
   - nutrition--food
 tags:
-  - Medicinal Foods
+  - medicinal-foods
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/165.jpg" alt="null" width="240" height="140" align="left" border="0" hspace="5" vspace="5" />I am often asked by my acupuncture patients how I feel about cleanses. While my responses have changed somewhat over the years, one thing has always remained stable: **there is no single, cookie cutter cleanse that is right for everyone. If you&#8217;re thinking of doing a cleanse soon, you will want to consider the three things listed below before deciding on the cleanse that&#8217;s right for you.**
 

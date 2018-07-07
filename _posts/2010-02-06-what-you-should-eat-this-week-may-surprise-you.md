@@ -12,7 +12,7 @@ thesis_title:
 thesis_description:
   - "Acupuncture believes health is all about balance, and somehow in the midst of strict healthy eating we've got to find our own balance there too. "
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture
+  - acupuncture-fort-collins, Fort Collins Acupuncture
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -21,8 +21,8 @@ categories:
   - nutrition--food
   - random-musings
 tags:
-  - intuitive eating
-  - balanced eating
+  - intuitive-eating
+  - balanced-eating
 ---
 Today, as I sit and write looking out my still-winter window and think about what I’ve learned this week, I notice the leafless trees and unmelted snow on the ground.
 

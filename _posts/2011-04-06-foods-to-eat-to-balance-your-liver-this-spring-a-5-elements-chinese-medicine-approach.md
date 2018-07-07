@@ -11,7 +11,7 @@ thesis_title:
 thesis_description:
   - The 5 Elements/Acupuncture nutritional approach uses the changing seasons to guide our food choices, using seasonal foods as medicine.
 thesis_keywords:
-  - fort collins acupuncture, acupuncture, seasonal eating, liver imbalance, wood element
+  - fort-collins-acupuncture, acupuncture, seasonal eating, liver imbalance, wood element
 thesis_thumb_width:
   - "66"
 thesis_thumb_height:
@@ -20,8 +20,8 @@ categories:
   - spring--wood-element
   - eating-with-the-seasons
 tags:
-  - liver imbalance
-  - wood imbalance
+  - liver-imbalance
+  - wood-imbalance
 ---
 <div id="attachment_1030" style="width: 160px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens.jpg"><img class="size-thumbnail wp-image-1030" title="dark-leafy_greens" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens-150x112.jpg" alt="Chinese medicine believes greens balance your liver" width="150" height="112" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens-150x112.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens-300x225.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/dark-leafy_greens.jpg 480w" sizes="(max-width: 150px) 100vw, 150px" /></a>

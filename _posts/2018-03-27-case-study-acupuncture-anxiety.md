@@ -16,7 +16,7 @@ categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
   - uncategorized
 tags:
-  - acupuncture and anxiety
+  - acupuncture-and-anxiety
 ---
 <div id="attachment_2177" style="width: 160px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/frustration-acupuncture.jpg"><img class="size-thumbnail wp-image-2177" title="Acupuncture for Anxiety" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/frustration-acupuncture-150x99.jpg" alt="acupuncture effective for anxiety" width="150" height="99" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/frustration-acupuncture-150x99.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/frustration-acupuncture.jpg 275w" sizes="(max-width: 150px) 100vw, 150px" /></a>

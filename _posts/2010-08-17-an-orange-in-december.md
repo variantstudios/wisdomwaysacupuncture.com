@@ -11,14 +11,14 @@ thesis_title:
 thesis_description:
   - 'The Fire Element reminds us to find joy in simple gifts of nature that are given during Fire Season; even in the depths of deep winter. '
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, fire element, gratitude
+  - acupuncture-fort-collins, Fort Collins Acupuncture, fire element, gratitude
 categories:
   - summer--fire-element
   - eating-with-the-seasons
   - random-musings
 tags:
-  - 5 Elements
-  - Fire element
+  - 5-elements
+  - fire-element
   - five-elements
   - gratitude
 ---

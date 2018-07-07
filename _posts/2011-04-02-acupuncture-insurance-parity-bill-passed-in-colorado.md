@@ -12,7 +12,7 @@ thesis_description:
   - |
     Acupuncture Insurance Parity Bill Passed! Now, plans that cover acupuncture can't deny claims from a real acupuncturist while accepting fake "acupuncture" from other providers.
 thesis_keywords:
-  - Acupuncture legislation, acupuncture in Colorado, acupuncture and insurance, acupuncture parity bill
+  - acupuncture-legislation, acupuncture in Colorado, acupuncture and insurance, acupuncture parity bill
 categories:
   - uncategorized
 tags:

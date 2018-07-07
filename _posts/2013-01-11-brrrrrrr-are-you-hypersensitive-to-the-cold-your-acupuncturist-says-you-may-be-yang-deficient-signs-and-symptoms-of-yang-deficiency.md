@@ -17,7 +17,7 @@ thesis_robots:
 categories:
   - random-musings
 tags:
-  - yang deficiency
+  - yang-deficiency
 ---
 [<img class="alignleft size-thumbnail wp-image-1370" title="acupuncture yang deficiency" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency-150x57.jpg" alt="acupuncture cold" width="150" height="57" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency-150x57.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency-300x114.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency.jpg 364w" sizes="(max-width: 150px) 100vw, 150px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency.jpg)It’s the middle of winter.  As I type this, a light snow is coming down outside and the weekend forecast is in the teens.  It’s normal to feel cold in weather like this, right?
 

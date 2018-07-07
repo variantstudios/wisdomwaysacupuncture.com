@@ -11,12 +11,12 @@ thesis_title:
 thesis_description:
   - 'Acupuncturists say the liver relates to stress, & high Omega 3s help reduce stress/anxiety. Eat grass fed/pastured animals & greens to help balance your liver.'
 thesis_keywords:
-  - Acupuncture Fort Collins, Fort Collins Acupuncture, pastured animals, grass-fed, stress, anxiety
+  - acupuncture-fort-collins, Fort Collins Acupuncture, pastured animals, grass-fed, stress, anxiety
 categories:
   - spring--wood-element
   - nutrition--food
 tags:
-  - liver imbalance
+  - liver-imbalance
 ---
 &nbsp;
 
