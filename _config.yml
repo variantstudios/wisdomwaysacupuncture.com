@@ -41,6 +41,9 @@ collections:
   categories:
     output: true
     permalink: '/blog/category/:title/'
+  tags:
+    output: true
+    permalink: '/blog/tags/:title/'
   conditions:
     output: true
     permalink: '/conditions-treated/:title/'
@@ -84,9 +87,9 @@ defaults:
       class: blog
   -
     scope:
-      type: categories
+      type: tags
     values:
-      layout: category
+      layout: tags
       class: blog
         
 # Cloudcannon Options
