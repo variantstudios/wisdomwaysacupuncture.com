@@ -1,7 +1,6 @@
 ---
 title: 'Inger Giffin, Acupuncturist'
 feature_image_path: /assets/images/inger-giffin--acupuncturist.jpg
-bio_html:
 image_gallery:
   - image_title: Skiing
     gallery_image_path: /assets/images/322.jpg
@@ -33,7 +32,7 @@ image_gallery:
     gallery_image_path: /assets/images/img-4676-3.jpg
   - image_title: Run
     gallery_image_path: /assets/images/img-5634.jpg
-order: 0
+order: 1
 ---
 From a very young age I've been both inspired and fascinated by the amazing healing wisdom of the body, so when I discovered acupuncture many years ago, it quickly became not just a job or even a career, but rather a life calling. It's become my Life Purpose to learn everything I can about the body's innate ability to heal, so that I can help other women nurture that ability in their own bodies as well.
 
