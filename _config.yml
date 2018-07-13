@@ -40,9 +40,11 @@ collections:
     permalink: '/blog/:title/'
   categories:
     output: true
+     _hide_content: true
     permalink: '/blog/category/:path/'
   tags:
     output: true
+     _hide_content: true
     permalink: '/blog/tag/:path/'
   conditions:
     output: true
@@ -52,7 +54,6 @@ collections:
     permalink: '/services-offered/:title/'
   team:
     output: false
-    _hide_content: true
 
 defaults:
   -
