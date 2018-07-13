@@ -1,10 +1,21 @@
 {% assign team = site.team | sort: 'order' %} {% for team-member in team %}
 <div class="team--member">
     <h2>{{team-member.title}}</h2>
-    <img src="{{team-member.feature_image_path}}" alt="{{team-member.title}}" class="team--feature-image"> {{team-member.content}}
+    <img src="{{site.cloudinaryurl}}image/fetch/w_250,c_fill,c_fill,q_65/{{site.url}}{{team-member.feature_image_path}}" alt="{{team-member.title}}" class="team--feature-image"> {{team-member.content}}
     <ul class="team--gallery">
         {% for image in team-member.image_gallery %}
-        <li><img src="{{image.gallery_image_path}}" alt="{{title.gallery_image_path}}"> </li>
+        <li>
+            <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_160,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" media="(max-width: 400px)">
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_260,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" media="(max-width: 600px)">
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_360,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" media="(max-width: 799px)">
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_400,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" media="(max-width: 799px)">
+                <source srcset="{{site.cloudinaryurl}}image/fetch/w_276,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" media="(min-width: 800px)">
+                <!--[if IE 9]></video><![endif]-->
+                <img src="{{site.cloudinaryurl}}image/fetch/w_276,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" alt="{{title.gallery_image_path}}">
+            </picture>
+        </li>
         {% endfor %}
     </ul>
 
