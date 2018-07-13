@@ -25,7 +25,15 @@ layout: default
             {{ content }}
         </div>
         <div class="content">
-            {% if page.permalink == "/contact/" %} {% include contact-form.html %} {% elsif page.permalink == "/testimonials/" %} {% include testimonials.html %} {% elsif page.permalink == "/search/" %} {% include google-search.html %} {% endif %}
+            {% if page.permalink == "/contact/" %} 
+            {% include contact-form.html %} 
+            {% elsif page.permalink == "/testimonials/" %} 
+            {% include testimonials.html %} 
+            {% elsif page.permalink == "/our-team/" %} 
+            {% include team.html %} 
+            {% elsif page.permalink == "/search/" %} 
+            {% include google-search.html %} 
+            {% endif %}
         </div>
     </div>
 </div>

@@ -99,4 +99,4 @@ Inger speaking about acupuncture in the West, at a Chinese medical school — Zh
 - Ally (Mentor) for Circles Self Sufficiency Program, Fort Collins, CO, 2012
 - Board of Directors The Growing Project, Fort Collins, CO, 2010-2012
 - Health Educator, Guatemala, 2001
-- Health Educator/Patient Advocate & Assistant, Santa Cruz Women's Health Center,1997-2004
+- Health Educator/Patient Advocate & Assistant, Santa Cruz Women's Health Center, 1997-2004

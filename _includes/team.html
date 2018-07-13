@@ -1,0 +1,13 @@
+{% assign team = site.team | sort: 'order' %} {% for team-member in team %}
+<div class="team--member">
+    <h2>{{team-member.title}}</h2>
+    <img src="{{team-member.feature_image_path}}" alt="{{team-member.title}}" class="team--feature-image"> {{team-member.content}}
+    <ul class="team--gallery">
+        {% for image in team-member.image_gallery %}
+        <li><img src="{{image.gallery_image_path}}" alt="{{title.gallery_image_path}}"> </li>
+        {% endfor %}
+    </ul>
+
+
+</div>
+{% endfor %}
