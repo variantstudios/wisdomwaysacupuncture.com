@@ -1,35 +1,35 @@
 - text: Conditions Treated
   url: /conditions-treated/
-  subitems: 
-    - text: "Women's Health"
+  subitems:
+    - text: Women's Health
       url: /conditions-treated/womens-health/
       subitems:
-        - text: "Menstrual Problems"
-          ulr: "#"
-        - text: "Fertility"
-          ulr: "#"
-        - text: "Hormone Imbalance"
-          ulr: "#"
-        - text: "Menopause"
-          ulr: "#"
-        - text: "Gynecology"
-          ulr: "#"
-    - text: "Headaches/Migraines"
+        - text: Menstrual Problems
+          ulr: '#'
+        - text: Fertility
+          ulr: '#'
+        - text: Hormone Imbalance
+          ulr: '#'
+        - text: Menopause
+          ulr: '#'
+        - text: Gynecology
+          ulr: '#'
+    - text: Headaches/Migraines
       url: /conditions-treated/headaches-migraines/
     - text: Digestion
       url: /conditions-treated/digestion/
     - text: Fatigue
       url: /conditions-treated/fatigue/
-    - text: "Frequent Illness/Chronic Pathology"
+    - text: Frequent Illness/Chronic Pathology
       url: /conditions-treated/frequent-illness-chronic-pathology/
       subitems:
-        - text: "Lyme"
-          ulr: "#"
-        - text: "Epstein-barr"
-          ulr: "#"
-        - text: "Chronic colds"
-          ulr: "#"
-    - text: "Stress/Anxiety/Depression"
+        - text: Lyme
+          ulr: '#'
+        - text: Epstein-barr
+          ulr: '#'
+        - text: Chronic colds
+          ulr: '#'
+    - text: Stress/Anxiety/Depression
       url: /conditions-treated/stress-anxiety-depression/
     - text: Autoimmune
       url: /conditions-treated/autoimmune/
@@ -37,11 +37,13 @@
       url: /conditions-treated/insomnia/
     - text: General Wellness
       url: /conditions-treated/general-wellness/
+    - text: Chronic and Opportunistic Infections
+      url: /conditions-treated/chronic-and-opportunistic-infections
 - text: Our Team
   url: /our-team/
 - text: Services Offered
   url: /services-offered/
-  subitems: 
+  subitems:
     - text: Acupuncture
       url: /services-offered/acupuncture/
     - text: Chinese Herbs
@@ -54,7 +56,7 @@
   url: /testimonials/
 - text: Make an Appointment
   url: /make-an-appointment/
-  subitems: 
+  subitems:
     - text: Forms to Complete
       url: /make-an-appointment/forms-to-complete/
     - text: Payment Info
