@@ -96,6 +96,15 @@ body.front {
                 padding: 1rem;
                 img {
                     border-radius: 50%;
+                    transition: all 0.2s ease;
+                    position: relative;
+                }
+                &:hover {
+                    img {
+                        box-shadow: 5px 20px 20px 0 rgba(0, 0, 0, 0.2);
+                        top: -1px;
+                        transform: scale(1.075);
+                    }
                 }
             }
         }
@@ -132,7 +141,8 @@ body.front {
                 width: 100%;
                 //margin: 0 1rem;
                 display: block;
-                padding: 1rem;
+                margin: 1rem;
+                background: #5C0A0C;
                 img {
                     display: block;
                 }
@@ -140,9 +150,16 @@ body.front {
                     display: block;
                     background: #5C0A0C;
                     color: #fff;
-                    font-size: 1.1rem;
+                    font-size: 1rem;
                     margin: 0;
                     padding: .4rem 0;
+                }
+                transition: all 0.2s ease;
+                position: relative;
+                &:hover {
+                    transform: scale(1.075);
+                    box-shadow: 5px 20px 20px 0 rgba(0, 0, 0, 0.3);
+                    top: -1px;
                 }
             }
         }
