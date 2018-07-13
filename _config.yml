@@ -52,6 +52,7 @@ collections:
     permalink: '/services-offered/:title/'
   team:
     output: false
+    _hide_content: true
 
 defaults:
   -
