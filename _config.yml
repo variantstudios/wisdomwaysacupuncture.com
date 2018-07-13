@@ -100,9 +100,18 @@ _options:
   _text:
     italic: true
   _block:
-    # format: p h3
-    # undo: true
-    # redo: true
+    removeformat: true
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    numberedlist: true
+    bulletedlist: true
+    outdent: true
+    indent: true
+    table: true
+    link: true
+    image: true
+    styles: /assets/css/wysiwyg.css
+    embed: true
     left: align-to-left
     center: align-to-center
     right: align-to-right
@@ -119,6 +128,9 @@ _options:
     image: true
     styles: /assets/css/wysiwyg.css
     embed: true
+    left: align-to-left
+    center: align-to-center
+    right: align-to-right
   share_image_path:
     width: 1200
     height: 1200
