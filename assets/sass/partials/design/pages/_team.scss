@@ -1,0 +1,38 @@
+.team--member {
+    .team--feature-image {
+        float: none;
+        margin: 0 0 1rem 0;
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            float: left;
+            margin: 0 1rem 1.1rem 0;
+        }
+    }
+    ul.team--gallery {
+        line-height: 0;
+        column-count: 2;
+        column-gap: 10px;
+        padding: 0;
+        margin: 0;
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            column-count: 3;
+            column-gap: 20px;
+        }
+        li {
+            display: block;
+            width: 100% !important;
+            height: auto !important;
+            margin-bottom: 10px;
+            @include breakpoint($bp-medium, $no-query: ".no-mq") {
+                margin-bottom: 20px
+            }
+        }
+    }
+    border-bottom: 1px solid #5C0A0C;
+    margin-bottom: 2rem;
+    padding-bottom: 4rem;
+    &:last-child {
+        border-bottom: none;
+        margin-bottom: 2rem;
+        padding-bottom: 0rem;
+    }
+}
