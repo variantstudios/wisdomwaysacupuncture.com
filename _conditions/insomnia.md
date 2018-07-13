@@ -10,3 +10,15 @@ search_engine_optimization:
   page_description:
   share_image_path:
 ---
+
+Insomnia is a commonly treated condition in my clinic, which is often just another symptom that we’re addressing along with other primary concerns such as anxiety or hormonal imbalances.
+
+It tends to worsen in menopausal women which explains why it’s a very common problem among my patients.
+
+### Acupuncture & Herbs for Insomnia
+
+In rare cases acupuncture alone successfully treats the insomnia, but most commonly herbs are needed to really get results. The two together have proven the most successful.
+
+Depending on the nature of the underlying imbalance, after the initial consultation I can often predict the likelihood of a woman needing to expect a shorter or longer treatment plan; as I like to be very honest and explain that even successful insomnia cases can sometimes be very tricky to treat. Especially if the insomnia is severe enough that she’s on nightly prescription sleeping meds.
+
+It’s not uncommon however that women are eventually able to get off their sleeping medications.
