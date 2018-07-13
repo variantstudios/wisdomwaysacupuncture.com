@@ -50,6 +50,8 @@ collections:
   services:
     output: true
     permalink: '/services-offered/:title/'
+  team:
+    output: false
 
 defaults:
   -
@@ -81,6 +83,13 @@ defaults:
           uploads_dir: "assets/images/services/"
   -
     scope:
+      type: team
+    values:
+      _options:
+        image_path: # Front matter field
+          uploads_dir: "assets/images/team/"
+  -
+    scope:
       type: categories
     values:
       layout: category
@@ -94,11 +103,10 @@ defaults:
         
 # Cloudcannon Options
 _options:
-  some_markdown:
-    bold: true
-    table: true
   _text:
+    bold: true
     italic: true
+    link: true
   _block:
     removeformat: true
     format: p h1 h2 h3 h4 h5 h6 pre address div
