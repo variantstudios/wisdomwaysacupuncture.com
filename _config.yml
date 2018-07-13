@@ -40,11 +40,11 @@ collections:
     permalink: '/blog/:title/'
   categories:
     output: true
-     _hide_content: true
+    _hide_content: true
     permalink: '/blog/category/:path/'
   tags:
     output: true
-     _hide_content: true
+    _hide_content: true
     permalink: '/blog/tag/:path/'
   conditions:
     output: true
