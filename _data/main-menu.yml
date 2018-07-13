@@ -35,10 +35,10 @@
       url: /conditions-treated/autoimmune/
     - text: Insomnia
       url: /conditions-treated/insomnia/
-    - text: General Wellness
-      url: /conditions-treated/general-wellness/
     - text: Chronic and Opportunistic Infections
       url: /conditions-treated/chronic-and-opportunistic-infections
+    - text: General Wellness
+      url: /conditions-treated/general-wellness/
 - text: Our Team
   url: /our-team/
 - text: Services Offered
