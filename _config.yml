@@ -148,9 +148,17 @@ _options:
     mime_type: "image/jpeg"
     expandable: false
     uploads_dir: "assets/images/share"
+  share_image_path:
+    width: 1200
+    height: 412
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: false
+    uploads_dir: "assets/images/heroes"
     
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
+  hero_image: "The hero image needs to be exactly 1200px wide by 412px tall."
 
 #Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/wisdomways/'
