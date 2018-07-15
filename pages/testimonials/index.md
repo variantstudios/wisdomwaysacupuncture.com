@@ -8,4 +8,4 @@ layout: page
 permalink: /testimonials/
 ---
 
-# WisdomWays Acupuncture Testimonials
+# Wisdom Ways Acupuncture Testimonials
