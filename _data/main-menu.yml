@@ -64,5 +64,5 @@
 - text: Test
   url: /make-an-appointment/
   subitems:
-    - text:
-      url:
+    - text: Test sub link
+      url: /make-an-appointment/
