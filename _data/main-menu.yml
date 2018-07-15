@@ -5,15 +5,15 @@
       url: /conditions-treated/womens-health/
       subitems:
         - text: Menstrual Problems
-          url: /conditions-treated/menstrual-problems/
+          url: '/conditions-treated/menstrual-problems/'
         - text: Infertility
-          url: /conditions-treated/infertility/
+          url: '/conditions-treated/infertility/'
         - text: Hormone Imbalance
-          url: /conditions-treated/hormone-imbalances/
+          url: '/conditions-treated/hormone-imbalances/'
         - text: Menopause
-          url: /conditions-treated/menopause/
+          url: '/conditions-treated/menopause/'
         - text: Gynecology Issues
-          url: /conditions-treated/gynecological-issues/
+          url: '/conditions-treated/gynecological-issues/'
     - text: Headaches/Migraines
       url: /conditions-treated/headaches-migraines/
     - text: Digestion
@@ -24,11 +24,11 @@
       url: /conditions-treated/frequent-illness-chronic-pathology/
       subitems:
         - text: Lyme
-          url: /conditions-treated/lyme/
+          url: '/conditions-treated/lyme/'
         - text: Epstein-barr
-          url: /conditions-treated/epstein-barr/
+          url: '/conditions-treated/epstein-barr/'
         - text: Chronic colds
-          url: /conditions-treated/chronic-colds/
+          url: '/conditions-treated/chronic-colds/'
     - text: Stress/Anxiety/Depression
       url: /conditions-treated/stress-anxiety-depression/
     - text: Autoimmune
@@ -61,8 +61,3 @@
       url: /make-an-appointment/forms-to-complete/
     - text: Payment Info
       url: /make-an-appointment/payment-info/
-- text: New Link
-  url: /conditions-treated/infertility/
-  subitems:
-    - text:
-      url:
