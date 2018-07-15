@@ -151,7 +151,7 @@ _options:
   hero_image:
     width: 1200
     height: 412
-    resize_style: "contain"
+    resize_style: "cover"
     mime_type: "image/jpeg"
     expandable: false
     uploads_dir: "assets/images/heroes"
