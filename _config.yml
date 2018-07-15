@@ -166,7 +166,8 @@ _options:
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
   hero_image: "The hero image needs to be a jpeg and exactly 1200px wide by 412px tall and if not that exact same size CloudCannon will scale and crop it to 1200px wide."
-  feature_image_path: "The hero image needs to be a jpeg and exactly 250px wide by 375px tall and if not that exact same size CloudCannon will scale and crop it to 250px wide."
+  feature_image_path: "The feature image needs to be a jpeg and exactly 250px wide by 375px tall and if not that exact same size CloudCannon will scale and crop it to 250px wide."
+  gallery_image_path: "The gallery image needs to be a jpeg and no taller than 375px and if not that exact same size CloudCannon will scale and crop it to 375px tall."
 
 #Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/wisdomways/'
