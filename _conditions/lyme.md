@@ -11,4 +11,4 @@ search_engine_optimization:
   share_image_path:
 ---
 
-*(couldn’t find ‘General Wellness’ in the google doc)*
+*(couldn’t find ‘Lyme’ in the google doc)*
