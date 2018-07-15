@@ -22,6 +22,44 @@
 <script src="/assets/js/prod/zepto.1.2.0.min.js"></script>
 <script src="/assets/js/prod/scripts.js"></script>
 
+<script src="/assets/js/prod/data.js" type="text/javascript"></script>
+<script src="/assets/js/prod/zepto.revolver.min.js" type="text/javascript"></script>
+
+<!-- https://github.com/stephenhutchings/zepto.revolver -->
+<script type="text/javascript">
+    $(".team--gallery").revolver({
+        draggingMS: 300,
+        controlsMS: 800,
+        autoplayMS: 4000,
+        returnToStart: true,
+        returnToStartMS: 1000,
+        stopOnHover: true,
+        navigation: ["&larr;", "&rarr;"],
+        pagination: true,
+        paginationNumbers: false,
+        items: 1,
+        breakpoints: [
+            [1199, 1],
+            [979, 1],
+            [768, 1],
+            [479, 1]
+        ]
+    });
+</script>
+
+<!-- <div class="front-hero clearfix">
+    <div class="front-hero-wrapper clearfix">
+    {% for front_hero in page.front_hero %}
+    <div class="slide">
+    <h3>{{front_hero.title}}</h3>
+    <img src="{{front_hero.image}}" alt="{{front_hero.title}}">
+    </div>
+    {% endfor %}
+    </div>
+</div> -->
+
+
+
 {% if page.layout == 'front' %} {% endif %} {% if include.class == 'contact' %}
 <script src="/assets/js/prod/contact.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>

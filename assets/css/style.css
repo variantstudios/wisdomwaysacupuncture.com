@@ -2262,44 +2262,139 @@ span.author {
   margin: 0 1rem 1.1rem 0;
 }
 .team--member ul.team--gallery {
-  line-height: 0;
-  -webkit-column-count: 2;
-          column-count: 2;
-  -webkit-column-gap: 10px;
-          column-gap: 10px;
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
   padding: 0;
   margin: 0;
 }
-@media (min-width: 50em) {
-  .team--member ul.team--gallery {
-    -webkit-column-count: 3;
-            column-count: 3;
-    -webkit-column-gap: 20px;
-            column-gap: 20px;
-  }
-}
-.no-mq .team--member ul.team--gallery {
-  -webkit-column-count: 3;
-          column-count: 3;
-  -webkit-column-gap: 20px;
-          column-gap: 20px;
-}
 .team--member ul.team--gallery li {
+  position: relative;
   display: block;
-  width: 100% !important;
-  height: auto !important;
-  margin-bottom: 10px;
-}
-@media (min-width: 50em) {
-  .team--member ul.team--gallery li {
-    margin-bottom: 20px;
-  }
-}
-.no-mq .team--member ul.team--gallery li {
-  margin-bottom: 20px;
+  text-align: center;
 }
 .team--member:last-child {
   border-bottom: none;
   margin-bottom: 2rem;
   padding-bottom: 0rem;
+}
+
+/* revolver Slider container */
+.revolver {
+  display: none;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.revolver .rv-wrapper {
+  display: none;
+  position: relative;
+}
+
+.revolver .rv-wrapper:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.revolver .rv-item {
+  float: left;
+}
+
+.revolver .rv-wrapper,
+.revolver .rv-item {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+}
+
+.revolver .rv-page {
+  cursor: pointer;
+}
+
+.revolver .grabbing {
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.revolver .rv-controls {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  text-align: center;
+  padding: 0;
+}
+
+.revolver .rv-controls .rv-prev,
+.revolver .rv-controls .rv-next {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  bottom: 0;
+  background: #55090b;
+  border-radius: 50%;
+  color: #fff;
+  line-height: 1.3;
+}
+
+.revolver .rv-controls .rv-prev.disabled,
+.revolver .rv-controls .rv-next.disabled {
+  pointer-events: none;
+  opacity: 0.25;
+}
+
+.revolver .rv-controls .rv-prev {
+  left: 12px;
+}
+
+.revolver .rv-controls .rv-next {
+  right: 12px;
+}
+
+.revolver .rv-controls .rv-page {
+  width: 12px;
+  height: 12px;
+  background: #55090b;
+  -webkit-transition: background 300ms;
+  transition: background 300ms;
+  display: -moz-inline-box;
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+}
+
+.revolver .rv-controls .rv-page {
+  *display: inline;
+}
+
+.revolver .rv-controls .rv-page:first-child {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.revolver .rv-controls .rv-page:last-child {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.revolver .rv-controls .rv-page.active {
+  background: #7F8337;
+}
+
+.revolver .rv-controls.clickable .rv-page:hover {
+  position: relative;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  z-index: 1;
 }
