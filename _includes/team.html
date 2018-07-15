@@ -1,7 +1,10 @@
 {% assign team = site.team | sort: 'order' %} {% for team-member in team %}
 <div class="team--member">
     <h2>{{team-member.title}}</h2>
-    <img src="{{site.cloudinaryurl}}image/fetch/w_250,c_fill,c_fill,q_85/{{site.url}}{{team-member.feature_image_path}}" alt="{{team-member.title}}" class="team--feature-image"> {{team-member.content}} 
+    {% if team-member.feature_image_path %}
+    <img src="{{site.cloudinaryurl}}image/fetch/w_250,c_fill,c_fill,q_85/{{site.url}}{{team-member.feature_image_path}}" alt="{{team-member.title}}" class="team--feature-image"> 
+    {% endif %}
+    {{team-member.content}} 
     {% if team-member.image_gallery[1] %}
     <ul class="team--gallery clearfix">
         {% for image in team-member.image_gallery %}
