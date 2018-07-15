@@ -5,30 +5,30 @@
       url: /conditions-treated/womens-health/
       subitems:
         - text: Menstrual Problems
-          ulr: '#'
-        - text: Fertility
-          ulr: '#'
+          url: '/conditions-treated/menstrual-problems/'
+        - text: Infertility
+          url: '/conditions-treated/infertility/'
         - text: Hormone Imbalance
-          ulr: '#'
+          url: '/conditions-treated/hormone-imbalances/'
         - text: Menopause
-          ulr: '#'
-        - text: Gynecology
-          ulr: '#'
+          url: '/conditions-treated/menopause/'
+        - text: Gynecology Issues
+          url: '/conditions-treated/gynecological-issues/'
     - text: Headaches/Migraines
       url: /conditions-treated/headaches-migraines/
     - text: Digestion
       url: /conditions-treated/digestion/
-    - text: Fatigue
+    - text: Fatigue and Chronic Fatigue
       url: /conditions-treated/fatigue/
     - text: Frequent Illness/Chronic Pathology
       url: /conditions-treated/frequent-illness-chronic-pathology/
       subitems:
         - text: Lyme
-          ulr: '#'
+          url: '/conditions-treated/lyme/'
         - text: Epstein-barr
-          ulr: '#'
+          url: '/conditions-treated/epstein-barr/'
         - text: Chronic colds
-          ulr: '#'
+          url: '/conditions-treated/chronic-colds/'
     - text: Stress/Anxiety/Depression
       url: /conditions-treated/stress-anxiety-depression/
     - text: Autoimmune
