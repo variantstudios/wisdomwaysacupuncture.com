@@ -10,3 +10,5 @@ search_engine_optimization:
   page_description:
   share_image_path:
 ---
+
+*(couldn’t find ‘General Wellness’ in the google doc)*
