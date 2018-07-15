@@ -162,6 +162,12 @@ _options:
     mime_type: "image/jpeg"
     expandable: false
     uploads_dir: "assets/images/team"
+  feature_image_path:
+    height: 375
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: false
+    uploads_dir: "assets/images/team/gallery"
     
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
