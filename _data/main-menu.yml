@@ -61,8 +61,8 @@
       url: /make-an-appointment/forms-to-complete/
     - text: Payment Info
       url: /make-an-appointment/payment-info/
-- text: Test
+- text: New test
   url: /make-an-appointment/
   subitems:
-    - text: Test sub link
-      url: /make-an-appointment/
+    - text:
+      url:
