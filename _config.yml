@@ -148,7 +148,7 @@ _options:
     mime_type: "image/jpeg"
     expandable: false
     uploads_dir: "assets/images/share"
-  share_image_path:
+  hero_image:
     width: 1200
     height: 412
     resize_style: "contain"
