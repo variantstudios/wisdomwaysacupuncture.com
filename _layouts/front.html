@@ -44,9 +44,9 @@ layout: default
     <div class="areas-of-specialties-wrapper clearfix">
         <div class="subpage">
             <div class="header editable">
-                <h3>Areas of Specialties</h3>
-                <p>Click the Conditions Treated link above for more specialties. </p>
-            </div>
+	<h3>Areas of Specialties</h3>
+	<p>You can also click the Conditions Treated tab above for more specialties.</p>
+</div>
             <ul>
                 {% assign sorted_conditions = site.conditions | sort:"areas_of_specialties.selected_order" %} {% for specialty in sorted_conditions %} {% if specialty.areas_of_specialties.selected == true %}
                 <li>
