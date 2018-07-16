@@ -39,6 +39,8 @@
       url: /conditions-treated/chronic-and-opportunistic-infections
     - text: General Wellness
       url: /conditions-treated/general-wellness/
+    - text: New Condition
+      url: /conditions-treated/new-condition/
 - text: Our Team
   url: /our-team/
 - text: Services Offered
