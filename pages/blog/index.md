@@ -1,5 +1,6 @@
 ---
 title: "Blog page"
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: "Blog - WisdomWays Acupuncture"
   page_description:
