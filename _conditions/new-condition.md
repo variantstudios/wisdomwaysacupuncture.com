@@ -6,7 +6,9 @@ areas_of_specialties:
   selected_image:
   selected_order:
 search_engine_optimization:
-  page_title:
+  page_title: New Condition
   page_description:
   share_image_path:
 ---
+
+Add content here.
