@@ -8,4 +8,5 @@ search_engine_optimization:
 layout: blog
 permalink: "/blog/"
 ---
-# WisdomWays Acupuncture Blog
+
+# Wisdom Ways Acupuncture Blog
