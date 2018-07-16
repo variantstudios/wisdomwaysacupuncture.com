@@ -5,7 +5,7 @@
     <img src="{{site.cloudinaryurl}}image/fetch/w_250,c_fill,c_fill,q_85/{{site.url}}{{team-member.feature_image_path}}" alt="{{team-member.title}}" class="team--feature-image"> 
     {% endif %}
     {{team-member.content}} 
-    {% if team-member.image_gallery[1] %}
+    {% if team-member.image_gallery[0].title %}
     <ul class="team--gallery clearfix">
         {% for image in team-member.image_gallery %}
         <li>
