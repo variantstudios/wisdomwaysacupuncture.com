@@ -168,13 +168,21 @@ _options:
     mime_type: "image/jpeg"
     expandable: false
     uploads_dir: "assets/images/team/gallery"
+  selected_image:
+    width: 210
+    height: 210
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: false
+    uploads_dir: "assets/images/conditions"
     
 _comments:
   share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
   hero_image: "The hero image needs to be a jpeg and exactly 1200px wide by 412px tall and if not that exact same size CloudCannon will scale and crop it to 1200px wide."
   feature_image_path: "The feature image needs to be a jpeg and exactly 250px wide by 375px tall and if not that exact same size CloudCannon will scale and crop it to 250px wide."
   gallery_image_path: "The gallery image needs to be a jpeg and no taller than 375px and if not that exact same size CloudCannon will scale and crop it to 375px tall."
-
+  selected_image: "The selected image needs to be a jpeg and exactly 210px wide by 210px tall and if not that exact same size CloudCannon will scale and crop it to 210px wide."
+  
 #Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/wisdomways/'
 
