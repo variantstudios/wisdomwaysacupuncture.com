@@ -23,10 +23,6 @@ Or call: (970) 227-3077
 
 &nbsp;
 
----
-
-&nbsp;
-
 NEW PATIENTS: before your appointment, please follow the “Forms to Complete” tab at the top to access and print the forms you will need to bring in to your first visit. If you cannot print these forms, please come to your acupuncture appointment 1/2 hr early to complete forms. Thank You!
 
 ### Insurance Patients
