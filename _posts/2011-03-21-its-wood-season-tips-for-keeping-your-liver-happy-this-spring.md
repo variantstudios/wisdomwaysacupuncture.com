@@ -25,7 +25,7 @@ tags:
   - five-elements
 ---
 <p style="text-align: center;">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/sapling.jpg"><img class="size-thumbnail wp-image-1022 alignleft" title="Sapling in Spring" alt="It's Wood Season according to Chinese Medicine, and all is bursting forth" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/sapling-150x112.jpg" width="150" height="112" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/sapling-150x112.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/sapling.jpg 259w" sizes="(max-width: 150px) 100vw, 150px" /></a><strong><em>“And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom”   – Anaïs Nin</em></strong>
+  <a href="/assets/wp-content/uploads/2011/04/sapling.jpg"><img class="size-thumbnail wp-image-1022 alignleft" title="Sapling in Spring" alt="It's Wood Season according to Chinese Medicine, and all is bursting forth" src="/assets/wp-content/uploads/2011/04/sapling-150x112.jpg" width="150" height="112" srcset="/assets/wp-content/uploads/2011/04/sapling-150x112.jpg 150w, /assets/wp-content/uploads/2011/04/sapling.jpg 259w" sizes="(max-width: 150px) 100vw, 150px" /></a><strong><em>“And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom”   – Anaïs Nin</em></strong>
 </p>
 
 &nbsp;

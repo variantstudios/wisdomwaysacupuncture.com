@@ -18,7 +18,7 @@ categories:
   - womens-health
 ---
 <div id="attachment_3635" style="width: 160px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920.jpg"><img class="size-thumbnail wp-image-3635" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg" alt="endometriosis acupuncture" width="150" height="100" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-300x200.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-768x513.jpg 768w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/belly-3186730_1920-1024x684.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/wp-content/uploads/2018/06/belly-3186730_1920.jpg"><img class="size-thumbnail wp-image-3635" src="/assets/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg" alt="endometriosis acupuncture" width="150" height="100" srcset="/assets/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg 150w, /assets/wp-content/uploads/2018/06/belly-3186730_1920-300x200.jpg 300w, /assets/wp-content/uploads/2018/06/belly-3186730_1920-768x513.jpg 768w, /assets/wp-content/uploads/2018/06/belly-3186730_1920-1024x684.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Sooth your endometriosis pain with acupuncture

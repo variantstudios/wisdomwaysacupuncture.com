@@ -18,7 +18,7 @@ categories:
 &nbsp;
 
 <div id="attachment_1017" style="width: 242px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/vintagefitness.jpg"><img class=" wp-image-1017" title="Fitness Keeps your Liver Qi Moving" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/vintagefitness-150x108.jpg" alt="Chinese Medicine: Fitness Keeps your Liver Qi Moving." width="232" height="167" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/vintagefitness-150x108.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/04/vintagefitness.jpg 264w" sizes="(max-width: 232px) 100vw, 232px" /></a>
+  <a href="/assets/wp-content/uploads/2011/04/vintagefitness.jpg"><img class=" wp-image-1017" title="Fitness Keeps your Liver Qi Moving" src="/assets/wp-content/uploads/2011/04/vintagefitness-150x108.jpg" alt="Chinese Medicine: Fitness Keeps your Liver Qi Moving." width="232" height="167" srcset="/assets/wp-content/uploads/2011/04/vintagefitness-150x108.jpg 150w, /assets/wp-content/uploads/2011/04/vintagefitness.jpg 264w" sizes="(max-width: 232px) 100vw, 232px" /></a>
   
   <p class="wp-caption-text">
     Exercise helps balance your Liver Qi

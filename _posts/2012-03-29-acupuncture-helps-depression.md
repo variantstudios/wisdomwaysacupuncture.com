@@ -22,7 +22,7 @@ tags:
   - acupuncture-for-depression
 ---
 <div id="attachment_1278" style="width: 124px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/03/Acupuncture-for-depression.jpg"><img class="size-full wp-image-1278 " title="Acupuncture helps depression" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/03/Acupuncture-for-depression.jpg" alt="Acupuncture helps depression, study shows" width="114" height="116" /></a>
+  <a href="/assets/wp-content/uploads/2012/03/Acupuncture-for-depression.jpg"><img class="size-full wp-image-1278 " title="Acupuncture helps depression" src="/assets/wp-content/uploads/2012/03/Acupuncture-for-depression.jpg" alt="Acupuncture helps depression, study shows" width="114" height="116" /></a>
   
   <p class="wp-caption-text">
     Acupuncture Helps Depression!

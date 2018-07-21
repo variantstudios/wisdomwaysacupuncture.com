@@ -21,7 +21,7 @@ categories:
 tags:
   - western-medicine
 ---
-[<img class="size-full wp-image-915 alignleft" title="Acupuncture preserves the true intent of medicine" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/medicine.jpg" alt="Acupuncture preserves the true intent of medicine" width="113" height="113" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/medicine.jpg 225w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/medicine-150x149.jpg 150w" sizes="(max-width: 113px) 100vw, 113px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/medicine.jpg)
+[<img class="size-full wp-image-915 alignleft" title="Acupuncture preserves the true intent of medicine" src="/assets/wp-content/uploads/2010/09/medicine.jpg" alt="Acupuncture preserves the true intent of medicine" width="113" height="113" srcset="/assets/wp-content/uploads/2010/09/medicine.jpg 225w, /assets/wp-content/uploads/2010/09/medicine-150x149.jpg 150w" sizes="(max-width: 113px) 100vw, 113px" />](/assets/wp-content/uploads/2010/09/medicine.jpg)
 
 <p style="text-align: center;">
   <strong>Can you guess the leading cause of death in the US?</strong>

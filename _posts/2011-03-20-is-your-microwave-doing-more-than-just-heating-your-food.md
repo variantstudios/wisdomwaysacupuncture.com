@@ -19,7 +19,7 @@ tags:
 ---
 &nbsp;
 
-[<img class=" wp-image-1005 alignleft" title="microwave dangerous to your Qi" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/03/microwave-danger-97x150.jpg" alt="Acupuncturists do not support the use of microwaves" width="145" height="224" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/03/microwave-danger-97x150.jpg 97w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/03/microwave-danger-195x300.jpg 195w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/03/microwave-danger.jpg 306w" sizes="(max-width: 145px) 100vw, 145px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/03/microwave-danger.jpg)**I&#8217;ve known for years that there are some serious issues from heating food or water in a microwave.  Most acupuncturists or natural medicine providers do not support their use.
+[<img class=" wp-image-1005 alignleft" title="microwave dangerous to your Qi" src="/assets/wp-content/uploads/2011/03/microwave-danger-97x150.jpg" alt="Acupuncturists do not support the use of microwaves" width="145" height="224" srcset="/assets/wp-content/uploads/2011/03/microwave-danger-97x150.jpg 97w, /assets/wp-content/uploads/2011/03/microwave-danger-195x300.jpg 195w, /assets/wp-content/uploads/2011/03/microwave-danger.jpg 306w" sizes="(max-width: 145px) 100vw, 145px" />](/assets/wp-content/uploads/2011/03/microwave-danger.jpg)**I&#8217;ve known for years that there are some serious issues from heating food or water in a microwave.  Most acupuncturists or natural medicine providers do not support their use.
   
 ** 
 

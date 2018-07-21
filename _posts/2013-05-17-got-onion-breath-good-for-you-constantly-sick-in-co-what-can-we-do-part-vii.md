@@ -20,7 +20,7 @@ categories:
   - nutrition--food
 ---
 <div id="attachment_1505" style="width: 160px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/05/onions-and-garlic.jpg"><img class="size-thumbnail wp-image-1505" title="onions and garlic acupuncture" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/05/onions-and-garlic-150x126.jpg" alt="acupuncture believes onions are good for immunity" width="150" height="126" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/05/onions-and-garlic-150x126.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/05/onions-and-garlic.jpg 245w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/wp-content/uploads/2013/05/onions-and-garlic.jpg"><img class="size-thumbnail wp-image-1505" title="onions and garlic acupuncture" src="/assets/wp-content/uploads/2013/05/onions-and-garlic-150x126.jpg" alt="acupuncture believes onions are good for immunity" width="150" height="126" srcset="/assets/wp-content/uploads/2013/05/onions-and-garlic-150x126.jpg 150w, /assets/wp-content/uploads/2013/05/onions-and-garlic.jpg 245w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Onions: let the tears of joy flow, knowing your immune system is getting boosted with every chop and bite!

@@ -23,7 +23,7 @@ tags:
   - gratitude
 ---
 <div id="attachment_3579" style="width: 244px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/08/anise-2785512_1920.jpg"><img class=" wp-image-3579" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/08/anise-2785512_1920-150x100.jpg" alt="Spiced Orange" width="234" height="156" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/08/anise-2785512_1920-150x100.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/08/anise-2785512_1920-300x200.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/08/anise-2785512_1920-768x512.jpg 768w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/08/anise-2785512_1920-1024x683.jpg 1024w" sizes="(max-width: 234px) 100vw, 234px" /></a>
+  <a href="/assets/wp-content/uploads/2010/08/anise-2785512_1920.jpg"><img class=" wp-image-3579" src="/assets/wp-content/uploads/2010/08/anise-2785512_1920-150x100.jpg" alt="Spiced Orange" width="234" height="156" srcset="/assets/wp-content/uploads/2010/08/anise-2785512_1920-150x100.jpg 150w, /assets/wp-content/uploads/2010/08/anise-2785512_1920-300x200.jpg 300w, /assets/wp-content/uploads/2010/08/anise-2785512_1920-768x512.jpg 768w, /assets/wp-content/uploads/2010/08/anise-2785512_1920-1024x683.jpg 1024w" sizes="(max-width: 234px) 100vw, 234px" /></a>
   
   <p class="wp-caption-text">
     Thanks to https://pixabay.com/en/users/Couleur-1195798/ for the use of this beautiful pic!

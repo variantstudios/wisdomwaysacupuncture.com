@@ -18,7 +18,7 @@ categories:
   - recipes
 ---
 <div id="attachment_1155" style="width: 160px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/09/roasted-pear-soup.jpg"><img class="size-thumbnail wp-image-1155 " title="roasted pear soup" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/09/roasted-pear-soup-150x150.jpg" alt="Medicinal Roasted Pear Soup Nourishes the Qi" width="150" height="150" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/09/roasted-pear-soup-150x150.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/09/roasted-pear-soup-300x300.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/09/roasted-pear-soup.jpg 308w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/wp-content/uploads/2011/09/roasted-pear-soup.jpg"><img class="size-thumbnail wp-image-1155 " title="roasted pear soup" src="/assets/wp-content/uploads/2011/09/roasted-pear-soup-150x150.jpg" alt="Medicinal Roasted Pear Soup Nourishes the Qi" width="150" height="150" srcset="/assets/wp-content/uploads/2011/09/roasted-pear-soup-150x150.jpg 150w, /assets/wp-content/uploads/2011/09/roasted-pear-soup-300x300.jpg 300w, /assets/wp-content/uploads/2011/09/roasted-pear-soup.jpg 308w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Yum!

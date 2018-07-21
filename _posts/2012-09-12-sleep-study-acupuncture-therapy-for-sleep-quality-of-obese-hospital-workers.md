@@ -25,7 +25,7 @@ tags:
 &nbsp;
 
 <div id="attachment_1336" style="width: 142px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/09/insomnia.jpg"><img class="size-thumbnail wp-image-1336" title="Acupuncture for Insomnia" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/09/insomnia-132x150.jpg" alt="Acupuncture for Insomnia" width="132" height="150" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/09/insomnia-132x150.jpg 132w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/09/insomnia.jpg 211w" sizes="(max-width: 132px) 100vw, 132px" /></a>
+  <a href="/assets/wp-content/uploads/2012/09/insomnia.jpg"><img class="size-thumbnail wp-image-1336" title="Acupuncture for Insomnia" src="/assets/wp-content/uploads/2012/09/insomnia-132x150.jpg" alt="Acupuncture for Insomnia" width="132" height="150" srcset="/assets/wp-content/uploads/2012/09/insomnia-132x150.jpg 132w, /assets/wp-content/uploads/2012/09/insomnia.jpg 211w" sizes="(max-width: 132px) 100vw, 132px" /></a>
   
   <p class="wp-caption-text">
     Acupuncture Successful for Insomnia

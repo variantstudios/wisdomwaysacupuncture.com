@@ -19,7 +19,7 @@ tags:
 ---
 &nbsp;
 
-[<img class="size-thumbnail wp-image-966" title="Acupuncture Treats Raynaud's Syndrome" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Raynauds_Syndrome-113x150.jpg" alt="Acupuncture Effectively Treats Raynaud's Syndrome" width="113" height="150" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Raynauds_Syndrome-113x150.jpg 113w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Raynauds_Syndrome-227x300.jpg 227w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Raynauds_Syndrome.jpg 230w" sizes="(max-width: 113px) 100vw, 113px" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2011/01/Raynauds_Syndrome.jpg)
+[<img class="size-thumbnail wp-image-966" title="Acupuncture Treats Raynaud's Syndrome" src="/assets/wp-content/uploads/2011/01/Raynauds_Syndrome-113x150.jpg" alt="Acupuncture Effectively Treats Raynaud's Syndrome" width="113" height="150" srcset="/assets/wp-content/uploads/2011/01/Raynauds_Syndrome-113x150.jpg 113w, /assets/wp-content/uploads/2011/01/Raynauds_Syndrome-227x300.jpg 227w, /assets/wp-content/uploads/2011/01/Raynauds_Syndrome.jpg 230w" sizes="(max-width: 113px) 100vw, 113px" />](/assets/wp-content/uploads/2011/01/Raynauds_Syndrome.jpg)
 
 **Each winter, I see an increase in my acupuncture practice in people coming in for [Raynaud&#8217;s](https://www.mayoclinic.org/diseases-conditions/raynauds-disease/symptoms-causes/syc-20363571) syndrome.  Raynaud&#8217;s affects mostly women, and causes some areas of your body &#8211; typically your fingers and toes &#8211; to feel numb and cool (often) in response to cold temperatures or stress.** 
 
