@@ -22,7 +22,7 @@ Or call: (970) 227-3077
 
 ### New Patients
 
-Before your appointment, please follow the “Forms to Complete” tab at the top to access and print the forms you will need to bring in to your first visit. If you cannot print these forms, please come to your acupuncture appointment 1/2 hr early to complete forms. Thank You!
+Before your appointment, please follow the “[Forms to Complete](/make-an-appointment/forms-to-complete/)” page to access and print the forms you will need to bring in to your first visit. If you cannot print these forms, please come to your acupuncture appointment 1/2 hr early to complete forms. Thank You!
 
 ### Insurance Patients
 
@@ -36,4 +36,4 @@ It is your responsibility to verify insurance benefits before your arrival. If y
 
 ### Our Location
 
-Wisdom Ways Acupuncture is conveniently located in mid Fort Collins, just off College Avenue on Drake Road, just west of the railroad tracks in the Drake Professional Park. Located at 363 Drake Road Suite 1, the clinic is the one right below the large Allstate sign, in the building west of Cuppies Coffee Shop, and facing the CSU Vet Hospital. For directions/map to clinic, click here.
+Wisdom Ways Acupuncture is conveniently located in mid Fort Collins, just off College Avenue on Drake Road, just west of the railroad tracks in the Drake Professional Park. Located at 363 Drake Road Suite 1, the clinic is the one right below the large Allstate sign, in the building west of Cuppies Coffee Shop, and facing the CSU Vet Hospital. For directions/map to clinic, [click here](https://www.google.com/maps?q=363+West+Drake+Road,+Fort+Collins,+CO&amp;hl=en&amp;ll=40.551929,-105.082684&amp;spn=0.009391,0.021136&amp;sll=40.552546,-105.0732&amp;sspn=0.009391,0.021136&amp;t=h&amp;hnear=363+W+Drake+Rd,+Fort+Collins,+Colorado+80526&amp;z=16){: target="_blank"}.
