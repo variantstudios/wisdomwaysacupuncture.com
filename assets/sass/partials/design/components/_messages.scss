@@ -1,0 +1,21 @@
+p.status_info,
+p.status_warning,
+p.status_error {
+    margin: 10px 0px;
+    padding: 12px;
+}
+
+p.status_info {
+    color: #00529B;
+    background-color: #BDE5F8;
+}
+
+p.status_warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+
+p.status_error {
+    color: #D8000C;
+    background-color: #FFD2D2;
+}
