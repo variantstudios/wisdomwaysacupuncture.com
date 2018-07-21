@@ -9,6 +9,6 @@ layout: page
 permalink: "/make-an-appointment/forms-to-complete/"
 ---
 
-# WisdomWays Acupuncture Forms to Complete
+# Wisdom Ways Forms to Complete
 
 coming soon
