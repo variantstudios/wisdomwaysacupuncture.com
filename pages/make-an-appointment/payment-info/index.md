@@ -25,10 +25,10 @@ Please call or email to find out the rates for individual treatments and treatme
 
 ### Insurance Patients:
 
-We are happy to bill your insurance company for you! &nbsp;If you would like your insurance billed, you simply need to print out the following Acupuncture Insurance Verification and Financial Agreement , then call your insurance to get the answers to the questions on the form so you can arrive with it fully completed at your first visit, your coverage verified and understanding what it includes. IT IS THE PATIENT’S RESPONSIBILITY TO UNDERSTAND WHAT THEIR INSURANCE DOES AND DOES NOT COVER BEFORE THEIR VISIT. This prevents unexpected surprises or payments due at time of service! If you do not arrive with your insurance coverage verified and the form completed, we will simply charge the out-of-pocket rate until the time when your coverage can be verified.
+We are happy to bill your insurance company for you! &nbsp;If you would like your insurance billed, you simply need to print out the following Acupuncture Insurance Verification and Financial Agreement , then call your insurance to get the answers to the questions on the form so you can arrive with it fully completed at your first visit, your coverage verified and understanding what it includes. **IT IS THE PATIENT’S RESPONSIBILITY TO UNDERSTAND WHAT THEIR INSURANCE DOES AND DOES NOT COVER BEFORE THEIR VISIT.** This prevents unexpected surprises or payments due at time of service! If you do not arrive with your insurance coverage verified and the form completed, we will simply charge the out-of-pocket rate until the time when your coverage can be verified.
 
 We are currently in network with Cigna, United, Anthem Blue Cross/Blue Shield, Aetna, and Coventry.
 
 Any required Co-pay is due at time of service.
 
-Medicare/Medicaid currently do NOT cover acupuncture services.
+Medicare/Medicaid currently do **NOT** cover acupuncture services.
