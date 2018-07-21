@@ -20,7 +20,7 @@ tags:
   - acupuncture-and-fibromyalgia
 ---
 <div id="attachment_1287" style="width: 160px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/05/fibromyalgia-acupuncture.jpg"><img class="size-thumbnail wp-image-1287 " title="fibromyalgia acupuncture" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/05/fibromyalgia-acupuncture-150x101.jpg" alt="Acupuncture for Fibromyalgia" width="150" height="101" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/05/fibromyalgia-acupuncture-150x101.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/05/fibromyalgia-acupuncture-300x203.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2012/05/fibromyalgia-acupuncture.jpg 493w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/wp-content/uploads/2012/05/fibromyalgia-acupuncture.jpg"><img class="size-thumbnail wp-image-1287 " title="fibromyalgia acupuncture" src="/assets/wp-content/uploads/2012/05/fibromyalgia-acupuncture-150x101.jpg" alt="Acupuncture for Fibromyalgia" width="150" height="101" srcset="/assets/wp-content/uploads/2012/05/fibromyalgia-acupuncture-150x101.jpg 150w, /assets/wp-content/uploads/2012/05/fibromyalgia-acupuncture-300x203.jpg 300w, /assets/wp-content/uploads/2012/05/fibromyalgia-acupuncture.jpg 493w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Common Fibromyalgia Pain Points

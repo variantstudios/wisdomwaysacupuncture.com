@@ -1,21 +1,27 @@
 p.status_info,
 p.status_warning,
 p.status_error {
-    margin: 10px 0px;
-    padding: 12px;
+    margin: 2rem 0;
+    padding: 1rem 1rem 1rem 3.5rem;
+    background-position: 1rem center;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
 }
 
 p.status_info {
     color: #00529B;
     background-color: #BDE5F8;
+    background-image: url(/assets/images/icons/success.svg);
 }
 
 p.status_warning {
     color: #9F6000;
     background-color: #FEEFB3;
+    background-image: url(/assets/images/icons/warning.svg);
 }
 
 p.status_error {
     color: #D8000C;
     background-color: #FFD2D2;
+    background-image: url(/assets/images/icons/error.svg);
 }

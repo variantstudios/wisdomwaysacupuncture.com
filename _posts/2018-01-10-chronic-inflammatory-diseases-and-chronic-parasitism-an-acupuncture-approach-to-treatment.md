@@ -25,7 +25,7 @@ tags:
   - chronic-parasitism
   - chronic-inflammation
 ---
-[<img class="alignleft size-full wp-image-905" title="Acupuncture Chronic Inflammation Chronic Fatigue" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/43.jpg" alt="Acupuncture Helps Women with Chronic Fatigue and Fibromyalgia" width="90" height="135" />](http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/09/43.jpg)Recently, I have become fascinated with the condition of Chronic Parasitism causing chronic inflammatory conditions.  Chronic inflammatory conditions are often combined under the term “knotty diseases” in Chinese medicine acupuncture theory, illustrating that they are difficult to unwind or untie…they are so deeply imbedded in the system that to get rid of them is like untying a tight knot, difficult and slow.
+[<img class="alignleft size-full wp-image-905" title="Acupuncture Chronic Inflammation Chronic Fatigue" src="/assets/wp-content/uploads/2010/09/43.jpg" alt="Acupuncture Helps Women with Chronic Fatigue and Fibromyalgia" width="90" height="135" />](/assets/wp-content/uploads/2010/09/43.jpg)Recently, I have become fascinated with the condition of Chronic Parasitism causing chronic inflammatory conditions.  Chronic inflammatory conditions are often combined under the term “knotty diseases” in Chinese medicine acupuncture theory, illustrating that they are difficult to unwind or untie…they are so deeply imbedded in the system that to get rid of them is like untying a tight knot, difficult and slow.
 
 <p style="text-align: center;">
   <span style="text-decoration: underline; color: #808000;">Chronic Multi-Organ System Symptoms</span>

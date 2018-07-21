@@ -27,7 +27,7 @@ tags:
   </p>
   
   <p>
-    <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/03/windy-days-aggravate-your-qi.jpg"><img class=" wp-image-1013 alignleft" title="windy days aggravate your qi" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/03/windy-days-aggravate-your-qi-92x150.jpg" alt="Your Liver Qi gets aggravated by windy weather" width="190" height="310" /></a><strong>For years, I&#8217;ve been aware that wind stirs up frustration in me like nothing else.</strong> <span style="color: #000000;"><strong> And apparently, I&#8217;m not the only one!</strong></span>
+    <a href="/assets/wp-content/uploads/2010/03/windy-days-aggravate-your-qi.jpg"><img class=" wp-image-1013 alignleft" title="windy days aggravate your qi" src="/assets/wp-content/uploads/2010/03/windy-days-aggravate-your-qi-92x150.jpg" alt="Your Liver Qi gets aggravated by windy weather" width="190" height="310" /></a><strong>For years, I&#8217;ve been aware that wind stirs up frustration in me like nothing else.</strong> <span style="color: #000000;"><strong> And apparently, I&#8217;m not the only one!</strong></span>
   </p>
   
   <p style="text-align: left;">

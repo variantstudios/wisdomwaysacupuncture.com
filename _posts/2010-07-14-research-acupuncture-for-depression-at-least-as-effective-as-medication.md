@@ -18,7 +18,7 @@ tags:
   - depression
 ---
 <div id="attachment_930" style="width: 124px" class="wp-caption alignright">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/07/Acupuncture-for-depression.jpg"><img class="size-full wp-image-930" title="Acupuncture for depression" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2010/07/Acupuncture-for-depression.jpg" alt="Acupuncture for depression" width="114" height="116" /></a>
+  <a href="/assets/wp-content/uploads/2010/07/Acupuncture-for-depression.jpg"><img class="size-full wp-image-930" title="Acupuncture for depression" src="/assets/wp-content/uploads/2010/07/Acupuncture-for-depression.jpg" alt="Acupuncture for depression" width="114" height="116" /></a>
   
   <p class="wp-caption-text">
     Acupuncture successfully treats depression

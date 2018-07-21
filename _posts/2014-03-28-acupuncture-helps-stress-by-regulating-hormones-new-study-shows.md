@@ -29,7 +29,7 @@ tags:
 ## <span style="color: #808000;">It&#8217;s finally proven: Acupuncture helps stress</span>
 
 <div id="attachment_1769" style="width: 122px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-reduces-stress.jpg"><img class="size-thumbnail wp-image-1769 " title="Acupuncture helps stress" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-reduces-stress-112x150.jpg" alt="Acupuncture for stress" width="112" height="150" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-reduces-stress-112x150.jpg 112w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-reduces-stress-225x300.jpg 225w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/01/Acupuncture-reduces-stress.jpg 384w" sizes="(max-width: 112px) 100vw, 112px" /></a>
+  <a href="/assets/wp-content/uploads/2014/01/Acupuncture-reduces-stress.jpg"><img class="size-thumbnail wp-image-1769 " title="Acupuncture helps stress" src="/assets/wp-content/uploads/2014/01/Acupuncture-reduces-stress-112x150.jpg" alt="Acupuncture for stress" width="112" height="150" srcset="/assets/wp-content/uploads/2014/01/Acupuncture-reduces-stress-112x150.jpg 112w, /assets/wp-content/uploads/2014/01/Acupuncture-reduces-stress-225x300.jpg 225w, /assets/wp-content/uploads/2014/01/Acupuncture-reduces-stress.jpg 384w" sizes="(max-width: 112px) 100vw, 112px" /></a>
   
   <p class="wp-caption-text">
     Acupuncture helps stress & is extremely relaxing!

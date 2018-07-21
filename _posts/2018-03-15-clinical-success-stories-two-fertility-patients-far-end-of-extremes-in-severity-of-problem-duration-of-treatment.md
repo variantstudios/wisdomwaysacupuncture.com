@@ -23,7 +23,7 @@ tags:
   - fertility
 ---
 <div id="attachment_3640" style="width: 243px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/pregnant-1245703_1920.jpg"><img class=" wp-image-3640" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/pregnant-1245703_1920-150x100.jpg" alt="fertility acupuncture" width="233" height="155" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/pregnant-1245703_1920-150x100.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/pregnant-1245703_1920-300x200.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/pregnant-1245703_1920-768x512.jpg 768w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2018/06/pregnant-1245703_1920-1024x683.jpg 1024w" sizes="(max-width: 233px) 100vw, 233px" /></a>
+  <a href="/assets/wp-content/uploads/2018/06/pregnant-1245703_1920.jpg"><img class=" wp-image-3640" src="/assets/wp-content/uploads/2018/06/pregnant-1245703_1920-150x100.jpg" alt="fertility acupuncture" width="233" height="155" srcset="/assets/wp-content/uploads/2018/06/pregnant-1245703_1920-150x100.jpg 150w, /assets/wp-content/uploads/2018/06/pregnant-1245703_1920-300x200.jpg 300w, /assets/wp-content/uploads/2018/06/pregnant-1245703_1920-768x512.jpg 768w, /assets/wp-content/uploads/2018/06/pregnant-1245703_1920-1024x683.jpg 1024w" sizes="(max-width: 233px) 100vw, 233px" /></a>
   
   <p class="wp-caption-text">
     Acupuncture helped her get pregnant!

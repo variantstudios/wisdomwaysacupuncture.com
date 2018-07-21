@@ -13,7 +13,7 @@ categories:
   - autumn--metal-element
 ---
 <div id="attachment_2397" style="width: 222px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/08/robin-williams.jpg"><img class=" wp-image-2397 " src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2014/08/robin-williams-150x105.jpg" alt="" width="212" height="157" /></a>
+  <a href="/assets/wp-content/uploads/2014/08/robin-williams.jpg"><img class=" wp-image-2397 " src="/assets/wp-content/uploads/2014/08/robin-williams-150x105.jpg" alt="" width="212" height="157" /></a>
   
   <p class="wp-caption-text">
     &#8220;Thank you, for putting Heart into every performance&#8221;

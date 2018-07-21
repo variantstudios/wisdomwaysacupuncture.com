@@ -19,7 +19,7 @@ tags:
   - immune-system
 ---
 <div id="attachment_1426" style="width: 160px" class="wp-caption alignleft">
-  <a href="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/baceria-acupuncturist.jpg"><img class="size-thumbnail wp-image-1426" title="bacteria acupuncturist" src="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/baceria-acupuncturist-150x59.jpg" alt="Acupuncture increases immunity to fight bacterial infection" width="150" height="59" srcset="http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/baceria-acupuncturist-150x59.jpg 150w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/baceria-acupuncturist-300x118.jpg 300w, http://www.wisdomwaysacupuncture.com/wp-content/uploads/2013/03/baceria-acupuncturist.jpg 635w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/wp-content/uploads/2013/03/baceria-acupuncturist.jpg"><img class="size-thumbnail wp-image-1426" title="bacteria acupuncturist" src="/assets/wp-content/uploads/2013/03/baceria-acupuncturist-150x59.jpg" alt="Acupuncture increases immunity to fight bacterial infection" width="150" height="59" srcset="/assets/wp-content/uploads/2013/03/baceria-acupuncturist-150x59.jpg 150w, /assets/wp-content/uploads/2013/03/baceria-acupuncturist-300x118.jpg 300w, /assets/wp-content/uploads/2013/03/baceria-acupuncturist.jpg 635w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Nightmare Bacteria resists antibiotics: Acupuncture Can be the Answer to Fight Infection
