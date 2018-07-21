@@ -13,7 +13,7 @@ thesis_description:
 thesis_keywords:
   - wood-element, liver imbalance
 thesis_thumb:
-  - /assets/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg
+  - /assets/images/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg
 categories:
   - spring--wood-element
   - eating-with-the-seasons
@@ -32,7 +32,7 @@ tags:
   &#8211; Anaïs Nin
 </p>
 
-[<img class="alignleft size-thumbnail wp-image-1472" title="wood energy acupuncture" src="/assets/wp-content/uploads/2013/03/wood-energy-acupuncture-150x93.jpg" alt="Acupuncture Wood energy" width="181" height="112" srcset="/assets/wp-content/uploads/2013/03/wood-energy-acupuncture-150x93.jpg 150w, /assets/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg 284w" sizes="(max-width: 181px) 100vw, 181px" />](/assets/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg)Looking out a window of my acupuncture clinic, I see a flat watercolor blend of dull browns and grays &#8212; for most members of the plant kingdom, dormancy is still the order of the day. But over the next several weeks, tiny buds on the trees will burst forth from glossy limbs, and sparkling fields will be jumping and buzzing with lush excitement in green!
+[<img class="alignleft size-thumbnail wp-image-1472" title="wood energy acupuncture" src="/assets/images/wp-content/uploads/2013/03/wood-energy-acupuncture-150x93.jpg" alt="Acupuncture Wood energy" width="181" height="112" srcset="/assets/images/wp-content/uploads/2013/03/wood-energy-acupuncture-150x93.jpg 150w, /assets/images/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg 284w" sizes="(max-width: 181px) 100vw, 181px" />](/assets/images/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg)Looking out a window of my acupuncture clinic, I see a flat watercolor blend of dull browns and grays &#8212; for most members of the plant kingdom, dormancy is still the order of the day. But over the next several weeks, tiny buds on the trees will burst forth from glossy limbs, and sparkling fields will be jumping and buzzing with lush excitement in green!
 
 **According to the 5 Elements branch of Acupuncture theory, each season brings its own energy, which is essential to harness for balance, health, and wellbeing. Spring is associated with the [Wood Element and the Liver](http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/), and for many reasons, it&#8217;s the most loved and feared season of all.  The Wood energy is that tiny sapling, pushing up with all its might and against all odds through the crack in the cement. It&#8217;s the powerful trunk of the tree that uproots an entire house. It&#8217;s the energy of the Warrior &#8212; it is single focused, goal oriented, and never takes its eye off the target. It&#8217;s about growth, forward movement, and transformation. Some argue that it is the most powerful Element of all, as it is the urge of life itself to express and come out into the world.**
 

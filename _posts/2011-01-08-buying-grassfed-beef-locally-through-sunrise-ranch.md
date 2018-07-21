@@ -20,7 +20,7 @@ tags:
 ---
 <p style="text-align: center;">
   <p>
-    <a href="/assets/wp-content/uploads/2011/01/Sunrise-Ranch.jpg"><img class=" wp-image-980" title="Sunrise Ranch Grassfed Beef" src="/assets/wp-content/uploads/2011/01/Sunrise-Ranch-150x114.jpg" alt="Acupuncturist's recommend Sunrise Ranch Grassfed Beef" width="230" height="175" srcset="/assets/wp-content/uploads/2011/01/Sunrise-Ranch-150x114.jpg 150w, /assets/wp-content/uploads/2011/01/Sunrise-Ranch.jpg 300w" sizes="(max-width: 230px) 100vw, 230px" /></a>
+    <a href="/assets/images/wp-content/uploads/2011/01/Sunrise-Ranch.jpg"><img class=" wp-image-980" title="Sunrise Ranch Grassfed Beef" src="/assets/images/wp-content/uploads/2011/01/Sunrise-Ranch-150x114.jpg" alt="Acupuncturist's recommend Sunrise Ranch Grassfed Beef" width="230" height="175" srcset="/assets/images/wp-content/uploads/2011/01/Sunrise-Ranch-150x114.jpg 150w, /assets/images/wp-content/uploads/2011/01/Sunrise-Ranch.jpg 300w" sizes="(max-width: 230px) 100vw, 230px" /></a>
   </p>
   
   <p style="text-align: center;">

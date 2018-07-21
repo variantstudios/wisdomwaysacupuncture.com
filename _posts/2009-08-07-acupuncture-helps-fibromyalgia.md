@@ -21,7 +21,7 @@ tags:
   - fibromyalgia
 ---
 <div id="attachment_2022" style="width: 160px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain.jpg"><img class="size-thumbnail wp-image-2022" src="/assets/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain-150x150.jpg" alt="Acupuncture helps fibromyalgia" width="150" height="150" srcset="/assets/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain-150x150.jpg 150w, /assets/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/images/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain.jpg"><img class="size-thumbnail wp-image-2022" src="/assets/images/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain-150x150.jpg" alt="Acupuncture helps fibromyalgia" width="150" height="150" srcset="/assets/images/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain-150x150.jpg 150w, /assets/images/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     With acupuncture, you don&#8217;t have to live with fibromyalgia pain

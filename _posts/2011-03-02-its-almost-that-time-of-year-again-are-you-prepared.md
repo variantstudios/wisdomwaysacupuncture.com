@@ -20,7 +20,7 @@ tags:
 ---
 &nbsp;
 
-[<img class="size-thumbnail wp-image-1000 alignleft" title="Water Element nourishes Wood Element" src="/assets/wp-content/uploads/2011/03/persistence-150x112.jpg" alt="Chinese Medicine uses the energy of the Water Element to nourish and calm Wood energy." width="150" height="112" srcset="/assets/wp-content/uploads/2011/03/persistence-150x112.jpg 150w, /assets/wp-content/uploads/2011/03/persistence-300x225.jpg 300w, /assets/wp-content/uploads/2011/03/persistence.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/wp-content/uploads/2011/03/persistence.jpg)And of what time of year am I speaking?
+[<img class="size-thumbnail wp-image-1000 alignleft" title="Water Element nourishes Wood Element" src="/assets/images/wp-content/uploads/2011/03/persistence-150x112.jpg" alt="Chinese Medicine uses the energy of the Water Element to nourish and calm Wood energy." width="150" height="112" srcset="/assets/images/wp-content/uploads/2011/03/persistence-150x112.jpg 150w, /assets/images/wp-content/uploads/2011/03/persistence-300x225.jpg 300w, /assets/images/wp-content/uploads/2011/03/persistence.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/images/wp-content/uploads/2011/03/persistence.jpg)And of what time of year am I speaking?
 
 [Wood time.](http://www.wisdomwaysacupuncture.com/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)  The season, according to the 5 Elements theory of Chinese medicine, related to the Liver, to the energy of discipline, &#8220;getting it done&#8221;, frustration (when things don&#8217;t happen with the ease or timeliness that we would wish), and to a great VISION for where we want our lives to be heading.
 

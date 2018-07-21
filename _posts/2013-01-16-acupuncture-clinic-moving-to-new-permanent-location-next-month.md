@@ -24,7 +24,7 @@ tags:
 ---
 <div>
   <div id="attachment_1380" style="width: 160px" class="wp-caption alignleft">
-    <a href="/assets/wp-content/uploads/2013/01/acupuncture-office-suite-1.jpg"><img class="size-thumbnail wp-image-1380" title="acupuncture office suite 1" src="/assets/wp-content/uploads/2013/01/acupuncture-office-suite-1-150x90.jpg" alt="Acupuncture clinic drake road, Fort Collins, CO 80525" width="150" height="90" srcset="/assets/wp-content/uploads/2013/01/acupuncture-office-suite-1-150x90.jpg 150w, /assets/wp-content/uploads/2013/01/acupuncture-office-suite-1-300x180.jpg 300w, /assets/wp-content/uploads/2013/01/acupuncture-office-suite-1.jpg 327w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+    <a href="/assets/images/wp-content/uploads/2013/01/acupuncture-office-suite-1.jpg"><img class="size-thumbnail wp-image-1380" title="acupuncture office suite 1" src="/assets/images/wp-content/uploads/2013/01/acupuncture-office-suite-1-150x90.jpg" alt="Acupuncture clinic drake road, Fort Collins, CO 80525" width="150" height="90" srcset="/assets/images/wp-content/uploads/2013/01/acupuncture-office-suite-1-150x90.jpg 150w, /assets/images/wp-content/uploads/2013/01/acupuncture-office-suite-1-300x180.jpg 300w, /assets/images/wp-content/uploads/2013/01/acupuncture-office-suite-1.jpg 327w" sizes="(max-width: 150px) 100vw, 150px" /></a>
     
     <p class="wp-caption-text">
       New Acupuncture Clinic, 363 W. Drake Road, Suite 1

@@ -17,7 +17,7 @@ thesis_robots:
 categories:
   - eating-with-the-seasons
 ---
-[<img class="size-thumbnail wp-image-1069 alignleft" title="Kale is good for your liver" src="/assets/wp-content/uploads/2011/06/kale-150x112.jpg" alt="Kale balances your liver" width="150" height="112" srcset="/assets/wp-content/uploads/2011/06/kale-150x112.jpg 150w, /assets/wp-content/uploads/2011/06/kale-300x225.jpg 300w, /assets/wp-content/uploads/2011/06/kale.jpg 680w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/wp-content/uploads/2011/06/kale.jpg)**Is this another shameless plug to try to get you to eat more greens?**
+[<img class="size-thumbnail wp-image-1069 alignleft" title="Kale is good for your liver" src="/assets/images/wp-content/uploads/2011/06/kale-150x112.jpg" alt="Kale balances your liver" width="150" height="112" srcset="/assets/images/wp-content/uploads/2011/06/kale-150x112.jpg 150w, /assets/images/wp-content/uploads/2011/06/kale-300x225.jpg 300w, /assets/images/wp-content/uploads/2011/06/kale.jpg 680w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/images/wp-content/uploads/2011/06/kale.jpg)**Is this another shameless plug to try to get you to eat more greens?**
 
 **You betcha!**
 

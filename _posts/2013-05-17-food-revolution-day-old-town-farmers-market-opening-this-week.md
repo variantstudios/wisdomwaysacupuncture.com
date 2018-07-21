@@ -22,7 +22,7 @@ tags:
 ---
 <div>
   <div id="attachment_1515" style="width: 131px" class="wp-caption alignleft">
-    <a href="/assets/wp-content/uploads/2013/05/farmers-market-acupuncture1.jpg"><img class="size-thumbnail wp-image-1515" title="farmer's market acupuncture" src="/assets/wp-content/uploads/2013/05/farmers-market-acupuncture1-121x150.jpg" alt="acupuncturists love farmer's markets" width="121" height="150" srcset="/assets/wp-content/uploads/2013/05/farmers-market-acupuncture1-121x150.jpg 121w, /assets/wp-content/uploads/2013/05/farmers-market-acupuncture1-243x300.jpg 243w, /assets/wp-content/uploads/2013/05/farmers-market-acupuncture1.jpg 250w" sizes="(max-width: 121px) 100vw, 121px" /></a>
+    <a href="/assets/images/wp-content/uploads/2013/05/farmers-market-acupuncture1.jpg"><img class="size-thumbnail wp-image-1515" title="farmer's market acupuncture" src="/assets/images/wp-content/uploads/2013/05/farmers-market-acupuncture1-121x150.jpg" alt="acupuncturists love farmer's markets" width="121" height="150" srcset="/assets/images/wp-content/uploads/2013/05/farmers-market-acupuncture1-121x150.jpg 121w, /assets/images/wp-content/uploads/2013/05/farmers-market-acupuncture1-243x300.jpg 243w, /assets/images/wp-content/uploads/2013/05/farmers-market-acupuncture1.jpg 250w" sizes="(max-width: 121px) 100vw, 121px" /></a>
     
     <p class="wp-caption-text">
       I may be an acupuncturist, but I&#8217;m also a foodie, so I can&#8217;t wait for the first day of farmer&#8217;s market!

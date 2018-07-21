@@ -17,7 +17,7 @@ categories:
   - eating-with-the-seasons
 ---
 <div id="attachment_945" style="width: 129px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2010/12/salt.jpg"><img class="size-full wp-image-945" title="salt" src="/assets/wp-content/uploads/2010/12/salt.jpg" alt="Salt can Help Your Qi" width="119" height="78" /></a>
+  <a href="/assets/images/wp-content/uploads/2010/12/salt.jpg"><img class="size-full wp-image-945" title="salt" src="/assets/images/wp-content/uploads/2010/12/salt.jpg" alt="Salt can Help Your Qi" width="119" height="78" /></a>
   
   <p class="wp-caption-text">
     Salt Can Help Your Qi

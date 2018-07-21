@@ -20,7 +20,7 @@ categories:
 </h2>
 
 <div id="attachment_1479" style="width: 160px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2013/04/acupuncture-migraine.jpg"><img class="size-thumbnail wp-image-1479" title="acupuncture migraine" src="/assets/wp-content/uploads/2013/04/acupuncture-migraine-150x145.jpg" alt="Acupuncture more effective for migraine than drug" width="150" height="145" srcset="/assets/wp-content/uploads/2013/04/acupuncture-migraine-150x145.jpg 150w, /assets/wp-content/uploads/2013/04/acupuncture-migraine.jpg 228w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/images/wp-content/uploads/2013/04/acupuncture-migraine.jpg"><img class="size-thumbnail wp-image-1479" title="acupuncture migraine" src="/assets/images/wp-content/uploads/2013/04/acupuncture-migraine-150x145.jpg" alt="Acupuncture more effective for migraine than drug" width="150" height="145" srcset="/assets/images/wp-content/uploads/2013/04/acupuncture-migraine-150x145.jpg 150w, /assets/images/wp-content/uploads/2013/04/acupuncture-migraine.jpg 228w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Acupuncture proven to help migraines

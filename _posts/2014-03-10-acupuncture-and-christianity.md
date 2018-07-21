@@ -19,7 +19,7 @@ tags:
   - acupuncture-and-christianity
   - acupuncture-and-religion
 ---
-[<img class="size-full wp-image-736 alignleft" title="Acupuncture and Yin Yang. Homeostasis" src="/assets/wp-content/uploads/2010/06/pretty-yinyang.jpg" alt="Acupuncture theory uses the concept of Yin and Yang, shown here in its symbol" width="95" height="94" />](/assets/wp-content/uploads/2010/06/pretty-yinyang.jpg)**Over the years, I&#8217;ve heard the concern that acupuncture might interfere with people&#8217;s Christian beliefs, so I just wanted to give my thoughts on this topic. For most people it&#8217;s a passing question which quickly leaves them, but for some, I can hear the pain and genuine deep struggle in their voice as they desperately seek a medicine which they feel can help them, but might interfere with their most profoundly held beliefs.
+[<img class="size-full wp-image-736 alignleft" title="Acupuncture and Yin Yang. Homeostasis" src="/assets/images/wp-content/uploads/2010/06/pretty-yinyang.jpg" alt="Acupuncture theory uses the concept of Yin and Yang, shown here in its symbol" width="95" height="94" />](/assets/images/wp-content/uploads/2010/06/pretty-yinyang.jpg)**Over the years, I&#8217;ve heard the concern that acupuncture might interfere with people&#8217;s Christian beliefs, so I just wanted to give my thoughts on this topic. For most people it&#8217;s a passing question which quickly leaves them, but for some, I can hear the pain and genuine deep struggle in their voice as they desperately seek a medicine which they feel can help them, but might interfere with their most profoundly held beliefs.
   
 ** 
 

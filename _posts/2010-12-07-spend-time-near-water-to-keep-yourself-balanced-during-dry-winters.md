@@ -28,7 +28,7 @@ tags:
     <td align="center">
       <p>
         <div id="attachment_987" style="width: 160px" class="wp-caption alignleft">
-          <a href="/assets/wp-content/uploads/2011/01/moving-water.jpg"><img class="size-thumbnail wp-image-987" title="Water Element" src="/assets/wp-content/uploads/2011/01/moving-water-150x112.jpg" alt="Spending time near moving water will help balance you" width="150" height="112" /></a>
+          <a href="/assets/images/wp-content/uploads/2011/01/moving-water.jpg"><img class="size-thumbnail wp-image-987" title="Water Element" src="/assets/images/wp-content/uploads/2011/01/moving-water-150x112.jpg" alt="Spending time near moving water will help balance you" width="150" height="112" /></a>
           
           <p class="wp-caption-text">
             Spending time near moving water will help balance you
