@@ -9,7 +9,7 @@ layout: page
 permalink: "/make-an-appointment/payment-info/"
 ---
 
-# WisdomWays Acupuncture Payment Info
+# Wisdom Ways Acupuncture Payment Info
 
 There are a variety of treatment plans and packages to fit your needs, and in the end your wellness goals will decide which plan is right for you. Are your goals simply to alleviate symptoms? Are they to move past “coping” and into high levels of wellness and thriving? &nbsp;Would you like nutritional guidance and food recommendations included, based on your individual diagnosis? &nbsp;Either way, Chinese Medicine can take you where you want to go.<br>At your initial treatment, I will go over your diagnosis and options with you, and together we will come up with a treatment plan that best fits your needs.
 
