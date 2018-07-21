@@ -13,7 +13,7 @@ permalink: "/make-an-appointment/payment-info/"
 
 There are a variety of treatment plans and packages to fit your needs, and in the end your wellness goals will decide which plan is right for you. Are your goals simply to alleviate symptoms? Are they to move past “coping” and into high levels of wellness and thriving? &nbsp;Would you like nutritional guidance and food recommendations included, based on your individual diagnosis? &nbsp;Either way, Chinese Medicine can take you where you want to go.<br>At your initial treatment, I will go over your diagnosis and options with you, and together we will come up with a treatment plan that best fits your needs.
 
-Schedule an Acupuncture Appointment: &nbsp;Online Scheduling
+**Schedule an Acupuncture Appointment:&nbsp;**[Online Scheduling](https://instant-scheduling.com/sch.php?kn=184475){: target="_blank"}
 
 ### Self-Pay (non insurance) Patients:
 
