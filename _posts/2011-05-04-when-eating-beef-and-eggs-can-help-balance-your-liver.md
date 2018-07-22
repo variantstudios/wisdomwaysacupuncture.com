@@ -21,7 +21,7 @@ tags:
 &nbsp;
 
 <div id="attachment_1063" style="width: 160px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2011/05/cow-eating-grass.jpg"><img class="size-thumbnail wp-image-1063" title="Grass Fed Beef" src="/assets/wp-content/uploads/2011/05/cow-eating-grass-150x112.jpg" alt="Grass Fed Beef can help balance your liver" width="150" height="112" srcset="/assets/wp-content/uploads/2011/05/cow-eating-grass-150x112.jpg 150w, /assets/wp-content/uploads/2011/05/cow-eating-grass.jpg 259w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/images/wp-content/uploads/2011/05/cow-eating-grass.jpg"><img class="size-thumbnail wp-image-1063" title="Grass Fed Beef" src="/assets/images/wp-content/uploads/2011/05/cow-eating-grass-150x112.jpg" alt="Grass Fed Beef can help balance your liver" width="150" height="112" srcset="/assets/images/wp-content/uploads/2011/05/cow-eating-grass-150x112.jpg 150w, /assets/images/wp-content/uploads/2011/05/cow-eating-grass.jpg 259w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Eat grass-fed beef is higher in Omega 3

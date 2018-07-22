@@ -22,7 +22,7 @@ tags:
   - acupuncture-and-stress
 ---
 <div id="attachment_2032" style="width: 160px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2010/02/acupuncture-helps-stress.jpg"><img class="size-thumbnail wp-image-2032" src="/assets/wp-content/uploads/2010/02/acupuncture-helps-stress-150x136.jpg" alt="Acupuncture helps stress and tension" width="150" height="136" srcset="/assets/wp-content/uploads/2010/02/acupuncture-helps-stress-150x136.jpg 150w, /assets/wp-content/uploads/2010/02/acupuncture-helps-stress-300x273.jpg 300w, /assets/wp-content/uploads/2010/02/acupuncture-helps-stress.jpg 432w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress.jpg"><img class="size-thumbnail wp-image-2032" src="/assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress-150x136.jpg" alt="Acupuncture helps stress and tension" width="150" height="136" srcset="/assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress-150x136.jpg 150w, /assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress-300x273.jpg 300w, /assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress.jpg 432w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Example of acupuncture in the ear for stress

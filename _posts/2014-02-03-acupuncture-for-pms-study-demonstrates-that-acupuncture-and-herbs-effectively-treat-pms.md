@@ -23,7 +23,7 @@ tags:
 &nbsp;
 
 <div id="attachment_1848" style="width: 110px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS.jpg"><img class="size-thumbnail wp-image-1848 " title="Acupuncture for PMS: Point Yin Tang" src="/assets/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS-100x150.jpg" alt="Acupuncture for PMS" width="100" height="150" srcset="/assets/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS-100x150.jpg 100w, /assets/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS-200x300.jpg 200w, /assets/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS.jpg 375w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+  <a href="/assets/images/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS.jpg"><img class="size-thumbnail wp-image-1848 " title="Acupuncture for PMS: Point Yin Tang" src="/assets/images/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS-100x150.jpg" alt="Acupuncture for PMS" width="100" height="150" srcset="/assets/images/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS-100x150.jpg 100w, /assets/images/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS-200x300.jpg 200w, /assets/images/wp-content/uploads/2014/02/Acupuncture-Point-Yin-tang-for-PMS.jpg 375w" sizes="(max-width: 100px) 100vw, 100px" /></a>
   
   <p class="wp-caption-text">
     Yin Tang, a common acupuncture point which &#8220;calms the spirit&#8221; and is good for PMS

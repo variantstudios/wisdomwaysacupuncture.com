@@ -25,7 +25,7 @@ tags:
 ## <span style="color: #808000;">Acupuncture helps Stress&#8230;but HOW?</span>
 
 <div id="attachment_1458" style="width: 160px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2013/03/acupuncture-for-stress.jpg"><img class="size-thumbnail wp-image-1458" title="acupuncture for stress" src="/assets/wp-content/uploads/2013/03/acupuncture-for-stress-150x112.jpg" alt="Acupuncture regulates stress" width="150" height="112" srcset="/assets/wp-content/uploads/2013/03/acupuncture-for-stress-150x112.jpg 150w, /assets/wp-content/uploads/2013/03/acupuncture-for-stress.jpg 259w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/images/wp-content/uploads/2013/03/acupuncture-for-stress.jpg"><img class="size-thumbnail wp-image-1458" title="acupuncture for stress" src="/assets/images/wp-content/uploads/2013/03/acupuncture-for-stress-150x112.jpg" alt="Acupuncture regulates stress" width="150" height="112" srcset="/assets/images/wp-content/uploads/2013/03/acupuncture-for-stress-150x112.jpg 150w, /assets/images/wp-content/uploads/2013/03/acupuncture-for-stress.jpg 259w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Acupuncture regulating her stress and hormones

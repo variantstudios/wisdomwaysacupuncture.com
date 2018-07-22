@@ -16,7 +16,7 @@ categories:
   - eating-with-the-seasons
 ---
 <div id="attachment_3583" style="width: 201px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2010/07/vegetables-3386212_1920.jpg"><img class=" wp-image-3583" src="/assets/wp-content/uploads/2010/07/vegetables-3386212_1920-150x100.jpg" alt="summer bounty" width="191" height="127" srcset="/assets/wp-content/uploads/2010/07/vegetables-3386212_1920-150x100.jpg 150w, /assets/wp-content/uploads/2010/07/vegetables-3386212_1920-300x200.jpg 300w, /assets/wp-content/uploads/2010/07/vegetables-3386212_1920-768x511.jpg 768w, /assets/wp-content/uploads/2010/07/vegetables-3386212_1920-1024x682.jpg 1024w" sizes="(max-width: 191px) 100vw, 191px" /></a>
+  <a href="/assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920.jpg"><img class=" wp-image-3583" src="/assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-150x100.jpg" alt="summer bounty" width="191" height="127" srcset="/assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-150x100.jpg 150w, /assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-300x200.jpg 300w, /assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-768x511.jpg 768w, /assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-1024x682.jpg 1024w" sizes="(max-width: 191px) 100vw, 191px" /></a>
   
   <p class="wp-caption-text">
     Thanks so much Sven Hilker for the use of your lovely photo!!!

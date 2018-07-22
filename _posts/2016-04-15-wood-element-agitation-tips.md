@@ -23,7 +23,7 @@ tags:
   - acupuncture-and-depression
 ---
 <div id="attachment_1950" style="width: 160px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2014/03/acupuncture-helps-agitation.jpg"><img class="size-thumbnail wp-image-1950" style="border: 0.5px solid black;" title="Acupuncture Fort Collins for Wood Element Imbalance" src="/assets/wp-content/uploads/2014/03/acupuncture-helps-agitation-150x120.jpg" alt="Acupuncture balances the wood element" width="150" height="120" srcset="/assets/wp-content/uploads/2014/03/acupuncture-helps-agitation-150x120.jpg 150w, /assets/wp-content/uploads/2014/03/acupuncture-helps-agitation-300x241.jpg 300w, /assets/wp-content/uploads/2014/03/acupuncture-helps-agitation.jpg 345w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+  <a href="/assets/images/wp-content/uploads/2014/03/acupuncture-helps-agitation.jpg"><img class="size-thumbnail wp-image-1950" style="border: 0.5px solid black;" title="Acupuncture Fort Collins for Wood Element Imbalance" src="/assets/images/wp-content/uploads/2014/03/acupuncture-helps-agitation-150x120.jpg" alt="Acupuncture balances the wood element" width="150" height="120" srcset="/assets/images/wp-content/uploads/2014/03/acupuncture-helps-agitation-150x120.jpg 150w, /assets/images/wp-content/uploads/2014/03/acupuncture-helps-agitation-300x241.jpg 300w, /assets/images/wp-content/uploads/2014/03/acupuncture-helps-agitation.jpg 345w" sizes="(max-width: 150px) 100vw, 150px" /></a>
   
   <p class="wp-caption-text">
     Acupuncture helps to balance an agitated Wood Element

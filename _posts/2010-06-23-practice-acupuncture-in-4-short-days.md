@@ -20,7 +20,7 @@ tags:
   - dry-needling
 ---
 <div id="attachment_806" style="width: 102px" class="wp-caption alignleft">
-  <img class="size-full wp-image-806 " title="Woman afraid to get acupuncture from untrained medical professional" src="/assets/wp-content/uploads/2010/06/image-scared-person1-e1277314104924.jpg" alt="Acupuncture without training is scary" width="92" height="141" />
+  <img class="size-full wp-image-806 " title="Woman afraid to get acupuncture from untrained medical professional" src="/assets/images/wp-content/uploads/2010/06/image-scared-person1-e1277314104924.jpg" alt="Acupuncture without training is scary" width="92" height="141" />
   
   <p class="wp-caption-text">
     &#8220;You&#8217;ve had only 4 days of training in acupuncture!?!&#8221;

@@ -17,7 +17,7 @@ categories:
   - recipes
 ---
 <div id="attachment_3486" style="width: 201px" class="wp-caption alignleft">
-  <a href="/assets/wp-content/uploads/2011/08/peach-3425656_1280.jpg"><img class=" wp-image-3486" src="/assets/wp-content/uploads/2011/08/peach-3425656_1280-150x100.jpg" alt="acupuncturist loves local peaches" width="191" height="127" srcset="/assets/wp-content/uploads/2011/08/peach-3425656_1280-150x100.jpg 150w, /assets/wp-content/uploads/2011/08/peach-3425656_1280-300x199.jpg 300w, /assets/wp-content/uploads/2011/08/peach-3425656_1280-768x510.jpg 768w, /assets/wp-content/uploads/2011/08/peach-3425656_1280-1024x680.jpg 1024w, /assets/wp-content/uploads/2011/08/peach-3425656_1280.jpg 1280w" sizes="(max-width: 191px) 100vw, 191px" /></a>
+  <a href="/assets/images/wp-content/uploads/2011/08/peach-3425656_1280.jpg"><img class=" wp-image-3486" src="/assets/images/wp-content/uploads/2011/08/peach-3425656_1280-150x100.jpg" alt="acupuncturist loves local peaches" width="191" height="127" srcset="/assets/images/wp-content/uploads/2011/08/peach-3425656_1280-150x100.jpg 150w, /assets/images/wp-content/uploads/2011/08/peach-3425656_1280-300x199.jpg 300w, /assets/images/wp-content/uploads/2011/08/peach-3425656_1280-768x510.jpg 768w, /assets/images/wp-content/uploads/2011/08/peach-3425656_1280-1024x680.jpg 1024w, /assets/images/wp-content/uploads/2011/08/peach-3425656_1280.jpg 1280w" sizes="(max-width: 191px) 100vw, 191px" /></a>
   
   <p class="wp-caption-text">
     Local fresh peaches!
