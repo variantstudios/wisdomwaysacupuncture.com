@@ -21,10 +21,10 @@ I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, 
 
 ### Acupuncture Treatment Forms (All Patients):
 
-* New Patient Initial Intake Form
-* Consent To Receive Treatment & Cancellation Policy
-* HIPAA
-* Colorado Disclosure Statement
+* [New Patient Initial Intake Form](/assets/images/wp-content/uploads/2017/06/New-Patient-Initial-Intake-Form-2.docx){: target="_blank"}
+* [Consent To Receive Treatment & Cancellation Policy](/assets/images/wp-content/uploads/2010/03/Consent-to-receive-Treatment-w.-cancel-policy.2015.docx){: target="_blank"}
+* [HIPAA](/assets/images/wp-content/uploads/2010/03/HIPAA.363.docx){: target="_blank"}
+* [Colorado Disclosure Statement](/assets/images/wp-content/uploads/2010/03/CO-Disclosure-Statement-2015.docx){: target="_blank"}
 
 ### Fertility Patients Extra Form:
 
