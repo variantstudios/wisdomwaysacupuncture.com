@@ -16,7 +16,7 @@ permalink: "/make-an-appointment/"
 
 **Schedule an Acupuncture Appointment:&nbsp;**[Online Scheduling](https://instant-scheduling.com/sch.php?kn=184475){: target="_blank"}
 
-Or call: (970) 227-3077
+Or call: [(970) 227-3077](tel://+19702273077)
 
 *When scheduling online, please be sure to read all relevant information below:*
 
@@ -26,7 +26,7 @@ Before your appointment, please follow the “[Forms to Complete](/make-an-appoi
 
 ### Insurance Patients
 
-It is your responsibility to verify insurance benefits before your arrival. If you would like your insurance billed, you MUST arrive at your first appointment with this Insurance Verification and Financial Agreement completed. If you do not arrive with this form completed, we will simply charge the out-of-pocket rate for your treatments until the time at which your insurance has been verified.
+It is your responsibility to verify insurance benefits before your arrival. If you would like your insurance billed, you MUST arrive at your first appointment with this [Insurance Verification and Financial Agreement](/assets/images/wp-content/uploads/2010/03/INSURANCE-VERIFICATION-2015.docx){: target="_blank"} completed. If you do not arrive with this form completed, we will simply charge the out-of-pocket rate for your treatments until the time at which your insurance has been verified.
 
 ### Cancellation Policy
 
