@@ -30,11 +30,11 @@ I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, 
 
 \*\*please note that we only work with women who are trying to get pregnant naturally, and their male partners for male factor fertility — if you will also be starting ART/IVF please call for a referral to another clinic
 
-* New Patient Fertility History For Female
-* New Patient Fertility History Intake For Males
+* [New Patient Fertility History For Female](/assets/images/wp-content/uploads/2015/06/New-Patient-Fertility-History-Intake.Female.edit_.5.15.docx){: target="_blank"}
+* [New Patient Fertility History Intake For Males](/assets/images/wp-content/uploads/2010/03/New-Patient-Fertility-History-Intake.-Male.edit_.6.15.docx){: target="_blank"}
 
 ### For Patients Wishing to Bill Insurance:
 
-* Insurance Verification And Financial Agreement
+* [Insurance Verification And Financial Agreement](/assets/images/wp-content/uploads/2010/03/INSURANCE-VERIFICATION-2015.docx){: target="_blank"}
 
 (For those patients wishing to bill their insurance: Complete this form by calling your insurance and asking the questions provided, and bring it to your first acupuncture appointment along with your insurance card. If you do NOT arrive at your first appointment with this form completed, we will simply apply the self-pay fee at the time of your visit, until the time at which your coverage has been verified) \*Please note that even if your plan includes acupuncture benefits, some plans only cover limited conditions\*
