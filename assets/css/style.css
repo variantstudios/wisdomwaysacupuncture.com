@@ -2149,6 +2149,7 @@ body.not-front .front-hero .front-hero-wrapper h3 {
 }
 body.not-front .content-bg .subpage {
   max-width: 940px;
+  margin: 0 auto 2rem auto;
 }
 body.not-front .subpage-header {
   background-position: center center;
