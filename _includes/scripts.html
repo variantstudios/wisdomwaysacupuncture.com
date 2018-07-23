@@ -47,7 +47,7 @@
 {% endif %}
 
 {% if include.class == "blog" %}
-<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+<script src="/assets/js/prod/list.min.js"></script>
 <script type="text/javascript">
     var blogView = new List('blog-wrapper', {
         valueNames: ['title'],
@@ -58,9 +58,6 @@
             outerWindow: 200
     }]
     });
-
-
-
   blogView.on("updated",function(){
     var offTop = $('#blog-wrapper').offset().top;
     $(window).scrollTop(parseInt(offTop));
