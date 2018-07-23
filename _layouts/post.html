@@ -2,29 +2,33 @@
 layout: page 
 ---
 
-    <section class="blog-post">
-        <p><a href="/blog/"> < Back to all blogs</a></p>
+<section class="blog-post">
+    <p>
+        <a href="/blog/">
+            < Back to all blogs</a>
+    </p>
 
-        <h1>{{page.title}}</h1>
-        <p>posted {{ page.date | date: "%a, %b %d, %Y" }}</p>
+    <h1><a href="{{page.url }}">{{page.title }}</a></h1>
+    <p class="posted">{{page.date | date: "%a, %b %d, %Y" }}</p>
 
-        {% if page.categories %}
-            <p class="category-label">Categories: 
-            {% for cat in page.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a>
-            {% endfor %} 
-            </p>
-        {% endif %}
+    {% if page.categories %}
+    <p class="category-label"><strong>Categories:</strong> {% for cat in page.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+    </p>
+    {% endif %} {% if page.tags[0] %}
+    <p class="tags-label"><strong>Tags:</strong> {% for cat in page.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+    </p>
+    {% endif %}
 
-        <div>{{ content }}</div>
-        
-        {% if page.iframe.url %}
-        <div id="iframe">
-            <h3>{{page.iframe.title}}</h3>
-            <iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
-        </div>
-        {% endif %}
+    <div>{{ content }}</div>
 
-        <nav class="pagination" role="navigation">
+    {% if page.iframe.url %}
+    <div id="iframe">
+        <h3>{{page.iframe.title}}</h3>
+        <iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
+    </div>
+    {% endif %}
+
+    <nav class="pagination" role="navigation">
         <ul class="pager">
             {% if page.previous.url %}
             <li class="previous left">
@@ -38,5 +42,5 @@ layout: page
         </ul>
     </nav>
 
-    </section>
+</section>
 </div>
