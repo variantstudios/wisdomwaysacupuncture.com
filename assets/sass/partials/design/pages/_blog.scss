@@ -1,6 +1,6 @@
 body.blog {
     section.blog-preface {}
-    section.blog-wrapper {
+    section#blog-wrapper {
         .blog-item {
             h3 {
                 font-size: 2rem;
@@ -67,4 +67,17 @@ body.blog {
     }
     padding-bottom: 1rem;
     border-bottom: 1px solid #ececec;
+}
+
+ul.pagination {
+    li {
+        display: inline-block;
+        margin: 0 .8rem;
+        &.active {
+            a {
+                text-decoration: none;
+                color: #bdbdbd;
+            }
+        }
+    }
 }

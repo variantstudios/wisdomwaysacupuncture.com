@@ -7,5 +7,6 @@ search_engine_optimization:
   share_image_path:
 layout: page
 permalink: "/our-team/"
+class: "team"
 ---
 # Our Team
