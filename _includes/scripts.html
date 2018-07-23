@@ -21,11 +21,9 @@
 <script src="/assets/js/prod/modernizr-2.8.3.min.js"></script>
 <script src="/assets/js/prod/zepto.1.2.0.min.js"></script>
 <script src="/assets/js/prod/scripts.js"></script>
-
+{% if include.class == "team" %}
 <script src="/assets/js/prod/data.js" type="text/javascript"></script>
 <script src="/assets/js/prod/zepto.revolver.min.js" type="text/javascript"></script>
-
-<!-- https://github.com/stephenhutchings/zepto.revolver -->
 <script type="text/javascript">
     $(".team--gallery").revolver({
         draggingMS: 300,
@@ -46,19 +44,33 @@
         ]
     });
 </script>
+{% endif %}
 
-<!-- <div class="front-hero clearfix">
-    <div class="front-hero-wrapper clearfix">
-    {% for front_hero in page.front_hero %}
-    <div class="slide">
-    <h3>{{front_hero.title}}</h3>
-    <img src="{{front_hero.image}}" alt="{{front_hero.title}}">
-    </div>
-    {% endfor %}
-    </div>
-</div> -->
+{% if include.class == "blog" %}
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+<script type="text/javascript">
+    var blogView = new List('blog-wrapper', {
+        valueNames: ['title'],
+        page: 10,
+        pagination: [{
+            name: "pagination",
+            paginationClass: "pagination",
+            outerWindow: 200
+    }]
+    });
 
 
+
+  blogView.on("updated",function(){
+    var offTop = $('#blog-wrapper').offset().top;
+    $(window).scrollTop(parseInt(offTop));
+   if (blogView.matchingItems.length === 0){
+    $(".list").html("Sorry, there are no results for this search/filter.");
+    }
+  });
+    
+</script>
+{% endif %} 
 
 {% if page.layout == 'front' %} {% endif %} {% if include.class == 'contact' %}
 <script src="/assets/js/prod/contact.js"></script>

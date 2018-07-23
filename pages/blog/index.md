@@ -7,6 +7,7 @@ search_engine_optimization:
   share_image_path:
 layout: blog
 permalink: "/blog/"
+class: blog
 ---
 
 # Wisdom Ways Acupuncture Blog
