@@ -10,3 +10,5 @@ search_engine_optimization:
   page_description:
 ---
 
+This category blah blah blah...
+{: .align-to-center}
