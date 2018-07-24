@@ -9,7 +9,7 @@ layout: page
 permalink: "/make-an-appointment/forms-to-complete/"
 ---
 
-# Wisdom Ways Forms to Complete
+# Forms to Complete
 
 Please print and complete ALL of the relevant\* forms in the links below, and bring them to your first acupuncture visit. If you do not have a printer or need to fill them out once you arrive, please email or call to let us know you will be arriving 30-40 minutes early to complete the forms, and we will have them waiting and ready for you when you arrive.
 
@@ -32,6 +32,8 @@ I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, 
 
 * [New Patient Fertility History For Female](/assets/images/wp-content/uploads/2015/06/New-Patient-Fertility-History-Intake.Female.edit_.5.15.docx){: target="_blank"}
 * [New Patient Fertility History Intake For Males](/assets/images/wp-content/uploads/2010/03/New-Patient-Fertility-History-Intake.-Male.edit_.6.15.docx){: target="_blank"}
+
+&nbsp;
 
 ### ![](/assets/images/icons/shield.svg)&nbsp;For Patients Wishing to Bill Insurance:
 
