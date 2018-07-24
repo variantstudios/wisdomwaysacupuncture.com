@@ -11,7 +11,7 @@ layout: compress
 <!--<![endif]-->
 {% include head.html page_title=page.search_engine_optimization.page_title page_description=page.search_engine_optimization.page_description share_image_path=page.search_engine_optimization.share_image_path url=page.url layout=page.layout %}
 
-<body class="{% if page.layout == 'front' %}front{% else %}not-front{% endif %} {% if page.is_post %}post{% endif %} {{ page.url | slugify }} {% if page.body_class %}{{page.body_class}}{% endif %} {% if layout.body_class %}{{layout.body_class}}{% endif %}">
+<body class="{% if page.layout == 'front' %}front{% else %}not-front{% endif %} {% if page.is_post %}post{% endif %} {{ page.url | slugify }} {% if page.class %}{{page.class}}{% endif %} {% if layout.body_class %}{{layout.body_class}}{% endif %}">
     {% comment %}{% include_cached browserupgrade.html %}{% endcomment %} {% include_cached header.html group=page.group url=page.url %} {% if page.layout != 'front' %}
     <div class="main-wrapper clearfix">
         {{ content }}

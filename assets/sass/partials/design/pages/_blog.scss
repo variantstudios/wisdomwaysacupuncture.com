@@ -1,6 +1,6 @@
 body.blog {
     section.blog-preface {}
-    section#blog-wrapper {
+    #blog-wrapper {
         .blog-item {
             h3 {
                 font-size: 2rem;
@@ -34,6 +34,10 @@ body.blog {
             border-bottom: 1px solid #ececec;
         }
     }
+}
+
+.light {
+    color: #b9b9b9;
 }
 
 .blog-post {

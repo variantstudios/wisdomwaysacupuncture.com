@@ -133,8 +133,9 @@
                 &:hover {
                     color: $color-two;
                 }
-                &:active {
+                &.active {
                     position: relative;
+                    color: $color-two;
                 }
                 @include breakpoint($bp-medium, $no-query: '.no-mq') {
                     font-size: 1.4rem;
