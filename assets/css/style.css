@@ -735,8 +735,9 @@ iframe {
 .main-nav > .menu li a:hover {
   color: #7F8337;
 }
-.main-nav > .menu li a:active {
+.main-nav > .menu li a.active {
   position: relative;
+  color: #7F8337;
 }
 @media (min-width: 50em) {
   .main-nav > .menu li a {
