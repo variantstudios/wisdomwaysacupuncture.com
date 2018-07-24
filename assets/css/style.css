@@ -2429,29 +2429,29 @@ span.author {
   z-index: 1;
 }
 
-body.blog section#blog-wrapper .blog-item {
+body.blog #blog-wrapper .blog-item {
   padding-bottom: 1rem;
   border-bottom: 1px solid #ececec;
 }
-body.blog section#blog-wrapper .blog-item h3 {
+body.blog #blog-wrapper .blog-item h3 {
   font-size: 2rem;
   margin-bottom: 0;
 }
-body.blog section#blog-wrapper .blog-item p.posted {
+body.blog #blog-wrapper .blog-item p.posted {
   color: #b9b9b9;
   margin-bottom: .6rem;
   font-style: italic;
   font-size: .8rem;
 }
-body.blog section#blog-wrapper .blog-item .category-label {
+body.blog #blog-wrapper .blog-item .category-label {
   font-size: .8rem;
   margin-bottom: .6rem;
 }
-body.blog section#blog-wrapper .blog-item .tags-label {
+body.blog #blog-wrapper .blog-item .tags-label {
   font-size: .8rem;
   margin-bottom: .6rem;
 }
-body.blog section#blog-wrapper .blog-item .tags-label a {
+body.blog #blog-wrapper .blog-item .tags-label a {
   font-size: .7rem;
   display: inline-block;
   background-color: #461516;
@@ -2460,6 +2460,10 @@ body.blog section#blog-wrapper .blog-item .tags-label a {
   padding: 0rem .4rem;
   border-radius: 3px;
   margin: 0 0 .2rem 0;
+}
+
+.light {
+  color: #b9b9b9;
 }
 
 .blog-post {
