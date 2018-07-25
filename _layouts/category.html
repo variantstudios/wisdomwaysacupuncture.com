@@ -49,4 +49,7 @@ class: blog
         <li {% if cat_id == page_id %}class="active"{% endif %} ><a href={{category.url}}>{{category.title}}</a></li>
         {% endfor %} 
     </ul>
+    <div class="editable call-to-action-sidebar">
+        <p>You can edit me. This will show just on the blog Category view page.</p>
+    </div>
 </div>

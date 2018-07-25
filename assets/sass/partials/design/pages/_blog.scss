@@ -18,8 +18,9 @@ body.blog {
             margin-top: 0;
         }
         ul.categories {
-            margin: 0;
-            padding: 0;
+            margin: 0 0 1rem 0;
+            padding: 0 0 1rem 0;
+            border-bottom: 2px solid #E8EBED !important;
             li {
                 display: inline-block;
                 margin-bottom: .5rem;
@@ -27,6 +28,9 @@ body.blog {
                     color: $color-two;
                 }
             }
+        }
+        .call-to-action-sidebar {
+            margin-top: 1rem;
         }
     }
     #blog-wrapper {

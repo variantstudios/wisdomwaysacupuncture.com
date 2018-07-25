@@ -2469,8 +2469,9 @@ body.blog .sidebar h3:first-child {
   margin-top: 0;
 }
 body.blog .sidebar ul.categories {
-  margin: 0;
-  padding: 0;
+  margin: 0 0 1rem 0;
+  padding: 0 0 1rem 0;
+  border-bottom: 2px solid #E8EBED !important;
 }
 body.blog .sidebar ul.categories li {
   display: inline-block;
@@ -2478,6 +2479,9 @@ body.blog .sidebar ul.categories li {
 }
 body.blog .sidebar ul.categories li.active a {
   color: #7F8337;
+}
+body.blog .sidebar .call-to-action-sidebar {
+  margin-top: 1rem;
 }
 body.blog #blog-wrapper .blog-item {
   padding-bottom: 1rem;
