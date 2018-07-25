@@ -1,5 +1,38 @@
 body.blog {
-    section.blog-preface {}
+    .content-bg .subpage {
+        max-width: 1200px;
+        padding: 2rem 0;
+    }
+    .left {
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            @include grid-span(9, 1, $gutter: .5);
+        }
+    }
+    .right {
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            @include grid-span(3, 10, $gutter: .5);
+        }
+    }
+    .sidebar {
+        h3:first-child {
+            margin-top: 0;
+        }
+        ul.categories {
+            margin: 0 0 1rem 0;
+            padding: 0 0 1rem 0;
+            border-bottom: 2px solid #E8EBED !important;
+            li {
+                display: inline-block;
+                margin-bottom: .5rem;
+                &.active a {
+                    color: $color-two;
+                }
+            }
+        }
+        .call-to-action-sidebar {
+            margin-top: 1rem;
+        }
+    }
     #blog-wrapper {
         .blog-item {
             h3 {

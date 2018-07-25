@@ -10,26 +10,40 @@ layout: page
 
 <section class="blog-preface">{{ content }}</section>
 
-<section id="blog-wrapper">
-<form><input type="text" class="search" placeholder="Search" /></form>
-    <div class="list">
-    {% for post in site.posts %}
-    <div class="blog-item clearfix">
-            <h3><a href="{{ post.url }}"  class="title">{{ post.title }}</a></h3>
-            <p class="posted">{{ post.date | date: "%a, %b %d, %Y" }}</p>
+<div class="left">
 
-            {% if post.categories %}
-            <p class="category-label"><strong>Categories:</strong> {% for cat in post.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
-            </p>
-            {% endif %} {% if post.tags[0] %}
-            <p class="tags-label"><strong>Tags:</strong> {% for cat in post.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
-            </p>
-            {% endif %} {% if post.description %}
-            <p>{{ post.description }}</p>
-            {% endif %}
-    </div>
-    {% endfor %}
-    </div>
-    <ul class="pagination">
+    <section id="blog-wrapper">
+    <form><input type="text" class="search" placeholder="Search" /></form>
+        <div class="list">
+        {% for post in site.posts %}
+        <div class="blog-item clearfix">
+                <h3><a href="{{ post.url }}"  class="title">{{ post.title }}</a></h3>
+                <p class="posted">{{ post.date | date: "%a, %b %d, %Y" }}</p>
+
+                {% if post.categories %}
+                <p class="category-label"><strong>Categories:</strong> {% for cat in post.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+                </p>
+                {% endif %} {% if post.tags[0] %}
+                <p class="tags-label"><strong>Tags:</strong> {% for cat in post.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+                </p>
+                {% endif %} {% if post.description %}
+                <p>{{ post.description }}</p>
+                {% endif %}
+        </div>
+        {% endfor %}
+        </div>
+        <ul class="pagination">
+        </ul>
+    </section>
+</div>
+<div class="right sidebar">
+    <h3>Categories</h3>
+    <ul class="categories">
+        {% for category in site.categories %}
+        <li><a href={{category.url}}>{{category.title}}</a></li>
+        {% endfor %}
     </ul>
-</section>
+    <div class="editable call-to-action-sidebar">
+       <p> You can edit me. This will show just on the blog view page.</p>
+    </div>
+</div>
