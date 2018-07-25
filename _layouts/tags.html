@@ -28,8 +28,10 @@ class: blog
             {% endif %} {% if post.tags[0] %}
             <p class="tags-label"><strong>Tags:</strong> {% for cat in post.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
             </p>
-            {% endif %} {% if post.description %}
-            <p>{{ post.description }}</p>
+            {% endif %}
+            {% if post.content %}
+            <p class="teaser-text">{{ post.content | strip_html | truncatewords:75}}</p>
+            <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
             {% endif %}
     </div>
         {% endif %}
