@@ -2429,6 +2429,56 @@ span.author {
   z-index: 1;
 }
 
+body.blog .content-bg .subpage {
+  max-width: 1200px;
+  padding: 2rem 0;
+}
+@media (min-width: 50em) {
+  body.blog .left {
+    width: 74.28571%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none;
+  }
+}
+.no-mq body.blog .left {
+  width: 74.28571%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none;
+}
+@media (min-width: 50em) {
+  body.blog .right {
+    width: 22.85714%;
+    float: right;
+    margin-left: 0;
+    margin-right: 0;
+    clear: none;
+  }
+}
+.no-mq body.blog .right {
+  width: 22.85714%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+}
+body.blog .sidebar h3:first-child {
+  margin-top: 0;
+}
+body.blog .sidebar ul.categories {
+  margin: 0;
+  padding: 0;
+}
+body.blog .sidebar ul.categories li {
+  display: inline-block;
+  margin-bottom: .5rem;
+}
+body.blog .sidebar ul.categories li.active a {
+  color: #7F8337;
+}
 body.blog #blog-wrapper .blog-item {
   padding-bottom: 1rem;
   border-bottom: 1px solid #ececec;

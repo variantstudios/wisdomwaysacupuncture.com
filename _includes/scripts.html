@@ -44,9 +44,7 @@
         ]
     });
 </script>
-{% endif %}
-
-{% if include.class == "blog" %}
+{% endif %} {% if include.class == "blog" %}
 <script src="/assets/js/prod/list.min.js"></script>
 <script type="text/javascript">
     var blogView = new List('blog-wrapper', {
@@ -56,20 +54,17 @@
             name: "pagination",
             paginationClass: "pagination",
             outerWindow: 200
-    }]
+        }]
     });
-  blogView.on("updated",function(){
-    var offTop = $('#blog-wrapper').offset().top;
-    $(window).scrollTop(parseInt(offTop));
-   if (blogView.matchingItems.length === 0){
-    $(".list").html("Sorry, there are no results for this search/filter.");
-    }
-  });
-    
+    blogView.on("updated", function() {
+        var offTop = $('#blog-wrapper').offset().top;
+        $(window).scrollTop(parseInt(offTop));
+        if (blogView.matchingItems.length === 0) {
+            $('.list').html('<p class="status_error">Sorry, there are no results for this search/filter.<p>');
+        }
+    });
 </script>
-{% endif %} 
-
-{% if page.layout == 'front' %} {% endif %} {% if include.class == 'contact' %}
+{% endif %} {% if page.layout == 'front' %} {% endif %} {% if include.class == 'contact' %}
 <script src="/assets/js/prod/contact.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
 {% endif %} {% comment %} {% if site.cloudinaryurl %}

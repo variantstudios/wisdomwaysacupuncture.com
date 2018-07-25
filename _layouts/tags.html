@@ -11,6 +11,8 @@ class: blog
 
 <section class="blog-preface">{{ content }}</section>
 
+<div class="left">
+
 <section id="blog-wrapper">
 <form><input type="text" class="search" placeholder="Search" /></form>
 <div class="list">
@@ -36,3 +38,13 @@ class: blog
     <ul class="pagination">
     </ul>
 </section>
+
+</div>
+<div class="right sidebar">
+    <h3>Categories</h3>
+    <ul class="categories">
+        {% for category in site.categories %}
+        <li><a href={{category.url}}>{{category.title}}</a></li>
+        {% endfor %}
+    </ul>
+</div>
