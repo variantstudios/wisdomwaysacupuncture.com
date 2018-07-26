@@ -1,20 +1,14 @@
 ---
-
 title: Groundbreaking Research Proves How Acupuncture Works
 date: 2010-06-06T12:35:56+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-excerpt: 'A scientific breakthrough has finally been able to prove how acupuncture works.  While research like this may seem somewhat silly to those of us who have been working with the medicine for many years, and everyday see patients return completely relieved of their ailments, the implications of this are nonetheless profound.  It has taken many years for the western medical world to accept acupuncture as a bonafide, legitimate form of medicine, but with research like this continuing to pour forth from the laboratories, our scientists will continue to discover what the Chinese have known for thousands of years…that acupuncture works!'
-layout: post
-
-
-thesis_title:
-  - Groundbreaking Research Proves How Acupuncture Works
-thesis_description:
-  - 'More research continues to validate the effectiveness of acupuncture. '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - exciting-acupuncture-research
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Groundbreaking Research Proves How Acupuncture Works"
+  page_description: 'More research continues to validate the effectiveness of acupuncture. '
+  share_image_path:
+layout: post
 ---
 **A scientific breakthrough has finally been able to prove how acupuncture works.**
 

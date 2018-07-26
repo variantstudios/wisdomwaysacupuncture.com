@@ -1,25 +1,18 @@
 ---
-
 title: 'Feel Aggravated in Windy Weather? Here&#8217;s the Why and What to Do!'
 date: 2010-03-10T15:46:46+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-excerpt: "All around town; in my classes, with friends, and in the clinic, people have been mentioning how edgy they get when the wind picks up.  Chinese Medicine documented thousands of years ago the imbalances that can occur when we're exposed to wind, and I wanted to give you a little insight into this phenomenon so you can...uhhh, weather the upcoming windy Spring with a bit more stability."
-layout: post
-
-
-thesis_title:
-  - "Feel Extra Aggravated in Windy Weather? Here's the Why and What to Do!"
-thesis_description:
-  - 'Acupuncture theory says wind relates to the Liver & Wood season, and the liver regulates stress. Windy days can stir up the Liver, causing agitation! '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, liver imbalance, wood season
-image: /wp-content/uploads/2010/03/windy-days-aggravate-your-qi.jpg
 categories:
   - spring--wood-element
 tags:
   - wind
   - liver-qi-stagnation
   - liver-imbalance
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Feel Extra Aggravated in Windy Weather? Here's the Why and What to Do!"
+  page_description: 'Acupuncture theory says wind relates to the Liver & Wood season, and the liver regulates stress. Windy days can stir up the Liver, causing agitation! '
+  share_image_path:
+layout: post
 ---
 <div style="text-align: center;">
   <p>

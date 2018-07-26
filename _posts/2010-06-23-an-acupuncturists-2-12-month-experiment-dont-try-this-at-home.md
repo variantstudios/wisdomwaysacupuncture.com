@@ -1,20 +1,15 @@
 ---
-
 title: 'An Acupuncturist&#8217;s 2 1/2 month experiment:  Don&#8217;t try this at home!'
 date: 2010-06-23T15:46:49+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - How this Acupuncturist got Back on Board with Healthy Eating
-thesis_description:
-  - "Even the best of us slip up. After eating healthy my entire adult life, I went on a crazy junk-food binge. Here's the story and how I recovered. "
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - nutrition--food
   - random-musings
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "How this Acupuncturist got Back on Board with Healthy Eating"
+  page_description: "Even the best of us slip up. After eating healthy my entire adult life, I went on a crazy junk-food binge. Here's the story and how I recovered. "
+  share_image_path:
+layout: post
 ---
 **This spring, an interesting and unlikely event occurred&#8230;yours truly conducted a spontaneous and unplanned study in which I ate worse than I&#8217;ve eaten since I moved out of my childhood home after high school.** I ate more pints of Ben & Jerry&#8217;s in those short 10 weeks than I had in the last 10 years combined.  I ate more home-popped popcorn for dinner than any person needs to eat in a year.  (OK so it _was_ organic&#8230;) I barely cooked at all, I ate burritos and &#8220;health&#8221; bars, and had less servings of vegetables in a whole week than I usually do in a day.
 

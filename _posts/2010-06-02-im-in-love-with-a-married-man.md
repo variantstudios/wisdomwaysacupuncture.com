@@ -1,20 +1,14 @@
 ---
-
 title: 'I&#8217;m in Love with a Married Man!'
 date: 2010-06-02T15:20:51+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-excerpt: "But seriously...I did fall in love again this week...over a bowl of Cauliflower Cheese soup, and yes, the man is married. He is the famous Jamie Oliver, and if you haven't heard of him, please inform yourself! Because by following his playfulness, inspiration and guidance, your life will become healthier and way more fun.  As my next seasonal newsletter will explain, it's actually important to focus on playfulness through the summer/Fire season."
-layout: post
-
-
-thesis_title:
-  - This Acupuncturist is Secretly in Love with Jamie Oliver, foodie and chef extraordinairre
-thesis_description:
-  - "Jamie Oliver was one of my first inspirations in the foodie/local eating scene. I've long since moved onto Paleo, but his fun & playfulness still inspire."
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, seasonal eating
 categories:
   - nutrition--food
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title:  "This Acupuncturist is Secretly in Love with Jamie Oliver, foodie and chef extraordinairre"
+  page_description: "Jamie Oliver was one of my first inspirations in the foodie/local eating scene. I've long since moved onto Paleo, but his fun & playfulness still inspire."
+  share_image_path:
+layout: post
 ---
 So I got your attention, eh?
 

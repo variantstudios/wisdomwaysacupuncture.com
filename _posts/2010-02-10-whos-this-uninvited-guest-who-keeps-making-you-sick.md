@@ -1,22 +1,6 @@
 ---
-
 title: 'Who&#8217;s this Uninvited Guest who Keeps Making you Sick?'
 date: 2010-02-10T17:36:53+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-excerpt: "So a curious thing is happening this season...it seems many people I know, just when they're finally over their last cold and ready to start getting out there and exercising, taking their herbs, etc...are finding themselves sick AGAIN. There go those plans for exercising! And back into the cabinet go those herbs. Soooo frustrating!  While it may be true that these colds can be clues into the ways in which we're not caring for ourselves, I'd like to offer a deeper look that may help you feel a bit more understanding of what may be going on here."
-layout: post
-
-
-thesis_title:
-  - 'Sick Again! Reasons for Constant Colds, from an Acupuncture Perspective  '
-thesis_description:
-  - 'Common Colds usually come down to a few different explanations from an acupuncture perspective. And there are effective treatments for each one. '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, common colds
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - my-approach--philosophy-and-stories
 tags:
@@ -24,6 +8,12 @@ tags:
   - strengthening-your-immune-system
   - acupuncture-and-immunity
   - acupuncture-and-common-colds
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Sick Again! Reasons for Constant Colds, from an Acupuncture Perspective  '
+  page_description: 'Common Colds usually come down to a few different explanations from an acupuncture perspective. And there are effective treatments for each one. '
+  share_image_path:
+layout: post
 ---
 **A curious thing is happening this season. Many people I know, just when they&#8217;re finally over their last cold and ready to start getting out there and exercising again, back into normal life, etc&#8230; are finding themselves sick AGAIN.** 
 

@@ -1,24 +1,16 @@
 ---
-
 title: Acupuncture Helps Fibromyalgia Pain, Study Proves
 date: 2009-08-07T08:56:45+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-thesis_title:
-  - 'Acupuncture Helps Fibromyalgia Pain, Study Shows '
-thesis_description:
-  - A study by the Mayo Clinic reported acupuncture helpful in treating Fibromyalgia. One month after the study, patients revealed marked improvement.
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, fibromyalgia
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - exciting-acupuncture-research
 tags:
   - fibromyalgia
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture Helps Fibromyalgia Pain, Study Shows '
+  page_description: 'A study by the Mayo Clinic reported acupuncture helpful in treating Fibromyalgia. One month after the study, patients revealed marked improvement.'
+  share_image_path:
+layout: post
 ---
 <div id="attachment_2022" style="width: 160px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain.jpg"><img class="size-thumbnail wp-image-2022" src="/assets/images/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain-150x150.jpg" alt="Acupuncture helps fibromyalgia" width="150" height="150" srcset="/assets/images/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain-150x150.jpg 150w, /assets/images/wp-content/uploads/2009/08/acupuncture-helps-fibromyalgia-pain.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" /></a>

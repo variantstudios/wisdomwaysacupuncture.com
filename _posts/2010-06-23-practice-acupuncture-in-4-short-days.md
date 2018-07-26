@@ -1,23 +1,17 @@
 ---
-
 title: '&#8220;Practice Acupuncture in 4 Short Days!&#8221;'
 date: 2010-06-23T11:31:20+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Problems with Medical Acupuncture '
-thesis_description:
-  - |
-    Acupuncture's growing popularity has led health professionals to seek extremely short trainings in "medical acupuncture" and/or dry needling. This is often dangerous.
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, medical acupuncture
 categories:
   - uncategorized
 tags:
   - medical-acupuncture
   - dry-needling
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Problems with Medical Acupuncture '
+  page_description: "Acupuncture's growing popularity has led health professionals to seek extremely short trainings in "medical acupuncture" and/or dry needling. This is often dangerous."
+  share_image_path:
+layout: post
 ---
 <div id="attachment_806" style="width: 102px" class="wp-caption alignleft">
   <img class="size-full wp-image-806 " title="Woman afraid to get acupuncture from untrained medical professional" src="/assets/images/wp-content/uploads/2010/06/image-scared-person1-e1277314104924.jpg" alt="Acupuncture without training is scary" width="92" height="141" />

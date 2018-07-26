@@ -1,18 +1,6 @@
 ---
-
 title: 'Acupuncture Helps Stress: So You&#8217;re Stressed; What&#8217;s the Big Deal?'
 date: 2010-02-25T17:10:45+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-excerpt: 'The most frequent imbalances I treat in my acupuncture practice are those due to stress. More accurately, these imbalances are not just due to stress--stress is the imbalance.  When our body is balanced and relaxed, our Qi flows smoothly.  When our qi flows smoothly, the energy needed reaches our organs and tissues, and they function optimally and we are symptom free.  Stress interrupts this flow of Qi, with the result of weakened organs. This causes a vicious cycle which somehow must be broken to avoid following a path that surely leads to dis-ease. '
-layout: post
-
-
-thesis_title:
-  - "Acupuncture Helps Stress: So I'm Stressed...What's the Big Deal?"
-thesis_description:
-  - "Stress relates the Liver in acupuncture theory, so if we're stressed, we get other symptoms related to Liver imbalance as well. "
-thesis_keywords:
-  - acupuncture-fort-collins, fort collins acupuncture, wood element, liver imbalance, stress
 categories:
   - my-approach--philosophy-and-stories
 tags:
@@ -20,6 +8,12 @@ tags:
   - stress
   - liver-imbalance
   - acupuncture-and-stress
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Acupuncture Helps Stress: So I'm Stressed...What's the Big Deal?"
+  page_description: "Stress relates the Liver in acupuncture theory, so if we're stressed, we get other symptoms related to Liver imbalance as well. "
+  share_image_path:
+layout: post
 ---
 <div id="attachment_2032" style="width: 160px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress.jpg"><img class="size-thumbnail wp-image-2032" src="/assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress-150x136.jpg" alt="Acupuncture helps stress and tension" width="150" height="136" srcset="/assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress-150x136.jpg 150w, /assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress-300x273.jpg 300w, /assets/images/wp-content/uploads/2010/02/acupuncture-helps-stress.jpg 432w" sizes="(max-width: 150px) 100vw, 150px" /></a>
