@@ -1,5 +1,9 @@
 body.front .footer-wrapper-top,
 body.not-front .footer-wrapper-top {
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        top: 260px;
+        position: relative;
+    }
     background-color: #55090B;
     @include breakpoint($bp-medium, $no-query: ".no-mq") {}
     color: #fff;
@@ -72,6 +76,11 @@ body.not-front .footer-wrapper-top {
 
 body.front .footer-wrapper-bottom,
 body.not-front .footer-wrapper-bottom {
+    padding-bottom: 0;
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        top: 260px;
+        position: relative;
+    }
     background-color: #780D10;
     text-align: center;
     .subpage {
