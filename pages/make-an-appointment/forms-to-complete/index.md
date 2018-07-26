@@ -33,8 +33,6 @@ I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, 
 * [New Patient Fertility History For Female](/assets/images/wp-content/uploads/2015/06/New-Patient-Fertility-History-Intake.Female.edit_.5.15.docx){: target="_blank"}
 * [New Patient Fertility History Intake For Males](/assets/images/wp-content/uploads/2010/03/New-Patient-Fertility-History-Intake.-Male.edit_.6.15.docx){: target="_blank"}
 
-&nbsp;
-
 ### ![](/assets/images/icons/shield.svg)&nbsp;For Patients Wishing to Bill Insurance:
 
 * [Insurance Verification And Financial Agreement](/assets/images/wp-content/uploads/2010/03/INSURANCE-VERIFICATION-2015.docx){: target="_blank"}
