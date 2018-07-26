@@ -3,6 +3,8 @@ title: I'm in Love with a Married Man!
 date: 2010-06-02 15:20:00
 categories:
   - nutrition--food
+tags:
+  -
 hero_image: /assets/images/heroes/sub-page-hero-example.jpg
 search_engine_optimization:
   page_title: >-
