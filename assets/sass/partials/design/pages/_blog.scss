@@ -14,8 +14,9 @@ body.blog {
         }
     }
     .sidebar {
-        h3:first-child {
+        h4:first-child {
             margin-top: 0;
+            margin-bottom: .4rem;
         }
         ul.categories {
             margin: 0 0 1rem 0;
@@ -31,6 +32,9 @@ body.blog {
         }
         .call-to-action-sidebar {
             margin-top: 1rem;
+            &.top {
+                margin-top: 0;
+            }
         }
     }
     #blog-wrapper {

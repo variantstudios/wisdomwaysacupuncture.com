@@ -2465,8 +2465,9 @@ body.blog .content-bg .subpage {
   margin-right: 0;
   clear: none;
 }
-body.blog .sidebar h3:first-child {
+body.blog .sidebar h4:first-child {
   margin-top: 0;
+  margin-bottom: .4rem;
 }
 body.blog .sidebar ul.categories {
   margin: 0 0 1rem 0;
@@ -2482,6 +2483,9 @@ body.blog .sidebar ul.categories li.active a {
 }
 body.blog .sidebar .call-to-action-sidebar {
   margin-top: 1rem;
+}
+body.blog .sidebar .call-to-action-sidebar.top {
+  margin-top: 0;
 }
 body.blog #blog-wrapper .blog-item {
   padding-bottom: 1rem;

@@ -14,7 +14,7 @@ class: blog
 <div class="left">
 
 <section id="blog-wrapper">
-<form><input type="text" class="search" placeholder="Search" /></form>
+{% comment %} <form><input type="text" class="search" placeholder="Search" /></form> {% endcomment %}
 <div class="list">
     {% for post in site.posts %}
     {% if post.tags contains page_id %}
@@ -43,7 +43,10 @@ class: blog
 
 </div>
 <div class="right sidebar">
-    <h3>Categories</h3>
+    <div class="editable call-to-action-sidebar top">
+       <p> You can edit me. This will show just on the blog view page.</p>
+    </div>
+    <h4>Categories</h4>
     <ul class="categories">
         {% for category in site.categories %}
         <li><a href={{category.url}}>{{category.title}}</a></li>
