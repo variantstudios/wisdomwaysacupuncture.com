@@ -15,9 +15,9 @@ Please print and complete ALL of the relevant\* forms in the links below, and br
 
 It often takes people up to 30 minutes to complete all forms, so we recommend not waiting until the last minute!
 
-**FERTILITY PATIENTS:&nbsp;**&nbsp;Please note that you have an extra form to complete, outlining your fertility history
+**\*FERTILITY PATIENTS:&nbsp;**&nbsp;Please note that you have an extra form to complete, outlining your fertility history
 
-I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, YOU MUST ARRIVE WITH THE LAST FORM COMPLETED, SO THAT YOUR INSURANCE HAS BEEN VERIFIED BEFORE YOUR VISIT. OTHERWISE WE WILL JUST ASSESS THE SELF-PAY RATE UNTIL THE TIME AT WHICH YOUR INSURANCE HAS BEEN VERIFIED. We are happy to bill your insurance for you, but we need your help in order to help you! To avoid any surprise charges at your first visit, please come prepared with this form completed.&nbsp;
+\*I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, YOU MUST ARRIVE WITH THE LAST FORM COMPLETED, SO THAT YOUR INSURANCE HAS BEEN VERIFIED BEFORE YOUR VISIT. OTHERWISE WE WILL JUST ASSESS THE SELF-PAY RATE UNTIL THE TIME AT WHICH YOUR INSURANCE HAS BEEN VERIFIED. We are happy to bill your insurance for you, but we need your help in order to help you! To avoid any surprise charges at your first visit, please come prepared with this form completed.&nbsp;
 
 ### ![](/assets/images/icons/acupuncture-needles.svg)&nbsp;Acupuncture Treatment Forms (All Patients):
 
@@ -37,4 +37,6 @@ I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, 
 
 * [Insurance Verification And Financial Agreement](/assets/images/wp-content/uploads/2010/03/INSURANCE-VERIFICATION-2015.docx){: target="_blank"}
 
-(For those patients wishing to bill their insurance: Complete this form by calling your insurance and asking the questions provided, and bring it to your first acupuncture appointment along with your insurance card. If you do NOT arrive at your first appointment with this form completed, we will simply apply the self-pay fee at the time of your visit, until the time at which your coverage has been verified) \*Please note that even if your plan includes acupuncture benefits, some plans only cover limited conditions\*
+Complete this form by calling your insurance and asking the questions provided, and bring it to your first acupuncture appointment along with your insurance card. If you do NOT arrive at your first appointment with this form completed, we will simply apply the self-pay fee at the time of your visit, until the time at which your coverage has been verified
+
+\*Please note that even if your plan includes acupuncture benefits, some plans only cover limited conditions\*
