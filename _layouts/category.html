@@ -19,21 +19,43 @@ class: blog
     {% for post in site.posts %}
     {% if post.categories contains page_id %}
     <div class="blog-item clearfix">
-            <h3><a href="{{ post.url }}"  class="title">{{ post.title }}</a></h3>
-            <p class="posted">{{ post.date | date: "%a, %b %d, %Y" }}</p>
 
-            {% if post.categories %}
-            <p class="category-label"><strong>Categories:</strong> {% for cat in post.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
-            </p>
-            {% endif %} {% if post.tags[0] %}
-            <p class="tags-label"><strong>Tags:</strong> {% for cat in post.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
-            </p>
-            {% endif %} 
-            {% if post.content %}
-            <p class="teaser-text">{{ post.content | strip_html | truncatewords:75}}</p>
-            <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
-            {% endif %}
-    </div>
+                <div class="blog-item-inner">
+
+               
+                {% if post.hero_image %}
+                <div class="post-image">
+                <picture>
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" media="(max-width: 400px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img src="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" alt="{{page.title}}">
+                </picture>
+                </div>
+                {% endif %}
+
+                <div class="post-content">
+                <h3><a href="{{ post.url }}" class="title">{{ post.title }}</a></h3>
+                {% comment %} <p class="posted">{{ post.date | date: "%a, %b %d, %Y" }}</p>
+
+                {% if post.categories %}
+                <p class="category-label"><strong>Categories:</strong> {% for cat in post.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+                </p>
+                {% endif %} {% if post.tags[0] %}
+                <p class="tags-label"><strong>Tags:</strong> {% for cat in post.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+                </p>
+                {% endif %}  {% endcomment %}
+                 </div>
+
+                 </div>
+
+                {% if post.content %}
+                <p class="teaser-text">{{ post.content | strip_html | truncatewords:75}}</p>
+                <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
+                {% endif %}
+                
+
+                </div>
         {% endif %}
   {% endfor %}
     </div>

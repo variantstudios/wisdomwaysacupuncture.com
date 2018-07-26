@@ -3,6 +3,8 @@ title: Groundbreaking Research Proves How Acupuncture Works
 date: 2010-06-06T12:35:56+00:00
 categories:
   - exciting-acupuncture-research
+tags:
+  -
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: "Groundbreaking Research Proves How Acupuncture Works"

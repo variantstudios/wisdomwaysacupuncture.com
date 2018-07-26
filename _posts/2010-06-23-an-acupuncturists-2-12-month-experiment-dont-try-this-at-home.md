@@ -4,6 +4,8 @@ date: 2010-06-23T15:46:49+00:00
 categories:
   - nutrition--food
   - random-musings
+tags:
+  -
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: "How this Acupuncturist got Back on Board with Healthy Eating"

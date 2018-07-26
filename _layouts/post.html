@@ -21,13 +21,6 @@ layout: page
 
     <div>{{ content }}</div>
 
-    {% if page.iframe.url %}
-    <div id="iframe">
-        <h3>{{page.iframe.title}}</h3>
-        <iframe src="{{page.iframe.url}}" width="{{page.iframe.width}}" height="{{page.iframe.height}}" frameborder="0">Loading...</iframe>
-    </div>
-    {% endif %}
-
     <nav class="pagination" role="navigation">
         <ul class="pager">
             {% if page.previous.url %}
