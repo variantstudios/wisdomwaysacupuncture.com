@@ -9,7 +9,7 @@ tags:
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: 'Acupuncture Fort Collins, Fort Collins Acupuncture, medical acupuncture, '
-  page_description: 'Problems with "Medical Acupuncture": As acupuncture increases in popularity, MD's, Chiros, and others are practicing practice it. But are patients the ones who are losing out?'
+  page_description:
   share_image_path:
 layout: post
 ---
