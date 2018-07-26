@@ -1,5 +1,5 @@
 ---
-title: '&#8220;Practice Acupuncture in 4 Short Days!&#8221;'
+title: 'Practice Acupuncture in 4 Short Days!'
 date: 2010-06-23T11:31:20+00:00
 categories:
   - uncategorized
@@ -9,7 +9,7 @@ tags:
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: 'Problems with Medical Acupuncture '
-  page_description: "Acupuncture's growing popularity has led health professionals to seek extremely short trainings in "medical acupuncture" and/or dry needling. This is often dangerous."
+  page_description: "Acupuncture's growing popularity has led health professionals to seek extremely short trainings in 'medical acupuncture' and/or dry needling. This is often dangerous."
   share_image_path:
 layout: post
 ---
@@ -20,6 +20,7 @@ layout: post
     &#8220;You&#8217;ve had only 4 days of training in acupuncture!?!&#8221;
   </p>
 </div>
+
 
 <p style="text-align: center;">
   Yowzers!!!

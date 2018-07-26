@@ -2491,9 +2491,31 @@ body.blog #blog-wrapper .blog-item {
   padding-bottom: 1rem;
   border-bottom: 1px solid #ececec;
 }
+body.blog #blog-wrapper .blog-item .blog-item-inner {
+  margin: 2rem 0 0 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+body.blog #blog-wrapper .blog-item .post-image {
+  display: block;
+  width: 250px;
+  margin: 0 1rem 0 0;
+  height: auto;
+  top: 10px;
+  position: relative;
+}
+body.blog #blog-wrapper .blog-item .post-content {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
 body.blog #blog-wrapper .blog-item h3 {
   font-size: 2rem;
-  margin-bottom: 0;
+  margin: 0;
 }
 body.blog #blog-wrapper .blog-item p.posted {
   color: #b9b9b9;

@@ -3,6 +3,8 @@ title: 'Acupuncture&#8217;s Molecular Effects Pinned Down'
 date: 2010-06-07T14:44:56+00:00
 categories:
   - exciting-acupuncture-research
+tags:
+  -
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: "Acupuncture's Healing Mechanisms Pinned Down in Studies"
