@@ -39,3 +39,10 @@ aside {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+.main-wrapper.clearfix {
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        top: 260px;
+        position: relative;
+    }
+}

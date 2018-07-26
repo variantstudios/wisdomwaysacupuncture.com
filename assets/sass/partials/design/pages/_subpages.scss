@@ -34,7 +34,10 @@ body.not-front {
     }
     .content-bg .subpage {
         max-width: 940px;
-        margin: 0 auto 2rem auto;
+        margin: 0 1rem 1rem 1rem;
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            margin: 0 auto 2rem auto;
+        }
     }
     .subpage-header {
         background-position: center center;

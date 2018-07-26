@@ -877,6 +877,18 @@ body.not-front .footer-wrapper-top {
   background-color: #55090B;
   color: #fff;
 }
+@media (min-width: 50em) {
+  body.front .footer-wrapper-top,
+  body.not-front .footer-wrapper-top {
+    top: 260px;
+    position: relative;
+  }
+}
+.no-mq body.front .footer-wrapper-top, .no-mq
+body.not-front .footer-wrapper-top {
+  top: 260px;
+  position: relative;
+}
 body.front .footer-wrapper-top .subpage,
 body.not-front .footer-wrapper-top .subpage {
   background: none;
@@ -1007,8 +1019,21 @@ body.not-front .footer-wrapper-top .icon-small {
 
 body.front .footer-wrapper-bottom,
 body.not-front .footer-wrapper-bottom {
+  padding-bottom: 0;
   background-color: #780D10;
   text-align: center;
+}
+@media (min-width: 50em) {
+  body.front .footer-wrapper-bottom,
+  body.not-front .footer-wrapper-bottom {
+    top: 260px;
+    position: relative;
+  }
+}
+.no-mq body.front .footer-wrapper-bottom, .no-mq
+body.not-front .footer-wrapper-bottom {
+  top: 260px;
+  position: relative;
 }
 body.front .footer-wrapper-bottom .subpage,
 body.not-front .footer-wrapper-bottom .subpage {
@@ -1086,9 +1111,22 @@ body.not-front .footer-wrapper-bottom .footer-inner .right {
 }
 
 header.siteheader {
-  max-width: 1200px;
+  position: relative;
+  width: 100%;
   background: #fff;
   padding: 0;
+}
+@media (min-width: 50em) {
+  header.siteheader {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+}
+.no-mq header.siteheader {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
 header.siteheader .header-wrap {
   position: relative;
@@ -1096,12 +1134,10 @@ header.siteheader .header-wrap {
 @media (min-width: 50em) {
   header.siteheader {
     padding: .5rem 1rem;
-    background: none;
   }
 }
 .no-mq header.siteheader {
   padding: .5rem 1rem;
-  background: none;
 }
 @media (min-width: 75em) {
   header.siteheader {
@@ -1246,6 +1282,17 @@ aside {
   content: "";
   display: table;
   clear: both;
+}
+
+@media (min-width: 50em) {
+  .main-wrapper.clearfix {
+    top: 260px;
+    position: relative;
+  }
+}
+.no-mq .main-wrapper.clearfix {
+  top: 260px;
+  position: relative;
 }
 
 a.call-to-action {
@@ -2150,6 +2197,14 @@ body.not-front .front-hero .front-hero-wrapper h3 {
 }
 body.not-front .content-bg .subpage {
   max-width: 940px;
+  margin: 0 1rem 1rem 1rem;
+}
+@media (min-width: 50em) {
+  body.not-front .content-bg .subpage {
+    margin: 0 auto 2rem auto;
+  }
+}
+.no-mq body.not-front .content-bg .subpage {
   margin: 0 auto 2rem auto;
 }
 body.not-front .subpage-header {

@@ -1,14 +1,20 @@
 header.siteheader {
-    max-width: 1200px;
+    position: relative;
+    width: 100%;
     background: #fff;
     padding: 0;
     //padding: 0 2rem;
+    @include breakpoint($bp-medium, $no-query: ".no-mq") {
+        position: fixed;
+        width: 100%;
+        z-index: 1;
+    }
     .header-wrap {
         position: relative;
     }
     @include breakpoint($bp-medium, $no-query: ".no-mq") {
         padding: .5rem 1rem;
-        background: none;
+        //background: none;
     }
     @include breakpoint($bp-xlarge, $no-query: ".no-mq") {
         padding: .5rem 0;
