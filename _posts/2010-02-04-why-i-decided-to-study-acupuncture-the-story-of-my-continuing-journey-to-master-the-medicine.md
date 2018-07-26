@@ -1,22 +1,18 @@
 ---
-
 title: 'My Acupuncture Story, or Why I decided to study acupuncture: The beginning and ongoing journey to master the medicine'
 date: 2010-02-04T14:14:13+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-thesis_title:
-  - 'Why I decided to study acupuncture: The story of my continuing journey to master the medicine'
-thesis_description:
-  - "Acupuncture study reflected the innate sense I've always had of the perfection of the body; of its ability to heal and function well if it's just given the right environment in which to thrive."
-thesis_keywords:
-  - Acupuncture, My acupuncture story
 categories:
   - my-approach--philosophy-and-stories
   - random-musings
 tags:
   - acupuncture
   - acupuncture-fort-collins
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Why I decided to study acupuncture: The story of my continuing journey to master the medicine'
+  page_description: "Acupuncture study reflected the innate sense I've always had of the perfection of the body; of its ability to heal and function well if it's just given the right environment in which to thrive."
+  share_image_path:
+layout: post
 ---
 **At some point in the course of most patient&#8217;s treatment with me, I typically get the question, &#8220;How did you get into acupuncture?&#8221;.  So I thought I&#8217;d answer that question here and share my acupuncture story openly.  While my story is pretty typical, I believe the most interesting thing about it is that I know it&#8217;s not my own; it&#8217;s shared with thousands of other people who had the same beliefs, dreams, or struggles, and who now call themselves Licensed Acupuncturists.** 
 

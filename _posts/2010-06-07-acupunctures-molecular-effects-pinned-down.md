@@ -1,20 +1,14 @@
 ---
-
 title: 'Acupuncture&#8217;s Molecular Effects Pinned Down'
 date: 2010-06-07T14:44:56+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-excerpt: 'Scientists have taken another important step toward understanding just how sticking needles into the body can ease pain.  In a paper published online May 30 in Nature Neuroscience, a team at the University of Rochester Medical Center identifies the molecule adenosine as a central player in parlaying some of the effects of acupuncture in the body.'
-layout: post
-
-
-thesis_title:
-  - "Acupuncture's Healing Mechanisms Pinned Down in Studies"
-thesis_description:
-  - 'As acupuncture research continues, exciting explanations for its success -- from a scientific biomechanical perspective, continue to surface'
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - exciting-acupuncture-research
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Acupuncture's Healing Mechanisms Pinned Down in Studies"
+  page_description: 'As acupuncture research continues, exciting explanations for its success -- from a scientific biomechanical perspective, continue to surface'
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;">How acupuncture eases pain</span>
 

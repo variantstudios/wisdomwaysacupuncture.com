@@ -1,28 +1,18 @@
 ---
-
 title: What you Should Eat this Week may Surprise You
 date: 2010-02-06T15:00:28+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-excerpt: '...But hold on…what could possibly be that important about a simple bowl of peaches and whipped cream that a lesson of balance and self-care would come out of it? Answer:  the fact that too often I get the sincere questions: How much should I eat?  Is this good for me?  What should I eat?  How much should I drink?  The fact is, we have become so disconnected from our bodies, and their signals which tell us what we need to be strong and happy; that we leave it to some book or a site on the internet to tell us what we should be putting into our bodies.  There’s this diet and that plan and fruit is good–no, fruit is bad, and carbs make you fat and on and on and on.  But what about the simple question:  How do you FEEL when you eat this?'
-layout: post
-
-
-thesis_title:
-  - What you Should Eat this Week may Surprise You
-thesis_description:
-  - "Acupuncture believes health is all about balance, and somehow in the midst of strict healthy eating we've got to find our own balance there too. "
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - nutrition--food
   - random-musings
 tags:
   - intuitive-eating
   - balanced-eating
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "What you Should Eat this Week may Surprise You"
+  page_description: "Acupuncture believes health is all about balance, and somehow in the midst of strict healthy eating we've got to find our own balance there too. "
+  share_image_path:
+layout: post
 ---
 Today, as I sit and write looking out my still-winter window and think about what I’ve learned this week, I notice the leafless trees and unmelted snow on the ground.
 

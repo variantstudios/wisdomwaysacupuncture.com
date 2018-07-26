@@ -1,28 +1,17 @@
 ---
-
 title: Why you Should Choose only a Licensed Acupuncturist for Acupuncture
 date: 2009-05-07T16:53:07+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-thesis_title:
-  - Why You Should Choose ONLY a Licensed Acupuncturist for Acupuncture
-thesis_description:
-  - |
-    Problems with "Medical Acupuncture": As acupuncture increases in popularity, MD's, Chiros, and others are practicing practice it. But are patients the ones who are losing out?
-thesis_keywords:
-  - 'Acupuncture Fort Collins, Fort Collins Acupuncture, medical acupuncture, '
-thesis_post_image_vertical:
-  - after-headline
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - my-approach--philosophy-and-stories
   - random-musings
 tags:
   - problems-with-medical-acupuncture
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture Fort Collins, Fort Collins Acupuncture, medical acupuncture, '
+  page_description: 'Problems with "Medical Acupuncture": As acupuncture increases in popularity, MD's, Chiros, and others are practicing practice it. But are patients the ones who are losing out?'
+  share_image_path:
+layout: post
 ---
 <div id="attachment_659" style="width: 160px" class="wp-caption alignleft">
   <a title="Licensed Acupuncturist pulse diagnosis" href="/assets/images/wp-content/uploads/2010/06/acupuncture-pulse-taking.jpg"><img class=" wp-image-659 " title="Licensed Acupuncturist doing pulse reading" src="/assets/images/wp-content/uploads/2010/06/acupuncture-pulse-taking.jpg" alt="Licensed Acupuncturist" width="150" height="207" /></a>
