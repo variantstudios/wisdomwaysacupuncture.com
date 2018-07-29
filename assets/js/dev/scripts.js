@@ -6,4 +6,21 @@ $(document).ready(function() {
   } else {
     $('html').addClass('no-mq');
   }
+  // SHRINK FIXED HEADER
+  $(function() {
+    var shrinkHeader = 1;
+    $(window).scroll(function() {
+      var scroll = getCurrentScroll();
+      if (scroll >= shrinkHeader) {
+        $('.siteheader').addClass('shrink');
+        $('body').addClass('shrink');
+      } else {
+        $('.siteheader').removeClass('shrink');
+        $('body').removeClass('shrink');
+      }
+    });
+    function getCurrentScroll() {
+      return window.pageYOffset || document.documentElement.scrollTop;
+    }
+  });
 });

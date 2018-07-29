@@ -6,6 +6,14 @@ html {
         height: 100%;
         background: $site-bg;
         overflow-x: hidden;
+        @include breakpoint($bp-medium, $no-query: ".no-mq") {
+            padding-top: 260px;
+            transition: all 0.2s ease;
+            &.shrink {
+                padding-top: 143px;
+                transition: all 0.2s ease;
+            }
+        }
     }
 }
 
@@ -38,11 +46,4 @@ aside {
     @include clearfix;
     max-width: 1200px;
     margin: 0 auto;
-}
-
-.main-wrapper.clearfix {
-    @include breakpoint($bp-medium, $no-query: ".no-mq") {
-        top: 260px;
-        position: relative;
-    }
 }
