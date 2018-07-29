@@ -1,7 +1,7 @@
 ---
 title: Women's Health
 popular_blog_topics:
-  popular: false
+  popular: true
   popular_title: Women's Health
   popular_image: /assets/images/conditions/DSC07519.jpg
   popular_order: '9'
