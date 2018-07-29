@@ -8,6 +8,11 @@ html {
         overflow-x: hidden;
         @include breakpoint($bp-medium, $no-query: ".no-mq") {
             padding-top: 260px;
+            transition: all 0.2s ease;
+            &.shrink {
+                padding-top: 143px;
+                transition: all 0.2s ease;
+            }
         }
     }
 }
