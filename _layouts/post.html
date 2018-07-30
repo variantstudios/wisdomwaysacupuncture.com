@@ -11,15 +11,19 @@ layout: page
     <h1><a href="{{page.url }}">{{page.title }}</a></h1>
     <p class="posted">{{page.date | date: "%a, %b %d, %Y" }}</p>
 
-    {% if page.categories %}
+    {% comment %} {% if page.categories %}
     <p class="category-label"><strong>Categories:</strong> {% for cat in page.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
     </p>
-    {% endif %} {% if page.tags[0] %}
+    {% endif %}  {% endcomment %}
+
+    <div>{{ content }}</div>
+    {% if page.tags[0] %}
     <p class="tags-label"><strong>Tags:</strong> {% for cat in page.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
     </p>
     {% endif %}
-
-    <div>{{ content }}</div>
+    <div class="social-share-wrapper">
+        {% include social-share.html %}
+    </div>
 
     <nav class="pagination" role="navigation">
         <ul class="pager">
