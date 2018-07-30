@@ -28,7 +28,9 @@ layout: default
             {% if page.permalink == "/contact/" %} 
             {% include contact-form.html %} 
             {% elsif page.permalink == "/testimonials/" %} 
-            {% include testimonials.html %} 
+            {% include testimonials.html %}
+            {% elsif page.permalink == "/newsletter/" %} 
+            {% include newsletter.html %} 
             {% elsif page.permalink == "/our-team/" %} 
             {% include team.html %} 
             {% elsif page.permalink == "/search/" %} 
