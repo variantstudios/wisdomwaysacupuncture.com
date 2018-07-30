@@ -1,4 +1,3 @@
-{% comment %} {% if page.layout == 'front' %}
 <script>
     var cb = function() {
         var l = document.createElement('link');
@@ -12,9 +11,7 @@
     if (raf) raf(cb);
     else window.addEventListener('load', cb);
 </script>
-{% else %}
-<link rel="stylesheet" href="/assets/css/style.css" media="screen"> {% endif %} {% endcomment %}
-<link rel="stylesheet" href="/assets/css/style.css" media="screen">
+{% comment %}<link rel="stylesheet" href="/assets/css/style.css" media="screen">{% endcomment %}
 
 <link href="https://fonts.googleapis.com/css?family=Forum|PT+Sans:400,700" rel="stylesheet">
 
