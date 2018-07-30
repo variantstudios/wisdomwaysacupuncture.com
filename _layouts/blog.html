@@ -26,7 +26,7 @@ layout: page
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
                     <source srcset="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" media="(max-width: 400px)">
                     <!--[if IE 9]></video><![endif]-->
-                    <img src="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" alt="{{page.title}}">
+                    <img src="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" alt="{{page.title}}" class="lazyload">
                 </picture>
                 </div>
                 {% endif %}
@@ -71,5 +71,24 @@ layout: page
     </ul>
     <div class="editable call-to-action-sidebar">
         <p> You can edit me. This will show just on the blog view page.</p>
+    </div>
+
+    <div class="social-links-sidebar">
+        <h4 class="editable">Follow us on</h4>
+        <a class="social-link facebook" href="https://www.facebook.com/WisdomWaysAcupuncture/" target="_blank" rel="noopener nofollow"><svg class="facebook" fill="#55090B" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M19,4V7H17A1,1 0 0,0 16,8V10H19V13H16V20H13V13H11V10H13V7.5C13,5.56 14.57,4 16.5,4M20,2H4A2,2 0 0,0 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z"></path></svg></a>
+
+        <a class="social-link youtube" href="https://www.youtube.com/channel/UCvh0Z-0SVq60rqRQ1qMmkkA" target="_blank" rel="noopener nofollow"><svg class="youtube" fill="#55090B" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M10,15L15.19,12L10,9V15M21.56,7.17C21.69,7.64 21.78,8.27 21.84,9.07C21.91,9.87 21.94,10.56 21.94,11.16L22,12C22,14.19 21.84,15.8 21.56,16.83C21.31,17.73 20.73,18.31 19.83,18.56C19.36,18.69 18.5,18.78 17.18,18.84C15.88,18.91 14.69,18.94 13.59,18.94L12,19C7.81,19 5.2,18.84 4.17,18.56C3.27,18.31 2.69,17.73 2.44,16.83C2.31,16.36 2.22,15.73 2.16,14.93C2.09,14.13 2.06,13.44 2.06,12.84L2,12C2,9.81 2.16,8.2 2.44,7.17C2.69,6.27 3.27,5.69 4.17,5.44C4.64,5.31 5.5,5.22 6.82,5.16C8.12,5.09 9.31,5.06 10.41,5.06L12,5C16.19,5 18.8,5.16 19.83,5.44C20.73,5.69 21.31,6.27 21.56,7.17Z"></path></svg></a>
+
+        <a class="social-link googleplus" href="https://plus.google.com/b/106291268418033335419/106291268418033335419" target="_blank" rel="noopener nofollow"><svg class="googleplus" fill="#55090B" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3M19.5,12H18V10.5H17V12H15.5V13H17V14.5H18V13H19.5V12M9.65,11.36V12.9H12.22C12.09,13.54 11.45,14.83 9.65,14.83C8.11,14.83 6.89,13.54 6.89,12C6.89,10.46 8.11,9.17 9.65,9.17C10.55,9.17 11.13,9.56 11.45,9.88L12.67,8.72C11.9,7.95 10.87,7.5 9.65,7.5C7.14,7.5 5.15,9.5 5.15,12C5.15,14.5 7.14,16.5 9.65,16.5C12.22,16.5 13.96,14.7 13.96,12.13C13.96,11.81 13.96,11.61 13.89,11.36H9.65Z"></path></svg></a>
+
+        <a class="social-link pinterest" href="https://www.pinterest.com/wisdomwaysacup/" target="_blank" rel="noopener nofollow"><svg class="pinterest" fill="#55090B" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M13,16.2C12.2,16.2 11.43,15.86 10.88,15.28L9.93,18.5L9.86,18.69L9.83,18.67C9.64,19 9.29,19.2 8.9,19.2C8.29,19.2 7.8,18.71 7.8,18.1C7.8,18.05 7.81,18 7.81,17.95H7.8L7.85,17.77L9.7,12.21C9.7,12.21 9.5,11.59 9.5,10.73C9.5,9 10.42,8.5 11.16,8.5C11.91,8.5 12.58,8.76 12.58,9.81C12.58,11.15 11.69,11.84 11.69,12.81C11.69,13.55 12.29,14.16 13.03,14.16C15.37,14.16 16.2,12.4 16.2,10.75C16.2,8.57 14.32,6.8 12,6.8C9.68,6.8 7.8,8.57 7.8,10.75C7.8,11.42 8,12.09 8.34,12.68C8.43,12.84 8.5,13 8.5,13.2A1,1 0 0,1 7.5,14.2C7.13,14.2 6.79,14 6.62,13.7C6.08,12.81 5.8,11.79 5.8,10.75C5.8,7.47 8.58,4.8 12,4.8C15.42,4.8 18.2,7.47 18.2,10.75C18.2,13.37 16.57,16.2 13,16.2M20,2H4C2.89,2 2,2.89 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z"></path></svg></a>
+
+        <a class="social-link twitter" href="https://twitter.com/acupunctexpert" target="_blank" rel="noopener nofollow"><svg class="twitter" fill="#55090B" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M19,19H16V13.7A1.5,1.5 0 0,0 14.5,12.2A1.5,1.5 0 0,0 13,13.7V19H10V10H13V11.2C13.5,10.36 14.59,9.8 15.5,9.8A3.5,3.5 0 0,1 19,13.3M6.5,8.31C5.5,8.31 4.69,7.5 4.69,6.5A1.81,1.81 0 0,1 6.5,4.69C7.5,4.69 8.31,5.5 8.31,6.5A1.81,1.81 0 0,1 6.5,8.31M8,19H5V10H8M20,2H4C2.89,2 2,2.89 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z"></path></svg></a>
+    </div>
+
+    <div class="newsletter-sidebar">
+        <a class="newsletter-btn" href="/newsletter"> <svg width="453" height="421" viewBox="0 0 453 421">
+                    <path d="m449.483 174.4.001-.001-57.824-38.335v-128.134c0-4.142-3.358-7.5-7.5-7.5h-315.49c-4.142 0-7.5 3.358-7.5 7.5v128.143l-57.814 38.326.001.002c-2.022 1.343-3.357 3.639-3.357 6.249v232.26c0 4.142 3.358 7.5 7.5 7.5h437.84c4.142 0 7.5-3.358 7.5-7.5v-232.26c0-2.61-1.335-4.906-3.357-6.25zm-388.313 26.229-23.525-12.479h23.525zm-46.17-7.511 172.475 91.49-172.475 114.327zm211.417 83.671 194.037 128.621h-388.073zm38.945 7.82 172.477-91.491v205.821zm126.298-96.459h23.536l-23.536 12.484zm28.794-15h-28.794v-19.09zm-43.794-157.72v193.161l-125.527 66.586-20.573-13.637c-2.511-1.665-5.776-1.665-8.287 0l-20.57 13.635-125.533-66.589v-193.156zm-315.49 157.72h-28.782l28.782-19.08z"/>
+                  </svg>Subscribe to our Newsletter</a>
     </div>
 </div>

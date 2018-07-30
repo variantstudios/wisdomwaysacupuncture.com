@@ -11,6 +11,7 @@ header.siteheader {
         top: 0;
         transition: all 0.2s ease;
         &.shrink {
+            box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.1);
             .logo img {
                 transition: all 0.2s ease;
                 margin: .5rem auto .5rem auto;

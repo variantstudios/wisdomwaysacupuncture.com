@@ -57,8 +57,6 @@
         }]
     });
     blogView.on("updated", function() {
-        var offTop = $('#blog-wrapper').offset().top;
-        $(window).scrollTop(parseInt(offTop));
         if (blogView.matchingItems.length === 0) {
             $('.list').html('<p class="status_error">Sorry, there are no results for this search/filter.<p>');
         }
@@ -67,6 +65,8 @@
 {% endif %} {% if page.layout == 'front' %} {% endif %} {% if include.class == 'contact' %}
 <script src="/assets/js/prod/contact.js"></script>
 <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
+{% endif %} {% if page.layout == 'blog' or page.layout == 'category' or page.layout == 'tags' %}
+<script src="/assets/js/prod/lazysizes.min.js"></script>
 {% endif %} {% comment %} {% if site.cloudinaryurl %}
 <script src="/assets/js/prod/cloudinary.js"></script>
 {% endif %} {% endcomment %} {% if include.google_analytics_tracking_id %}
@@ -76,3 +76,4 @@
     galite.UA = '{{ site.google_analytics_tracking_id }}';
 </script>
 {% endif %}
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false" async></script>

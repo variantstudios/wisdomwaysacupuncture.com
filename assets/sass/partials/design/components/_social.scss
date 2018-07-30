@@ -1,0 +1,11 @@
+.social-link {
+    svg {
+        width: 40px;
+        height: 40px;
+    }
+    margin: 0 .4rem 0 0;
+    &:last-child {
+        margin-right: 0;
+    }
+    
+}
