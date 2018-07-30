@@ -11,9 +11,8 @@
     if (raf) raf(cb);
     else window.addEventListener('load', cb);
 </script>
-{% comment %}<link rel="stylesheet" href="/assets/css/style.css" media="screen">{% endcomment %}
-
-<link href="https://fonts.googleapis.com/css?family=Forum|PT+Sans:400,700" rel="stylesheet">
+{% comment %}<link rel="stylesheet" href="/assets/css/style.css" media="screen">
+<link href="https://fonts.googleapis.com/css?family=Forum|PT+Sans:400,700" rel="stylesheet">{% endcomment %}
 
 <script src="/assets/js/prod/modernizr-2.8.3.min.js"></script>
 <script src="/assets/js/prod/zepto.1.2.0.min.js"></script>
@@ -66,11 +65,25 @@
 <script src="/assets/js/prod/lazysizes.min.js"></script>
 {% endif %} {% comment %} {% if site.cloudinaryurl %}
 <script src="/assets/js/prod/cloudinary.js"></script>
-{% endif %} {% endcomment %} {% if include.google_analytics_tracking_id %}
+{% endif %} {% endcomment %} 
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Forum|PT+Sans:400,700' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+  
+{% if include.google_analytics_tracking_id %}
 <script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
 <script>
     var galite = galite || {};
     galite.UA = '{{ site.google_analytics_tracking_id }}';
 </script>
 {% endif %}
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false" async></script>
