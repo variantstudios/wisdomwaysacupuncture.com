@@ -65,11 +65,7 @@ I also love nature, and outside of work you'll find me and my long-time Signific
 
 I also might be at a local yarn store or sitting at home by the fire knitting up something fun with hand-died artisanal yarns! I'm a voracious reader too, and love learning about history through historical fiction. I love world travel and have been to 27 different countries; the most interesting trip was the year I sold everything and took a year off to do a solo-trek across Latin America. Lastly, I fancy myself a recreational runner, and usually do at least one 10K a year.
 
-(p.s.: I'm also TOTAL HARRY POTTER FAN!!!) :-P
-
-To schedule now, go to the [Online Scheduling page](/make-an-appointment/).
-
-&nbsp;
+(p.s.: I'm also TOTAL HARRY POTTER FAN!!!) :-)
 
 ### Acupuncture, Herbal, & Fertility Training:
 
