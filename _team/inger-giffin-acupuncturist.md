@@ -57,13 +57,13 @@ I am by nature an educator. Because of my love of learning, and my personal expe
 
 I often hear that my thorough approach, detailed questions, constant return to the bigger holistic picture, personal background with deep emotional/spiritual healing, as well as the time I take explaining things; take the work to a completely different, and deeper, level.
 
-### My personal life
+### Outside the Clinic
 
 Alas, life isn't just about work! Besides being an acupuncturist, I'm also a complete foodie, and am just as passionate about whole, real, scrumptious, nourishing foods, as I am about Chinese Medicine.
 
 I also love nature, and outside of work you'll find me and my long-time Significant Other, as well as our wonderdoggie Nissa, hiking or backpacking out in our beautiful CO mountains! You also might find us in our garden as we're in the middle of a several-year install of a Permaculture Food Forest. Eventually we hope to grow all our own food, as well as raise chickens and rabbits.
 
-You also just might find me at a local yarn store or sitting at home by the fire knitting up something fun with hand-died artisanal yarns! I'm a voracious reader too, and love learning about history through historical fiction. I love world travel and have been to 27 different countries; the most interesting trip was the year I sold everything and took a year off to do a solo-trek across Latin America. Lastly, I fancy myself a recreational runner as well, and usually do at least one 10K a year.
+I also might be at a local yarn store or sitting at home by the fire knitting up something fun with hand-died artisanal yarns! I'm a voracious reader too, and love learning about history through historical fiction. I love world travel and have been to 27 different countries; the most interesting trip was the year I sold everything and took a year off to do a solo-trek across Latin America. Lastly, I fancy myself a recreational runner, and usually do at least one 10K a year.
 
 (p.s.: I'm also TOTAL HARRY POTTER FAN!!!) :-P
 
@@ -77,13 +77,10 @@ To schedule now, go to the [Online Scheduling page](/make-an-appointment/).
 * Advanced Fertility/Infertility Training through/Fellow of the [American Board of Oriental Reproductive Medicine](https://aborm.org/about/){: target="_blank"}
 * Gynecology & Gastroenterology Internships, [ZheJiang TCM University](http://www2.zcmu.edu.cn/english/type/11500000102.html){: target="_blank"}, HangZhou, China
 
-* Acupuncture Association of Colorado
-* National Certification Commission for Acupuncture and Oriental Medicine
-* Fellow of the American Board of Oriental Reproductive Medicine
+### Memberships:
 
-### Volunteer Work:
+* [Acupuncture Association of Colorado](https://acucol.com/){: target="_blank"}
+* [National Certification Commission for Acupuncture and Oriental Medicine](http://www.nccaom.org/){: target="_blank"}
+* Fellow of the [American Board of Oriental Reproductive Medicine](https://aborm.org/){: target="_blank"}
 
-* Ally (Mentor) for Circles Self Sufficiency Program, Fort Collins, CO, 2012
-* Board of Directors The Growing Project, Fort Collins, CO, 2010-2012
-* Health Educator, Guatemala, 2001
-* Health Educator/Patient Advocate & Assistant, Santa Cruz Women's Health Center, 1997-2004
+&nbsp;
