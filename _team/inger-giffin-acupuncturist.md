@@ -51,7 +51,7 @@ I am extremely grateful that I was able to obtain my primary Chinese Medical edu
 
 I'm constantly continuing my studies, most recently focusing on Classical Medicine and deepening my many years of work with the complex practice of customized herbal formulas – which in China is a primary treatment for most of the conditions I treat. I'm currently in an advanced 2-year Classical Medicine study program, and am always applying this new knowledge to my challenging cases. In this way, by digging deeper and deeper into the medicine, I am often able to help even the most stubborn, confusing cases. Through my studies, I continue to grow more committed by the year to delve deeper into this medicine to unlock its secrets, and every morning I wake up excited to learn more about this medicine that I witness doing "miracles" everyday in the clinic.
 
-### Acupuncture & Educational Medicine that empowers
+### Acupuncture & Educational Medicine that Empowers
 
 I am by nature an educator. Because of my love of learning, and my personal experience of knowing how important knowledge is in empowering healthy choices, a big emphasis in my practice is what I call "educational medicine". Meaning, it's very important for me to make sure patients understand how we're seeing the body and its problems from our very different Chinese medical perspective, so that people can know what holistic aspects influenced the problem in the first place and unique ways of helping to improve it on their own outside the treatment room. I've even invented a new word for how I am in the treatment room when discussing a case with a patient, and that's "explainy". :-)
 
