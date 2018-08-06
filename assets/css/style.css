@@ -2708,7 +2708,7 @@ body.blog .content-bg .subpage {
 }
 @media (min-width: 50em) {
   body.blog .left {
-    width: 73.91304%;
+    width: 64.70588%;
     float: left;
     margin-right: -100%;
     margin-left: 0;
@@ -2716,7 +2716,7 @@ body.blog .content-bg .subpage {
   }
 }
 .no-mq body.blog .left {
-  width: 73.91304%;
+  width: 64.70588%;
   float: left;
   margin-right: -100%;
   margin-left: 0;
@@ -2724,7 +2724,7 @@ body.blog .content-bg .subpage {
 }
 @media (min-width: 50em) {
   body.blog .right {
-    width: 21.73913%;
+    width: 29.41176%;
     float: right;
     margin-left: 0;
     margin-right: 0;
@@ -2732,7 +2732,7 @@ body.blog .content-bg .subpage {
   }
 }
 .no-mq body.blog .right {
-  width: 21.73913%;
+  width: 29.41176%;
   float: right;
   margin-left: 0;
   margin-right: 0;
@@ -2764,8 +2764,8 @@ body.blog .sidebar .call-to-action-sidebar p {
   margin: auto auto .5em auto;
 }
 body.blog .sidebar .social-links-sidebar .social-link svg {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
 }
 body.blog .sidebar .newsletter-sidebar {
   margin: 1rem 0 1.5rem 0;
