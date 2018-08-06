@@ -35,7 +35,25 @@ body.blog {
             &.top {
                 margin-top: 0;
             }
+            p {
+                margin: auto auto .5em auto;
+            }
         }
+        .social-links-sidebar {
+            .social-link svg {
+                width: 30px;
+                height: 30px;
+            }
+        }
+        .newsletter-sidebar {
+            margin: 1rem 0 1.5rem 0;
+            //text-align: center;
+            a.newsletter-btn {
+                font-size: .7rem;
+                padding: 8px 10px;
+            }
+        }
+        
     }
     #blog-wrapper {
         .blog-item {
@@ -149,9 +167,11 @@ body.blog {
 }
 
 ul.pagination {
+    padding: 0;
+
     li {
         display: inline-block;
-        margin: 0 .8rem;
+        margin: 0 .6rem;
         &.active {
             a {
                 text-decoration: none;

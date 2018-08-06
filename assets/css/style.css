@@ -2760,6 +2760,20 @@ body.blog .sidebar .call-to-action-sidebar {
 body.blog .sidebar .call-to-action-sidebar.top {
   margin-top: 0;
 }
+body.blog .sidebar .call-to-action-sidebar p {
+  margin: auto auto .5em auto;
+}
+body.blog .sidebar .social-links-sidebar .social-link svg {
+  width: 30px;
+  height: 30px;
+}
+body.blog .sidebar .newsletter-sidebar {
+  margin: 1rem 0 1.5rem 0;
+}
+body.blog .sidebar .newsletter-sidebar a.newsletter-btn {
+  font-size: .7rem;
+  padding: 8px 10px;
+}
 body.blog #blog-wrapper .blog-item {
   padding-bottom: 1rem;
   border-bottom: 1px solid #ececec;
@@ -2875,9 +2889,12 @@ body.blog #blog-wrapper .blog-item .teaser-link a:hover {
   margin: 0 0 .2rem 0;
 }
 
+ul.pagination {
+  padding: 0;
+}
 ul.pagination li {
   display: inline-block;
-  margin: 0 .8rem;
+  margin: 0 .6rem;
 }
 ul.pagination li.active a {
   text-decoration: none;
