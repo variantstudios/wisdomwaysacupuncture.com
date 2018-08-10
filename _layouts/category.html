@@ -43,13 +43,14 @@ class: blog
 <section id="blog-wrapper">
 {% comment %} <form><input type="text" class="search" placeholder="Search" /></form> {% endcomment %}
 <div class="list">
-    {% assign remove_post = cat_post | prepend:'_posts/' %}
-    {% for post in site.posts %}
-    {% if post.categories contains page_id %}
-    {% assign posts_path = post.path %}
     
-    {% if post.path contains remove_post %}
-    {% else %}
+    {% if cat_post %}
+        {% assign remove_post = cat_post | prepend:'_posts/' %}
+        {% for post in site.posts %}
+        {% if post.categories contains page_id %}
+        {% assign posts_path = post.path %}
+        {% if post.path contains remove_post %}
+        {% else %}
     <div class="blog-item clearfix">
 
                 <div class="blog-item-inner">
@@ -63,32 +64,54 @@ class: blog
                 </picture>
                 </div>
                 {% endif %}
-
                 <div class="post-content">
                 <h3><a href="{{ post.url }}" class="title">{{ post.title }}</a></h3>
-                {% comment %} <p class="posted">{{ post.date | date: "%a, %b %d, %Y" }}</p>
-
-                {% if post.categories %}
-                <p class="category-label"><strong>Categories:</strong> {% for cat in post.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
-                </p>
-                {% endif %} {% if post.tags[0] %}
-                <p class="tags-label"><strong>Tags:</strong> {% for cat in post.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
-                </p>
-                {% endif %}  {% endcomment %}
                  </div>
-
                  </div>
-
                 {% if post.content %}
                 <p class="teaser-text">{{ post.content | strip_html | truncatewords:75}}</p>
                 <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
                 {% endif %}
-                
-
                 </div>
             {% endif %}
+            {% endif %}
+            {% endfor %}
+    {%else%}
+
+
+        {% for post in site.posts %}
+        {% if post.categories contains page_id %}
+
+
+    <div class="blog-item clearfix">
+
+                <div class="blog-item-inner">
+                {% if post.hero_image %}
+                <div class="post-image">
+                <picture>
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" media="(max-width: 400px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img src="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" alt="{{page.title}}" class="lazyload">
+                </picture>
+                </div>
+                {% endif %}
+                <div class="post-content">
+                <h3><a href="{{ post.url }}" class="title">{{ post.title }}</a></h3>
+                 </div>
+                 </div>
+                {% if post.content %}
+                <p class="teaser-text">{{ post.content | strip_html | truncatewords:75}}</p>
+                <p class="teaser-link"><a href="{{ post.url }}">read more</a></p>
+                {% endif %}
+                </div>
+
+
+
+            {% endif %}
+            {% endfor %}
         {% endif %}
-  {% endfor %}
+
     </div>
     <ul class="pagination">
     </ul>
