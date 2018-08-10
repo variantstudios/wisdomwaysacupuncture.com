@@ -1,17 +1,6 @@
 ---
-
 title: 'Metal Season: The Time for Learning about Letting Go &#8212; but that what&#8217;s of Value Remains'
 date: 2016-11-05T18:09:55+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Metal Season: The Time for Learning about Letting Go, but that what's of Value Remains"
-thesis_description:
-  - "Chinese Medicine teaches us that each season contains wisdom, which, if followed, will help us to lead healthier, happier, more balanced lives.  This article is about the Metal season, and is one acupuncturist's approach to healthy living as the weather turns cool. "
-thesis_keywords:
-  - acupuncture, western medicicne, alternative medicine, metal element, five elements, chinese medicine, acupuncture fort collins, fort collins acupuncture, alternative medicine, integrative medicine
 categories:
   - autumn--metal-element
   - eating-with-the-seasons
@@ -21,9 +10,14 @@ tags:
   - five-elements
   - metal-element
   - seasonal-eating
+hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+search_engine_optimization:
+  page_title: "Metal Season: The Time for Learning about Letting Go, but that what's of Value Remains"
+  page_description: >-
+    "Chinese Medicine teaches us that each season contains wisdom, which, if followed, will help us to lead healthier, happier, more balanced lives.  This article is about the Metal season, and is one acupuncturist's approach to healthy living as the weather turns cool. "
+  share_image_path:
+layout: post
 ---
-&nbsp;
-
 **<img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/89.jpg" alt="Bright Colored Fall Leaves" width="202" height="129" align="left" border="0" hspace="5" vspace="5" />**
 
 **The air is pungent with the quieting of the seasons. Everywhere around us we feel the downturn of energy, as leaves shine their last dying blasts of color before departing this world for their fall into the earth. Now is the time of letting go, of releasing&#8212;of bringing inward the scattered energies of the previous warmer seasons.** As with every season in Chinese Medicine, Fall brings with it its own value, which if acknowledged helps us capture the magic and inspiration of the present.
