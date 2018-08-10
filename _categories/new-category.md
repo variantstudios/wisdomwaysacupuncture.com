@@ -1,7 +1,7 @@
 ---
-title: New Category
+title: New Test Category Two
 popular_blog_topics:
-  popular: true
+  popular: false
   popular_title: New Test Category
   popular_image: /assets/images/conditions/DSC07519.jpg
   popular_order: '11'
