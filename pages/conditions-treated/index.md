@@ -15,7 +15,7 @@ If you're suffering from chronic internal medical issues or women's health probl
 
 Rather than treating everything that presents itself to me, I’ve chosen to hone my skills as much as possible by focusing on specific health issues. For more details on each area of specialty, please scroll over the "Conditions Treated" tabs above to find your condition.
 
-The conditions I work on often involve multi-system problems — commonly related to hormonal imbalances and/or stress and overwork/fatigue. While not always complex, they can usually be quite a puzzle and I love trying to crack the code!
+The issues I work on often involve multi-system problems — commonly related to hormonal imbalances and/or stress and overwork/fatigue. While not always complex, they can usually be quite a puzzle and I love trying to crack the code!
 
 ### Conditions for which I refer out:
 
