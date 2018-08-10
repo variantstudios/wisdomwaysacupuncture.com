@@ -17,7 +17,7 @@ Rather than treating everything that presents itself to me, I’ve chosen to hon
 
 The issues I work on often involve multi-system problems — commonly related to hormonal imbalances and/or stress and overwork/fatigue. While not always complex, they can usually be quite a puzzle and I love trying to crack the code!
 
-By cracking the code we've discovered the underlying connection between all your symptoms, and that's how many different problems can be treated all at once.
+By cracking the code we've discovered the underlying connection between all your symptoms, and that's how several different symptoms can be treated all at once.
 
 ### Conditions for which I refer out:
 
