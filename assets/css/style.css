@@ -2741,6 +2741,7 @@ body.blog .content-bg .subpage {
     margin-left: 0;
     margin-right: 0;
     clear: none;
+    margin-top: 2rem;
   }
 }
 .no-mq body.blog .right {
@@ -2749,6 +2750,7 @@ body.blog .content-bg .subpage {
   margin-left: 0;
   margin-right: 0;
   clear: none;
+  margin-top: 2rem;
 }
 body.blog .sidebar h4:first-child {
   margin-top: 0;
@@ -2863,6 +2865,36 @@ body.blog #blog-wrapper .blog-item .teaser-link a:hover {
   color: #fff;
   background-color: #461516;
 }
+body.blog .post-featured {
+  position: relative;
+  margin: 0 0 1rem 0;
+}
+body.blog .post-featured picture,
+body.blog .post-featured img {
+  display: block;
+}
+body.blog .post-featured .badge {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: #461517;
+  color: #888932;
+  text-transform: uppercase;
+  font-size: .7rem;
+  padding: .4rem;
+  font-weight: bold;
+}
+body.blog .post-featured h3 {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  margin: 0;
+  padding: 1rem 1.5rem;
+  color: #fff;
+}
+body.blog .post-featured h3 a {
+  color: #fff;
+}
 
 .light {
   color: #b9b9b9;
@@ -2911,4 +2943,56 @@ ul.pagination li {
 ul.pagination li.active a {
   text-decoration: none;
   color: #bdbdbd;
+}
+
+.ribbon-wrapper-green {
+  width: 85px;
+  height: 88px;
+  overflow: hidden;
+  position: absolute;
+  top: -3px;
+  right: -3px;
+}
+
+.ribbon-green {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: .7rem;
+  color: #333;
+  text-align: center;
+  text-shadow: rgba(255, 255, 255, 0.5) 0px 1px 0px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  position: relative;
+  padding: 7px 0;
+  left: -5px;
+  top: 15px;
+  width: 120px;
+  background-color: #BFDC7A;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#BFDC7A), to(#8EBF45));
+  background-image: -webkit-linear-gradient(top, #BFDC7A, #8EBF45);
+  background-image: -o-linear-gradient(top, #BFDC7A, #8EBF45);
+  color: #6a6340;
+  -webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
+}
+
+.ribbon-green:before,
+.ribbon-green:after {
+  content: "";
+  border-top: 3px solid #6e8900;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  position: absolute;
+  bottom: -3px;
+}
+
+.ribbon-green:before {
+  left: 0;
+}
+
+.ribbon-green:after {
+  right: 0;
 }
