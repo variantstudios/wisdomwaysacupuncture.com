@@ -11,7 +11,7 @@ permalink: "/services-offered/"
 
 # Services Offered
 
-## Acupuncture & Customized Chinese Herbs
+### Acupuncture & Customized Chinese Herbs
 
 My patients generally receive treatment that includes a combination of Acupuncture and customized Chinese herbal formulas. Due to the nature of conditions I treat, rather than being "supplemental", the herbs are a central and integral part of the treatment process.
 
@@ -19,7 +19,7 @@ The goal is to get you the best results in the shortest amount of time, and whil
 
 Click the navigation tabs at the top to find out more about each of these treatments as well as how I work with them.
 
-## Nutritional Guidance
+### Nutritional Guidance
 
 In addition to Acupuncture and herbs, if I feel that nutritional guidance/changes will help you as well, I will encourage you to make a nutrition consultation so that I have time to go deeper into educating you on both Western holistic approaches to nutrition, as well as individualized Eastern approaches you can incorporate as well.
 
