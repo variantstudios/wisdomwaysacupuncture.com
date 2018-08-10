@@ -13,7 +13,7 @@ permalink: "/conditions-treated/"
 
 If you're suffering from chronic symptoms or women's health problems, then you're in the right place! If you're worried you might never feel better because you've "tried everything" or your case is particularly complex, then you're among great company with many of our patients.
 
-Rather than treating everything that presents itself to me, I’ve chosen to hone my skills by working with only specific health issues.&nbsp; By focusing intently on learning as much as I can about these ailments, I've been able to have breakthroughs with many of even the toughest cases. For more details on each area of specialty, please scroll over the "Conditions Treated" tabs above to find your condition.
+Rather than treating everything that presents itself to me, I’ve chosen to hone my skills by working with only specific health issues.&nbsp; By focusing intently on learning as much as I can about these ailments and how they play into each other, I've been able to have breakthroughs with many of my toughest cases. For more details on each area of specialty, please scroll over the "Conditions Treated" tabs above to find your condition.
 
 The issues I work on often involve multi-system problems — commonly related to hormonal imbalances and/or stress and overwork/fatigue. While not always complex, they can usually be quite a puzzle and I love trying to crack the code!
 
