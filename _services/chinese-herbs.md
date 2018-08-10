@@ -19,7 +19,7 @@ Herbs have been used in China to maintain and restore health for thousands of ye
 
 Chinese herbs are prescribed very differently from western herbs or drugs. &nbsp;They are combined in herbal “formulas”, with anywhere from 3 or 4 herbs being used, to as many as 20. &nbsp;These formulas are traditionally customized for each person individually, and administered in bulk form, powders, or liquid. &nbsp;Pre-formulated mixes called “patents”, given in pill form, are also commonly used. Read on to discover more about each of these methods
 
-### Customized Herbal Formulas
+* ### Customized Herbal Formulas
 
 Bulk/Customized herbs are traditionally given to the patient in paper bags that they then take home and cook, to drink as tea. However, in &nbsp;modern day it is becoming more and more common for pharmacies to pre-“cook”/extract the formulas into either a liquid or powder, which the patient just needs to heat up or add to a little hot water. This drastically increases the convenience and therefore the patient-compliance in taking their herbs.
 
@@ -29,7 +29,7 @@ There are definitely benefits of taking herbs this way. &nbsp;First, the herbali
 
 Inger prescribes the powdered form of customized herbs for almost all her patients. She has found them to be a great marriage between effectiveness as well as patient convenience.
 
-### Patent herbal formulas
+* ### Patent herbal formulas
 
 Patents are herbal formulas that have already been combined to treat many common imbalances. &nbsp;They are in pill form, so patent herbs provide a much more convenient method of taking herbs — they are very easy for the patient to carry with them and require no preparation time. &nbsp;They also tend to be much less expensive.
 
