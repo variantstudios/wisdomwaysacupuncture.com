@@ -17,8 +17,8 @@ thesis_keywords:
 categories:
   - my-approach--philosophy-and-stories
   - random-musings
-  - new-category
 tags:
+  - quick-tag
 ---
 
 As acupuncturists, we frequently use the very vague word “balance”. Because this word can mean so many things, I find it helps my patients if I can explain what this means.
@@ -63,7 +63,7 @@ There’s an analogy that I use with my patients all the time. I read once that 
 
 I think of health that way, and encourage my patients to view their body this way too. Once they’re dancing close to the balance point, it’s really about those small corrections that we make every day.
 
-*  If they have a stressful day at work, they get off course. But if they go home and meditate, they move towards balance
+* If they have a stressful day at work, they get off course. But if they go home and meditate, they move towards balance
 
 * If they start having negative thoughts racing through their minds, but then they make sure to go to their prayer group, now they’re uplifted and peaceful again
 * They have a weekend of eating especially crappy, but then the entire next couple weeks they eat impeccably.
@@ -84,6 +84,6 @@ If I don’t pay attention and ram through life instead, then I start getting we
 
 But I let this go on for a DAY, before I do something about it.
 
-  And that&#8217;s what I try to teach my patients: the tiniest symptom is your body talking to you. You don&#8217;t have to stress about it or become obsessive about every niggling sensation, but you *do* need to learn if those symptoms mean you&#8217;ve hit your weak point, and it&#8217;s time for a course correction.
+And that’s what I try to teach my patients: the tiniest symptom is your body talking to you. You don’t have to stress about it or become obsessive about every niggling sensation, but you *do* need to learn if those symptoms mean you’ve hit your weak point, and it’s time for a course correction.
 
-  **Do you need some help with a course correction? If so, you can [schedule an acupuncture appointment online now](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/), or call (970) 227-3077**
+**Do you need some help with a course correction? If so, you can [schedule an acupuncture appointment online now](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/), or call (970) 227-3077**
