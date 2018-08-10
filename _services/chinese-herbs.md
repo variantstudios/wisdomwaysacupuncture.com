@@ -6,7 +6,7 @@ search_engine_optimization:
   share_image_path:
 ---
 
-##### Inger uses herbs extensively in her clinic, and focuses much of her continued studies on the complex art of herbal formulating.
+##### Inger uses herbs extensively in her clinic, and focuses much of her continued training on the complex art of herbal formulating.
 {: .align-to-center}
 
 For some conditions, there will be no substitute for acupuncture treatment. &nbsp;But for many women’s health & internal medical issues — the very things that Inger specializes in — herbs can be a powerful, and even necessary adjunct to the acupuncture treatment.
