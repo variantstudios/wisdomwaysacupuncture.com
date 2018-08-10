@@ -17,7 +17,7 @@ It often takes people up to 30 minutes to complete all forms, so we recommend no
 
 **\*FERTILITY PATIENTS:&nbsp;**&nbsp;Please note that you have an extra form to complete, outlining your fertility history
 
-\*I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, YOU MUST ARRIVE WITH THE LAST FORM COMPLETED, SO THAT YOUR INSURANCE HAS BEEN VERIFIED BEFORE YOUR VISIT. OTHERWISE WE WILL JUST ASSESS THE SELF-PAY RATE UNTIL THE TIME AT WHICH YOUR COVERAGE HAS BEEN VERIFIED. We are happy to bill your insurance for you, but we need your help in order to help you! To avoid any surprise charges at your first visit, please come prepared with this form completed.&nbsp;
+\*I**NSURANCE PATIENTS:&nbsp;**PLEASE NOTE THAT IF YOU WISH US TO BILL INSURANCE, YOU MUST ARRIVE WITH THE LAST FORM COMPLETED, SO THAT YOUR INSURANCE HAS BEEN VERIFIED BEFORE YOUR VISIT. OTHERWISE WE WILL JUST ASSESS THE SELF-PAY RATE UNTIL THE TIME AT WHICH YOUR COVERAGE HAS BEEN VERIFIED.
 
 ### ![](/assets/images/icons/acupuncture-needles.svg)&nbsp;Acupuncture Treatment Forms (All Patients):
 
