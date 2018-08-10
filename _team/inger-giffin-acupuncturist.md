@@ -27,17 +27,17 @@ Almost 20 years later I haven’t forgotten my roots, and the goal of empowermen
 
 ## Primary and Continued Acupuncture Training
 
-My primary training was both in the US and China, where I interned at [one of the top medical schools](http://www.cmm.zju.edu.cn/index.php?a=content&amp;catid=90&amp;web=english){: target="_blank"} in the country. I [first studied in California](https://www.fivebranches.edu/five-branches-university/past-and-present/77){: target="_blank"}, which has the most rigorous testing and educational requirements in the US. 
+My primary training was both in the US and China, where I interned at [one of the top medical schools](http://www.cmm.zju.edu.cn/index.php?a=content&amp;catid=90&amp;web=english){: target="_blank"} in the country. I [first studied in California](https://www.fivebranches.edu/five-branches-university/past-and-present/77){: target="_blank"}, which has the most rigorous testing and educational requirements in the US.&nbsp;
 
-I’m extremely grateful for the intensive training I received in California, because the rigorous requirements there set me up with the foundations necessary to practice with a level of complexity that I feel is necessary for the types of conditions I treat.
+I’m extremely grateful for the intensive training I received in California, because the rigorous requirements there set me up with the foundations needed to practice with a level of complexity that I feel is necessary for the types of conditions I treat.
 
-I‘m also constantly continuing my studies, most recently focusing on [Classical Medicine](http://www.wisdomwaysacupuncture.com/2018/01/01/classical-chinese-medicine-what-it-is-why-it-matters-and-why-im-moving-towards-it-in-my-practice/){: target="_blank"} and deepening my many years of work with the complex practice of customized herbal formulas — which in China is a primary treatment for most of the conditions I treat.  By digging deeper and deeper into the medicine and applying this knowledge to my current patients, I am often able to have breakthroughs with even the most stubborn, confusing cases. 
+I‘m also constantly continuing my studies, most recently focusing on [Classical Medicine](http://www.wisdomwaysacupuncture.com/2018/01/01/classical-chinese-medicine-what-it-is-why-it-matters-and-why-im-moving-towards-it-in-my-practice/){: target="_blank"} and deepening my many years of work with the complex practice of customized herbal formulas — which in China is a primary treatment for most of the conditions I treat.&nbsp; By digging deeper and deeper into the medicine and applying this knowledge to my current patients, I am often able to have breakthroughs with even the most stubborn, confusing cases.&nbsp;
 
-The more I learn, I can absolutely say the more humbled I become by the absolute beauty and power of this old medicine. 
+The more I learn, I can absolutely say the more humbled I become by the absolute beauty and power of this old medicine.&nbsp;
 
 ## Acupuncture & Educational Medicine that empowers
 
-I am by nature an educator. Because of my love of learning, and my personal experience of knowing how important knowledge is in empowering healthy choices, a big emphasis in my practice is what I call “educational medicine”.  Meaning, it’s very important for me to make sure patients understand how we’re seeing the body and its problems from our very different Chinese medical perspective, so that people can know what holistic aspects influenced the problem in the first place and unique ways of helping to improve it on their own outside the treatment room.
+I am by nature an educator. Because of my love of learning, and my personal experience of knowing how important knowledge is in empowering healthy choices, a big emphasis in my practice is what I call “educational medicine”.&nbsp; Meaning, it’s very important for me to make sure patients understand how we’re seeing the body and its problems from our very different Chinese medical perspective, so that people can know what holistic aspects influenced the problem in the first place and unique ways of helping to improve it on their own outside the treatment room.
 
 I often hear that my thorough approach, detailed questions, constant return to the bigger holistic picture, personal background with meditation and deep emotional/spiritual healing, as well as the time I take explaining things; take the work to a completely different, and deeper, level.
 
@@ -47,9 +47,9 @@ Alas, life isn’t just about work! Besides being an acupuncturist, I’m also a
 
 I also love nature, and outside of work you’ll find me and my partner, as well as our wonderdoggie Nissa, hiking or backpacking out in our beautiful CO mountains. You might also find us in our garden as we’re in the middle of a several-year install of a Permaculture Food Forest. Eventually we hope to grow all our own food, as well as raise chickens and rabbits.
 
-In cooler weather you just might find me at a local yarn store or sitting at home by the fire knitting up something fun with hand-died, artisanal yarns. In the clinic you'll often see me wearing these hand-made garments! (btw if you notice them, you'll absolutely make my day!) :-)  I love world travel and have been to 27 different countries; the most interesting trip was the year I sold everything and took a year off to do a solo-trek across Latin America.
+In cooler weather you just might find me at a local yarn store or sitting at home by the fire knitting up something fun with hand-died, artisanal yarns. In the clinic you'll often see me wearing these hand-made garments. (btw if you notice them, you'll absolutely make my day!) :-)&nbsp; I love world travel and have been to 27 different countries; the most interesting trip was the year I sold everything and took a year off to do a solo-trek across Latin America.
 
-And most importantly… I’m also a TOTAL HARRY POTTER FAN!!!  :-P
+And most importantly… I’m also a TOTAL HARRY POTTER FAN!!!&nbsp; :-P
 
 ### Acupuncture, Herbal, & Fertility Training:
 
