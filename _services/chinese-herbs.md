@@ -15,7 +15,7 @@ Because of this, if you become a patient here we can almost guarantee that herbs
 
 ### History of herbs in Chinese Medicine
 
-Herbs have been used in China to maintain and restore health for thousands of years. &nbsp;Before the advent of acupuncture, about 2,000 years ago, the herbs were the only form of medicine available, and were so effective that they enabled China’s population to stay healthy and to become the largest now on earth. &nbsp;Herbs continue to be a big part of medical treatment today. They are even beginning to be used by some of the most prestigious western medical facilities in the US!
+Herbs have been used in China to maintain and restore health for thousands of years. &nbsp;Before the advent of acupuncture, about 2,000 years ago, the herbs were the only form of medicine available, and were so effective that they enabled China’s population to stay healthy and to become the largest now on earth. &nbsp;Herbs continue to be a big part of medical treatment today. They are even being used by some of the most prestigious western medical facilities in the US!
 
 Chinese herbs are prescribed very differently from western herbs or drugs. &nbsp;They are combined in herbal “formulas”, with anywhere from 3 or 4 herbs being used, to as many as 20. &nbsp;These formulas are traditionally customized for each person individually, and administered in bulk form, powders, or liquid. &nbsp;Pre-formulated mixes called “patents”, given in pill form, are also commonly used. Read on to discover more about each of these methods
 
