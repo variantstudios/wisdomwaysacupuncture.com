@@ -9,7 +9,7 @@ layout: page
 permalink: "/make-an-appointment/payment-info/"
 ---
 
-# Wisdom Ways Acupuncture ~ Payment Info
+# Payment Info
 
 There are a variety of treatment plans and packages to fit your needs, and in the end your wellness goals will decide which plan is right for you.
 
@@ -28,7 +28,7 @@ At your initial treatment, I will go over your diagnosis and options with you, a
 
 **Pay-As-You-Go:** These treatments are charged at the full treatment price and are due at each treatment
 
-**Packages:** Because acupuncture works over a series of treatments, I offer discounted treatment package rates. The more serious or long-term your condition -- and therefore usually the more treatments you need -- the higher the package discount will be. &nbsp;
+**Packages:** Because acupuncture works over a series of treatments, I offer discounted treatment package rates. The more serious or long-term your condition – and therefore usually the more treatments you need – the higher the package discount will be. &nbsp;
 
 Package discounts are as follows:
 
