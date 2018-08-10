@@ -11,21 +11,23 @@ permalink: "/conditions-treated/"
 
 # Acupuncture Specialties: Women’s Health & Chronic Illness
 
-If you're suffering from chronic internal medical issues or women's health problems, then you're in the right place!
+If you're suffering from chronic symptoms or women's health problems, then you're in the right place! Many of the women who come to me have particularly confusing cases and have been referred to me when other modalities aren't working.
 
-Rather than treating everything that presents itself to me, I’ve chosen to hone my skills as much as possible by focusing on specific health issues. For more details on each area of specialty, please scroll over the "Conditions Treated" tabs above to find your condition.
+Rather than treating everything that presents itself to me, I’ve chosen to hone my skills by focusing on only specific health issues. For more details on each area of specialty, please scroll over the "Conditions Treated" tabs above to find your condition.
 
 The issues I work on often involve multi-system problems — commonly related to hormonal imbalances and/or stress and overwork/fatigue. While not always complex, they can usually be quite a puzzle and I love trying to crack the code!
+
+By cracking the code we've discovered the underlying connection between all your symptoms, and that's how many different problems can be treated all at once.
 
 ### Conditions for which I refer out:
 
 While acupuncture is a holistic form of treatment – meaning that the entire body and all its symptoms are treated as a whole rather than as separate problems – there are certain conditions that I feel are better treated by others who have specific advanced training in those ailments and stay on top of all the latest western/complementary treatments; and I refer out in these cases.
 
 * Injury/Sports Medicine
-* Most Orthopedic issues/pain (i.e. joint, muscle, or tendon pain/problems)
+* Most Orthopedic pain (i.e. joint, muscle, structural, or tendon problems)
 * Neurological issues including neuropathy and stroke/post stroke
 * Addiction
-* Cancer
+* Current Cancer
 * Pediatrics
 * Men’s health
 * Some skin issues
