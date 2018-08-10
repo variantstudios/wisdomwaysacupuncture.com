@@ -6,16 +6,16 @@ search_engine_optimization:
   share_image_path:
 ---
 
-#### Inger uses herbs extensively in her clinic, and focuses much of her continued studies on the complex art of herbal formulating.
+##### Inger uses herbs extensively in her clinic, and focuses much of her continued studies on the complex art of herbal formulating.
 {: .align-to-center}
-
-If you come for treatment at our clinic, I can almost guarantee that herbs will be recommended for you.
 
 For some conditions, there will be no substitute for acupuncture treatment. &nbsp;But for many women’s health & internal medical issues — the very things that Inger specializes in — herbs can be a powerful, and even necessary adjunct to the acupuncture treatment.
 
-Herbs have been used in China to maintain and restore health for thousands of years. &nbsp;Before the advent of acupuncture, about 2,000 years ago, the herbs were the only form of medicine available, and were so effective that they enabled China’s population to stay healthy and to become the largest now on earth. &nbsp;Herbs continue to be a big part of medical treatment today.
+Because of this, if you become a patient here we can almost guarantee that herbs will be recommended for you. Of course you don't HAVE to take them, the choice is always yours. But if results likely depend on the addition of herbs, Inger will be very honest with you about this.
 
-&nbsp;
+### History of herbs in Chinese Medicine
+
+Herbs have been used in China to maintain and restore health for thousands of years. &nbsp;Before the advent of acupuncture, about 2,000 years ago, the herbs were the only form of medicine available, and were so effective that they enabled China’s population to stay healthy and to become the largest now on earth. &nbsp;Herbs continue to be a big part of medical treatment today. They are even beginning to be used by some of the most prestigious western medical facilities in the US!
 
 Chinese herbs are prescribed very differently from western herbs or drugs. &nbsp;They are combined in herbal “formulas”, with anywhere from 3 or 4 herbs being used, to as many as 20. &nbsp;These formulas are traditionally customized for each person individually, and administered in bulk form, powders, or liquid. &nbsp;Pre-formulated mixes called “patents”, given in pill form, are also commonly used. Read on to discover more about each of these methods
 
@@ -23,11 +23,11 @@ Chinese herbs are prescribed very differently from western herbs or drugs. &nbsp
 
 Bulk/Customized herbs are traditionally given to the patient in paper bags that they then take home and cook, to drink as tea. However, in &nbsp;modern day it is becoming more and more common for pharmacies to pre-“cook”/extract the formulas into either a liquid or powder, which the patient just needs to heat up or add to a little hot water. This drastically increases the convenience and therefore the patient-compliance in taking their herbs.
 
-### Benefits of Customized Herbal Formulas
+#### Benefits of Customized Herbal Formulas
 
 There are definitely benefits of taking herbs this way. &nbsp;First, the herbalist is able to pick and choose the exact herbs in the exact dosage that each patient needs. &nbsp;As the condition changes, some herbs can be removed, and others added. This allows for incredibly precise and flexible prescribing. &nbsp;Also, customized herbs tend to be the most powerful and fast acting; so for acute cases, they are the first, and maybe the only, method of choice. &nbsp;The down side is they tend to be more expensive, and depending on if patients have to cook them, are time consuming to prepare.
 
-Inger prescribes the powdered form of customized herbs for almost all her patients. She has found this to be a great compromise between effectiveness as well as patient convenience.
+Inger prescribes the powdered form of customized herbs for almost all her patients. She has found them to be a great marriage between effectiveness as well as patient convenience.
 
 ### Patent herbal formulas
 
