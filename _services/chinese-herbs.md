@@ -9,8 +9,6 @@ search_engine_optimization:
 #### Inger uses herbs extensively in her clinic, and focuses much of her continued studies on the complex art of herbal formulating.
 {: .align-to-center}
 
-&nbsp;
-
 Herbs have been used in China to maintain and restore health for thousands of years. &nbsp;Before the advent of acupuncture, about 2,000 years ago, the herbs were the only form of medicine available, and were so effective that they enabled China’s population to stay healthy and to become the largest now on earth. &nbsp;Herbs continue to be a big part of medical treatment today.
 
 For some conditions, there will be no substitute for acupuncture treatment. &nbsp;But for many women’s health & internal medical issues — the very things that Inger specializes in — herbs can be a powerful, and even necessary adjunct to the acupuncture treatment.
