@@ -178,13 +178,12 @@
                         display: block;
                         a {
                             color: #fff;
-                            //font-weight: 400;
                             font-size: 1rem;
                             &:hover {
                                 color: $color-two;
                             }
                         }
-                        &:hover ul.menu {
+                        &:hover>ul.menu {
                             @include breakpoint($bp-medium, $no-query: '.no-mq') {
                                 opacity: 1;
                                 visibility: visible;
