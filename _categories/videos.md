@@ -1,5 +1,5 @@
 ---
-title: Videos
+title: Educational Videos
 popular_blog_topics:
   popular: true
   popular_title: Videos
