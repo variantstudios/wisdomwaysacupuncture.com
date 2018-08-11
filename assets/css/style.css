@@ -1538,7 +1538,14 @@ a.call-to-action:hover {
 
 p.status_info,
 p.status_warning,
-p.status_error {
+p.error_message,
+p.pink_message,
+p.light_gray_message,
+p.dark_gray_message,
+p.rustic_red_message,
+p.burgundy_message,
+p.green_message,
+p.frost_message {
   margin: 2rem 0;
   padding: 1rem 1rem 1rem 3.5rem;
   background-position: 1rem center;
@@ -1546,19 +1553,42 @@ p.status_error {
   background-size: 30px 30px;
 }
 
-p.status_info {
-  color: #00529B;
-  background-color: #BDE5F8;
-  background-image: url(/assets/images/icons/success.svg);
+p.pink_message {
+  color: #D8000C;
+  background-color: #FFD2D2;
 }
 
-p.status_warning {
-  color: #9F6000;
-  background-color: #FEEFB3;
-  background-image: url(/assets/images/icons/warning.svg);
+p.light_gray_message {
+  color: #ffffff;
+  background-color: lightgray;
 }
 
-p.status_error {
+p.dark_gray_message {
+  color: #ffffff;
+  background-color: darkgray;
+}
+
+p.rustic_red_message {
+  color: #ffffff;
+  background-color: #55090B;
+}
+
+p.burgundy_message {
+  color: #ffffff;
+  background-color: #780D10;
+}
+
+p.green_message {
+  color: #55090B;
+  background-color: #7F8337;
+}
+
+p.frost_message {
+  color: #55090B;
+  background-color: #dddec0;
+}
+
+p.error_message {
   color: #D8000C;
   background-color: #FFD2D2;
   background-image: url(/assets/images/icons/error.svg);
