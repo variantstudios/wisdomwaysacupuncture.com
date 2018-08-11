@@ -1,7 +1,7 @@
 ---
 title: Videos
 popular_blog_topics:
-  popular: false
+  popular: true
   popular_title: Videos
   popular_image:
   popular_order: '10'
