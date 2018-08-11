@@ -1,25 +1,16 @@
 ---
-
 title: 'Eat Seasonal, Balance your Elements, and Support our Local Farmers All At Once: CSA Options'
 date: 2011-04-20T05:30:33+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Eating Seasonally Supports what Acupuncturists Call Balance: CSA Options'
-thesis_description:
-  - "Eating Seasonally Nurtures what Acupuncturists Call Balance. Why not get a CSA and support your own body's balance, & local farmers all at once!?"
-thesis_keywords:
-  - seasonal-eating, acupuncturist fort collins, fort collins acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - eating-with-the-seasons
 tags:
   - local-foods
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Eating Seasonally Supports what Acupuncturists Call Balance: CSA Options'
+  page_description: "Eating Seasonally Nurtures what Acupuncturists Call Balance. Why not get a CSA and support your own body's balance, & local farmers all at once!?"
+  share_image_path:
+layout: post
 ---
 <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/69.jpg" alt="Old town farmer's market" width="114" height="130" align="left" border="0" hspace="5" vspace="25" />
 

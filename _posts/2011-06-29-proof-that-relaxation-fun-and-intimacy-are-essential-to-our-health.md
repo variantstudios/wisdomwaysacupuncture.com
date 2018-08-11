@@ -1,19 +1,16 @@
 ---
-
 title: Proof that Relaxation, Fun, and Intimacy are Essential to our Health
 date: 2011-06-29T13:06:12+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture Clinical Proof: Relaxation, Fun, and Intimacy are Essential to our Health'
-thesis_description:
-  - "Fire element of acupuncture theory says fun and communion aren't luxuries, but cruicial for staying healthy and balanced & avoiding fire element problems. "
-thesis_keywords:
-  - chinese-medicine, acupuncture, acupunture fort collins, fort collins acupuncture, fire element, five elements
 categories:
   - summer--fire-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture Clinical Proof: Relaxation, Fun, and Intimacy are Essential to our Health'
+  page_description: "Fire element of acupuncture theory says fun and communion aren't luxuries, but cruicial for staying healthy and balanced & avoiding fire element problems. "
+  share_image_path:
+layout: post
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/80.jpg" alt="relaxation" width="165" height="109.8" align="left" border="0" hspace="5" vspace="5" />
 

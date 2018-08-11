@@ -1,23 +1,16 @@
 ---
-
 title: 'It&#8217;s Asian and Oriental (Chinese) Medicine Day!'
 date: 2011-10-24T10:13:33+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "It's Asian and Oriental (Chinese) Medicine Day! "
-thesis_description:
-  - "It's AOM day!  AOM stands for Asian & Oriental Medicine, & includes acupuncture, Chinese herbal medicine, Asian bodywork, Qi Gong, and Chinese nutrition therapy.  "
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - uncategorized
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "It's Asian and Oriental (Chinese) Medicine Day! "
+  page_description: "It's AOM day!  AOM stands for Asian & Oriental Medicine, & includes acupuncture, Chinese herbal medicine, Asian bodywork, Qi Gong, and Chinese nutrition therapy.  "
+  share_image_path:
+layout: post
 ---
 <span style="color: #000000; font-family: Arial,Helvetica,sans-serif;">Today is AOM day!  AOM stands for Asian and Oriental Medicine, another term used to describe the group of modalities included in Chinese Medicine, which includes acupuncture, Chinese herbal medicine, Asian bodywork, Qi Gong, and Chinese nutritional therapy.  AOM day is part of an effort designed to increase public awareness of the progress, promise, and benefits of acupuncture and Oriental medicine in the field of modern medicine. </span>
 

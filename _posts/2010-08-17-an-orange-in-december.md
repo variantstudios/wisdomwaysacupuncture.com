@@ -1,17 +1,6 @@
 ---
-
 title: 'An Orange in December&#8230;'
 date: 2010-08-17T16:11:04+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - An Orange in December... Gifts of Gratitude from the Fire Element
-thesis_description:
-  - 'The Fire Element reminds us to find joy in simple gifts of nature that are given during Fire Season; even in the depths of deep winter. '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, fire element, gratitude
 categories:
   - summer--fire-element
   - eating-with-the-seasons
@@ -21,6 +10,12 @@ tags:
   - fire-element
   - five-elements
   - gratitude
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'An Orange in December... Gifts of Gratitude from the Fire Element'
+  page_description: 'The Fire Element reminds us to find joy in simple gifts of nature that are given during Fire Season; even in the depths of deep winter. '
+  share_image_path:
+layout: post
 ---
 <div id="attachment_3579" style="width: 244px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2010/08/anise-2785512_1920.jpg"><img class=" wp-image-3579" src="/assets/images/wp-content/uploads/2010/08/anise-2785512_1920-150x100.jpg" alt="Spiced Orange" width="234" height="156" srcset="/assets/images/wp-content/uploads/2010/08/anise-2785512_1920-150x100.jpg 150w, /assets/images/wp-content/uploads/2010/08/anise-2785512_1920-300x200.jpg 300w, /assets/images/wp-content/uploads/2010/08/anise-2785512_1920-768x512.jpg 768w, /assets/images/wp-content/uploads/2010/08/anise-2785512_1920-1024x683.jpg 1024w" sizes="(max-width: 234px) 100vw, 234px" /></a>

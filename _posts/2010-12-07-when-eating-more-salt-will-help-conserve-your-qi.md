@@ -1,20 +1,17 @@
 ---
-
 title: When Eating More Salt will Help Conserve Your Qi
 date: 2010-12-07T17:10:41+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Eating More Salt Can Help Conserve Your Qi
-thesis_description:
-  - "Acupuncture theory says that the 5 flavors medicinally balance the body and conserve Qi.  Salt draws your Qi to your core, where it's stored in winter."
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, water element, salt
 categories:
   - winter--water-element
   - eating-with-the-seasons
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Eating More Salt Can Help Conserve Your Qi
+  page_description: "Acupuncture theory says that the 5 flavors medicinally balance the body and conserve Qi.  Salt draws your Qi to your core, where it's stored in winter."
+  share_image_path:
+layout: post
 ---
 <div id="attachment_945" style="width: 129px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2010/12/salt.jpg"><img class="size-full wp-image-945" title="salt" src="/assets/images/wp-content/uploads/2010/12/salt.jpg" alt="Salt can Help Your Qi" width="119" height="78" /></a>

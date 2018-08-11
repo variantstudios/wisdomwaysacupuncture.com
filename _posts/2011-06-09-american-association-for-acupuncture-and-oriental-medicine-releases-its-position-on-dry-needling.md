@@ -1,23 +1,16 @@
 ---
-
 title: 'American Association for Acupuncture and Oriental Medicine Releases it&#8217;s Position on &#8220;Dry Needling&#8221;'
 date: 2011-06-09T13:46:54+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Professional Acupuncture Association Releases its position paper on Dry Needling
-thesis_description:
-  - 'Recently, undertrained non-acupuncture professionals, including Physical Therapists (PT) have started doing acupuncture under the name of "dry needling".  '
-thesis_keywords:
-  - 'dry needling, trigger point dry needling, acupuncture and dry needling, '
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - uncategorized
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Professional Acupuncture Association Releases its position paper on Dry Needling
+  page_description: 'Recently, undertrained non-acupuncture professionals, including Physical Therapists (PT) have started doing acupuncture under the name of "dry needling".  '
+  share_image_path:
+layout: post
 ---
 **Over the past several years, several non-acupuncture professionals, including Physical Therapists (PT) have started performing the insertion of needles under the name of &#8220;dry needling&#8221;, or &#8220;trigger point dry needling&#8221; (TDN).  While it is basically performing a technique of acupuncture known as &#8220;ashi point&#8221; needling (or, needling a local point of sensitivity) it has been renamed and classified as not practicing acupuncture, and thus opening the flood gates for pretty much any medical person to practice acupuncture.** 
 

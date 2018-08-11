@@ -1,23 +1,16 @@
 ---
-
 title: A Powerful Recipe to Nourish and Cleanse your Heart/Fire Element
 date: 2011-08-03T16:53:23+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Communication is an important expression of the Fire Element in Chinese Medicine. '
-thesis_description:
-  - "Acupuncturists work to balance the Fire element, which is about healthy communication & communion. Let's feed on a diet of compassionate and pure words. "
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, fire element
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - summer--fire-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Communication is an important expression of the Fire Element in Chinese Medicine. '
+  page_description: "Acupuncturists work to balance the Fire element, which is about healthy communication & communion. Let's feed on a diet of compassionate and pure words. "
+  share_image_path:
+layout: post
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/36.jpg" alt="Kindness Inspires Kindness" width="150" height="147" align="left" border="0" hspace="5" vspace="5" />**Being that we&#8217;re now in summer, the season related to the [Heart/Fire element,](http://www.wisdomwaysacupuncture.com/2017/05/23/into-the-fire-we-go-more-tips-from-an-acupuncturist-for-staying-balanced-in-summer/)** **after an emotionally impactful event this week I&#8217;m inspired** **to focus a post on the connection between our words** **&#8212; or what we communicate &#8212; and our Heart/Fire Element.** 
 

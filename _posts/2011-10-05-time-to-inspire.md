@@ -1,19 +1,16 @@
 ---
-
 title: Time to Inspire! Wisdom from the Metal Element as we Head Into Fall
 date: 2011-10-05T20:24:46+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Time to Inspire! '
-thesis_description:
-  - "It's the season of Metal Element, according to 5 Elements of Chinese Medicine.  It's time to focus on what inspires us, and let go of what doesn't. "
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, metal element
 categories:
   - autumn--metal-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Time to Inspire! '
+  page_description: "It's the season of Metal Element, according to 5 Elements of Chinese Medicine.  It's time to focus on what inspires us, and let go of what doesn't. "
+  share_image_path:
+layout: post
 ---
 &nbsp;
 

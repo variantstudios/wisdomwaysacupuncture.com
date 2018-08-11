@@ -1,19 +1,16 @@
 ---
-
 title: Clarity is Power
 date: 2010-07-28T15:58:30+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'The Fire Element: Clarity is Power'
-thesis_description:
-  - 'Clarity is an important trait of the Fire Element.  When we can access our Fire Element, we feel clear on who we are and passionate towards life. '
-thesis_keywords:
-  - five-elements, 5 Elements, Chinese Medicine
 categories:
   - summer--fire-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'The Fire Element: Clarity is Power'
+  page_description: 'Clarity is an important trait of the Fire Element.  When we can access our Fire Element, we feel clear on who we are and passionate towards life. '
+  share_image_path:
+layout: post
 ---
 <div style="width: 180px" class="wp-caption alignleft">
   <img class=" " src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/38.jpg" alt="Fire element and Clarity" width="170" height="113" />

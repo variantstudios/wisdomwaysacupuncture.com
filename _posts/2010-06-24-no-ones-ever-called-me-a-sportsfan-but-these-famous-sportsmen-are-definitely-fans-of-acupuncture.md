@@ -1,21 +1,16 @@
 ---
-
 title: 'No One&#8217;s Ever Called Me a Sportsfan&#8230;But These Famous Sportsmen are Definitely Fans of Acupuncture!'
 date: 2010-06-24T10:58:18+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Famous sportspeople use acupuncture to stay healthy, strong, and improve their game.
-thesis_description:
-  - |
-    Famous athletes use acupuncture to stay on top of their game.  Take their clue and let acupuncture be a regular part of your wellness routine!
-    
-thesis_keywords:
-  - acupuncture-fort-collins, fort collins acupuncture
 categories:
   - uncategorized
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Famous sportspeople use acupuncture to stay healthy, strong, and improve their game.
+  page_description: Famous athletes use acupuncture to stay on top of their game.  Take their clue and let acupuncture be a regular part of your wellness routine!
+  share_image_path:
+layout: post
 ---
 <p style="text-align: center;">
   <strong>No one&#8217;s ever accused me of being a sportsfan.</strong>

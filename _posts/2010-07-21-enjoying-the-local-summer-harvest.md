@@ -1,19 +1,16 @@
 ---
-
 title: Enjoying the Local Summer Harvest
 date: 2010-07-21T15:51:58+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - What to do with this Local Harvest Bounty? Check out these local resources.
-thesis_description:
-  - "New farmer's market veggies can be overwhelming, but there's local resources that can help you figure out what to do with all your amazing bounty! "
-thesis_keywords:
-  - 'acupuncture, acupuncture fort collins, fort collins acupuncture, local eating, '
 categories:
   - eating-with-the-seasons
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "What to do with this Local Harvest Bounty? Check out these local resources."
+  page_description: "New farmer's market veggies can be overwhelming, but there's local resources that can help you figure out what to do with all your amazing bounty! "
+  share_image_path:
+layout: post
 ---
 <div id="attachment_3583" style="width: 201px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920.jpg"><img class=" wp-image-3583" src="/assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-150x100.jpg" alt="summer bounty" width="191" height="127" srcset="/assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-150x100.jpg 150w, /assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-300x200.jpg 300w, /assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-768x511.jpg 768w, /assets/images/wp-content/uploads/2010/07/vegetables-3386212_1920-1024x682.jpg 1024w" sizes="(max-width: 191px) 100vw, 191px" /></a>

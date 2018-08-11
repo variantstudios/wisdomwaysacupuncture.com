@@ -1,22 +1,17 @@
 ---
-
 title: Spend Time Near Water to Keep Yourself Balanced During Dry Winters
 date: 2010-12-07T20:25:31+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Spend Time Near Water to Keep Yourself Balanced During Dry Winters
-thesis_description:
-  - Both western science and acupuncture theory agree that spending time near moving water is beneficial for our health. Make it a priority during dry winters.
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, water element,
 categories:
   - winter--water-element
   - random-musings
 tags:
   - positive-ions
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Spend Time Near Water to Keep Yourself Balanced During Dry Winters
+  page_description: Both western science and acupuncture theory agree that spending time near moving water is beneficial for our health. Make it a priority during dry winters.
+  share_image_path:
+layout: post
 ---
 <table style="height: 52px;" width="160" align="left">
   <tr>

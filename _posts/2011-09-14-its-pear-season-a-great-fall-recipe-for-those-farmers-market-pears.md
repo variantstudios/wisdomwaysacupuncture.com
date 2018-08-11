@@ -1,21 +1,18 @@
 ---
-
 title: 'It&#8217;s Pear Season!  A Great Late-Summer Recipe for those Farmer&#8217;s Market Pears.'
 date: 2011-09-14T22:02:28+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - It’s Pear Season! A Great Late-Summer Medicinal Recipe for those Farmer’s Market Pears.
-thesis_description:
-  - 'Acupuncture theory says squash builds the Qi and nourishes the digestive organs, and pears are great for the lubricating & moistening.'
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, earth element
 categories:
   - late-summer--earth-element
   - eating-with-the-seasons
   - recipes
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'It’s Pear Season! A Great Late-Summer Medicinal Recipe for those Farmer’s Market Pears.'
+  page_description: 'Acupuncture theory says squash builds the Qi and nourishes the digestive organs, and pears are great for the lubricating & moistening.'
+  share_image_path:
+layout: post
 ---
 <div id="attachment_1155" style="width: 160px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2011/09/roasted-pear-soup.jpg"><img class="size-thumbnail wp-image-1155 " title="roasted pear soup" src="/assets/images/wp-content/uploads/2011/09/roasted-pear-soup-150x150.jpg" alt="Medicinal Roasted Pear Soup Nourishes the Qi" width="150" height="150" srcset="/assets/images/wp-content/uploads/2011/09/roasted-pear-soup-150x150.jpg 150w, /assets/images/wp-content/uploads/2011/09/roasted-pear-soup-300x300.jpg 300w, /assets/images/wp-content/uploads/2011/09/roasted-pear-soup.jpg 308w" sizes="(max-width: 150px) 100vw, 150px" /></a>

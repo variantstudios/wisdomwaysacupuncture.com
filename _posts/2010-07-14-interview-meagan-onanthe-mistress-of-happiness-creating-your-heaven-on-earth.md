@@ -1,25 +1,16 @@
 ---
-
 title: 'Interview:  Meagan O&#8217;Nan,The &#8220;Mistress of Happiness&#8221; Creating Your Heaven on Earth'
 date: 2010-07-14T12:57:57+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Meagan O'Nan, an Example of a Balanced Fire Element on Fire"
-thesis_description:
-  - "Meagan O'Nan is an example of someone who is connected to her heart and living it fully-- expressing her Fire element in an incredibly balanced way. "
-thesis_keywords:
-  - "Acupuncture Fort Collins, Fort Collins Acupuncture, fire element, Meagan O'Nan"
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
-  - summer--fire-element
+  - 
 tags:
   - "Meagan O'Nan"
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Meagan O'Nan, an Example of a Balanced Fire Element on Fire"
+  page_description: "Meagan O'Nan is an example of someone who is connected to her heart and living it fully-- expressing her Fire element in an incredibly balanced way. "
+  share_image_path:
+layout: post
 ---
 [<img class="alignleft wp-image-2350" title="Meagan O'Nan" src="/assets/images/wp-content/uploads/2010/07/meagan-150x150.jpg" alt="meagan" width="133" height="133" srcset="/assets/images/wp-content/uploads/2010/07/meagan-150x150.jpg 150w, /assets/images/wp-content/uploads/2010/07/meagan.jpg 160w" sizes="(max-width: 133px) 100vw, 133px" />](/assets/images/wp-content/uploads/2010/07/meagan.jpg)For two years I&#8217;ve been friends with [Meagan O&#8217;Nan](http://www.meaganonan.com/ "Meagan O'Nan"), and throughout that time what has impressed me the most is how she effortlessly flows through huge undertakings (the starting of a non-profit that has been taken up by school systems in Mississippi, the writing of her published and soon to be published <a href="http://r20.rs6.net/tn.jsp?et=1103494452673&s=0&e=001R_j8Mh8Lgou44Ai7PjCXctYJkjUkKH8E60ztMEFQlUTRbhz_zB2I5I7pJgge81_mZz4gHovwvw7AkzZKyb5SBajF7mQ9TfKYOcA0rnFioGTDlQjo6KlK_fq8J_XTXDWqo1Wl2jmhnVgPK_Kjoi6S_l-rBviDlCNKz9Y2gtIiyfGTgtF1pTeEujxfBtpFnCPIb5U13VfuVCLys3BbP_20xiA-TOkcqozZI2DJBqWwVxv89QsEKAJqPUqakHbUQ7XkhGlLcqENbn7WHNunTCsh-g==" target="_blank" rel="noopener">books</a>, and developing her Life Coaching practice); somehow maintaining her joy in the midst of challenges, the unknown, and what must be hours, and HOURS of intensively dedicated work.
 

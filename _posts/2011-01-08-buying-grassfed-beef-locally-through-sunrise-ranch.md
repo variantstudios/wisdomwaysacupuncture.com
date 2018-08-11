@@ -1,22 +1,17 @@
 ---
-
 title: Buying Grassfed Beef Locally through Sunrise Ranch
 date: 2011-01-08T20:05:35+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Buying Grassfed Beef Locally through Sunrise Ranch
-thesis_description:
-  - In my acupuncture clinic, I recommend patients eat only grass-fed, sustainable meats, to avoid the physical and environmental problems of CAFO meats.
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, pastured animals, grass-fed
 categories:
   - nutrition--food
 tags:
   - local-food
   - grass-fed
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Buying Grassfed Beef Locally through Sunrise Ranch
+  page_description: In my acupuncture clinic, I recommend patients eat only grass-fed, sustainable meats, to avoid the physical and environmental problems of CAFO meats.
+  share_image_path:
+layout: post
 ---
 <p style="text-align: center;">
   <p>

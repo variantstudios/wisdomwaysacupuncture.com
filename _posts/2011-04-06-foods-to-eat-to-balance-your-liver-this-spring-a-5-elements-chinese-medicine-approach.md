@@ -1,27 +1,18 @@
 ---
-
 title: 'Foods to Eat to Balance your Liver this Spring: A Seasonal 5 Elements Approach'
 date: 2011-04-06T12:37:54+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Foods to Eat to Balance your Liver this Spring: A Seasonal 5 Elements Approach'
-thesis_description:
-  - The 5 Elements/Acupuncture nutritional approach uses the changing seasons to guide our food choices, using seasonal foods as medicine.
-thesis_keywords:
-  - fort-collins-acupuncture, acupuncture, seasonal eating, liver imbalance, wood element
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - spring--wood-element
   - eating-with-the-seasons
 tags:
   - liver-imbalance
   - wood-imbalance
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Foods to Eat to Balance your Liver this Spring: A Seasonal 5 Elements Approach'
+  page_description: The 5 Elements/Acupuncture nutritional approach uses the changing seasons to guide our food choices, using seasonal foods as medicine.
+  share_image_path:
+layout: post
 ---
 <div id="attachment_1030" style="width: 160px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2011/04/dark-leafy_greens.jpg"><img class="size-thumbnail wp-image-1030" title="dark-leafy_greens" src="/assets/images/wp-content/uploads/2011/04/dark-leafy_greens-150x112.jpg" alt="Chinese medicine believes greens balance your liver" width="150" height="112" srcset="/assets/images/wp-content/uploads/2011/04/dark-leafy_greens-150x112.jpg 150w, /assets/images/wp-content/uploads/2011/04/dark-leafy_greens-300x225.jpg 300w, /assets/images/wp-content/uploads/2011/04/dark-leafy_greens.jpg 480w" sizes="(max-width: 150px) 100vw, 150px" /></a>
