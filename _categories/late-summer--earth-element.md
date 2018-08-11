@@ -3,7 +3,7 @@ title: Late Summer / Earth Element
 popular_blog_topics:
   popular: true
   popular_title: Late Summer / Earth Element
-  popular_image: /assets/images/conditions/DSC07519.jpg
+  popular_image: /assets/images/conditions/Earth-Element-square.jpg
   popular_order: '3'
 post:
 search_engine_optimization:
