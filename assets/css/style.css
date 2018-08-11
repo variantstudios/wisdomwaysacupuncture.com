@@ -1547,7 +1547,7 @@ p.burgundy_message,
 p.green_message,
 p.frost_message {
   margin: 2rem 0;
-  padding: 1rem 1rem 1rem 3.5rem;
+  padding: 2rem 2.5rem;
   background-position: 1rem center;
   background-repeat: no-repeat;
   background-size: 30px 30px;
@@ -1592,6 +1592,7 @@ p.error_message {
   color: #D8000C;
   background-color: #FFD2D2;
   background-image: url(/assets/images/icons/error.svg);
+  padding: 2rem 2.5rem 2rem 3.5rem;
 }
 
 .lazyload,
