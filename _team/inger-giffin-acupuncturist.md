@@ -25,7 +25,7 @@ My clinical experience began in 1997 in a [non-profit women’s health clinic](h
 
 Almost 20 years later I haven’t forgotten my roots, and the goal of empowerment through education; as well as offering a safe, respectful environment where women can bring their concerns to be heard with compassion, are inseparable parts of everything I do.
 
-## Primary and Continued Acupuncture Training
+### Primary and Continued Acupuncture Training
 
 My primary training was both in the US and China, where I interned at [one of the top medical schools](http://www.cmm.zju.edu.cn/index.php?a=content&amp;catid=90&amp;web=english){: target="_blank"} in the country. I [first studied in California](https://www.fivebranches.edu/five-branches-university/past-and-present/77){: target="_blank"}, which has the most rigorous testing and educational requirements in the US.&nbsp;
 
@@ -35,13 +35,13 @@ I‘m also constantly continuing my studies, most recently focusing on [Classica
 
 The more I learn, I can absolutely say the more humbled I become by the absolute beauty and power of this old medicine.&nbsp;
 
-## Acupuncture & Educational Medicine that empowers
+### Acupuncture & Educational Medicine that empowers
 
 I am by nature an educator. Because of my love of learning, and my personal experience of knowing how important knowledge is in empowering healthy choices, a big emphasis in my practice is what I call “educational medicine”.&nbsp; Meaning, it’s very important for me to make sure patients understand how we’re seeing the body and its problems from our very different Chinese medical perspective, so that people can know what holistic aspects influenced the problem in the first place and unique ways of helping to improve it on their own outside the treatment room.
 
 I often hear that my thorough approach, detailed questions, constant return to the bigger holistic picture, personal background with meditation and deep emotional/spiritual healing, as well as the time I take explaining things; take the work to a completely different, and deeper, level.
 
-## Outside the Acupuncture Clinic
+### Outside the Acupuncture Clinic
 
 Alas, life isn’t just about work! Besides being an acupuncturist, I’m also a complete foodie, and am just as passionate about whole, real, scrumptious, nourishing foods, as I am about Chinese Medicine.
 
