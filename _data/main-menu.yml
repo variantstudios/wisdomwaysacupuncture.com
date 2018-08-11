@@ -14,7 +14,7 @@
           url: /conditions-treated/menopause/
         - text: Gynecology - Other
           url: /conditions-treated/gynecological-issues/
-    - text: chronic-ailments
+    - text: Chronic Ailments
       ulr: /chronic-ailments/
       subitems: 
         - text: Headaches/Migraines
