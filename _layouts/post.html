@@ -9,7 +9,6 @@ layout: page
     </p>
 
     <h1><a href="{{page.url }}">{{page.title }}</a></h1>
-    <p class="posted">{{page.date | date: "%a, %b %d, %Y" }}</p>
 
     {% comment %} {% if page.categories %}
     <p class="category-label"><strong>Categories:</strong> {% for cat in page.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
