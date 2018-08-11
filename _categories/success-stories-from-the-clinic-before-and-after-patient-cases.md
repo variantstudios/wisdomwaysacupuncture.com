@@ -1,5 +1,5 @@
 ---
-title: 'Before and After: Success Stories'
+title: 'Before & After: Success Stories'
 popular_blog_topics:
   popular: true
   popular_title: Before & After Success Stories
