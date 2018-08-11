@@ -1,5 +1,5 @@
 ---
-title: Acupuncture for Women's Health
+title: Acupuncture for Women's Health & Infertility
 areas_of_specialties:
   selected: true
   selected_title: Women's Health
@@ -10,8 +10,6 @@ search_engine_optimization:
   page_description:
   share_image_path:
 ---
-
-## Acupuncture for Women’s Health & Infertility
 
 Whether you’re a young woman suffering from irregular or painful periods, a more mature one who is transitioning into or through menopause, or dealing with any gynecology problem; we can help!
 
