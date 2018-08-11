@@ -14,31 +14,34 @@
           url: /conditions-treated/menopause/
         - text: Gynecology - Other
           url: /conditions-treated/gynecological-issues/
-    - text: Headaches/Migraines
-      url: /conditions-treated/headaches-migraines/
-    - text: Digestion
-      url: /conditions-treated/digestion/
-    - text: Fatigue and Chronic Fatigue
-      url: /conditions-treated/fatigue/
-    - text: Frequent Illness/Chronic Pathology
-      url: /conditions-treated/frequent-illness-chronic-pathology/
-      subitems:
-        - text: Lyme
-          url: /conditions-treated/lyme/
-        - text: Epstein-barr
-          url: /conditions-treated/epstein-barr/
-        - text: Chronic colds
-          url: /conditions-treated/chronic-colds/
-    - text: Stress/Anxiety/Depression
-      url: /conditions-treated/stress-anxiety-depression/
-    - text: Autoimmune
-      url: /conditions-treated/autoimmune/
-    - text: Insomnia
-      url: /conditions-treated/insomnia/
-    - text: Chronic and Opportunistic Infections
-      url: /conditions-treated/chronic-and-opportunistic-infections
-    - text: General Wellness
-      url: /conditions-treated/general-wellness/
+    - text: chronic-ailments
+      ulr: /chronic-ailments/
+      subitems: 
+        - text: Headaches/Migraines
+        url: /conditions-treated/headaches-migraines/
+        - text: Digestion
+        url: /conditions-treated/digestion/
+        - text: Fatigue and Chronic Fatigue
+        url: /conditions-treated/fatigue/
+        - text: Frequent Illness/Chronic Pathology
+        url: /conditions-treated/frequent-illness-chronic-pathology/
+        subitems:
+            - text: Lyme
+            url: /conditions-treated/lyme/
+            - text: Epstein-barr
+            url: /conditions-treated/epstein-barr/
+            - text: Chronic colds
+            url: /conditions-treated/chronic-colds/
+        - text: Stress/Anxiety/Depression
+        url: /conditions-treated/stress-anxiety-depression/
+        - text: Autoimmune
+        url: /conditions-treated/autoimmune/
+        - text: Insomnia
+        url: /conditions-treated/insomnia/
+        - text: Chronic and Opportunistic Infections
+        url: /conditions-treated/chronic-and-opportunistic-infections
+        - text: General Wellness
+        url: /conditions-treated/general-wellness/
 - text: Our Team
   url: /our-team/
 - text: Services Offered
