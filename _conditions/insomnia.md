@@ -1,9 +1,9 @@
 ---
 title: Insomnia
 areas_of_specialties:
-  selected: true
-  selected_title: 'Insomnia'
-  selected_image: '/assets/images/conditions/DSC07519.jpg'
+  selected: false
+  selected_title: Insomnia
+  selected_image: /assets/images/conditions/DSC07519.jpg
   order: 4
 search_engine_optimization:
   page_title:
