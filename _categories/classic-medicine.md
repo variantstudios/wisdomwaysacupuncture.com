@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: false
   popular_title: Classical Medicine
   popular_image: /assets/images/conditions/DSC07519.jpg
-  popular_order: '7'
+  order: 7
 post:
 search_engine_optimization:
   page_title:
