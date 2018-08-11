@@ -25,4 +25,8 @@ If you want to find out more about each individual element, you can go to my [Yo
 ## Video: 5 Elements Acupuncture Theory
 {: .align-to-center}
 
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9SZDRyaGYzM2p0ayIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="560" height="315" src="https://www.youtube.com/embed/Rd4rhf33jtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+
+&nbsp;
+
 If you suspect your Elements are out of balance and you’d like to schedule an appointment to try acupuncture for yourself, click here: [online scheduling page](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/ "Online Acupuncture Scheduling")
