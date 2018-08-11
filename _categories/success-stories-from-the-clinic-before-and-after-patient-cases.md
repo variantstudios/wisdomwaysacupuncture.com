@@ -1,5 +1,5 @@
 ---
-title: 'Success Stories from the Clinic: Before and After Patient Cases'
+title: 'Before and After: Success Stories'
 popular_blog_topics:
   popular: true
   popular_title: Before & After Success Stories
