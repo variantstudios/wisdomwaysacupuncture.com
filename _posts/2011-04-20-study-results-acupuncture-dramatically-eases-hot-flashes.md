@@ -1,25 +1,18 @@
 ---
-
 title: 'Study Results: Acupuncture Dramatically Eases Hot Flashes'
 date: 2011-04-20T12:09:33+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Acupuncture Dramatically Eases Hot Flashes in Study Participants
-thesis_description:
-  - 'Study on hot flashes revealed that acupuncture dramatically improved hot flashes for the study participants.  '
-thesis_keywords:
-  - Acupuncture, acupuncture and hot flashes, acupuncture and menopause, fort collins acupuncture
-thesis_image:
-  - http://abcnews.go.com/Health/study-shows-acupuncture-curb-severity-hot-flashes-menopause/story?id=13075594
 categories:
   - exciting-acupuncture-research
   - womens-health
 tags:
   - acupuncture-and-hot-flashes
   - acupuncture-and-menopause
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Acupuncture Dramatically Eases Hot Flashes in Study Participants
+  page_description: 'Study on hot flashes revealed that acupuncture dramatically improved hot flashes for the study participants.  '
+  share_image_path:
+layout: post
 ---
 **The latest study on hot flashes revealed that acupuncture dramatically improved hot flashes for the study participants.** The women were either given real or sham acupuncture, and **those who received real acupuncture reported dramatic improvement after receiving their acupuncture treatments.**
 

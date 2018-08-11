@@ -1,21 +1,16 @@
 ---
-
 title: 'The Long Awaited GREENS Experiment&#8230;DO Try this at Home, Folks!'
 date: 2011-06-08T12:46:28+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Greens balance your liver according to Chinese Medicine and acupuncture philosophy.
-thesis_description:
-  - 'Each season has foods that relate to it, according to acupuncture and Chinese Medicine philosophy.  And none are better for balancing and healing the liver in Springtime, than greens. '
-thesis_keywords:
-  - chinese-medicine, liver, wood season, five elements, acupuncture, medicinal eating
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - eating-with-the-seasons
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Greens balance your liver according to Chinese Medicine and acupuncture philosophy.
+  page_description: 'Each season has foods that relate to it, according to acupuncture and Chinese Medicine philosophy.  And none are better for balancing and healing the liver in Springtime, than greens. '
+  share_image_path:
+layout: post
 ---
 [<img class="size-thumbnail wp-image-1069 alignleft" title="Kale is good for your liver" src="/assets/images/wp-content/uploads/2011/06/kale-150x112.jpg" alt="Kale balances your liver" width="150" height="112" srcset="/assets/images/wp-content/uploads/2011/06/kale-150x112.jpg 150w, /assets/images/wp-content/uploads/2011/06/kale-300x225.jpg 300w, /assets/images/wp-content/uploads/2011/06/kale.jpg 680w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/images/wp-content/uploads/2011/06/kale.jpg)**Is this another shameless plug to try to get you to eat more greens?**
 

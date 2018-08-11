@@ -1,20 +1,17 @@
 ---
-
 title: 'Out of the Fire and Deep Into Earth: Use Earth&#8217;s Bounty to Build Up Your Qi as we Head into Earth Element Season'
 date: 2011-09-07T09:35:53+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Summer's over, we're in Earth Element Season of Acupuncture Theory: Use Earth's Bounty to Build Up Your Qi"
-thesis_description:
-  - "Acupuncture values the wisdom the seasons bring us.  Earth season means it's time to nourish our Qi so we can sustain health through the winter ahead."
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, earth element
 categories:
   - late-summer--earth-element
   - eating-with-the-seasons
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Summer's over, we're in Earth Element Season of Acupuncture Theory: Use Earth's Bounty to Build Up Your Qi"
+  page_description: "Acupuncture values the wisdom the seasons bring us.  Earth season means it's time to nourish our Qi so we can sustain health through the winter ahead."
+  share_image_path:
+layout: post
 ---
 <table style="height: 276px;" width="276" align="left">
   <tr>

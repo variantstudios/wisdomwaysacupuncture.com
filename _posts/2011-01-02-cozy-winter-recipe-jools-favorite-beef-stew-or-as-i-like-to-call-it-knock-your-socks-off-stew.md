@@ -1,27 +1,18 @@
 ---
-
 title: 'Cozy Winter Recipe: Jool&#8217;s Favorite Beef Stew (or as I like to call it &#8220;Knock Your Socks Off Stew)'
 date: 2011-01-02T18:54:26+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Cozy Winter Recipe: Qi and Yang Building Foods in Winter to Stay Balanced.'
-thesis_description:
-  - "Acupuncturist's favorite yang building beef stew: perfect for those cozy winter days, and great for boosting Yang Qi in cold, yang deficient folks. "
-thesis_keywords:
-  - 'Acupuncture Fort Collins, Fort Collins Acupuncture, yang deficiency, '
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - winter--water-element
   - recipes
 tags:
   - medicinal-foods
   - yang-deficiency
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Cozy Winter Recipe: Qi and Yang Building Foods in Winter to Stay Balanced.'
+  page_description: "Acupuncturist's favorite yang building beef stew: perfect for those cozy winter days, and great for boosting Yang Qi in cold, yang deficient folks. "
+  share_image_path:
+layout: post
 ---
 <div id="attachment_974" style="width: 154px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2011/01/Beef-Stew.jpg"><img class="size-thumbnail wp-image-974" title="Qi and Yang Building Stew" src="/assets/images/wp-content/uploads/2011/01/Beef-Stew-144x150.jpg" alt="Qi and Yang Building Stew" width="144" height="150" srcset="/assets/images/wp-content/uploads/2011/01/Beef-Stew-144x150.jpg 144w, /assets/images/wp-content/uploads/2011/01/Beef-Stew.jpg 220w" sizes="(max-width: 144px) 100vw, 144px" /></a>

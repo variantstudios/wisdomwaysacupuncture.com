@@ -1,20 +1,17 @@
 ---
-
 title: Choose Family Over Frenzy this Thanksgiving Weekend
 date: 2010-11-24T20:38:48+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Metal Element Agrees: Choose Family Over Frenzy this Thanksgiving'
-thesis_description:
-  - 'The Metal element of acupuncture theory agrees with The Story of Stuff: Choose what actually brings us value, over mindless STUFF, this holiday'
-thesis_keywords:
-  - 'Acupuncture Fort Collins, Fort Collins Acupuncture, metal element, '
 categories:
   - autumn--metal-element
   - random-musings
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Metal Element Agrees: Choose Family Over Frenzy this Thanksgiving'
+  page_description: 'The Metal element of acupuncture theory agrees with The Story of Stuff: Choose what actually brings us value, over mindless STUFF, this holiday'
+  share_image_path:
+layout: post
 ---
 <img class="" style="margin: 5px; border: 0pt none;" title="Acupuncture reminds us what is valuable." src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/53.jpg" alt="Acupuncture reminds us to focus on what's valuable" width="240" height="157" align="left" border="0" hspace="5" vspace="5" />
 

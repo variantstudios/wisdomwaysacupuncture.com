@@ -1,25 +1,16 @@
 ---
-
 title: Can you guess the REAL leading cause of death in the US?
 date: 2010-09-08T18:32:36+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture, the New Primary Health Care: Western Med a leading cause of death'
-thesis_description:
-  - 'As statistics show western med as a leading cause of death, more need to turn to natural medicines like acupuncture that are safer & prevent disease  '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, causes of death
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - random-musings
 tags:
   - western-medicine
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture, the New Primary Health Care: Western Med a leading cause of death'
+  page_description: 'As statistics show western med as a leading cause of death, more need to turn to natural medicines like acupuncture that are safer & prevent disease  '
+  share_image_path:
+layout: post
 ---
 [<img class="size-full wp-image-915 alignleft" title="Acupuncture preserves the true intent of medicine" src="/assets/images/wp-content/uploads/2010/09/medicine.jpg" alt="Acupuncture preserves the true intent of medicine" width="113" height="113" srcset="/assets/images/wp-content/uploads/2010/09/medicine.jpg 225w, /assets/images/wp-content/uploads/2010/09/medicine-150x149.jpg 150w" sizes="(max-width: 113px) 100vw, 113px" />](/assets/images/wp-content/uploads/2010/09/medicine.jpg)
 

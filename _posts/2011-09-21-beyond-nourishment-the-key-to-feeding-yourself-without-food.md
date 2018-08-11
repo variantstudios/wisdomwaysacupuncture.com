@@ -1,23 +1,16 @@
 ---
-
 title: 'Beyond Nourishment: The Key to Feeding Yourself without Food'
 date: 2011-09-21T03:10:20+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Beyond Nourishment: The Key to Feeding Yourself without Food'
-thesis_description:
-  - "It's Earth Element Season, in acupuncture theory relating to nourishment, both emotional/spiritual and physical.  "
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, earth element
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - late-summer--earth-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Beyond Nourishment: The Key to Feeding Yourself without Food'
+  page_description:  "It's Earth Element Season, in acupuncture theory relating to nourishment, both emotional/spiritual and physical.  "
+  share_image_path:
+layout: post
 ---
 <p style="text-align: left;">
   <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/87.jpg" alt="Nourishment beyond food" width="152" height="122" align="left" border="0" hspace="5" vspace="5" /><strong>Last week, I sent out perhaps my most important email of the year, related to the <a href="http://www.wisdomwaysacupuncture.com/2011/09/07/out-of-the-fire-and-deep-into-earth/">Earth Element</a> (if you haven&#8217;t read it, it&#8217;s worth going back and reading now!).  During the Earth season, the most important thing to focus on is nourishing your Qi. </strong>

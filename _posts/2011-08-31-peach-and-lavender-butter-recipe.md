@@ -1,20 +1,17 @@
 ---
-
 title: Peach and Lavender Butter Recipe
 date: 2011-08-31T09:37:29+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Peach Lavender Butter: Put up the Summer Harvest!'
-thesis_description:
-  - "Recipe for peach lavender butter adapted from Ashley English's great book: Canning & Preserving"
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, local eating
 categories:
   - eating-with-the-seasons
   - recipes
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Recipe for peach lavender butter adapted from Ashley English's great book: Canning & Preserving"
+  page_description: "Recipe for peach lavender butter adapted from Ashley English's great book: Canning & Preserving"
+  share_image_path:
+layout: post
 ---
 <div id="attachment_3486" style="width: 201px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2011/08/peach-3425656_1280.jpg"><img class=" wp-image-3486" src="/assets/images/wp-content/uploads/2011/08/peach-3425656_1280-150x100.jpg" alt="acupuncturist loves local peaches" width="191" height="127" srcset="/assets/images/wp-content/uploads/2011/08/peach-3425656_1280-150x100.jpg 150w, /assets/images/wp-content/uploads/2011/08/peach-3425656_1280-300x199.jpg 300w, /assets/images/wp-content/uploads/2011/08/peach-3425656_1280-768x510.jpg 768w, /assets/images/wp-content/uploads/2011/08/peach-3425656_1280-1024x680.jpg 1024w, /assets/images/wp-content/uploads/2011/08/peach-3425656_1280.jpg 1280w" sizes="(max-width: 191px) 100vw, 191px" /></a>

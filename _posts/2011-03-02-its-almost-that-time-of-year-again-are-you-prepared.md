@@ -1,22 +1,17 @@
 ---
-
 title: 'It&#8217;s Almost THAT time of Year Again&#8230;are you prepared?'
 date: 2011-03-02T13:21:40+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Acupuncturist Question: It's Almost WOOD time of Year Again...are you prepared?"
-thesis_description:
-  - Acupuncturists say nurture your Water Element now to have a balanced Wood Element once spring hits soon.
-thesis_keywords:
-  - acupuncture-fort-collins, fort collins acupuncture, wood element, liver element, water element
 categories:
   - spring--wood-element
   - winter--water-element
 tags:
   - liver-qi-stagnation
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Acupuncturist Question: It's Almost WOOD time of Year Again...are you prepared?"
+  page_description: Acupuncturists say nurture your Water Element now to have a balanced Wood Element once spring hits soon.
+  share_image_path:
+layout: post
 ---
 &nbsp;
 

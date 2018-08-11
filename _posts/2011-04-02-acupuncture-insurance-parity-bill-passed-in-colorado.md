@@ -1,22 +1,16 @@
 ---
-
 title: Acupuncture Insurance Parity Bill Passed in Colorado!
 date: 2011-04-02T13:02:51+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Acupuncture Insurance Parity Bill Passed in Colorado!
-thesis_description:
-  - |
-    Acupuncture Insurance Parity Bill Passed! Now, plans that cover acupuncture can't deny claims from a real acupuncturist while accepting fake "acupuncture" from other providers.
-thesis_keywords:
-  - acupuncture-legislation, acupuncture in Colorado, acupuncture and insurance, acupuncture parity bill
 categories:
   - uncategorized
 tags:
   - acupuncture and insurance
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Acupuncture Insurance Parity Bill Passed in Colorado!
+  page_description: Acupuncture Insurance Parity Bill Passed! Now, plans that cover acupuncture can't deny claims from a real acupuncturist while accepting fake "acupuncture" from other providers.
+  share_image_path:
+layout: post
 ---
 **It&#8217;s a great week in the world of Acupuncture in the United States, and particularly Colorado.  A bill just passed, and will be signed into legislation soon, that requires insurance companies that cover acupuncture to accept claims from real, licensed acupuncturists.**
 

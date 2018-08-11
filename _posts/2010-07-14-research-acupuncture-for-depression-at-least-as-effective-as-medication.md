@@ -1,21 +1,16 @@
 ---
-
-title: 'Research:  Acupuncture for Depression at least as Effective as Medication'
+title: 'Research: Acupuncture for Depression at least as Effective as Medication'
 date: 2010-07-14T13:07:01+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Research:  Acupuncture for Depression at least as Effective as Medication'
-thesis_description:
-  - Research shows that acupuncture is at least as effective as meds for depression. For me, when combined with herbs it offers exceptional response.
-thesis_keywords:
-  - acupuncture-and-depression, acupuncture, acupuncture fort collins
 categories:
   - exciting-acupuncture-research
 tags:
   - depression
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Research:  Acupuncture for Depression at least as Effective as Medication'
+  page_description: Research shows that acupuncture is at least as effective as meds for depression. For me, when combined with herbs it offers exceptional response.
+  share_image_path:
+layout: post
 ---
 <div id="attachment_930" style="width: 124px" class="wp-caption alignright">
   <a href="/assets/images/wp-content/uploads/2010/07/Acupuncture-for-depression.jpg"><img class="size-full wp-image-930" title="Acupuncture for depression" src="/assets/images/wp-content/uploads/2010/07/Acupuncture-for-depression.jpg" alt="Acupuncture for depression" width="114" height="116" /></a>

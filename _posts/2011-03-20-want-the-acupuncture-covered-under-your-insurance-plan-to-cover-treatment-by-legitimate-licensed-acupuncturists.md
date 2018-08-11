@@ -1,21 +1,16 @@
 ---
-
 title: Want the Acupuncture Covered Under your Insurance Plan to Cover Treatment by Legitimate, Licensed Acupuncturists?
 date: 2011-03-20T12:21:33+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Support your rights to have acupuncture administered by a licensed acupuncturist, covered by insurance.
-thesis_description:
-  - 'Bill HB 1186 requires insurance plans that cover acupuncture to pay for it when done by a fully trained, licensed acupuncturist; & not just MDs or others'
-thesis_keywords:
-  - Acupuncture, Chinese Medicine, access to natural medicine, fort collins acupuncture
 categories:
   - uncategorized
 tags:
   - acupuncture-legislation
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Support your rights to have acupuncture administered by a licensed acupuncturist, covered by insurance.
+  page_description: 'Bill HB 1186 requires insurance plans that cover acupuncture to pay for it when done by a fully trained, licensed acupuncturist; & not just MDs or others'
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;"><strong>Right now, there is a huge problem withing the field of Acupuncture and Chinese Medicine.</strong></span>
 

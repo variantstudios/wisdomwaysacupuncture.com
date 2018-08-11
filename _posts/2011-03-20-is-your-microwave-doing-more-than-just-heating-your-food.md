@@ -1,21 +1,16 @@
 ---
-
 title: Is your Microwave Doing More than just Heating your Food? Risks that Might Not be Worth it.
 date: 2011-03-20T11:44:56+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncturists support health, microwaves damage it. '
-thesis_description:
-  - "As an acupuncturist and health promoter, I can't support the use of microwaves, and here's why. Are the risks really worth it? "
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, microwaves
 categories:
   - nutrition--food
 tags:
   - microwaves
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncturists support health, microwaves damage it. '
+  page_description: "As an acupuncturist and health promoter, I can't support the use of microwaves, and here's why. Are the risks really worth it? "
+  share_image_path:
+layout: post
 ---
 &nbsp;
 

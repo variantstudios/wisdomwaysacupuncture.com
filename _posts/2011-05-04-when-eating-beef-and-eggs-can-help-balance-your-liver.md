@@ -1,22 +1,17 @@
 ---
-
 title: When Eating Beef and Eggs can Help Balance your Liver
 date: 2011-05-04T22:26:52+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Grass fed and pastured Beef and hens can help keep your Chinese Medicine '
-thesis_description:
-  - 'Acupuncturists say the liver relates to stress, & high Omega 3s help reduce stress/anxiety. Eat grass fed/pastured animals & greens to help balance your liver.'
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, pastured animals, grass-fed, stress, anxiety
 categories:
   - spring--wood-element
   - nutrition--food
 tags:
   - liver-imbalance
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Grass fed and pastured Beef and hens can help keep your Chinese Medicine '
+  page_description: 'Acupuncturists say the liver relates to stress, & high Omega 3s help reduce stress/anxiety. Eat grass fed/pastured animals & greens to help balance your liver.'
+  share_image_path:
+layout: post
 ---
 &nbsp;
 

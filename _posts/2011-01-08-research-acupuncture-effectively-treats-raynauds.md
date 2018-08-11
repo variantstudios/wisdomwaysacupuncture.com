@@ -1,21 +1,16 @@
 ---
-
 title: 'Research: Acupuncture Effectively Treats Raynaud&#8217;s'
 date: 2011-01-08T18:47:17+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Acupuncture Successfully treats Raynaud's "
-thesis_description:
-  - "Acupuncture successfully treats Raynaud's, according to published research.  Chinese Medicine is an accepted form of treatment for Raynaud's."
-thesis_keywords:
-  - "acupuncture, acupuncture fort collins, fort collins acupuncture, raynaud's"
 categories:
   - exciting-acupuncture-research
 tags:
-  - "raynaud's"
+  - "raynauds"
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Acupuncture Successfully treats Raynaud's "
+  page_description: "Acupuncture successfully treats Raynaud's, according to published research.  Chinese Medicine is an accepted form of treatment for Raynaud's."
+  share_image_path:
+layout: post
 ---
 &nbsp;
 

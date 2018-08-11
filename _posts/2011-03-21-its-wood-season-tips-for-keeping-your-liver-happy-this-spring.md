@@ -1,19 +1,6 @@
 ---
-
 title: 'It&#8217;s Wood Season: Tips for Keeping your Liver Happy this Spring'
 date: 2011-03-21T14:00:30+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "It's Wood Season according to Chinese Medicine and acupuncture theory: Tips for Keeping your Liver Happy this Spring"
-thesis_description:
-  - "It's Wood Season according to Chinese Medicine and acupuncture theory: Tips for Keeping your Liver Happy this Spring!"
-thesis_keywords:
-  - wood-season, five elements, 5 elements, chinese medicine, acupuncture
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - five-elements
 tags:
@@ -23,6 +10,12 @@ tags:
   - wood-element
   - chinese-medicine
   - five-elements
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "It's Wood Season according to Chinese Medicine and acupuncture theory: Tips for Keeping your Liver Happy this Spring"
+  page_description: "It's Wood Season according to Chinese Medicine and acupuncture theory: Tips for Keeping your Liver Happy this Spring!"
+  share_image_path:
+layout: post
 ---
 <p style="text-align: center;">
   <a href="/assets/images/wp-content/uploads/2011/04/sapling.jpg"><img class="size-thumbnail wp-image-1022 alignleft" title="Sapling in Spring" alt="It's Wood Season according to Chinese Medicine, and all is bursting forth" src="/assets/images/wp-content/uploads/2011/04/sapling-150x112.jpg" width="150" height="112" srcset="/assets/images/wp-content/uploads/2011/04/sapling-150x112.jpg 150w, /assets/images/wp-content/uploads/2011/04/sapling.jpg 259w" sizes="(max-width: 150px) 100vw, 150px" /></a><strong><em>“And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom”   – Anaïs Nin</em></strong>

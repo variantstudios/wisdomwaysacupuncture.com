@@ -1,23 +1,16 @@
 ---
-
 title: AlterMed brings acupuncture into the modern scientific medical world of integrative medicine
 date: 2011-07-20T05:45:28+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Integrative Medicine Conference brings acupuncture into the modern world.
-thesis_description:
-  - 'At the AlterMed conference, western MDs acknowledge and support what acupuncturists and others in the natural health field have been saying forever. '
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, integrative medicine
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - random-musings
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Integrative Medicine Conference brings acupuncture into the modern world.
+  page_description: 'At the AlterMed conference, western MDs acknowledge and support what acupuncturists and others in the natural health field have been saying forever. '
+  share_image_path:
+layout: post
 ---
 **[<img class="alignleft size-thumbnail wp-image-1121" title="Alternative Medicine Research Foundation Logo" src="/assets/images/wp-content/uploads/2011/07/altermed-logo-150x111.jpg" alt="AlterMed Research Foundation" width="150" height="111" srcset="/assets/images/wp-content/uploads/2011/07/altermed-logo-150x111.jpg 150w, /assets/images/wp-content/uploads/2011/07/altermed-logo-300x223.jpg 300w, /assets/images/wp-content/uploads/2011/07/altermed-logo.jpeg 600w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/images/wp-content/uploads/2011/07/altermed-logo.jpeg)This weekend, as an acupuncturist I was honored to participate in the AlterMed Colorado Integrative Medicine Conference. I walked away from the conference with many ah-ha&#8217;s, some of which I am excited to share with all of you because I wish to convey to you how powerful your choice to care for yourself with Chinese Medicine has been.** 
 

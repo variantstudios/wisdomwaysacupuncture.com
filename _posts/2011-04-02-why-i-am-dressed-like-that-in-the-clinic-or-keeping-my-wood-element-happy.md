@@ -1,19 +1,16 @@
 ---
-
 title: Why I am Dressed like that in the Clinic? ~or~ Keeping my Wood Element Happy!
 date: 2011-04-02T12:45:00+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Dress for Wood Element Success! My Plan for Keeping my Liver Balanced
-thesis_description:
-  - 'Acupuncturists know the Liver/Wood Element is more challenged in Spring.  A goal like exercise to move the Qi is a great step towards staying balanced. '
-thesis_keywords:
-  - acupuncture-fort-collins, fort collins acupuncture, wood element, liver imbalance
 categories:
   - spring--wood-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Dress for Wood Element Success! My Plan for Keeping my Liver Balanced
+  page_description: 'Acupuncturists know the Liver/Wood Element is more challenged in Spring.  A goal like exercise to move the Qi is a great step towards staying balanced. '
+  share_image_path:
+layout: post
 ---
 &nbsp;
 
