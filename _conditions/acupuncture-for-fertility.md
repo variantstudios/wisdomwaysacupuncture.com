@@ -1,7 +1,7 @@
 ---
 title: Acupuncture for Fertility
 areas_of_specialties:
-  selected: false
+  selected: true
   selected_title: Fertility
   selected_image: /assets/images/acupuncture-for-fertility-square.jpg
   order: 3
