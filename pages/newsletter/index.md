@@ -9,4 +9,5 @@ layout: page
 permalink: "/newsletter/"
 class: "newsletter"
 ---
-# Subscribe to our Newsletter
+
+# Subscribe to receive blog posts related to your topics of interest!
