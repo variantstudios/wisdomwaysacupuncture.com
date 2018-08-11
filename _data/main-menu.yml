@@ -18,30 +18,30 @@
       ulr: /chronic-ailments/
       subitems: 
         - text: Headaches/Migraines
-        url: /conditions-treated/headaches-migraines/
+          url: /conditions-treated/headaches-migraines/
         - text: Digestion
-        url: /conditions-treated/digestion/
+          url: /conditions-treated/digestion/
         - text: Fatigue and Chronic Fatigue
-        url: /conditions-treated/fatigue/
+          url: /conditions-treated/fatigue/
         - text: Frequent Illness/Chronic Pathology
-        url: /conditions-treated/frequent-illness-chronic-pathology/
-        subitems:
+          url: /conditions-treated/frequent-illness-chronic-pathology/
+          subitems:
             - text: Lyme
-            url: /conditions-treated/lyme/
+              url: /conditions-treated/lyme/
             - text: Epstein-barr
-            url: /conditions-treated/epstein-barr/
+              url: /conditions-treated/epstein-barr/
             - text: Chronic colds
-            url: /conditions-treated/chronic-colds/
+              url: /conditions-treated/chronic-colds/
         - text: Stress/Anxiety/Depression
-        url: /conditions-treated/stress-anxiety-depression/
+          url: /conditions-treated/stress-anxiety-depression/
         - text: Autoimmune
-        url: /conditions-treated/autoimmune/
+          url: /conditions-treated/autoimmune/
         - text: Insomnia
-        url: /conditions-treated/insomnia/
+          url: /conditions-treated/insomnia/
         - text: Chronic and Opportunistic Infections
-        url: /conditions-treated/chronic-and-opportunistic-infections
+          url: /conditions-treated/chronic-and-opportunistic-infections
         - text: General Wellness
-        url: /conditions-treated/general-wellness/
+          url: /conditions-treated/general-wellness/
 - text: Our Team
   url: /our-team/
 - text: Services Offered
