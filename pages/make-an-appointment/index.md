@@ -12,7 +12,7 @@ permalink: "/make-an-appointment/"
 # Make Appointment
 
 *Please note we are only accepting new patients whose issues are within Inger’s area of specialty. If you’re unsure if you’re a good fit, please call rather than using the online scheduler.*
-{: .error_message}
+{: .pink_message}
 
 **Schedule an Acupuncture Appointment:&nbsp;**[Online Scheduling](https://instant-scheduling.com/sch.php?kn=184475){: target="_blank"}
 
