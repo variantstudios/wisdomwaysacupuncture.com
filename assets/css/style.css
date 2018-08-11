@@ -798,13 +798,13 @@ iframe {
   }
 }
 @media (min-width: 50em) and (min-width: 50em) {
-  .main-nav > .menu li ul li:hover ul.menu {
+  .main-nav > .menu li ul li:hover > ul.menu {
     opacity: 1;
     visibility: visible;
   }
 }
 @media (min-width: 50em) {
-  .no-mq .main-nav > .menu li ul li:hover ul.menu {
+  .no-mq .main-nav > .menu li ul li:hover > ul.menu {
     opacity: 1;
     visibility: visible;
   }
@@ -848,12 +848,12 @@ iframe {
   color: #7F8337;
 }
 @media (min-width: 50em) {
-  .no-mq .main-nav > .menu li ul li:hover ul.menu {
+  .no-mq .main-nav > .menu li ul li:hover > ul.menu {
     opacity: 1;
     visibility: visible;
   }
 }
-.no-mq .no-mq .main-nav > .menu li ul li:hover ul.menu {
+.no-mq .no-mq .main-nav > .menu li ul li:hover > ul.menu {
   opacity: 1;
   visibility: visible;
 }
