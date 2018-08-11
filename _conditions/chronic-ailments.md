@@ -6,7 +6,9 @@ areas_of_specialties:
   selected_image:
   selected_order: 0
 search_engine_optimization:
-  page_title:
+  page_title: Chronic Ailments
   page_description:
   share_image_path:
 ---
+
+Coming soon.
