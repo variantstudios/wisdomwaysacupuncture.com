@@ -1,9 +1,9 @@
 ---
-title: Nutrition / Food
+title: Everything Food!
 popular_blog_topics:
   popular: true
   popular_title: Everything Food!
-  popular_image: /assets/images/conditions/DSC07519.jpg
+  popular_image: /assets/images/conditions/paleo-plate copy.jpg
   popular_order: '8'
 post:
 search_engine_optimization:
