@@ -7,7 +7,12 @@ layout: page
 class: blog
 ---
 {% assign page_id = page.id | remove:'/blog/category/' %}
-<h2><span class="light">Blog posts in:</span> {{ page_id |  replace: '-', ' ' | capitalize }}</h2>
+{% for category in site.categories %}
+{% assign category_id = category.id | remove:'/blog/category/' %}
+{% if category_id contains page_id %}
+<h2><span class="light">Blog posts in:</span> {{ category.title | capitalize }}</h2>
+{% endif %} 
+{% endfor %}
 
 {% for category in site.categories %}
     {% assign cat_id = page.id | append: '/' %}
