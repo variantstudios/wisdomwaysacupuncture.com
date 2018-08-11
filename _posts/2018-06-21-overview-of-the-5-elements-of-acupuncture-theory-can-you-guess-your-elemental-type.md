@@ -25,6 +25,6 @@ If you want to find out more about each individual element, you can go to my [Yo
 ## Video: 5 Elements Acupuncture Theory
 {: .align-to-center}
 
-<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iMTY2OCIgaGVpZ2h0PSI3MzEiIHNyYz0iaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvUmQ0cmhmMzNqdGsiIGZyYW1lYm9yZGVyPSIwIiBhbGxvdz0iYXV0b3BsYXk7IGVuY3J5cHRlZC1tZWRpYSIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPg=="><iframe width="1668" height="731" src="https://www.youtube.com/embed/Rd4rhf33jtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+<div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNjQwIiBoZWlnaHQ9IjM2MCIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9SZDRyaGYzM2p0ayIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe width="640" height="360" src="https://www.youtube.com/embed/Rd4rhf33jtk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 If you suspect your Elements are out of balance and you’d like to schedule an appointment to try acupuncture for yourself, click here: [online scheduling page](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/ "Online Acupuncture Scheduling")
