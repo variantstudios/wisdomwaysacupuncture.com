@@ -1,5 +1,5 @@
 ---
-title: My Approach Philosophy and Stories
+title: My Approach
 popular_blog_topics:
   popular: true
   popular_title: My Approach
