@@ -1,8 +1,8 @@
 ---
-title: Classic Medicine
+title: Classical Medicine
 popular_blog_topics:
-  popular: true
-  popular_title: Classic Medicine
+  popular: false
+  popular_title: Classical Medicine
   popular_image: /assets/images/conditions/DSC07519.jpg
   popular_order: '7'
 post:
