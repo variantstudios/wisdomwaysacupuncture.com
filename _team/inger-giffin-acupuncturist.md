@@ -47,7 +47,7 @@ Alas, life isn’t just about work! Besides being an acupuncturist, I’m also a
 
 I also love nature, and outside of work you’ll find me and my partner, as well as our wonderdoggie Nissa, hiking or backpacking out in our beautiful CO mountains. You might also find us in our garden as we’re in the middle of a several-year install of a Permaculture Food Forest. Eventually we hope to grow all our own food, as well as raise chickens and rabbits.
 
-In cooler weather you just might find me at a local yarn store or sitting at home by the fire knitting up something fun with hand-died, artisanal yarns. In the clinic you'll often see me wearing these hand-made garments. (btw if you notice them, you'll absolutely make my day!) :-)&nbsp; I love world travel and have been to 27 different countries; the most interesting trip was the year I sold everything and took a year off to do a solo-trek across Latin America.
+In cooler weather you just might find me at a local yarn store or sitting at home by the fire knitting up something fun with hand-died, artisanal yarns. In the clinic you'll often see me wearing these hand-made garments. (pssssst! and if you notice them, you'll absolutely make my day!) :-)&nbsp; I love world travel and have been to 27 different countries; the most interesting trip was the year I sold everything and took a year off to do a solo-trek across Latin America.
 
 And most importantly… I’m also a TOTAL HARRY POTTER FAN!!!&nbsp; :-P
 
