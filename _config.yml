@@ -37,7 +37,7 @@ compress_html:
 collections:
   posts:
     output: true
-    permalink: '/blog/:title/'
+    permalink: '/:year/:month/:day/:title/'
   categories:
     output: true
     _hide_content: true
