@@ -32,11 +32,11 @@ class: blog
                     {% if post.hero_image %}
                     <div class="post-image">
                         <picture>
-                            <!--[if IE 9]><video style="display: none;"><![endif]-->
-                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" media="(max-width: 400px)">
-                            <!--[if IE 9]></video><![endif]-->
-                            <img src="{{site.cloudinaryurl}}image/fetch/w_250,q_85/{{site.url}}{{ post.hero_image}}" alt="{{page.title}}" class="lazyload">
-                        </picture>
+                        <!--[if IE 9]><video style="display: none;"><![endif]-->
+                        <source srcset="{{site.cloudinaryurl}}image/fetch/w_610,q_85/{{site.url}}{{ post.hero_image}}" media="(max-width: 400px)" />
+                        <!--[if IE 9]></video><![endif]-->
+                        <img src="{{site.cloudinaryurl}}image/fetch/w_610,q_85/{{site.url}}{{ post.hero_image}}" alt="{{page.title}}" class="lazyload" />
+                       </picture>
                     </div>
                     {% endif %}
 
