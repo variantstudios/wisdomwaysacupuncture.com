@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Everything Food!
   popular_image: /assets/images/conditions/paleo-plate.jpg
-  order: 9
+  order: 10
 post:
 search_engine_optimization:
   page_title:
