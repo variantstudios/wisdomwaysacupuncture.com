@@ -1,9 +1,9 @@
 ---
-title: Women's Health
+title: Acupuncture for Women's Health
 areas_of_specialties:
   selected: true
-  selected_title: "Women's Health"
-  selected_image: '/assets/images/conditions/DSC07519.jpg'
+  selected_title: Women's Health
+  selected_image: /assets/images/conditions/DSC07519.jpg
   order: 1
 search_engine_optimization:
   page_title:
@@ -20,5 +20,3 @@ Chinese Medicine is extremely successful at treating women’s health issues, an
 We also commonly treat: hormonal imbalance symptoms including PMS, fertility/infertility, endometriosis, abnormal discharges, vaginal infections, itching/burning, pelvic pain, urinary symptoms, and more!
 
 See the individual tabs above under “Women’s Health” for more information on some common ailments we treat.
-
-&nbsp;
