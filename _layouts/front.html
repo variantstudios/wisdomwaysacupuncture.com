@@ -1,7 +1,6 @@
 --- 
 layout: default 
 ---
-
 <div class="front-hero clearfix">
     <div class="front-hero-wrapper clearfix">
         <div class="slide">
@@ -25,13 +24,15 @@ layout: default
             <h3>Specializing in Acupuncture for Women's Health &amp; Chronic Ailments</h3>
         </div>
         <div class="left editable">
-	<h4 class="align-to-center">&nbsp; &nbsp;&nbsp; Go from coping or crisis, to inspired &amp; thriving!</h4>
-	<p>If you&rsquo;re struggling with chronic health issues, we can help. With 20 years experience in both Western and Eastern clinics, Inger has helped transform the health of thousands of women.</p>
-	<p>Maybe you need help with only small health corrections, or maybe you&rsquo;re like many of our patients who arrive overwhelmed or afraid. Their body isn&rsquo;t working right. They feel bad a lot of the time. Their reproductive system is completely out of balance or the aging process hasn&rsquo;t been quite graceful.</p>
-	<p>If you know you can be living with better health but you&rsquo;re at a loss for the next step, that&rsquo;s where Inger comes in.</p>
-	<p>A big focus of her work of the past 20 years has been &ldquo;educational medicine&rdquo;: By putting patients in the driver&rsquo;s seat, taking the time to make sure they understand their imbalances and giving them personalized tools; women leave not just feeling better than they&rsquo;ve felt in years, but also inspired and empowered &mdash; having learned how to maintain health on their own outside the clinic. &nbsp;</p>
-	<p class="align-to-center">You deserve to know how good it feels to have a body that functions with vibrancy the way it was designed to do!</p>
-</div>
+            <h4 class="align-to-center">&nbsp; &nbsp;&nbsp; Go from coping or crisis, to inspired &amp; thriving!</h4>
+            <p>If you&rsquo;re struggling with chronic health issues, we can help. With 20 years experience in both Western and Eastern clinics, Inger has helped transform the health of thousands of women.</p>
+            <p>Maybe you need help with only small health corrections, or maybe you&rsquo;re like many of our patients who arrive overwhelmed or afraid. Their body isn&rsquo;t working right. They feel bad a lot of the time. Their reproductive system is completely
+                out of balance or the aging process hasn&rsquo;t been quite graceful.</p>
+            <p>If you know you can be living with better health but you&rsquo;re at a loss for the next step, that&rsquo;s where Inger comes in.</p>
+            <p>A big focus of her work of the past 20 years has been &ldquo;educational medicine&rdquo;: By putting patients in the driver&rsquo;s seat, taking the time to make sure they understand their imbalances and giving them personalized tools; women
+                leave not just feeling better than they&rsquo;ve felt in years, but also inspired and empowered &mdash; having learned how to maintain health on their own outside the clinic. &nbsp;</p>
+            <p class="align-to-center">You deserve to know how good it feels to have a body that functions with vibrancy the way it was designed to do!</p>
+        </div>
         <div class="right">
             <div class="video videoWrapper">
                 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/{{page.youtube_id}}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
@@ -45,20 +46,22 @@ layout: default
     <div class="areas-of-specialties-wrapper clearfix">
         <div class="subpage">
             <div class="header editable">
-	<h3>Specialties</h3>
-	<h6>Click the Conditions Treated tab above to see more specialties.</h6>
-</div>
+                <h3>Specialties</h3>
+                <h6>Click the Conditions Treated tab above to see more specialties.</h6>
+            </div>
             <ul>
-                {% assign sorted_conditions = site.conditions | sort:"areas_of_specialties.selected_order" %} {% for specialty in sorted_conditions %} {% if specialty.areas_of_specialties.selected == true %}
+                {% assign sorted_conditions = site.conditions | sort:"areas_of_specialties.order" %} 
+                {% for specialty in sorted_conditions %} 
+                {% if specialty.areas_of_specialties.selected == true %}
                 <li>
                     <a href="{{specialty.url}}">
                         <picture>
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="{{site.cloudinaryurl}}image/fetch/w_120,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image}}" media="(max-width: 399px)" />
-                        <source srcset="{{site.cloudinaryurl}}image/fetch/w_165,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image}}" media="(min-width: 499px)" />
-                        <source srcset="{{site.cloudinaryurl}}image/fetch/w_210,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image}}" media="(min-width: 599px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img src="{{site.cloudinaryurl}}image/fetch/w_85,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image}}" alt="{{specialty.areas_of_specialties.selected_title}}" />
+                            <!--[if IE 9]><video style="display: none;"><![endif]-->
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_120,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image}}" media="(max-width: 399px)" />
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_165,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image}}" media="(min-width: 499px)" />
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_210,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image}}" media="(min-width: 599px)" />
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="{{site.cloudinaryurl}}image/fetch/w_85,c_fill,c_fill,q_65/{{site.url}}{{specialty.areas_of_specialties.selected_image}}" alt="{{specialty.areas_of_specialties.selected_title}}" />
                         </picture>
                         <h4>{{specialty.areas_of_specialties.selected_title}}</h4>
                     </a>
@@ -72,27 +75,26 @@ layout: default
     <div class="popular-blog-topics-wrapper clearfix">
         <div class="subpage">
             <div class="header editable">
-	<h3>Popular Blog Topics</h3>
-	<h6>Click on a topic to learn more about Inger&rsquo;s style of practice.&nbsp; Or just click on the 5 Element links to have fun guessing which element you are!</h6>
-</div>
+                <h3>Popular Blog Topics</h3>
+                <h6>Click on a topic to learn more about Inger&rsquo;s style of practice.&nbsp; Or just click on the 5 Element links to have fun guessing which element you are!</h6>
+            </div>
             <ul>
-                {% assign sorted_categories = site.categories | sort:"popular_blog_topics.popular_order" %} 
+                {% assign sorted_categories = site.categories | sort:"popular_blog_topics.order" %} 
                 {% for popular in sorted_categories %} 
                 {% if popular.popular_blog_topics.popular == true %}
                 <li>
                     <a href="{{popular.url}}">
-                       <picture>
-                        <!--[if IE 9]><video style="display: none;"><![endif]-->
-                        <source srcset="{{site.cloudinaryurl}}image/fetch/w_550,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}}" media="(max-width: 599px)" />
-                        <source srcset="{{site.cloudinaryurl}}image/fetch/w_330,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}}" media="(min-width: 799px)" />
-                        <!--[if IE 9]></video><![endif]-->
-                        <img src="{{site.cloudinaryurl}}image/fetch/w_550,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}}" alt="{{popular.popular_blog_topics.popular_title}}" />
+                        <picture>
+                            <!--[if IE 9]><video style="display: none;"><![endif]-->
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_550,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}}" media="(max-width: 599px)" />
+                            <source srcset="{{site.cloudinaryurl}}image/fetch/w_330,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}}" media="(min-width: 799px)" />
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="{{site.cloudinaryurl}}image/fetch/w_550,c_fill,c_fill,q_65/{{site.url}}{{popular.popular_blog_topics.popular_image}}" alt="{{popular.popular_blog_topics.popular_title}}" />
                         </picture>
                         <h4>{{popular.popular_blog_topics.popular_title}}</h4>
                     </a>
                 </li>
-                {% endif %} 
-                {% endfor %}
+                {% endif %} {% endfor %}
             </ul>
         </div>
     </div>

@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Women's Health
   popular_image: /assets/images/conditions/womens-health.jpg
-  popular_order: '9'
+  order: 9
 post:
 search_engine_optimization:
   page_title:

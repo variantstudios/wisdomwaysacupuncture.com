@@ -182,6 +182,7 @@ _comments:
   feature_image_path: "The feature image needs to be a jpeg and exactly 250px wide by 375px tall and if not that exact same size CloudCannon will scale and crop it to 250px wide."
   gallery_image_path: "The gallery image needs to be a jpeg and no taller than 375px and if not that exact same size CloudCannon will scale and crop it to 375px tall."
   selected_image: "The selected image needs to be a jpeg and exactly 210px wide by 210px tall and if not that exact same size CloudCannon will scale and crop it to 210px wide."
+  popular_image: "The selected image needs to be a jpeg and exactly 300px wide by 300px tall and if not that exact same size CloudCannon will scale and crop it to 300px wide."
   post: "Select the Featured Blog Post for this Category/Tag."
 #Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/wisdomways/'

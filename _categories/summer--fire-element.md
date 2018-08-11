@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Summer / Fire Element
   popular_image: /assets/images/conditions/5 Elements_fire-heart.jpg
-  popular_order: '2'
+  order: 2
 post:
 search_engine_optimization:
   page_title:
