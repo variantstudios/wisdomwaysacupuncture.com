@@ -21,6 +21,8 @@ Click the navigation tabs at the top to find out more about each of these treatm
 
 ### Nutritional Guidance
 
-In addition to Acupuncture and herbs, if I feel that nutritional guidance/changes will help you as well, I will encourage you to make a nutrition consultation so that I have time to go deeper into educating you on both Western holistic approaches to nutrition, as well as individualized Eastern approaches you can incorporate as well.
+In addition to Acupuncture and herbs, if nutritional guidance/changes will help you as well, I will encourage you to make a nutrition consultation so that I have time to go deeper into educating you on both Western holistic approaches to nutrition, as well as individualized Eastern approaches you can incorporate as well.
+
+While I'm not a nutritionist, these recommendations are usually enough to help women reach their goals. If you need nutritional assistance beyond my skill level, I refer out to others who can run us lab tests and/or provide intuitive eating counseling.
 
 &nbsp;
