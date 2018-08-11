@@ -17,7 +17,7 @@ Rather than treating everything that presents itself to me, I’ve chosen to hon
 
 For more details on each area of specialty, please scroll over the “Conditions Treated” tabs above to find your condition.
 
-The issues I work on often involve multi-system problems — commonly related to hormonal imbalances and/or stress and overwork/fatigue. While not always complex, they can usually be quite a puzzle and I love cracking the code!
+The issues I work on often involve multi-system problems — commonly related to hormonal imbalances, recovery from major illness, and/or stress and overwork/fatigue. While not always complex, they can usually be quite a puzzle and I love cracking the code!
 
 By cracking the code we’ve discovered the underlying connection between all your symptoms, and that’s how several different symptoms can be treated all at once.
 
