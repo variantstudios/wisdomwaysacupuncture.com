@@ -6,17 +6,17 @@
       subitems:
         - text: Menstrual Problems
           url: /conditions-treated/menstrual-problems/
-        - text: Infertility
-          url: /conditions-treated/infertility/
         - text: Hormone Imbalance
           url: /conditions-treated/hormone-imbalances/
         - text: Menopause
           url: /conditions-treated/menopause/
         - text: Gynecology - Other
           url: /conditions-treated/gynecological-issues/
+        - text: Fertility
+          url: /conditions-treated/fertility
     - text: Chronic Ailments
       ulr: /chronic-ailments/
-      subitems: 
+      subitems:
         - text: Headaches/Migraines
           url: /conditions-treated/headaches-migraines/
         - text: Digestion
