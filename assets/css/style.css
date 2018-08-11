@@ -2776,6 +2776,7 @@ body.blog .sidebar .call-to-action-sidebar.top {
 }
 body.blog .sidebar .call-to-action-sidebar p {
   margin: auto auto .5em auto;
+  color: #7F8337;
 }
 body.blog .sidebar .social-links-sidebar .social-link svg {
   width: 40px;
