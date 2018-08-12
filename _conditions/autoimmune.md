@@ -13,7 +13,7 @@ search_engine_optimization:
 
 I have a personal passion for treating auto-immunity, since my Significant Other was diagnosed with MS several years ago. We immediately started treating him with a combination of Chinese medicine and anti-inflammatory nutrition, and he’s living a completely normal life, with no sign of the disease… at all.
 
-But this success story isn’t just an isolated incident, I see this with so many of my patients as well. It’s why I feel so passionate about helping other people with this disease.
+But this success story isn’t just an isolated incident, I see this with so many of my patients as well. It’s why I feel so passionate about helping people with this disease.
 
 Unfortunately, the past several years have seen an exponential rise in the number of patients coming in for acupuncture for auto-immune conditions. Once you’re diagnosed with one auto-immune disease, it’s usually just a matter of time before your body starts attacking itself somewhere else as well, leading to more and more diseases.
 
@@ -41,4 +41,6 @@ In some cases I will send patients to doctors who I work with, who can order foo
 
 Of course each patient is different, arriving in my office with a different history, lifestyle factors, and length of disease. &nbsp;All these things will play into how a patient responds to treatment. Because of its complexity, auto-immune disease in general benefits the most from a multi-pronged approach, including acupuncture, herbs, supplements, and nutrition. The more a patient is willing to use every tool available, including lifestyle choices, the faster and more successful their treatment will be.
 
-Coming to me for auto-immune illness is the best choice for those who are willing to be a part of the healing process—in other words, to look at lifestyle and dietary factors that could be pivotal for longterm health. &nbsp;This is not like the western approach where you’re given a pill (or pills) and told to just live with it, and to continue everything you were doing before. For those willing to be a partner in their healing, treatment is generally very successful and I’m able to see a dramatic turnaround in people’s health. &nbsp;Often people are able to completely stay off drugs for treatment, and to get back to their “pre auto-immune” lifestyle.
+Coming to me for auto-immune illness is the best choice for those who are willing to be a part of the healing process -- in other words, to look at lifestyle and dietary factors that could be pivotal for longterm health. &nbsp;This is not like the western approach where you’re given a pill (or pills) and told to just live with it, and to continue everything you were doing before.
+
+For those willing to be a partner in their healing, treatment is generally very successful and I’m able to see a dramatic turnaround in people’s health. &nbsp;Often people are able to completely stay off drugs for treatment, and to get back to their “pre auto-immune” lifestyle.
