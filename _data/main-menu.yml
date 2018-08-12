@@ -17,16 +17,16 @@
     - text: Chronic Ailments
       ulr: /conditions-treated/chronic-ailments/
       subitems:
-        - text: Headaches/Migraines
-          url: /conditions-treated/headaches-migraines/
         - text: Digestion
           url: /conditions-treated/digestion/
-        - text: Fatigue and Chronic Fatigue
-          url: /conditions-treated/fatigue/
+        - text: Headaches/Migraines
+          url: /conditions-treated/headaches-migraines/
         - text: Stress/Anxiety/Depression
           url: /conditions-treated/stress-anxiety-depression/
         - text: Autoimmune
           url: /conditions-treated/autoimmune/
+        - text: Fatigue and Chronic Fatigue
+          url: /conditions-treated/fatigue/
         - text: Insomnia
           url: /conditions-treated/insomnia/
         - text: Chronic and Opportunistic Infections
