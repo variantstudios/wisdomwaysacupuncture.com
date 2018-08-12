@@ -13,7 +13,9 @@ search_engine_optimization:
 
 The menstrual issues we commonly treat are: irregular menses (meaning timing), light or heavy menses, painful menses, PMS, PCOS, and endometriosis.
 
-Often our patients come in with such bad menstrual problems that western medicine has no other option for, that they’re just medicated with regular hormone treatment. While this might be a short term fix, it often comes with major fertility problems later, which can be the toughest to resolve.
+Because a normal menstrual cycle is often just a function of a healthy overall system, by working holistically on overall wellness, a balanced menstrual cycle is often the natural outcome.
+
+Often our patients come in with such bad menstrual problems that their doctors have no other option for, so they’re just medicated with regular hormone treatment that stops their cycle completely. While this might be a short term fix, it often comes with other issues, including major fertility problems later -- which can be the toughest to resolve.
 
 My patients with menstrual problems are almost always able to get off their hormone treatments, if they so choose.
 
