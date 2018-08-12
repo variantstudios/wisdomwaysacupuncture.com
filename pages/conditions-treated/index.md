@@ -36,8 +36,6 @@ While acupuncture is a holistic form of treatment – meaning that the entire bo
 * Late stage pregnancy problems and labor/delivery prep
 * Fertility patients concurrently using IVF/ART
 
-&nbsp;
-
 If you’re not sure if we’re a good fit for your condition, give us a call! If we don’t feel we’re the best clinic to help you, we’ll give you the names of other acupuncturists in town who would be more likely to give you better care than we can. Our goal is that you work with a clinic who can help you the most, and if we don’t think that’s us, we’ll tell you!
 
 &nbsp;
