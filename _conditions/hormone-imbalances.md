@@ -11,14 +11,18 @@ search_engine_optimization:
   share_image_path:
 ---
 
-Acupuncture has a regulatory effect on the body. &nbsp;We call it “[balancing](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic/){: target="_blank"}”. Studies have shown that when hormonal blood panels were taken before and after a course of acupuncture, they improved or even completely balanced themselves out.
+If your hormones are out of balance, then you know that this can affect almost every aspect of your body; from your cycles, to your energy, mood, sleep, digestion, and more. That's why regulating the hormones creates such a drastic improvement in overall well-being!
 
-It's common for women to come to their first appointment with their irregular hormonal test results, which improve on retesting as the months of treatment go by.
+It's common for women to come to their first appointment with irregular hormone lab results, and we see these improve on retesting as the months of treatment go by, all without the use of hormonal drugs.
 
-Like everything related to actual healing, if she’s looking for an instant, or “bulldozer” effect, acupuncture is not going to be the answer. It takes time for body to “reset” itself and learn to function correctly, when we’re working naturally. &nbsp;
+## How does Acupuncture regulate hormones?
 
-Luckily, in the meantime as she’s improving she can expect to experience better energy, moods, sleep, more regular and/or less painful cycles; and just in general an improvement to the symptoms that brought her in. &nbsp;You do not have to be completely “balanced” or healed to start feeling noticeable results.
+Acupuncture has an overall regulatory effect on the body. &nbsp;We call it “[balancing](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic/){: target="_blank"}”. Studies have confirmed what I see clinically: that when hormone blood panels are taken before and after a course of acupuncture, they improve or even completely balance themselves out.
 
-The good news is, while “imbalanced hormones” may be what brings a woman in, as an acupuncturist I’m not just interested in resolving symptoms, but in resolving the underlying imbalances that were causing the symptoms, so that those same imbalances can’t progress further over time and turn into other worse symptoms or diseases. &nbsp;So we’re working not only on resolution of symptoms, but on prevention.
+Like everything related to actual healing, if you're looking for an instant, or “bulldozer” effect, acupuncture is not going to be the answer. It takes time for the body to “reset” itself and learn to function correctly, when you’re working naturally. &nbsp;
+
+Luckily, in the meantime as you're improving you can expect to experience better energy, moods, sleep, more regular and/or less painful cycles; and just in general an improvement to the symptoms that brought you in. &nbsp;You do not have to be completely “balanced” or healed to start feeling noticeable results.
+
+And the good news is, while “imbalanced hormones” may be what brings you in, as an acupuncturist I’m not just interested in resolving symptoms, but in resolving the underlying imbalances that were causing the symptoms. Then those same imbalances can’t progress further over time and turn into other worse symptoms or diseases. &nbsp;So we’re working not only on resolution of symptoms, but on prevention.
 
 &nbsp;
