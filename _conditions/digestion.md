@@ -11,7 +11,11 @@ search_engine_optimization:
   share_image_path:
 ---
 
-Are you suffering from new or life-long digestive issues? Either way, Chinese medicine can help. In fact one of the most common issues I treat in my acupuncture clinic is digestive problems, and the prognosis is generally very good -- even for life-long problems.
+Are you suffering from new or life-long digestive issues? Either way, Chinese medicine can help.
+
+Even if it's not your biggest health complaint, you might be like the vast majority of my patients who have one problem or another with digestion. Maybe you have chronic constipation or loose stools. Or severe cramping pains. Perhaps it's extreme bloating that impacts your feelings of well-being. Or maybe you're not absorbing food and end up with large food particles in your stool, as well as fatigue.
+
+Because problems like this are so prevalent, I'm typically treating digestive issues like this all throughout the day. The prognosis is generally very good – even for life-long problems.
 
 Whether caused by stress/anxiety, food allergies, auto-immunity, parasites, or just general poor health and weakness, I see great results using both acupuncture and herbs.
 
