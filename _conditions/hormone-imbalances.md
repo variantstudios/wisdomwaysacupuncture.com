@@ -15,6 +15,8 @@ If your hormones are out of balance, then you know that this can affect almost e
 
 It's common for women to come to their first appointment with irregular hormone lab results, and we see these improve on retesting as the months of treatment go by, all without the use of hormonal drugs.
 
+While this page is focusing on reproductive hormones, Chinese medicine can help improve thyroid and adrenal/stress hormone function as well.
+
 ## How does Acupuncture regulate hormones?
 
 Acupuncture has an overall regulatory effect on the body. &nbsp;We call it “[balancing](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic/){: target="_blank"}”. Studies have confirmed what I see clinically: that when hormone blood panels are taken before and after a course of acupuncture, they improve or even completely balance themselves out.
