@@ -11,6 +11,8 @@ permalink: "/conditions-treated/"
 
 # Acupuncture Specialties: Women’s Health & Chronic Illness
 
+main 'Conditions Treated' page
+
 If you’re suffering from chronic symptoms or women’s health problems, then you’re in the right place! If you’re worried you might never feel better because you’ve “tried everything” or your case is particularly complex, then you’re among great company with many of our patients.
 
 Rather than treating everything that presents itself to me, I’ve chosen to hone my skills by working with specific medical issues.&nbsp; By focusing intently on learning as much as I can about these ailments and how they play into each other, I’ve been able to have breakthroughs with many of my toughest cases.
