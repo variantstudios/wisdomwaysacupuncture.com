@@ -11,15 +11,22 @@ search_engine_optimization:
   share_image_path:
 ---
 
-Are you suffering from new or life-long digestive issues? Either way, Chinese medicine can help.
+Are you suffering from new or life-long digestive issues? Even if you've had digestive problems your entire life, Chinese medicine can help.
 
-Even if it's not your biggest health complaint, you might be like the vast majority of my patients who have one problem or another with digestion. Maybe you have chronic constipation or loose stools. Or severe cramping pains. Perhaps it's extreme bloating that impacts your feelings of well-being. Or maybe you're not absorbing food and end up with large food particles in your stool, as well as fatigue.
+Maybe it's not your biggest health complaint, but if you're like the vast majority of my patients, there's a problem to some extent with digestion.
 
-Because problems like this are so prevalent, I'm typically treating digestive issues like this all throughout the day. The prognosis is generally very good – even for life-long problems.
+Perhaps you have:
+
+* chronic constipation or loose stools
+* severe cramping pains
+* extreme bloating that impacts your feelings of well-being
+* maybe you're not absorbing food and end up with large food particles in your stool, as well as fatigue.
+
+Because problems like this are so prevalent, I'm typically working on improving the digestion of every patient. The prognosis is generally very good – even for life-long problems.
+
+And because digestion — and therefore good nutrient absorption —&nbsp; is so important for overall health and wellness, it is vital that we not only improve your digestive problems, but that we address it during the treatment of any ailment.
 
 Whether caused by stress/anxiety, food allergies, auto-immunity, parasites, or just general poor health and weakness, I see great results using both acupuncture and herbs.
-
-And because digestion — and therefore good nutrient absorption —&nbsp; is so important for overall health and wellness, it is vital that we not only improve your digestive problems, but that we address it during the treatment of any ailment..
 
 ## Acupuncture Treatment for Digestion
 
