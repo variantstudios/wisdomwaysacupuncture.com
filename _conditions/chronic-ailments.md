@@ -11,7 +11,7 @@ search_engine_optimization:
   share_image_path:
 ---
 
-If there are things in your body that just don't seem to be working right, such as:
+If there are things in your body that just don't seem to be working right -- such as listed below -- then you're likely a great fit for our clinic.
 
 * digestive problems
 
@@ -28,7 +28,5 @@ If there are things in your body that just don't seem to be working right, such 
 * auto-immunity
 
 * Chronic Infections such as Lyme, Candida, Epstein-barre, or frequent common colds
-
-then you're likely a great fit for our clinic.
 
 Some patients come in with just one of these issues, but more commonly, many of these symptoms come all wrapped up with each other with complex correlations.
