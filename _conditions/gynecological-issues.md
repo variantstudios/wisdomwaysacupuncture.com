@@ -17,7 +17,7 @@ If you're my patient, then regardless of what you're coming in for, I will alway
 
 The timing, color, and texture of your bleeding gives us huge clues to solve the riddle of your menstrual and other problems; as do any PMS symptoms or discomfort you experience.
 
-While gynecological issues are some of the most common things we treat, the realm of gynecology includes so much more than just the menstrual cycle.&nbsp;
+While period issues are some of the most common gynecological problems we treat, the realm of gynecology includes so much more than just the menstrual cycle.&nbsp;
 
 ### Gynecology treatment in the US vs. China
 
