@@ -24,5 +24,3 @@ Menopause is a classic period of life where our Yin reaches critical levels of d
 Herbs are especially great for replenishing "depleted" conditions such as this. While acupuncture works well to move and stimulate stuck, tense, blocked energy; herbs really excel in replacing what is gone, such as yin in menopausal situations. It is common for a woman to come for a series of acupuncture treatment right at the beginning, to start herbs, and then to back off on the acupuncture as her symptoms improve or resolve but then stay on herbs ongoingly through the transition of menopause, only coming in for regular "tune up" treatments or for short herb refill consultations to get her herbs prescribed.
 
 As with every case, I also be address any other issues, such as digestive complains, migraines, etc.
-
-To schedule an appointment for menopausal symptoms, click here: online scheduling
