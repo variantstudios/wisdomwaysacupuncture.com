@@ -1,8 +1,8 @@
 ---
-title: Digestion
+title: Digestive Problems
 areas_of_specialties:
   selected: false
-  selected_title: 
+  selected_title:
   selected_image:
   order:
 search_engine_optimization:
