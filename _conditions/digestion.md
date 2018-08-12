@@ -15,12 +15,13 @@ Are you suffering from new or life-long digestive issues? Even if you've had dig
 
 Maybe it's not your biggest health complaint, but if you're like the vast majority of my patients, there's a problem to some extent with digestion.
 
-Perhaps you have:
+Perhaps you:
 
-* chronic constipation or loose stools
-* severe cramping pains
-* extreme bloating that impacts your feelings of well-being
-* maybe you're not absorbing food and end up with large food particles in your stool, as well as fatigue.
+* have chronic constipation or loose stools
+* have cramping pains
+* have bloating that impacts your feelings of well-being
+* are not absorbing food and end up with large food particles in your stool, as well as fatigue.
+* have bowel urgency that gets worse in stressful situations
 
 Because problems like this are so prevalent, I'm typically working on improving the digestion of every patient. The prognosis is generally very good – even for life-long problems.
 
