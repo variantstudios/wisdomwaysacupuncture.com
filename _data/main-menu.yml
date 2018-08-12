@@ -15,7 +15,7 @@
         - text: Gynecology - Other
           url: /conditions-treated/gynecological-issues/
     - text: Chronic Ailments
-      ulr: conditions-treated/chronic-ailments/
+      ulr: /conditions-treated/chronic-ailments/
       subitems:
         - text: Headaches/Migraines
           url: /conditions-treated/headaches-migraines/
