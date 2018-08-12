@@ -22,6 +22,7 @@ Perhaps you:
 * have bloating that impacts your feelings of well-being
 * are not absorbing food and end up with large food particles in your stool, as well as fatigue.
 * have bowel urgency that gets worse in stressful situations
+* have acid reflux
 
 Because problems like this are so prevalent, I'm typically working on improving the digestion of every patient. The prognosis is generally very good – even for life-long problems.
 
