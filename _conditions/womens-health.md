@@ -1,9 +1,9 @@
 ---
-title: Acupuncture for Women's Health & Infertility
+title: Acupuncture for Women's Health
 areas_of_specialties:
-  selected: true
+  selected: false
   selected_title: Women's Health
-  selected_image: /assets/images/conditions/DSC07519.jpg
+  selected_image: /assets/images/conditions/acupuncture-woman-walking-square.jpg
   order: 1
 search_engine_optimization:
   page_title:
