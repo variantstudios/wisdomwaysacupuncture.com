@@ -13,7 +13,7 @@ search_engine_optimization:
 
 Each year, more and more patients come in having either just received a diagnosis of an infection like Lyme, Epstein-Barr, or Candida; or having been diagnosed with it for years yet nothing else has worked.
 
-There is more than one approach we can take with Chinese medicine, but a key point to the approach that I take — which has proven successful — is changing the body’s ecosystem so that it’s no &nbsp;longer a good host for these pathogens.
+There is more than one approach we can take with Chinese medicine, but a key point to the approach that I take — which has proven successful — is changing the body’s ecosystem so that it’s no longer a good host for these pathogens.
 
 ### Acupuncture and Chinese herbs for Infections
 
@@ -21,7 +21,7 @@ Sometimes “killing” the pathogen is a necessary step, yet this can also be a
 
 The body’s immune system was designed to be able to encounter all sorts of pathogens, and to effectively rid them from the body.
 
-Why is it that two people can be exposed to the same pathogen, yet one gets ill and the other doesn’t?
+### Why is it that two people can be exposed to the same pathogen, yet one gets ill and the other doesn’t?
 
 In our modern day, we’ve learned to fear pathogens like Lyme and Epstein-Barr, because we all know someone with the diagnosis whose life was changed forever. Yet my clinical experience convinces me more and more that this doesn’t need to be so. When we improve the body’s ability to handle the pathogen, we no longer need to focus on “killing” it (and the resulting damage or weakening of the body that often goes along with that), but we instead focus on nurturing and nourishing all aspects of proper function.
 
