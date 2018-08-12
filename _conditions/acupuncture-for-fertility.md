@@ -13,17 +13,17 @@ search_engine_optimization:
 
 ## Get pregnant naturally
 
-If you're looking for other options besides aggressive hormone regiments or IVF, and you've got the time and the emotional space to work on resolving the underlying causes related to infertility, then we're probably a great fit for you!
+If you’re looking for other options besides aggressive hormone regiments or IVF, and you’ve got the time and the emotional space to work on resolving the underlying causes related to infertility, then we’re probably a great fit for you!
 
 I decided to work deeper with infertility after years of noting that many of my acupuncture patients coming to me for separate issues — who also informed me that they had been trying unsuccessfully for a year or more to get pregnant — would suddenly become pregnant after starting acupuncture treatment.
 
 I have since gone on to study under some of the leading Chinese Medicine infertility specialists, am a Fellow of the [American Board of Oriental Reproductive Medicine (ABORM)](https://aborm.org/about/){: target="_blank"}, and infertility cases make up a large and successful portion of my practice.
 
-I specifically work with women who are choosing to not use ART, helping them to resolve — rather than just go around — the problems underlying their fertility issues.
+I [specifically work with women who are choosing to not use ART](/2016/09/20/why-natural-fertility/), helping them to resolve — rather than just go around — the problems underlying their fertility issues.
 
 ## How does Chinese Medicine work for infertility?
 
-Fertility is not just related to having good ovarian reserve, although that is one of the most important issues we address and improve, especially in older women. It also depends on hormone regulation, because correct levels of estrogen and progesterone mean ovulation is occurring, the cervical and fallopian tube mucous is suitable for smooth motility of sperm and egg, there is good endometrial thickness, and high likeliness of successful implantation in the uterus.&nbsp;
+Fertility is not just related to having good ovarian reserve, although that is one of the most important issues we address and improve, especially in older women. It also depends on hormone regulation, because correct levels of estrogen and progesterone mean ovulation is occurring, the cervical and fallopian tube secretions are suitable for smooth motility of sperm and egg, there is good endometrial thickness, and high likeliness of successful implantation in the uterus.&nbsp;
 
 Stress is also a huge component, because when we’re stressed, hormone signaling from the pituitary to the ovaries to bring ovulation can be impaired; and everything tenses up and gets blocked, which can impair both the release of the egg from the follicle, as well as the egg’s flow through the fallopian tubes.
 
@@ -45,7 +45,7 @@ For women with recurrent miscarriage or PCOS with no or very weak and rare signs
 
 If it is necessary, I will also address nutrition, as this can be a crucial part of treatment.&nbsp; Often women don’t realize it, but the foods they’re eating could be creating so much stagnation, blockage, inflammation, or weakness in their system, that they’re preventing conception from being able to occur.
 
-### If pregnancy doesn't occur naturally
+### If pregnancy doesn’t occur naturally
 
 If after Chinese medical treatment a woman still needs to resort to ART, all is not lost, as typically a woman who may have been a poor responder to drug stimulation in the past now responds much better, needs lower dosages of drugs, and has less side effects. This allows her to tolerate the western treatment options much better and increases her chances of success, thereby decreasing the time, cost, and stress involved with multiple ART cycles. A woman who would have had much poorer egg quality before treatment is now poised to have better eggs collected that will develop into better and more viable embryos.
 
