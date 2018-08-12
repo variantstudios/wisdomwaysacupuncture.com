@@ -14,4 +14,4 @@ class: blog
 
 ###### Here you’ll find a ton of information about Chinese Medicine, the way I approach it, and general wellness/lifestyle tips that support our clinical work. My patients will find useful posts to dive deeper into what we discuss in clinic.&nbsp;
 
-###### If you want to search for a specific topic, just come back to this main blog page using the navigation tab at the top, and use the Search function just below.
+###### If you want to search for a specific topic, just come back to this main blog page using the navigation tab at the top, and use the Search function below.
