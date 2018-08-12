@@ -33,22 +33,27 @@ If there are issues with sperm count or motility, acupuncture and herbs work ver
 
 ### Treatment details
 
-I have women start taking their basal body temperature throughout the month so we can observe subtle changes in cycle that give us important clues into where their imbalances lie which are contributing to the problem.&nbsp; I also have her monitor other changes (such as cervical mucous) through the month which indicate to me her state of balance between yin, yang, (correlated with estrogen and progesterone among other things) and other components that when balanced should result in easy pregnancy and a healthy pregnancy and birth.&nbsp; As the months of treatment go by, we witness improvement in all the markers we are monitoring.&nbsp; Often, a woman that has a spotty history of ovulation will very quickly, even in the first few months, begin to ovulate naturally.
+I have women start taking their basal body temperature throughout the month so we can observe subtle changes in cycle that give us important clues into where their imbalances lie which are contributing to the problem.&nbsp;
+
+I also have her monitor other changes (such as cervical mucous) through the month which indicate to me her state of balance between yin, yang, (correlated with estrogen and progesterone among other things) and other components that when balanced should result in easy pregnancy and a healthy pregnancy and birth.&nbsp; As the months of treatment go by, we witness improvement in all the markers we are monitoring.&nbsp; Often, a woman that has a spotty history of ovulation will very quickly, even in the first few months, begin to ovulate naturally.
 
 ### Treatment duration
 
-In my experience, it usually takes between 3 to 6 cycles of regular treatment before conception. Each woman will be evaluated individually, and in some cases will be asked to bring in any diagnostic bloodwork or imaging that she has had done. We will fit these lab results into her Chinese Medical diagnosis and watch for them to improve over the cycles of treatment.
+In my experience, it can take as little as 3 to 6 cycles of regular treatment before conception. Each woman will be evaluated individually, and in some cases will be asked to bring in any diagnostic bloodwork or imaging that she has had done. We will fit these lab results into her Chinese Medical diagnosis and watch for them to improve over the cycles of treatment.
 
-Generally, once we can get the menstrual cycle to normalize, with signs that egg quality and quantity have improved, cervical and fallopian secreations are healthy, and there’s a good endometrial lining; conception and a healthy pregnancy are the natural outcomes.
+Generally, once we can get the menstrual cycle to normalize, with signs that egg quality and quantity have improved, cervical and fallopian secretions are healthy, and there’s a good endometrial lining; conception and a healthy pregnancy are the natural outcomes.
 
 For women with recurrent miscarriage or PCOS with no or very weak and rare signs of ovulation, we still see good results, but the treatment must typically be longer and requires patience! A very thorough evaluation to ask all these questions will be done at your first visit, and a treatment plan created that is customized to fit your cycles and history. In some cases I will recommend that a woman NOT attempt pregnancy for a time so we can improve her egg quality, hormones, and endometrium, thus decreasing her risk of miscarriage.
 
-If it is necessary, I will also address nutrition, as this can be a crucial part of treatment.&nbsp; Often women don’t realize it, but the foods they’re eating could be creating so much stagnation, blockage, inflammation, or weakness in their system, that they’re preventing conception from being able to occur.
+If it's necessary, I will also address nutrition, as this can be a crucial part of treatment.&nbsp; Often women don’t realize it, but the foods they’re eating could be creating so much stagnation, blockage, inflammation, or weakness in their system, that they’re preventing conception from being able to occur.
 
 ### If pregnancy doesn’t occur naturally
 
-If after Chinese medical treatment a woman still needs to resort to ART, all is not lost, as typically a woman who may have been a poor responder to drug stimulation in the past now responds much better, needs lower dosages of drugs, and has less side effects. This allows her to tolerate the western treatment options much better and increases her chances of success, thereby decreasing the time, cost, and stress involved with multiple ART cycles. A woman who would have had much poorer egg quality before treatment is now poised to have better eggs collected that will develop into better and more viable embryos.
+If after Chinese medical treatment a woman still needs to resort to ART, all is not lost, as typically a woman who may have been a poor responder to drug stimulation in the past now responds much better, needs lower dosages of drugs, and has less side effects. This allows her to tolerate the western treatment options much better and increases her chances of success, thereby decreasing the time, cost, and stress involved with multiple ART cycles.
+
+A woman who would have had much poorer egg quality before treatment is now poised to have better eggs collected that will develop into better and more viable embryos.
 
 Acupuncture and Chinese herbs not only help with successful results, but with the stress and anxiety that go along with this delicate health issue.&nbsp; And because it helps to actually resolve the underlying causes of the infertility as opposed to just circumnavigating them, the prospective mother is poised to be at her best when the little one does come along, instead of being frazzled and unbalanced from invasive and stressful procedures.
 
 \*\*Please note: While IVF is an amazing option for women and studies show that combining it with Chinese medicine can increase success rates, where my work and continued training is focused is on helping women get pregnant naturally. The goals and methods of treatment for a woman undergoing IVF treatment differ quite greatly from the work that’s done in working to get pregnant naturally; therefore if you’re looking to start treatment while planning to start IVF, we’ll refer out.
+{: .error_message}
