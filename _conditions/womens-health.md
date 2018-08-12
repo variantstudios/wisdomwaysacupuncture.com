@@ -13,7 +13,9 @@ search_engine_optimization:
 
 Whether you’re a young woman suffering from irregular or painful periods, a more mature one who is transitioning into or through menopause, or dealing with any gynecology problem; we can help!
 
-To see specific details on some of the common women's health issues we treat, scroll over the individual tabs above under “Women’s Health”.
+Being that women's health is one of my specialties, I work with it extensively and each problem deserves its own page to explain in more detail how I work with it in my acupuncture clinic.
+
+To see these specific details on some of the common issues I treat, scroll over the individual tabs under “Women’s Health”.
 
 Although not listed on the tabs, we also commonly treat: endometriosis, abnormal discharges, vaginal infections, itching/burning, pelvic pain, urinary symptoms, and more!
 
