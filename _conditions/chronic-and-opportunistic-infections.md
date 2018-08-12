@@ -11,6 +11,8 @@ search_engine_optimization:
   share_image_path:
 ---
 
+### There IS hope for feeling better!
+
 Each year, more and more patients come in having either just received a diagnosis of an infection like Lyme, Epstein-Barr, or Candida; or having been diagnosed with it for years yet nothing else has worked.
 
 There is more than one approach we can take with Chinese medicine, but a key point to the approach that I take — which has proven successful — is changing the body’s ecosystem so that it’s no longer a good host for these pathogens.
