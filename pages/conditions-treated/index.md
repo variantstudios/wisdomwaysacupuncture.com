@@ -1,12 +1,12 @@
 ---
-title: "Conditions Treated page"
-hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+title: Conditions Treated
+hero_image: /assets/images/heroes/sub-page-hero-example.jpg
 search_engine_optimization:
-  page_title: "Conditions Treated - WisdomWays Acupuncture"
+  page_title: Conditions Treated - WisdomWays Acupuncture
   page_description:
   share_image_path:
 layout: page
-permalink: "/conditions-treated/"
+permalink: /conditions-treated/
 ---
 
 # Acupuncture Specialties: Women’s Health & Chronic Illness
