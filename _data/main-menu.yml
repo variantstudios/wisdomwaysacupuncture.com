@@ -15,7 +15,7 @@
         - text: Gynecology - Other
           url: /conditions-treated/gynecological-issues/
     - text: Chronic Ailments
-      ulr: /conditions-treated/chronic-ailments/
+      url: /conditions-treated/chronic-ailments/
       subitems:
         - text: Digestion
           url: /conditions-treated/digestion/
