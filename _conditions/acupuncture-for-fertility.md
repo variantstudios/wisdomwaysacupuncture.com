@@ -11,11 +11,11 @@ search_engine_optimization:
   share_image_path:
 ---
 
-## Acupuncture for Infertility – get pregnant naturally
+## Get pregnant naturally
 
 If you're looking for other options besides aggressive hormone regiments or IVF, and you've got the time and the emotional space to work on resolving the underlying causes related to infertility, then we're probably a great fit for you!
 
-I decided to work deeper with infertility after years of noting that many of my patients coming to me for separate issues — who also informed me that they had been trying unsuccessfully for a year or more to get pregnant — would suddenly become pregnant after starting acupuncture treatment.
+I decided to work deeper with infertility after years of noting that many of my acupuncture patients coming to me for separate issues — who also informed me that they had been trying unsuccessfully for a year or more to get pregnant — would suddenly become pregnant after starting acupuncture treatment.
 
 I have since gone on to study under some of the leading Chinese Medicine infertility specialists, am a Fellow of the [American Board of Oriental Reproductive Medicine (ABORM)](https://aborm.org/about/){: target="_blank"}, and infertility cases make up a large and successful portion of my practice.
 
@@ -23,7 +23,7 @@ I specifically work with women who are choosing to not use ART, helping them to 
 
 ## How does Chinese Medicine work for infertility?
 
-Fertility is not just related to having good ovarian reserve, although that is one of the most important issues we address and improve, especially in older women. It also depends on hormone regulation, because correct levels of estrogen and progesterone mean ovulation is occurring, the cervical and fallopian tube mucous is suitable for smooth motility of sperm and egg, there is good endometrial thickness, and high likeliness of successful implantation in the uterus. 
+Fertility is not just related to having good ovarian reserve, although that is one of the most important issues we address and improve, especially in older women. It also depends on hormone regulation, because correct levels of estrogen and progesterone mean ovulation is occurring, the cervical and fallopian tube mucous is suitable for smooth motility of sperm and egg, there is good endometrial thickness, and high likeliness of successful implantation in the uterus.&nbsp;
 
 Stress is also a huge component, because when we’re stressed, hormone signaling from the pituitary to the ovaries to bring ovulation can be impaired; and everything tenses up and gets blocked, which can impair both the release of the egg from the follicle, as well as the egg’s flow through the fallopian tubes.
 
@@ -33,7 +33,7 @@ If there are issues with sperm count or motility, acupuncture and herbs work ver
 
 ### Treatment details
 
-I have women start taking their basal body temperature throughout the month so we can observe subtle changes in cycle that give us important clues into where their imbalances lie which are contributing to the problem.  I also have her monitor other changes (such as cervical mucous) through the month which indicate to me her state of balance between yin, yang, (correlated with estrogen and progesterone among other things) and other components that when balanced should result in easy pregnancy and a healthy pregnancy and birth.  As the months of treatment go by, we witness improvement in all the markers we are monitoring.  Often, a woman that has a spotty history of ovulation will very quickly, even in the first few months, begin to ovulate naturally.
+I have women start taking their basal body temperature throughout the month so we can observe subtle changes in cycle that give us important clues into where their imbalances lie which are contributing to the problem.&nbsp; I also have her monitor other changes (such as cervical mucous) through the month which indicate to me her state of balance between yin, yang, (correlated with estrogen and progesterone among other things) and other components that when balanced should result in easy pregnancy and a healthy pregnancy and birth.&nbsp; As the months of treatment go by, we witness improvement in all the markers we are monitoring.&nbsp; Often, a woman that has a spotty history of ovulation will very quickly, even in the first few months, begin to ovulate naturally.
 
 ### Treatment duration
 
@@ -43,12 +43,12 @@ Generally, once we can get the menstrual cycle to normalize, with signs that egg
 
 For women with recurrent miscarriage or PCOS with no or very weak and rare signs of ovulation, we still see good results, but the treatment must typically be longer and requires patience! A very thorough evaluation to ask all these questions will be done at your first visit, and a treatment plan created that is customized to fit your cycles and history. In some cases I will recommend that a woman NOT attempt pregnancy for a time so we can improve her egg quality, hormones, and endometrium, thus decreasing her risk of miscarriage.
 
-If it is necessary, I will also address nutrition, as this can be a crucial part of treatment.  Often women don’t realize it, but the foods they’re eating could be creating so much stagnation, blockage, inflammation, or weakness in their system, that they’re preventing conception from being able to occur.
+If it is necessary, I will also address nutrition, as this can be a crucial part of treatment.&nbsp; Often women don’t realize it, but the foods they’re eating could be creating so much stagnation, blockage, inflammation, or weakness in their system, that they’re preventing conception from being able to occur.
 
 ### If pregnancy doesn't occur naturally
 
 If after Chinese medical treatment a woman still needs to resort to ART, all is not lost, as typically a woman who may have been a poor responder to drug stimulation in the past now responds much better, needs lower dosages of drugs, and has less side effects. This allows her to tolerate the western treatment options much better and increases her chances of success, thereby decreasing the time, cost, and stress involved with multiple ART cycles. A woman who would have had much poorer egg quality before treatment is now poised to have better eggs collected that will develop into better and more viable embryos.
 
-Acupuncture and Chinese herbs not only help with successful results, but with the stress and anxiety that go along with this delicate health issue.  And because it helps to actually resolve the underlying causes of the infertility as opposed to just circumnavigating them, the prospective mother is poised to be at her best when the little one does come along, instead of being frazzled and unbalanced from invasive and stressful procedures.
+Acupuncture and Chinese herbs not only help with successful results, but with the stress and anxiety that go along with this delicate health issue.&nbsp; And because it helps to actually resolve the underlying causes of the infertility as opposed to just circumnavigating them, the prospective mother is poised to be at her best when the little one does come along, instead of being frazzled and unbalanced from invasive and stressful procedures.
 
 \*\*Please note: While IVF is an amazing option for women and studies show that combining it with Chinese medicine can increase success rates, where my work and continued training is focused is on helping women get pregnant naturally. The goals and methods of treatment for a woman undergoing IVF treatment differ quite greatly from the work that’s done in working to get pregnant naturally; therefore if you’re looking to start treatment while planning to start IVF, we’ll refer out.
