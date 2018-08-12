@@ -13,7 +13,7 @@ search_engine_optimization:
 
 Whether you’re a young woman suffering from irregular or painful periods, a more mature one who is transitioning into or through menopause, or dealing with any gynecology problem; we can help!
 
-Chinese Medicine is extremely successful at treating women’s health issues, and unlike western medicine — which usually resorts to hormonal medicines and/or surgery to control many of these issues — acupuncture and herbs are actually getting at the root of the issue, resolving it at its core.
+Chinese Medicine is very effective at treating women’s health issues, but unlike western medicine — which usually resorts to hormonal medicines and/or surgery to control many of these issues — acupuncture and herbs are actually getting at the root of the issue, resolving it at its core.
 
 We also commonly treat: hormonal imbalance symptoms including PMS, fertility/infertility, endometriosis, abnormal discharges, vaginal infections, itching/burning, pelvic pain, urinary symptoms, and more!
 
