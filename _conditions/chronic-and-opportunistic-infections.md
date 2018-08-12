@@ -11,7 +11,7 @@ search_engine_optimization:
   share_image_path:
 ---
 
-### There IS hope for feeling better!
+#### There IS hope for feeling better!
 
 Each year, more and more patients come in having either just received a diagnosis of an infection like Lyme, Epstein-Barr, or Candida; or having been diagnosed with it for years yet nothing else has worked.
 
