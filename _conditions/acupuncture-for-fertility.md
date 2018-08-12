@@ -19,7 +19,7 @@ I decided to work deeper with infertility after years of noting that many of my 
 
 I have since gone on to study under some of the leading Chinese Medicine infertility specialists, am a Fellow of the [American Board of Oriental Reproductive Medicine (ABORM)](https://aborm.org/about/){: target="_blank"}, and infertility cases make up a large and successful portion of my practice.
 
-I [specifically work with women who are choosing to not use ART](/2016/09/20/why-natural-fertility/), helping them to resolve — rather than just go around — the problems underlying their fertility issues.
+I [specifically work with women who are choosing to not use ART](/2016/09/20/why-natural-fertility/){: target="_blank"}, helping them to resolve — rather than just go around — the problems underlying their fertility issues.
 
 ## How does Chinese Medicine work for infertility?
 
@@ -55,5 +55,5 @@ A woman who would have had much poorer egg quality before treatment is now poise
 
 Acupuncture and Chinese herbs not only help with successful results, but with the stress and anxiety that go along with this delicate health issue.&nbsp; And because it helps to actually resolve the underlying causes of the infertility as opposed to just circumnavigating them, the prospective mother is poised to be at her best when the little one does come along, instead of being frazzled and unbalanced from invasive and stressful procedures.
 
-\*\*Please note: While IVF is an amazing option for women and studies show that combining it with Chinese medicine can increase success rates, where my work and continued training is focused is on helping women get pregnant naturally. The goals and methods of treatment for a woman undergoing IVF treatment differ quite greatly from the work that’s done in working to get pregnant naturally; therefore if you’re looking to start treatment while planning to start IVF, we’ll refer out.
+\*\*Please note: While IVF is an amazing option for women and studies show that combining it with Chinese medicine can increase success rates, where my work and continued training is focused is on helping women get pregnant naturally. The goals and methods of treatment for a woman undergoing IVF treatment differ quite greatly from the work that’s done in working to get pregnant naturally; therefore if you’re looking to start treatment while planning to start ART, we’ll refer out.
 {: .error_message}
