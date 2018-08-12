@@ -13,7 +13,7 @@ search_engine_optimization:
 
 If you have Chronic or severe Fatigue, then you know it can be terrifying, as there is no known treatment, cause, or cure; and its effects in many cases go through almost every system of the body.
 
-Luckily, I have found Chinese Medicine to be extremely effective in treating fatigue — whether sudden or chronic — and again and again I see patients get their lives back over the course of treatment; literally going from worrying that they’re dying, to having hopes for full recovery.
+Luckily, I have found Chinese Medicine to be extremely effective in treating fatigue — whether sudden or chronic — and again and again I see patients get their lives back over the course of treatment; literally sometimes going from worrying that they’re dying, to having hopes for full recovery.
 
 The types of fatigue I regularly treat range between mild fatigue that gets in the way of hobbies and enjoyment of life, to so severe and debilitating that a person is on disability.
 
