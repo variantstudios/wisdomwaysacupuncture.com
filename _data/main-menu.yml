@@ -15,7 +15,7 @@
         - text: Gynecology - Other
           url: /conditions-treated/gynecological-issues/
     - text: Chronic Ailments
-      ulr: /chronic-ailments/
+      ulr: conditions-treated/chronic-ailments/
       subitems:
         - text: Headaches/Migraines
           url: /conditions-treated/headaches-migraines/
@@ -23,15 +23,6 @@
           url: /conditions-treated/digestion/
         - text: Fatigue and Chronic Fatigue
           url: /conditions-treated/fatigue/
-        - text: Frequent Illness/Chronic Pathology
-          url: /conditions-treated/frequent-illness-chronic-pathology/
-          subitems:
-            - text: Lyme
-              url: /conditions-treated/lyme/
-            - text: Epstein-barr
-              url: /conditions-treated/epstein-barr/
-            - text: Chronic colds
-              url: /conditions-treated/chronic-colds/
         - text: Stress/Anxiety/Depression
           url: /conditions-treated/stress-anxiety-depression/
         - text: Autoimmune
