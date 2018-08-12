@@ -20,7 +20,9 @@ If the organs and systems of your body just don't seem to be working right – w
 * emotional imbalance or just not handling stress well
 * insomnia
 * auto-immunity
-* Chronic Infections such as Lyme, Candida, Epstein-barre, or frequent common colds
+* chronic infections such as Lyme, Candida, Epstein-barre, or frequent common colds
+* dizziness
+* high blood pressure
 
 Some patients come in with just one of these issues, but more commonly, many of these symptoms come all wrapped up with each other with complex correlations.
 
