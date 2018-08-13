@@ -1,6 +1,7 @@
 --- 
 layout: default 
 ---
+
 <div class="front-hero clearfix">
     <div class="front-hero-wrapper clearfix">
         <div class="slide">
@@ -75,9 +76,10 @@ layout: default
     <div class="popular-blog-topics-wrapper clearfix">
         <div class="subpage">
             <div class="header editable">
-                <h3>Popular Blog Topics</h3>
-                <h6>Click on a topic to learn more about Inger&rsquo;s style of practice.&nbsp; Or just click on the 5 Element links to have fun guessing which element you are!</h6>
-            </div>
+	<h3>Popular Blog Topics</h3>
+	<h6>Click on a topic to learn more about Inger&rsquo;s style of practice.&nbsp; Or check out the 5 Element links to just have fun guessing which element you are!</h6>
+	<h6>The 5 Element posts will also give you tips for staying balanced in each correlating season.</h6>
+</div>
             <ul>
                 {% assign sorted_categories = site.categories | sort:"popular_blog_topics.order" %} 
                 {% for popular in sorted_categories %} 
