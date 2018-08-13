@@ -3,7 +3,7 @@ title: Chronic Ailments
 areas_of_specialties:
   selected: true
   selected_title: Chronic Illness
-  selected_image: /assets/images/chronic-illness-acupuncture-hormones.jpg
+  selected_image: /assets/images/chronic-symptoms-acupuncture-square-bed.jpg
   order: 3
 search_engine_optimization:
   page_title: Chronic Ailments
