@@ -5,6 +5,7 @@ areas_of_specialties:
   selected_title: Fatigue
   selected_image: /assets/images/conditions/acupuncture-for-fatigue-sleepiness.jpg
   order: 5
+hero_image:
 search_engine_optimization:
   page_title:
   page_description:

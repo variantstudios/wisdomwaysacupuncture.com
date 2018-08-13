@@ -5,6 +5,7 @@ areas_of_specialties:
   selected_title: Women's Health
   selected_image: /assets/images/conditions/acupuncture-woman-walking-square.jpg
   order: 1
+hero_image:
 search_engine_optimization:
   page_title:
   page_description:
