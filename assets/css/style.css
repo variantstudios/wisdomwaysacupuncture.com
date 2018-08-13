@@ -1332,6 +1332,19 @@ aside {
   text-align: right;
 }
 
+img.right-inline {
+  float: right;
+}
+
+img.left-inline {
+  float: left;
+}
+
+img.center-block {
+  display: block;
+  margin: 0 auto;
+}
+
 a.call-to-action {
   color: #fff;
   text-decoration: none;

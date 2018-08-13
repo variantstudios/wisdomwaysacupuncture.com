@@ -47,12 +47,28 @@ aside {
     max-width: 1200px;
     margin: 0 auto;
 }
+
 .align-to-center {
     text-align: center;
 }
+
 .align-to-left {
     text-align: left;
 }
+
 .align-to-right {
     text-align: right;
+}
+
+img.right-inline {
+    float: right;
+}
+
+img.left-inline {
+    float: left;
+}
+
+img.center-block {
+    display: block;
+    margin: 0 auto;
 }
