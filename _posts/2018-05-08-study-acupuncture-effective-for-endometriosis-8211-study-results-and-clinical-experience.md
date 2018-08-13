@@ -18,7 +18,9 @@ categories:
   - womens-health
 ---
 
-<div id="attachment_3635"><a href="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920.jpg"><img alt="endometriosis acupuncture" srcset="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg 150w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-300x200.jpg 300w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-768x513.jpg 768w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-1024x684.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" src="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg" /></a><p>Sooth your endometriosis pain with acupuncture</p></div>
+<div id="attachment_3635"><a href="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920.jpg"><img alt="endometriosis acupuncture" srcset="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg 150w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-300x200.jpg 300w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-768x513.jpg 768w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-1024x684.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" src="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg" /></a>
+		<p>Sooth your endometriosis pain with acupuncture</p>
+	</div>
 
 ## My experience using acupuncture for endometriosis
 
