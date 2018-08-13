@@ -3,7 +3,7 @@ title: Chronic Ailments
 areas_of_specialties:
   selected: true
   selected_title: Chronic Ailments
-  selected_image: /assets/images/chronic-ailments-acupuncture.jpg
+  selected_image: /assets/images/chronic-illness-acupuncture-hormones.jpg
   order: 3
 search_engine_optimization:
   page_title: Chronic Ailments
@@ -32,11 +32,11 @@ It's that complex pattern of the way these "internal" medical issues play out in
 
 It can be confusing to understand how an acupuncturist can specialize in such varying ailments, but here's why.
 
-Acupuncture is a holistic form of treatment – meaning that the entire body and all its symptoms are treated as a whole rather than as separate problems.&nbsp; So the reason why we can "specialize" in many different illnesses, is because symptoms tend to all be related to the same underlying problem, and come not individually but along with many others.
+Acupuncture is a holistic form of treatment – meaning that the entire body and all its symptoms are treated as a whole rather than as separate problems.  So the reason why we can "specialize" in many different illnesses, is because symptoms tend to all be related to the same underlying problem, and come not individually but along with many others.
 
-You have probably experienced that yourself—your migraines tend to be worse the same months your PMS is really bad.&nbsp; Your depression/anxiety acts up right when your IBS is at its worst.&nbsp; Your fibromyalgia worsens when you are extra fatigued.
+You have probably experienced that yourself—your migraines tend to be worse the same months your PMS is really bad.  Your depression/anxiety acts up right when your IBS is at its worst.  Your fibromyalgia worsens when you are extra fatigued.
 
-If you were seeing western specialists, you would go to a different specialist for each of these issues.&nbsp; But because acupuncturists don't treat based on symptoms, and rather on "patterns" of symptoms which make up your diagnosis of imbalance, we treat all the things associated with an imbalance at the same time. &nbsp;
+If you were seeing western specialists, you would go to a different specialist for each of these issues.  But because acupuncturists don't treat based on symptoms, and rather on "patterns" of symptoms which make up your diagnosis of imbalance, we treat all the things associated with an imbalance at the same time.  
 
 ### Don't all acupuncturists work holistically then?
 
