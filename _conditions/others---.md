@@ -28,4 +28,7 @@ For example, many of the women I treat also commonly have high blood pressure, t
 However, there are certain conditions that I feel are better treated by others who have specific advanced training in those ailments and stay on top of all the latest western/complementary treatments (ex: injuries/most orthopedic problems, cancer, IVF, addiction, & others); and I refer out in these cases. For a more detailed list see my [Conditions Treated](/conditions-treated/) page
 
 If in doubt, give us a call! Our primary goal is to help you work with the person who can help you the most and give you the best care; and if we don’t think that’s us, we’ll tell you!
-{: .light_gray_message}
+{: .light_gray_message.align-to-center}
+
+(970) 227-3077
+{: .light_gray_message.align-to-center}
