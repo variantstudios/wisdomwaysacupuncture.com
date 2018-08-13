@@ -1,8 +1,8 @@
 ---
-title: Chronic
+title: Chronic Ailments
 areas_of_specialties:
   selected: true
-  selected_title: Chronic Ailments
+  selected_title: Chronic
   selected_image: /assets/images/chronic-ailments-acupuncture.jpg
   order: 3
 search_engine_optimization:
