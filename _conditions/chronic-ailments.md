@@ -5,6 +5,7 @@ areas_of_specialties:
   selected_title: Chronic Illness
   selected_image: /assets/images/chronic-illness-ailments-acupuncture.jpg
   order: 3
+hero_image:
 search_engine_optimization:
   page_title: Chronic Ailments
   page_description:

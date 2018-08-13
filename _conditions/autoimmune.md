@@ -5,6 +5,7 @@ areas_of_specialties:
   selected_title: Autoimmunity
   selected_image: /assets/images/acupuncture-inflammation-autoimmune-2.jpg
   order: 4
+hero_image:
 search_engine_optimization:
   page_title:
   page_description:
