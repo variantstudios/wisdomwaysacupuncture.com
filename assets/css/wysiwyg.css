@@ -78,3 +78,19 @@ img.center-block {
 .align-to-center {
     text-align: center;
 }
+
+a.call-to-action {
+    color: #fff;
+    text-decoration: none;
+    background-color: #5C0A0C;
+    border-radius: 6px;
+    padding: 0.5rem 1.2rem;
+    font-family: "Forum", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+    display: inline-block;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    position: relative;
+    margin: 2rem 0;
+}
