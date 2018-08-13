@@ -13,7 +13,7 @@ search_engine_optimization:
 
 Emotional wellness is addressed with every patient regardless of what they come in for, but many people get acupuncture specifically for anxiety, depression, panic attacks, unmanageable stress, and problems like OCD or ADHD.
 
-In Chinese medicine we don’t recognize a difference between mental and physical wellness, and therefore just look for each individual’s unique imbalances which always explain to us the underlying “why” behind the symptoms.
+In Chinese medicine we don’t recognize a difference between mental and physical wellness, and therefore just look for each individual’s unique imbalances -- which always explain to us the underlying “why” behind the symptoms.
 
 When we treat the underlying cause, which in acupuncture is called our “root imbalance”, then treatment for many emotional imbalances is extremely effective.
 
