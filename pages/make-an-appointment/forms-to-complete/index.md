@@ -12,7 +12,7 @@ permalink: "/make-an-appointment/forms-to-complete/"
 # Forms to Complete
 
 Please print and complete ALL of the relevant\* forms in the links below, and bring them to your first acupuncture visit. If you do not have a printer or need to fill them out once you arrive, please email or call to let us know you will be arriving 30-40 minutes early to complete the forms, and we will have them waiting and ready for you when you arrive.<br><br>It often takes people up to 30 minutes to complete all forms, so we recommend not waiting until the last minute!
-{: .dark_gray_message}
+{: .light_gray_message}
 
 **\*FERTILITY PATIENTS:&nbsp;**&nbsp;Please note that you have an extra form to complete, outlining your fertility history
 
