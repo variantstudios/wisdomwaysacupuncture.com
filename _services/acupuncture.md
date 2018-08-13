@@ -19,6 +19,9 @@ Despite how this sounds, these are usually very relaxing sensations. In fact, mo
 ![Acupuncture-treatment-pulse-and-tongue](/assets/images/tongue-and-pulse-acupuncture-treatment.jpg "Acupuncturist taking a pulse and tongue diagnosis during acupuncture treatment")
 {: .align-to-center}
 
+###### Doing pulse and tongue diagnosis during acupuncture treatment
+{: .align-to-center}
+
 ### How does acupuncture work?
 
 The traditional Chinese theory behind acupuncture as medical treatment is very different from that of Western medicine. In traditional Chinese medicine, health is a result of a harmonious balance between the complementary extremes (yin and yang) of the life force known as Qi. Illness results from an imbalance of these forces.
