@@ -3,7 +3,7 @@ title: Chronic Ailments
 areas_of_specialties:
   selected: true
   selected_title:
-  selected_image:
+  selected_image: /assets/images/chronic-illness-acupuncture-square.jpg
   order: 3
 search_engine_optimization:
   page_title: Chronic Ailments
