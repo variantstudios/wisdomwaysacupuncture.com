@@ -1,9 +1,9 @@
 ---
-title: Autoimmune
+title: Acupuncture for Autoimmunity
 areas_of_specialties:
   selected: true
-  selected_title: Autoimmune
-  selected_image: /assets/images/conditions/DSC07519.jpg
+  selected_title: Autoimmunity
+  selected_image: /assets/images/conditions/acupuncture-inflammation-autoimmune-square.jpg
   order: 4
 search_engine_optimization:
   page_title:
