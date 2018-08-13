@@ -94,3 +94,7 @@ a.call-to-action {
     position: relative;
     margin: 2rem 0;
 }
+
+p.a.call-to-action {
+    color: #fff;
+}
