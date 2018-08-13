@@ -1,10 +1,8 @@
 ---
 title: Test Float Images Post
-date:
+date: 2018-08-13 21:34:34
 categories:
-  -
 tags:
-  -
 hero_image: /assets/images/heroes/sub-page-hero-example.jpg
 search_engine_optimization:
   page_title:
@@ -12,3 +10,4 @@ search_engine_optimization:
   share_image_path:
 layout: post
 ---
+
