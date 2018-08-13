@@ -42,6 +42,6 @@ If you were seeing western specialists, you would go to a different specialist f
 
 While using Chinese medicine holistically goes back to the foundations of the medicine, the actual practice of it is becoming less and less common.
 
-Personal treatment style plays a huge role in how holistic any given acupuncturist is. But other factors like a person's foundational training, or if they specialize in issues like orthopedic pain which are often treated as stand-alone issues, will influence how holistically an acupuncturist works.
+Personal treatment style plays a huge role in how holistic any given acupuncturist is. But other factors like a person's foundational training, if they specialize in issues like orthopedic pain which are often treated as stand-alone issues, or if they incorporate nutrition and emotional work into the treatment; will influence how holistically an acupuncturist works.
 
-Many schools have also moved into teaching a more western and "integrative" approach to acupuncture, which inevitably means that diagnosis becomes more mechanistic and reductionist, moving more towards a western model and away from holism.
+Many schools have also moved into teaching a more western and "integrative" approach to acupuncture, which inevitably means that diagnosis becomes more mechanistic, moving away from holism and more towards a western reductionist model.
