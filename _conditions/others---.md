@@ -13,9 +13,11 @@ search_engine_optimization:
 
 #### Not sure you’re a good fit for Acupuncture with me?
 
-If you’ve looked through my website and you think you might be a good fit for acupuncture with me, but you don’t see your specific issue listed under my “Conditions Treated”, then give us a call! (970) 227-3077.&nbsp; We will happily listen to your main concerns and either help you book with us, or give you the name or names of other acupuncturist/s in Fort Collins who we think could help you more than we can.
+If you’ve looked through my website and you think you might be a good fit for acupuncture with me, but you don’t see your specific issue listed under my “Conditions Treated”, then give us a call!
 
-### Other conditions I commonly treat
+We will happily listen to your main concerns and either help you book with us, or give you the name or names of other acupuncturist/s in Fort Collins who we think could help you more than we can.
+
+#### Other conditions I commonly treat
 
 Since I work holistically there is no way to list all the diseases related to the symptoms I treat, and/or other symptoms that come along with a patient’s main concerns.
 
