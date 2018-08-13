@@ -1,5 +1,5 @@
 ---
-title: Chronic Ailments
+title: Chronic Symptoms
 areas_of_specialties:
   selected: true
   selected_title: Chronic Ailments
