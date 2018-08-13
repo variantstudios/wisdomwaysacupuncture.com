@@ -1320,29 +1320,31 @@ aside {
   clear: both;
 }
 
-.align-to-center {
-  text-align: center;
+img.right-inline {
+  float: right;
+  margin: 0 0 1rem 1rem;
 }
 
-.align-to-left {
-  text-align: left;
+img.left-inline {
+  float: left;
+  margin: 0 1rem 1rem 0;
+}
+
+img.center-block {
+  display: block;
+  margin: 0 auto;
 }
 
 .align-to-right {
   text-align: right;
 }
 
-img.align-to-right {
-  float: right;
+.align-to-left {
+  text-align: left;
 }
 
-img.align-to-left {
-  float: left;
-}
-
-img.align-to-center {
-  display: block;
-  margin: 0 auto;
+.align-to-center {
+  text-align: center;
 }
 
 a.call-to-action {

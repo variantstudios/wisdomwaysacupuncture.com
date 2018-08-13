@@ -53,18 +53,19 @@ p.error_message {
 }
 
 img.right-inline {
-  float: right;
+    float: right;
+    margin: 0 0 1rem 1rem;
 }
 
 img.left-inline {
-  float: left;
+    float: left;
+    margin: 0 1rem 1rem 0;
 }
 
 img.center-block {
-  display: block;
-  margin: 0 auto;
+    display: block;
+    margin: 0 auto;
 }
-
 
 .align-to-right {
     text-align: right;
