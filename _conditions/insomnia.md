@@ -1,5 +1,5 @@
 ---
-title: Insomnia
+title: Acupuncture for Insomnia
 areas_of_specialties:
   selected: false
   selected_title: Insomnia
