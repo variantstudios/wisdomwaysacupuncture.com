@@ -15,7 +15,7 @@ search_engine_optimization:
 
 If you’re looking for other options besides aggressive hormone regiments or IVF, and you’ve got the time and the emotional space to work on resolving the underlying causes related to infertility, then we’re probably a great fit for you!
 
-[test](https://google.com){: .call-to-action}
+<div>[test](https://google.com){: .call-to-action}</div>
 
 I decided to work deeper with infertility after years of noting that many of my acupuncture patients coming to me for separate issues — who also informed me that they had been trying unsuccessfully for a year or more to get pregnant — would suddenly become pregnant after starting acupuncture treatment.
 
