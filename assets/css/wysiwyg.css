@@ -80,7 +80,7 @@ img.center-block {
 }
 
 a.call-to-action {
-    color: #fff;
+    color: #fff !important;
     text-decoration: none;
     background-color: #5C0A0C;
     border-radius: 6px;
@@ -96,5 +96,5 @@ a.call-to-action {
 }
 
 p.a.call-to-action {
-    color: #fff;
+    color: #fff !important;
 }
