@@ -8,7 +8,7 @@ areas_of_specialties:
 search_engine_optimization:
   page_title:
   page_description:
-  share_image_path:
+  share_image_path: /assets/images/acupuncture-inflammation-autoimmune-square.jpg
 ---
 
 I have a personal passion for treating auto-immunity, since my Significant Other was diagnosed with MS several years ago. We immediately started treating him with a combination of Chinese medicine and anti-inflammatory nutrition, and he’s living a completely normal life, with no sign of the disease… at all.
