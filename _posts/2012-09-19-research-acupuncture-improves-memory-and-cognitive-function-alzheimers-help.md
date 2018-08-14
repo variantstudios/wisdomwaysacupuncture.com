@@ -1,17 +1,6 @@
 ---
-
 title: 'Research: Acupuncture Improves Memory and Cognitive Function&#8212;Alzheimer&#8217;s Help'
 date: 2012-09-19T11:38:41+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Research: Acupuncture Improves Memory, Brain Fog, and Cognitive Function---Alzheimer's Help"
-thesis_description:
-  - New research confirms the effectiveness of a common pair of acupuncture points, called the "Four Gates", for Memory, Brain Fog, and Cognitive Function
-thesis_keywords:
-  - acupuncture and poor memory, acupuncture and brain fog, acupuncture fort collins, fort collins acupuncture
 categories:
   - exciting-acupuncture-research
 tags:
@@ -19,6 +8,12 @@ tags:
   - cognitive function
   - alzheimers
   - memory
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Research: Acupuncture Improves Memory, Brain Fog, and Cognitive Function---Alzheimer's Help"
+  page_description: 'New research confirms the effectiveness of a common pair of acupuncture points, called the "Four Gates", for Memory, Brain Fog, and Cognitive Function'
+  share_image_path:
+layout: post
 ---
 <div style="width: 206px" class="wp-caption alignleft">
   <a href="http://www.healthcmi.com/images/acuCloud2/acupunctureceusalzheimers9.jpg"><img title="Acupuncture Stimulates Brain to Improve Memory" src="http://www.healthcmi.com/images/acuCloud2/acupunctureceusalzheimers9.jpg" alt="Acupuncture CEUs Online" width="196" height="193" /></a>

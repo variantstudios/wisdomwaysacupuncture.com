@@ -1,19 +1,16 @@
 ---
-
 title: More Americans Using Acupuncture for Common Ailments
 date: 2013-01-03T14:21:00+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - More Americans Using Acupuncture for Common Ailments
-thesis_description:
-  - 'There has been a 600% increase in the number of Americans turning to acupuncture in the last decade.  '
-thesis_keywords:
-  - acupuncture-fort-collins, fort collins acupuncture
 categories:
   - random-musings
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: More Americans Using Acupuncture for Common Ailments
+  page_description: 'There has been a 600% increase in the number of Americans turning to acupuncture in the last decade.  '
+  share_image_path:
+layout: post
 ---
 [<img class="alignleft size-thumbnail wp-image-726" title="man laying with acupuncture needles" src="/assets/images/wp-content/uploads/2010/06/man-laying-with-acupuncture-needles-135x150.jpg" alt="acupuncture" width="135" height="150" srcset="/assets/images/wp-content/uploads/2010/06/man-laying-with-acupuncture-needles-135x150.jpg 135w, /assets/images/wp-content/uploads/2010/06/man-laying-with-acupuncture-needles.jpg 138w" sizes="(max-width: 135px) 100vw, 135px" />](/assets/images/wp-content/uploads/2010/06/man-laying-with-acupuncture-needles.jpg)A new survey is indicating that more and more Americans are using acupuncture not only as a complementary or alternative treatment, but as a primary form of medicine focusing on the promotion of general health&#8230;what acupuncturists would call &#8220;balance&#8221;.
 

@@ -1,20 +1,17 @@
 ---
-
 title: 'Succcess Stories from the Acupuncture Clinic: Fatigue, Menopause'
 date: 2011-11-11T11:05:36+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "This Week's Succcess Stories: Acupuncture, Chinese Medicine, and Fatigue"
-thesis_description:
-  - 'Acupuncture success stories: severe fatigue and menopause symptoms'
 categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
 tags:
   - fatigue
   - menopause
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "This Week's Succcess Stories: Acupuncture, Chinese Medicine, and Fatigue"
+  page_description: 'Acupuncture success stories: severe fatigue and menopause symptoms'
+  share_image_path:
+layout: post
 ---
 **One of the most common issues I treat in my acupuncture clinic is fatigue, and the conglomeration of symptoms that commonly go along with it. Because we are currently in [fall season](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/), and the energy is waning everywhere around us, I thought I&#8217;d focus my success stories of this week around fatigue, since more and more people are coming in for treatment at this time of year for this issue, and see me throughout the winter to keep their energy and spirits up.**
 

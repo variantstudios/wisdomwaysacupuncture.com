@@ -1,26 +1,17 @@
 ---
-
 title: Wisdom Ways Acupuncture Has a Beautiful New Home!
 date: 2013-02-01T15:49:21+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Wisdom Ways Acupuncture Has Moved to a New Home
-thesis_description:
-  - "Wisdom Ways Acupuncture has a new home, 363 W. Drake Road Suite 1. It's cozy, inviting, and centrally located just west of College on Drake Road.  "
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - uncategorized
 tags:
   - acupuncture-fort-collins
   - fort-collins-acupuncture
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Wisdom Ways Acupuncture Has Moved to a New Home
+  page_description: "Wisdom Ways Acupuncture has a new home, 363 W. Drake Road Suite 1. It's cozy, inviting, and centrally located just west of College on Drake Road.  "
+  share_image_path:
+layout: post
 ---
 [<img class="alignleft wp-image-1396 " title="Acupuncture Reception " src="/assets/images/wp-content/uploads/2013/02/IMG_2035-150x112.jpg" alt="Acupuncture Reception area" width="270" height="201" />](/assets/images/wp-content/uploads/2013/02/IMG_2035.jpg)Wisdom Ways Acupuncture has moved, and I&#8217;m so pleased with the new location!
 

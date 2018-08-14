@@ -1,21 +1,16 @@
 ---
-
 title: Updates from the Acupuncture Clinic!
 date: 2013-09-15T16:59:44+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Updates and Changes in the Acupuncture Office!
-thesis_description:
-  - 'Acupuncture clinic is going digital and taking insurance! '
-thesis_keywords:
-  - Acupuncture, Acupuncture Fort Collins, Fort Collins acupuncture, Cigna, United, Blue Cross, Anthem, Blue Shield
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - uncategorized
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Updates and Changes in the Acupuncture Office!
+  page_description: 'Acupuncture clinic is going digital and taking insurance! '
+  share_image_path:
+layout: post
 ---
 <div>
   <strong>Phyoo, what a summer it&#8217;s been in the acupuncture clinic! In fact, what a year it&#8217;s been!  There has been much growth and change over here at Wisdom Ways Acupuncture, and I look forward to the new foundations making things even better. </strong>

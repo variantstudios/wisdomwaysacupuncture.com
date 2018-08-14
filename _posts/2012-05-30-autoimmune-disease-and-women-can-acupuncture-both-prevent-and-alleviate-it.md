@@ -1,23 +1,18 @@
 ---
-
 title: 'Autoimmune Disease and Women: Can Acupuncture both Prevent and Alleviate it?'
 date: 2012-05-30T17:11:03+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Autoimmune Disease and Women: Can Acupuncture both Prevent and Alleviate it?'
-thesis_description:
-  - Acupuncture and Chinese herbs can not only prevent auto-immune symptoms, but can effectively treat them once they are occurring.
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - random-musings
 tags:
   - yin-deficiency
   - auto-immunity
   - autoimmunity
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Autoimmune Disease and Women: Can Acupuncture both Prevent and Alleviate it?'
+  page_description: Acupuncture and Chinese herbs can not only prevent auto-immune symptoms, but can effectively treat them once they are occurring.
+  share_image_path:
+layout: post
 ---
 <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/112.jpg" alt="Acupuncture treats Lupus" width="180" height="122" align="left" border="0" hspace="5" vspace="5" />
 

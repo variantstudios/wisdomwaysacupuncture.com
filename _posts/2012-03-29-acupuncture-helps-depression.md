@@ -1,25 +1,16 @@
 ---
-
 title: 'Acupuncture Helps Depression: Acupuncture Research'
 date: 2012-03-29T11:11:51+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture Helps Depression: Acupuncture Research'
-thesis_description:
-  - A study found that boosting the effect of acupuncture with electric currents increases the ability of acupuncture to help depression.
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, acupuncture for depression
-thesis_post_image_horizontal:
-  - left
-thesis_post_image_vertical:
-  - after-headline
 categories:
   - exciting-acupuncture-research
 tags:
   - acupuncture-for-depression
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture Helps Depression: Acupuncture Research'
+  page_description: A study found that boosting the effect of acupuncture with electric currents increases the ability of acupuncture to help depression.
+  share_image_path:
+layout: post
 ---
 <div id="attachment_1278" style="width: 124px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2012/03/Acupuncture-for-depression.jpg"><img class="size-full wp-image-1278 " title="Acupuncture helps depression" src="/assets/images/wp-content/uploads/2012/03/Acupuncture-for-depression.jpg" alt="Acupuncture helps depression, study shows" width="114" height="116" /></a>

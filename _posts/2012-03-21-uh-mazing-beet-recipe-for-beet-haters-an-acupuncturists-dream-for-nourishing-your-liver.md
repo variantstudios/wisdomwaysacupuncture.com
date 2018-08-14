@@ -1,21 +1,6 @@
 ---
-
 title: 'Uh-MAZing Beet Recipe for Beet-Haters! An Acupuncturist&#8217;s Dream for Nourishing your Liver'
 date: 2012-03-21T18:07:50+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Uh-MAZing Beet Recipe for Beet Haters! An Acupuncturist's Dream for Nourishing your Liver"
-thesis_description:
-  - 'Beets are great for nourishing your "liver blood". The Wood/liver season of acupuncture theory is the perfect time to eat as many beets as possible! '
-thesis_keywords:
-  - acupuncture, alternative medicine, Wood Element, chinese medicine, acupuncture fort collins, fort collins acupuncture, alternative medicine, integrative medicine
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - spring--wood-element
   - eating-with-the-seasons
@@ -23,6 +8,12 @@ categories:
 tags:
   - medicinal-foods
   - liver-blood
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Uh-MAZing Beet Recipe for Beet Haters! An Acupuncturist's Dream for Nourishing your Liver"
+  page_description: 'Beets are great for nourishing your "liver blood". The Wood/liver season of acupuncture theory is the perfect time to eat as many beets as possible! '
+  share_image_path:
+layout: post
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/105.jpg" alt="Beets Acupuncture" width="142" height="189" align="left" border="0" hspace="5" vspace="5" />People love hating beets.
 

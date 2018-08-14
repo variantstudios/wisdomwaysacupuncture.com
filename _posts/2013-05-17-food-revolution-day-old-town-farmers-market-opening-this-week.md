@@ -1,24 +1,17 @@
 ---
-
 title: 'Food Revolution Day &#038; Old Town Farmer&#8217;s Market Opening: THIS WEEK!'
 date: 2013-05-17T17:57:10+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "I May Be an Acupuncturist, but I'm also a Foodie, so You'll Find me at the opening of our Old Town Fort Collins Farmer's Market!"
-thesis_description:
-  - "I May Be an Acupuncturist, but I'm also a Foodie, so You'll Find me at the opening of our Old Town Farmer's Market! "
-thesis_keywords:
-  - acupuncturist fort collins
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - nutrition--food
 tags:
   - locavore
   - local-food
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "I May Be an Acupuncturist, but I'm also a Foodie, so You'll Find me at the opening of our Old Town Fort Collins Farmer's Market!"
+  page_description: "I May Be an Acupuncturist, but I'm also a Foodie, so You'll Find me at the opening of our Old Town Farmer's Market! "
+  share_image_path:
+layout: post
 ---
 <div>
   <div id="attachment_1515" style="width: 131px" class="wp-caption alignleft">

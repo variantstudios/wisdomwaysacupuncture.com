@@ -1,23 +1,16 @@
 ---
-
 title: 'UCSF study: Acupuncture for Pain as Effective as Morphine'
 date: 2013-04-02T10:37:25+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'UCSF study: Acupuncture for Pain as Effective as Morphine'
-thesis_description:
-  - 'This blog shares two separate studies that have recently shown that using acupuncture for pain is very effective. '
-thesis_keywords:
-  - acupuncture for pain
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - exciting-acupuncture-research
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'UCSF study: Acupuncture for Pain as Effective as Morphine'
+  page_description: 'This blog shares two separate studies that have recently shown that using acupuncture for pain is very effective. '
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;"><strong>Using Acupuncture for pain as a substitute for drugs like morphine</strong></span>
 

@@ -1,17 +1,6 @@
 ---
-
 title: 'Liver Imbalance: Acupuncture and: Headaches, Migraines, Digestive Problems, Insomnia, Stress/Agitation and More!'
 date: 2012-03-14T12:59:06+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Liver Imbalance: Acupuncture and Headaches, Migraines, Digestive Problems, Insomnia, Stress and Agitation and More'
-thesis_description:
-  - 'Liver imbalance brings blocked Qi, with common symptoms: headaches, migraines, digestive problems, insomnia, & anxiety. Acupuncture moves blocked Qi. '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, liver imbalance
 categories:
   - my-approach--philosophy-and-stories
   - spring--wood-element
@@ -19,6 +8,12 @@ tags:
   - liver-qi-stagnation
   - stress
   - liver-imbalance
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Liver Imbalance: Acupuncture and Headaches, Migraines, Digestive Problems, Insomnia, Stress and Agitation and More'
+  page_description: 'Liver imbalance brings blocked Qi, with common symptoms: headaches, migraines, digestive problems, insomnia, & anxiety. Acupuncture moves blocked Qi. '
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;"><strong>Liver related symptoms get exacerbated in the Wood Element Season of acupuncture theory</strong></span>
 

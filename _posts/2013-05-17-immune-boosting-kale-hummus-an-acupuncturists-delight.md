@@ -1,21 +1,16 @@
 ---
-
 title: 'Immune Boosting Kale Hummus: An Acupuncturist&#8217;s Delight'
 date: 2013-05-17T17:15:45+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Recipe - Kale Hummus: An Acupuncturist's Liver Balancing Delight"
-thesis_description:
-  - "As an acupuncturist, I'm somewhat fanatical about the benefits of dark leafy greens, and particularly kale, for balancing your liver.  But it's always a challenge to eat enough as we'd like.  Here's an unusual way to squeeze more kale into your diet, which according to acupuncture theory, will help keep you balanced as we progress through spring."
-thesis_keywords:
-  - acupuncture, acupuncturist, acupuncture fort collins, kale, liver imbalance
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - recipes
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Recipe - Kale Hummus: An Acupuncturist's Liver Balancing Delight"
+  page_description: "As an acupuncturist, I'm somewhat fanatical about the benefits of dark leafy greens, and particularly kale, for balancing your liver.  But it's always a challenge to eat enough as we'd like.  Here's an unusual way to squeeze more kale into your diet, which according to acupuncture theory, will help keep you balanced as we progress through spring."
+  share_image_path:
+layout: post
 ---
 ##### <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/158.jpg" alt="kale hummus acupuncture" width="207" height="137" align="right" border="0" hspace="10" vspace="5" /> <span style="color: #999999;">(post update: This was written before I went paleo&#8230;you can still make it by just subbing steamed cauliflower for the beans!)</span>
 

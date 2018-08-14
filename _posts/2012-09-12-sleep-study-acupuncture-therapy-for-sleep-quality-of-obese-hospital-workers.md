@@ -1,24 +1,17 @@
 ---
-
 title: 'Sleep Study: Acupuncture Therapy for Sleep Quality of Obese Hospital Workers'
 date: 2012-09-12T12:04:56+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Sleep Study: Acupuncture Therapy for Sleep Quality'
-thesis_description:
-  - 'Acupuncture is shown in study to improve sleep, and the results I get clinically show the same. '
-thesis_keywords:
-  - acupuncture, alternative medicine, chinese medicine, sleep, insomnia, acupuncture fort collins, fort collins acupuncture, alternative medicine, integrative medicine
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - exciting-acupuncture-research
 tags:
   - sleep
   - insomnia
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Sleep Study: Acupuncture Therapy for Sleep Quality'
+  page_description: 'Acupuncture is shown in study to improve sleep, and the results I get clinically show the same. '
+  share_image_path:
+layout: post
 ---
  **<a id="sum6" name="sum6"></a>**
 

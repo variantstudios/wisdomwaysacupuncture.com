@@ -1,23 +1,16 @@
 ---
-
 title: 'It&#8217;s a Kale Conspiracy!!!  An Acupuncturist gets Inundated with Kale&#8230;'
 date: 2013-04-03T16:15:48+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "A Kale Conspiracy Puts a Mountain of Kale on this Acupuncturist's plate"
-thesis_description:
-  - In my acupuncture clinic, I obsess over kale! Acupuncture theory says that kale, and all greens, balance the liver.
-thesis_keywords:
-  - food for liver
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - nutrition--food
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "A Kale Conspiracy Puts a Mountain of Kale on this Acupuncturist's plate"
+  page_description: In my acupuncture clinic, I obsess over kale! Acupuncture theory says that kale, and all greens, balance the liver.
+  share_image_path:
+layout: post
 ---
 <table width="191" align="left">
   <tr>

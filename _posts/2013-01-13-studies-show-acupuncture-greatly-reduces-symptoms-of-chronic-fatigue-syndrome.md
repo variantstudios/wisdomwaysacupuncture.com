@@ -1,19 +1,16 @@
 ---
-
 title: Studies Show Acupuncture Greatly Reduces Symptoms of Chronic Fatigue Syndrome
 date: 2013-01-13T12:31:15+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Studies show acupuncture has a dramatic effect on Chronic Fatigue '
-thesis_description:
-  - 'Studies show acupuncture & treatments commonly done during acupuncture sessions have a dramatic & beneficial effect on Chronic Fatigue Syndrome (CFS).  '
-thesis_keywords:
-  - Acupuncture, chinese medicine, chronic fatigue, fibromyalgia, Acupuncture Fort Collins, Fort Collins Acupuncture
 categories:
   - exciting-acupuncture-research
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Studies show acupuncture has a dramatic effect on Chronic Fatigue '
+  page_description: 'Studies show acupuncture & treatments commonly done during acupuncture sessions have a dramatic & beneficial effect on Chronic Fatigue Syndrome (CFS).  '
+  share_image_path:
+layout: post
 ---
 
 **![](/assets/images/acupuncture-fatigue-1.jpg)New studies being reported on by Acufinder.com show that acupuncture (and other treatments also commonly administered during acupuncture sessions) has a dramatic and beneficial effect on symptoms of Chronic Fatigue Syndrome (CFS).** From their article, “Patients ranging in age from 28-54 received sliding cupping treatments twice a week for a total of 12 treatments. &nbsp; **The results showed there was vast improvement in fatigue levels, insomnia, poor memory, spontaneous sweating, sore throat, profuse dreams, poor intake, abdominal distention, diarrhea, and alternating constipation and diarrhea.”**
