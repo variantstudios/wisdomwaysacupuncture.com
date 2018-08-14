@@ -1,7 +1,7 @@
 ---
 title: >-
-  'What does "Balance" Actually Mean in the Acupuncture Clinic? How
-  to Know if You're Balanced and How we Get You Back to Balance'
+  What does "Balance" Actually Mean in the Acupuncture Clinic? How
+  to Know if You're Balanced and How we Get You Back to Balance
 categories:
   - my-approach--philosophy-and-stories
   - random-musings
@@ -9,7 +9,7 @@ tags:
   - quick-tag 
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
-  page_title: "What Acupuncturists Mean by "Balance" and How to Know if You're There"
+  page_title: What Acupuncturists Mean by "Balance" and How to Know if You're There
   page_description: 'Acupuncturists frequently use a very vague word, "balance". This explains
     what this means, how to know when you're out of balance, & how we help you
     get back in balance.'
