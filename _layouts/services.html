@@ -1,24 +1,6 @@
 --- 
 layout: page 
 ---
-{% if page.hero_image %}
-<div class="front-hero clearfix">
-    <div class="front-hero-wrapper clearfix">
-        <div class="slide">
-            <picture>
-                <!--[if IE 9]><video style="display: none;"><![endif]-->
-                <source srcset="{{site.cloudinaryurl}}image/fetch/w_400,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 400px)">
-                <source srcset="{{site.cloudinaryurl}}image/fetch/w_600,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 600px)">
-                <source srcset="{{site.cloudinaryurl}}image/fetch/w_800,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 800px)">
-                <source srcset="{{site.cloudinaryurl}}image/fetch/w_1000,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 1000px)">
-                <source srcset="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(min-width: 1200px)">
-                <!--[if IE 9]></video><![endif]-->
-                <img src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" alt="{{page.title}}">
-            </picture>
-        </div>
-    </div>
-</div>
-{% endif %} 
 <div>
     <h1>{{page.title}}</h1>
     <div>{{content}}</div>
