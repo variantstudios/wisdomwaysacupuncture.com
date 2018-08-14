@@ -13,10 +13,6 @@ search_engine_optimization:
   share_image_path:
 layout: post
 ---
-<div>
-  <strong> </strong>
-</div>
-
 <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/102.jpg" alt="Acupuncture and SAD" width="140" height="139" align="left" border="0" hspace="5" vspace="5" />
 
 **Many people coming for acupuncture suffer from Seasonal Affective Disorder, otherwise appropriately known as SAD. For people with SAD, cloudy days bring cloudy emotional states, including depression, low energy, and fuzzy thinking. For those people, dark days can literally be dangerous&#8230;places like Seattle, where there are an unusually high number of dreary days, have some of the highest suicide rates.** 

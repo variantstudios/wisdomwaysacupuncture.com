@@ -7,7 +7,7 @@ tags:
   -
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
-  page_title:  'Acupuncturist Recommendation: Take a Hot Ginger Bath During the First Stages of a Common Cold'
+  page_title: 'Acupuncturist Recommendation: Take a Hot Ginger Bath During the First Stages of a Common Cold'
   page_description: "Many herbs that treat colds are herbs that make you sweat. So acupuncturists prescribe sweating with baths if you're not sweating on your own during a cold."
   share_image_path:
 layout: post

@@ -7,7 +7,7 @@ tags:
   - medicinal-foods
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
-  page_title:  "Tips for Eating Raw Food without Eating Raw Food--From an Acupuncturist's Kitchen"
+  page_title: "Tips for Eating Raw Food without Eating Raw Food--From an Acupuncturist's Kitchen"
   page_description: "On hot days we just want to bite into a nice, cool, crisp salad. Here's one idea for those who shouldn't be eating raw foods. "
   share_image_path:
 layout: post

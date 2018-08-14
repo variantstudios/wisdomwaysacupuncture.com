@@ -8,12 +8,10 @@ tags:
   - cognitive function
   - alzheimers
   - memory
-tags:
-  -
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: "Research: Acupuncture Improves Memory, Brain Fog, and Cognitive Function---Alzheimer's Help"
-  page_description:  New research confirms the effectiveness of a common pair of acupuncture points, called the "Four Gates", for Memory, Brain Fog, and Cognitive Function
+  page_description: 'New research confirms the effectiveness of a common pair of acupuncture points, called the "Four Gates", for Memory, Brain Fog, and Cognitive Function'
   share_image_path:
 layout: post
 ---

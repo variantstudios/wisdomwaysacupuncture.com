@@ -9,7 +9,7 @@ hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: "When Your Diet Isn't Cutting It, Adding Supplements to your Acupuncture Can Help Boost Your Immune System"
   page_description: "Acupuncturists usually recommend you get all your nutrients from food, but when your diet just isn't cutting it, adding these supplements can help improve your immune system."
-  share_image_path: 
+  share_image_path:
 layout: post
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/154.jpg" alt="IgG Helps Acupuncture for Immunity" width="177" height="174" align="left" border="0" hspace="10" vspace="5" />
