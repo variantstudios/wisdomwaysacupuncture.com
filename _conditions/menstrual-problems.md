@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order:
-hero_image:
+hero_image: /assets/images/acupunture-menopause-fort-collins.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -22,9 +22,3 @@ Since western medicine has no great treatment for most menstrual issues, often o
 I typically also prescribe herbal formulas that change along with the cycle, and like all gynecological issues, herbs are typically a vital part of the treatment process if we’re going to get good results. My patients with menstrual problems are almost always able to get off their hormone treatments, if they so choose.
 
 Depending on your situation, I might have you start taking your basal body temperature, which can help us target treatment and gives us another lens through which to look at what is happening at the various stages of your cycle.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
