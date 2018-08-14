@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title: Fertility
   selected_image: /assets/images/acupuncture-for-fertility-square.jpg
   order: 2
-hero_image: /assets/images/pregnant-fort-collins-acupuncture.jpg
+hero_image: /assets/images/pregnant-fort-collins-acupuncture-fall.jpg
 search_engine_optimization:
   page_title:
   page_description:
