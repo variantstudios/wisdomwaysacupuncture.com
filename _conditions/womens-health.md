@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title: Women's Health
   selected_image: /assets/images/conditions/acupuncture-woman-walking-square.jpg
   order: 1
-hero_image:
+hero_image: /assets/images/womens-health-acupuncture-hero2.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -19,7 +19,3 @@ Being that women's health is one of my specialties, I work with it extensively a
 To see these specific details on some of the common issues I treat, scroll over the individual tabs under “Women’s Health”.
 
 Although not listed on the tabs, we also commonly treat: endometriosis, abnormal discharges, vaginal infections, itching/burning, pelvic pain, urinary symptoms, and more!
-
-&nbsp;
-
-&nbsp;
