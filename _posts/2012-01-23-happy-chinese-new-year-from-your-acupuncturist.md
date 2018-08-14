@@ -1,26 +1,17 @@
 ---
-
 title: Happy Chinese New Year from your Acupuncturist!
 date: 2012-01-23T16:50:25+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Happy Chinese New Year from your Acupuncturist!
-thesis_description:
-  - 'Acupuncturists notice the energies of the yearly cycles. With the economic crisis and increase in natural disasters, the luck of the Dragon is timely!  '
-thesis_keywords:
-  - acupuncture-fort-collins, fort collins acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - uncategorized
 tags:
   - chinese-new-year
   - year-of-dragon
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Happy Chinese New Year from your Acupuncturist!
+  page_description: 'Acupuncturists notice the energies of the yearly cycles. With the economic crisis and increase in natural disasters, the luck of the Dragon is timely!  '
+  share_image_path:
+layout: post
 ---
 As an acupuncturist I am very interested in health and longevity&#8230;therefore, the year 2012 is an exciting time in the Chinese calendar!
 

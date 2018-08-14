@@ -1,23 +1,16 @@
 ---
-
 title: 'What We Learn from the Leaves, As they Leave&#8230;'
 date: 2011-10-26T05:00:01+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "What We Learn from the Leaves as they Leave... An acupuncturist's look at the changing of the season."
-thesis_description:
-  - 'Acupuncturists know each season brings its medicine, & Metal season brings wisdom that will lead us to balance and spiritual/emotional health. '
-thesis_keywords:
-  - acupuncture, fort collins acupuncture, Acupuncture fort collins, metal element
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - autumn--metal-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "What We Learn from the Leaves as they Leave... An acupuncturist's look at the changing of the season."
+  page_description: 'Acupuncturists know each season brings its medicine, & Metal season brings wisdom that will lead us to balance and spiritual/emotional health. '
+  share_image_path:
+layout: post
 ---
 &nbsp;
 

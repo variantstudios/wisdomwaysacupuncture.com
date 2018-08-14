@@ -1,21 +1,18 @@
 ---
-
 title: 'Magic Mushrooms: An Acupuncturist&#8217;s Approach to More Immune Boosting Foods. Part IV of Constantly Sick in CO, What can we do?'
 date: 2013-03-13T17:54:10+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Magic Mushrooms!: Not the kind you're thinking of, but an acupuncturist's advice for using everyday mushrooms to supercharge your immunity."
-thesis_description:
-  - 'Acupuncture theory says that many mushrooms clear dampness out of the system, and western medicine says they are anti-cancer. '
 categories:
   - nutrition--food
 tags:
   - acupuncture-fort-collins
   - fort-collins-acupuncture
   - medicinal-foods
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Magic Mushrooms!: Not the kind you're thinking of, but an acupuncturist's advice for using everyday mushrooms to supercharge your immunity."
+  page_description: 'Acupuncture theory says that many mushrooms clear dampness out of the system, and western medicine says they are anti-cancer. '
+  share_image_path:
+layout: post
 ---
 <div>
   <img src="http://ih.constantcontact.com/fs124/1102844965003/img/145.jpg" alt="mushroom acupuncture remedy" width="228" height="178" align="left" border="0" hspace="10" vspace="5" />

@@ -1,21 +1,6 @@
 ---
-
 title: 'Wood Element/Spring &#038; Acupuncture Theory VIDEO: Tips to Keep Your Wood Element Balanced as we Head Into Spring'
 date: 2018-03-10T02:37:22+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Wood Element of Acupuncture Theory: Tips to Keep Your Wood Balanced'
-thesis_description:
-  - 'Video explains the Wood Element, related to Spring/Liver. Are you a Wood type? If so, use these tips to stay balanced in Spring and all year. '
-thesis_keywords:
-  - wood-element, liver qi stagnation, Wood type, liver imbalance
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - spring--wood-element
 tags:
@@ -25,6 +10,12 @@ tags:
   - acupuncture-and-anxiety
   - acupuncture-and-irritability
   - acupuncture-and-depression
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Wood Element of Acupuncture Theory: Tips to Keep Your Wood Balanced'
+  page_description: 'Video explains the Wood Element, related to Spring/Liver. Are you a Wood type? If so, use these tips to stay balanced in Spring and all year. '
+  share_image_path:
+layout: post
 ---
 As you watch this video, if you suspect you&#8217;re a Wood type because you see these qualities in yourself&#8230;_remember!_&#8230;it doesn&#8217;t mean that you&#8217;re like this all the time, or even that you ever display the extremely imbalanced traits that I discuss here. Those who are _very_ unbalanced in their element display the most exaggerated traits of that element, which are helpful to use as teaching points to illustrate the underlying drive of the element. But in many people it&#8217;s likely that the imbalances will show up as less dramatic displays of the same energy.
 

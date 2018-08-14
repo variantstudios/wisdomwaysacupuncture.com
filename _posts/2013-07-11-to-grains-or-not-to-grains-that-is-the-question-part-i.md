@@ -1,19 +1,16 @@
 ---
-
 title: 'To Grains or Not to Grains: That is the Question Part I'
 date: 2013-07-11T15:06:32+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'An Acupuncturist Asks, To Grains or Not to Grains: Part 2'
-thesis_description:
-  - "Acupuncture nutrition theory says grains are good, modern evidence says they're bad...who is right? Part 2 of navigating through conflicting ideas"
-thesis_keywords:
-  - nutrition fort collins, acupuncture nutrition fort collins
 categories:
   - nutrition--food
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'An Acupuncturist Asks, To Grains or Not to Grains: Part 2'
+  page_description: "Acupuncture nutrition theory says grains are good, modern evidence says they're bad...who is right? Part 2 of navigating through conflicting ideas"
+  share_image_path:
+layout: post
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/162.png" alt="acupuncture and grains" width="189" height="141" align="left" border="0" hspace="5" vspace="5" />**If you&#8217;ve been coming in to see me lately, you&#8217;ve probably noticed that I&#8217;ve been talking about grains more than I ever did before. Actually, I haven&#8217;t just been talking about grains, I&#8217;ve been \*thinking\* about grains&#8230;a _lot_.** 
 

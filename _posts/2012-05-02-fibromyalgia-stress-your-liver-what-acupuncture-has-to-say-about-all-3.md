@@ -1,23 +1,18 @@
 ---
-
 title: 'Fibromyalgia, Stress, and your Liver: What Acupuncture has to Say about all Three'
 date: 2012-05-02T14:52:08+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Fibromyalgia, Stress, your Liver: What Acupuncture has to Say about all 3'
-thesis_description:
-  - 'Acupuncture combined with managing stress is one of the best ways to balance the liver, and liver imbalance is usually involved in fibromyalgia. '
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, acupuncture for fibromyalgia
 categories:
   - my-approach--philosophy-and-stories
 tags:
   - liver-qi-stagnation
   - stress
   - acupuncture-and-fibromyalgia
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Fibromyalgia, Stress, your Liver: What Acupuncture has to Say about all 3'
+  page_description: 'Acupuncture combined with managing stress is one of the best ways to balance the liver, and liver imbalance is usually involved in fibromyalgia. '
+  share_image_path:
+layout: post
 ---
 <div id="attachment_1287" style="width: 160px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture.jpg"><img class="size-thumbnail wp-image-1287 " title="fibromyalgia acupuncture" src="/assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture-150x101.jpg" alt="Acupuncture for Fibromyalgia" width="150" height="101" srcset="/assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture-150x101.jpg 150w, /assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture-300x203.jpg 300w, /assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture.jpg 493w" sizes="(max-width: 150px) 100vw, 150px" /></a>

@@ -1,19 +1,16 @@
 ---
-
 title: Study Shows Acupuncture For Migraines More Effective than Common Medication
 date: 2013-04-01T15:38:59+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Study Shows Acupuncture For Migraines More Effective than Medication
-thesis_description:
-  - 'A new study shows that acupuncture for migraines more effective than a common medicine, depakote; in both short and long term results. '
-thesis_keywords:
-  - acupuncture for migraines
 categories:
   - exciting-acupuncture-research
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Study Shows Acupuncture For Migraines More Effective than Medication
+  page_description: 'A new study shows that acupuncture for migraines more effective than a common medicine, depakote; in both short and long term results. '
+  share_image_path:
+layout: post
 ---
 <h2 style="text-align: center;">
   <span style="color: #808000;">Acupuncture for Migraines more effective than medications</span>

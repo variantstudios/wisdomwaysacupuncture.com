@@ -1,26 +1,17 @@
 ---
-
 title: 'Constantly Sick in CO, What Can We Do, Part III: An Acupuncturist&#8217;s Approach to Supercharging Your Immunity'
 date: 2013-03-06T14:48:05+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Constantly Sick in CO, What Can We Do Part III: An Acupuncturist's Approach to Supercharging Your Immunity"
-thesis_description:
-  - 'As an acupuncturist, it is helpful to combine the Chinese medicine nutritional approach with what modern science says about nourishing our immunity. '
-thesis_keywords:
-  - immune-system, Acupuncture Fort Collins, Fort Collins Acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - nutrition--food
 tags:
   - immunity
   - immune-system
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Constantly Sick in CO, What Can We Do Part III: An Acupuncturist's Approach to Supercharging Your Immunity"
+  page_description: 'As an acupuncturist, it is helpful to combine the Chinese medicine nutritional approach with what modern science says about nourishing our immunity. '
+  share_image_path:
+layout: post
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/65.jpg" alt="dark leafy greens" width="199" height="149" align="left" border="0" hspace="10" vspace="5" />
 

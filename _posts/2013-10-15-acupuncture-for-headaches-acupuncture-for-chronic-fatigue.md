@@ -1,22 +1,17 @@
 ---
-
 title: 'Success Stories from the Acupuncture Clinic: Headaches, Chronic Fatigue'
 date: 2013-10-15T16:43:59+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture Success Stories: Acupuncture for headaches and Chronic fatigue'
-thesis_description:
-  - 'Case studies of two patients that I am currently successfully treating: acupuncture for headaches, acupuncture for chronic fatigue.'
-thesis_keywords:
-  - acupuncture-for-headaches, acupuncture for chronic fatigue
 categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
 tags:
   - acupuncture-for-headaches
   - acupuncture-for-chronic-fatigue
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture Success Stories: Acupuncture for headaches and Chronic fatigue'
+  page_description: 'Case studies of two patients that I am currently successfully treating: acupuncture for headaches, acupuncture for chronic fatigue.'
+  share_image_path:
+layout: post
 ---
 **Every so often, I like to share case studies from the clinic to not only give people a better idea of how acupuncture works, but also what they can expect from their treatments.** Most people are surprised by all that acupuncture can treat, since mostly people hear only about its effectiveness for pain.
 

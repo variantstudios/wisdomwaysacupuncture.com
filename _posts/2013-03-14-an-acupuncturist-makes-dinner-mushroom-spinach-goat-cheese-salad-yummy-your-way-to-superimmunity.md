@@ -1,21 +1,18 @@
 ---
-
 title: 'An Acupuncturist Makes Dinner. Mushroom Spinach Goat Cheese Salad: Yummy your way to SuperImmunity!'
 date: 2013-03-14T17:56:51+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'An Acupuncturist Makes Dinner: Yummy Your Way to a Supercharged Immune System with this Mushroom Spinach Salad.'
-thesis_description:
-  - "Acupuncturists know that as spring hits, it's more important than ever to keep our livers happy.  This recipe is filled with liver balancing greens! "
-thesis_keywords:
-  - Acupuncture, chinese medicine, immunity, immune system, Acupuncture Fort Collins, Fort Collins Acupuncture, eating for immunity
 categories:
   - spring--wood-element
   - eating-with-the-seasons
   - recipes
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'An Acupuncturist Makes Dinner: Yummy Your Way to a Supercharged Immune System with this Mushroom Spinach Salad.'
+  page_description: "Acupuncturists know that as spring hits, it's more important than ever to keep our livers happy.  This recipe is filled with liver balancing greens! "
+  share_image_path:
+layout: post
 ---
 ##### <img src="http://ih.constantcontact.com/fs124/1102844965003/img/146.jpg" alt="mushroom spinach salad acupuncturist superfood" width="206" height="137" align="right" border="0" hspace="10" vspace="5" />**<span style="color: #999999;">(UPDATE: Since going paleo I no longer eat cheese. Booooo! :-( This sure was yummy though!)</span>** 
 
