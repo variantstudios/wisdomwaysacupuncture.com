@@ -1,29 +1,6 @@
 ---
-
 title: 'An Acupuncturist&#8217;s Insight: What your Impatience/Agitation and What I Saw in My Garden Have in Common'
 date: 2018-03-04T14:40:06+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'What your Impatience/Agitation & What I Saw in My Yard Have in Common'
-thesis_description:
-  - 'Spring relates to the Wood Element & the Liver.  The liver easily gets imbalanced as spring hits. See what you can do to keep your liver happy!'
-thesis_keywords:
-  - liver-imbalance, wood element
-thesis_thumb:
-  - http://ih.constantcontact.com/fs085/1102844965003/img/103.jpg
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - ""
-ampforwp-amp-on-off:
-  - default
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - spring--wood-element
 tags:
@@ -33,9 +10,13 @@ tags:
   - acupuncture-and-anxiety
   - acupuncture-and-irritability
   - acupuncture-and-depression
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'What your Impatience/Agitation & What I Saw in My Yard Have in Common'
+  page_description: 'Spring relates to the Wood Element & the Liver.  The liver easily gets imbalanced as spring hits. See what you can do to keep your liver happy!'
+  share_image_path:
+layout: post
 ---
-&nbsp;
-
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" width="100%">

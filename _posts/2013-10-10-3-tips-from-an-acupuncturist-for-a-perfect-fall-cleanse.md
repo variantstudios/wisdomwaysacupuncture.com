@@ -6,7 +6,7 @@ categories:
 tags:
   - medicinal-foods
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
-search_engine_optimization: 
+search_engine_optimization:
   page_title: 3 Tips from an Acupuncturist for a Perfect Fall Cleanse
   page_description: "What kind of cleanse should I do!? With acupuncture there is no cleanse that's right for everyone, so consider 3 things when deciding on a cleanse."
   share_image_path:

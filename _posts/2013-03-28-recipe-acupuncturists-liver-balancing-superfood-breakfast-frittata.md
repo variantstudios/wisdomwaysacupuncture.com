@@ -9,7 +9,7 @@ tags:
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: "An Acupuncturist's favorite liver balancing and immune boosting breakfast: Superfood Frittata"
-  page_description:  "This recipe satisfies and acupuncturist's need to eat seasonal foods to balance the liver for springtime (greens greens greens!) and it's delicious!"
+  page_description: "This recipe satisfies and acupuncturist's need to eat seasonal foods to balance the liver for springtime (greens greens greens!) and it's delicious!"
   share_image_path:
 layout: post
 ---

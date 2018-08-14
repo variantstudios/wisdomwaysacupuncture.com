@@ -1,21 +1,6 @@
 ---
-
 title: Acupuncture helps Stress by Regulating Hormones, New Study Shows
 date: 2014-03-28T16:28:35+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Acupuncture helps Stress by Regulating Hormones, New Study Shows
-thesis_description:
-  - This study shows that acupuncture upregulates, downregulates, and inhibits hormones related to stress, explaining how acupuncture helps stress.
-thesis_keywords:
-  - acupuncture-and-stress, acupuncture reduces stress, acupuncturist, acupuncture fort collins, fort collins acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - exciting-acupuncture-research
 tags:
@@ -25,6 +10,12 @@ tags:
   - acupuncture-and-anxiety
   - acupuncture-and-irritability
   - acupuncture-and-depression
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Acupuncture helps Stress by Regulating Hormones, New Study Shows
+  page_description: This study shows that acupuncture upregulates, downregulates, and inhibits hormones related to stress, explaining how acupuncture helps stress.
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;">It&#8217;s finally proven: Acupuncture helps stress</span>
 

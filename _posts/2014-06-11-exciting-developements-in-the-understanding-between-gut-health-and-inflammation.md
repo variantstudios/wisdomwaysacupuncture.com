@@ -1,19 +1,16 @@
 ---
-
 title: Exciting Developements in the Understanding Between Gut Health and Inflammation
 date: 2014-06-11T17:59:27+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Gut Health & Inflammation'
-thesis_description:
-  - A mainstream doctor confirms that systemic inflammation relates back to gut health, and encourages patient to heal their gut instead of using steroids
-thesis_keywords:
-  - inflammation and gut health, leaky gut and inflammation
 categories:
   - random-musings
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Gut Health & Inflammation'
+  page_description: A mainstream doctor confirms that systemic inflammation relates back to gut health, and encourages patient to heal their gut instead of using steroids
+  share_image_path:
+layout: post
 ---
 I am so excited after seeing one of my patients today!  She is someone who recently started acupuncture with me, and is recovering from very serious illness after the side-effects of a medication that they have now found can cause blood cancer and other serious blood disorders. In Chinese medicine, we say that once something has gotten to the level of the blood, it is among the most serious of imbalances or diseases. This patient is now having inflammation throughout her entire system.
 

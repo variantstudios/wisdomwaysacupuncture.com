@@ -1,17 +1,6 @@
 ---
-
 title: 'Balancing your Wood Element with Benevolence: Is Your Internal Wood energy a Leader or a Fighter?'
 date: 2016-04-05T12:54:58+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - chinese-medicine says use benevolence to balance your Wood Element this Spring.
-thesis_description:
-  - 'Chinese Medicine and acupuncture theory have recognized that benevolence can be used to calm runaway Wood energy, which can lead to self-centerdness and ruthlessness.  We are especially susceptible to these qualities in Spring, the season related to the Wood Element in Chinese Medicine.'
-thesis_keywords:
-  - wood-element, Chinese Medicine and Wood element, five elements, 5 elements, Liver
 categories:
   - spring--wood-element
 tags:
@@ -20,6 +9,12 @@ tags:
   - wood-element
   - chinese-medicine
   - five-elements
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: chinese-medicine says use benevolence to balance your Wood Element this Spring.
+  page_description: 'Chinese Medicine and acupuncture theory have recognized that benevolence can be used to calm runaway Wood energy, which can lead to self-centerdness and ruthlessness.  We are especially susceptible to these qualities in Spring, the season related to the Wood Element in Chinese Medicine.'
+  share_image_path:
+layout: post
 ---
 <table width="180" align="left">
   <tr>

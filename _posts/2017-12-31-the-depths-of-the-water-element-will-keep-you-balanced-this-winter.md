@@ -1,23 +1,16 @@
 ---
-
 title: The Depths of the Water Element will Keep you Balanced this Winter
 date: 2017-12-31T06:53:54+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Staying Balanced with the Water Element in the Depths of Winter
-thesis_description:
-  - 'Acupuncture 5 Elements theory says winter relates to the Water Element. Tips for keeping your Water Element strong for a healthy winter & spring ahead.'
-thesis_keywords:
-  - water-element, kidneys
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - winter--water-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Staying Balanced with the Water Element in the Depths of Winter
+  page_description: 'Acupuncture 5 Elements theory says winter relates to the Water Element. Tips for keeping your Water Element strong for a healthy winter & spring ahead.'
+  share_image_path:
+layout: post
 ---
 **[<img class="alignleft wp-image-3511" src="/assets/images/wp-content/uploads/2018/01/winter-2952290_1920-150x113.jpg" alt="Water Element Acupunture 5 Elements" width="202" height="152" srcset="/assets/images/wp-content/uploads/2018/01/winter-2952290_1920-150x113.jpg 150w, /assets/images/wp-content/uploads/2018/01/winter-2952290_1920-300x225.jpg 300w, /assets/images/wp-content/uploads/2018/01/winter-2952290_1920-768x576.jpg 768w, /assets/images/wp-content/uploads/2018/01/winter-2952290_1920-1024x768.jpg 1024w" sizes="(max-width: 202px) 100vw, 202px" />](/assets/images/wp-content/uploads/2018/01/winter-2952290_1920.jpg)It’s the midst of winter and all is elusive…the days are short and dark, the fields barren.  Not much occurs on the surface, and when we are in rhythm with the patterns of nature, our lives reflect this dormancy as well.  In this time of rest, and especially in our do-ing culture, it is all too easy to underestimate the subtleties of power and transformation that are brewing beneath the surface.**
 

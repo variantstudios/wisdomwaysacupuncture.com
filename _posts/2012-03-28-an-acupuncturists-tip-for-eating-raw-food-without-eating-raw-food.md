@@ -12,8 +12,6 @@ search_engine_optimization:
   share_image_path:
 layout: post
 ---
-&nbsp;
-
 <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/106.jpg" alt="Acupuncture Grilled Veggie Salad" width="166" height="166" align="left" border="0" hspace="5" vspace="5" />It&#8217;s been unseasonably HOT!
 
 **During warm weather like this, some days you just want to bite into a nice, cool, crisp salad. For many people though, because of what Acupuncture theories say about energetic nutrition, I advise that they shouldn&#8217;t be eating raw foods. What to do then, when nourishing soups, stews, and casseroles are the last thing on your mind?**

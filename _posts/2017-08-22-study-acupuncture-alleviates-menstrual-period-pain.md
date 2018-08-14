@@ -1,20 +1,17 @@
 ---
-
 title: 'Study: Acupuncture Alleviates Menstrual/Period Pain'
 date: 2017-08-22T07:59:05+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Study Confirms: Acupuncture Alleviates Menstrual/Period Pain'
-thesis_description:
-  - 'Study Confirms: Acupuncture Alleviates Menstrual/Period Pain. This is great because so many of my acupuncture patients are coming for menstrual pain. '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, period pain, menstrual pain
 categories:
   - exciting-acupuncture-research
   - womens-health
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Study Confirms: Acupuncture Alleviates Menstrual/Period Pain'
+  page_description: 'Study Confirms: Acupuncture Alleviates Menstrual/Period Pain. This is great because so many of my acupuncture patients are coming for menstrual pain. '
+  share_image_path:
+layout: post
 ---
 [<img class="alignleft wp-image-3630" src="/assets/images/wp-content/uploads/2018/06/young-woman-2239269_1920-150x111.jpg" alt="acupuncture helps menstrual cramps" width="254" height="188" srcset="/assets/images/wp-content/uploads/2018/06/young-woman-2239269_1920-150x111.jpg 150w, /assets/images/wp-content/uploads/2018/06/young-woman-2239269_1920-300x222.jpg 300w, /assets/images/wp-content/uploads/2018/06/young-woman-2239269_1920-768x568.jpg 768w, /assets/images/wp-content/uploads/2018/06/young-woman-2239269_1920-1024x757.jpg 1024w" sizes="(max-width: 254px) 100vw, 254px" />](/assets/images/wp-content/uploads/2018/06/young-woman-2239269_1920.jpg)**An [acupuncture study](http://www.healthcmi.com/Acupuncture-Continuing-Education-News/1780-acupuncture-alleviates-menstrual-pain-in-australia) in Australia confirmed what I see clinically with so many of my patients: that acupuncture is very beneficial for menstrual/period pain.**
 

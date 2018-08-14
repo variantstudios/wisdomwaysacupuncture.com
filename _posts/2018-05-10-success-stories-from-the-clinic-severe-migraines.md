@@ -1,21 +1,16 @@
 ---
-
 title: 'Success Stories from the Acupuncture Clinic: Severe Migraines'
 date: 2018-05-10T14:38:05+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Success Stories from the Acupuncture Clinic: Severe Migraines'
-thesis_description:
-  - 'Case study outlining a typical migraine patient that I see regularly for acupuncture. Her history, treatment course, and improvements are explained. '
-thesis_keywords:
-  - migraines, acupuncture for migraines, acupuncture for migraines in Fort Collins
 categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
 tags:
   - migraines
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Success Stories from the Acupuncture Clinic: Severe Migraines'
+  page_description: 'Case study outlining a typical migraine patient that I see regularly for acupuncture. Her history, treatment course, and improvements are explained. '
+  share_image_path:
+layout: post
 ---
 **As I&#8217;ve mentioned elsewhere on my website, [I LOVE treating migraines](http://www.wisdomwaysacupuncture.com/acupuncture-conditions-treated/chronic-internal-medical-conditions/acupuncture-for-migraines/). To regularly see patients go from having a debilitating, life-stopping condition, to being symptom free without medications, is so satisfying for both myself and my patients.**
 

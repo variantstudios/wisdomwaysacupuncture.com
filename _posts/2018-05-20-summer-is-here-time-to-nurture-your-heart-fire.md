@@ -1,23 +1,16 @@
 ---
-
 title: Summer is Here! Time to Nurture your Heart Fire
 date: 2018-05-20T05:14:39+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Summer is Here! Time to Nurture your Heart Fire
-thesis_description:
-  - 'Acupuncture says summer relates to the heart & the Fire Element.  Tips for staying balanced as we head through the summer months.  '
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, fire element
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - summer--fire-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Summer is Here! Time to Nurture your Heart Fire
+  page_description: 'Acupuncture says summer relates to the heart & the Fire Element.  Tips for staying balanced as we head through the summer months.  '
+  share_image_path:
+layout: post
 ---
 
 <div><img title="Acupuncture theory and Chinese Medicine help you awaken your heart fire." alt="Acupuncture: summer and your heart fire" border="0" vspace="5" src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/81.jpg" /><p>Keep your heart fire alive this summer!</p></div>

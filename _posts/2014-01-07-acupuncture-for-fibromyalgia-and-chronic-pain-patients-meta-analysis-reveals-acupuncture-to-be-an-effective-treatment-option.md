@@ -1,19 +1,16 @@
 ---
-
 title: 'Acupuncture for Fibromyalgia and Chronic Pain Patients: Meta-Analysis Reveals Acupuncture to be an Effective Treatment Option'
 date: 2014-01-07T15:42:55+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Meta-Analysis shows Acupuncture Effectively Treats Chronic Pain
-thesis_description:
-  - 'An analysis looking at 17,922 chronic pain sufferers shows that acupuncture is indeed a good treatment option, dramatically helping to reduce many different types of chronic pain. '
-thesis_keywords:
-  - Acupuncture reduces pain, Acupuncture, acupuncturist, acupuncture fort collins, fort collins acupuncture
 categories:
   - exciting-acupuncture-research
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Meta-Analysis shows Acupuncture Effectively Treats Chronic Pain
+  page_description: 'An analysis looking at 17,922 chronic pain sufferers shows that acupuncture is indeed a good treatment option, dramatically helping to reduce many different types of chronic pain. '
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;">Acupuncture for Fibromyalgia and Chronic Pain: It works!</span>
 

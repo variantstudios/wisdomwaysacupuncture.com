@@ -8,7 +8,7 @@ tags:
   -
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
-  page_title:  Success Stories from the Wintertime Acupuncture Clinic
+  page_title: Success Stories from the Wintertime Acupuncture Clinic
   page_description: 'In the middle of winter, in my acupuncture clinic I commonly treat issues related to the kidneys and bladder, & the Water Element.'
   share_image_path:
 layout: post

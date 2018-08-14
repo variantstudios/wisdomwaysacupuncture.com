@@ -1,24 +1,17 @@
 ---
-
 title: Will the Affordable Care Act Help or Hurt your Access to Acupuncture?
 date: 2013-10-18T17:28:20+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Will the Affordable Care Act Help or Hurt your Access to Acupuncture?
-thesis_description:
-  - "Whether you're for or against the Affordable Care Act, for good or for bad, it's on its way. Fortunately for patients who prefer to receive their medical care through complementary health care providers like acupuncturists, this may bring with it some positive changes in regards to your access to these practitioners. This email outlines what we do know about some specific aspects of the law that will affect your acupuncture treatments and payment options."
-thesis_keywords:
-  - Acupuncture, Acupuncture Fort Collins, Fort Collins acupuncture, Acupuncture and Affordable Care Act, Affordable Care Act, Acupuncture insurance, ObamaCare
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - uncategorized
 tags:
   - affordable-care-act-and-acupuncture
   - obamacare-and-acupuncture
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Will the Affordable Care Act Help or Hurt your Access to Acupuncture?
+  page_description: "Whether you're for or against the Affordable Care Act, for good or for bad, it's on its way. Fortunately for patients who prefer to receive their medical care through complementary health care providers like acupuncturists, this may bring with it some positive changes in regards to your access to these practitioners. This email outlines what we do know about some specific aspects of the law that will affect your acupuncture treatments and payment options."
+  share_image_path:
+layout: post
 ---
 <div style="width: 263px" class="wp-caption alignleft">
   <a title="Your Acupuncture and the Affordable Care Act" href="http://www.hhs.gov/opa/affordable-care-act/" target="_blank" rel="noopener"><img class=" " style="margin: 5px; border: 0px none;" title="Acupuncture and The Affordable Care Act" src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/166.jpg" alt="How the Affordable Care Act affects your acupuncture treatment" width="253" height="158" align="left" border="0" hspace="5" vspace="5" /></a>

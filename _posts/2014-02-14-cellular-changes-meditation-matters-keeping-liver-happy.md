@@ -1,21 +1,6 @@
 ---
-
 title: Cellular and Genetic Changes from Meditation, and Why that Matters for Keeping your Liver (and you!) Happy.
 date: 2014-02-14T15:39:28+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Why Meditation is as Important as Acupuncture for Decreasing Stress
-thesis_description:
-  - 'Studies reveal remarkable genetic changes that affect how our body responds to stress, from both meditation and acupuncture. '
-thesis_keywords:
-  - acupuncture for stress, meditation
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - my-approach--philosophy-and-stories
   - exciting-acupuncture-research
@@ -23,6 +8,12 @@ categories:
 tags:
   - stress
   - meditation
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Why Meditation is as Important as Acupuncture for Decreasing Stress
+  page_description: 'Studies reveal remarkable genetic changes that affect how our body responds to stress, from both meditation and acupuncture. '
+  share_image_path:
+layout: post
 ---
 I  <img class="alignleft" style="margin: 5px; border: 0px none;" title="Acupuncture and Meditation cause decrease in stress" src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/181.jpg" alt="Acupuncture and Meditation cause cellular changes" width="168" height="134" name="ACCOUNT.IMAGE.181" align="left" border="0" hspace="5" vspace="5" />**promised in my [last post on the Wood element](http://www.wisdomwaysacupuncture.com/2018/03/30/do-you-feel-the-wood-energy-rising-already-tips-for-staying-sane-as-we-switch-from-winter-to-spring/ "Do you Feel the Wood Element Energy Rising Already?: Tips From the Acupuncture Office for Staying Sane as we Switch from Winter to Spring") that I would write on the cellular affects of meditation, and why it is such an important practice for all of us to be doing. Especially as we begin to head into [wood element season](http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/) &#8212; the element notorious for, shall we say, being a little temperamental&#8211;it&#8217;s even more important that we have some tools to counteract the heightened stress that may happen in our body.**
 

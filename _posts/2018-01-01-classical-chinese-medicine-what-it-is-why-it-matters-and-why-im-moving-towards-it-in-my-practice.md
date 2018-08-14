@@ -1,23 +1,16 @@
 ---
-
 title: 'Classical Chinese Medicine &#8211; What it is, Why it Matters, and why I&#8217;m Moving Towards it in my Practice'
 date: 2018-01-01T07:15:36+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Classical Chinese Medicine - What it is, Why it Matters, and why I'm Moving Towards it in my Acupuncture Practice"
-thesis_description:
-  - 'Why the difference between Classical vs. Traditional Chinese Medicine matters, & how moving to Classical is helping improve my clinical success rates.'
-thesis_keywords:
-  - Classical medicine, Classical Chinese medicine, Classical Chinese medicine fort collins
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - my-approach--philosophy-and-stories
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title:  "Classical Chinese Medicine - What it is, Why it Matters, and why I'm Moving Towards it in my Acupuncture Practice"
+  page_description: 'Why the difference between Classical vs. Traditional Chinese Medicine matters, & how moving to Classical is helping improve my clinical success rates.'
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;">The Change from Classical to Traditional Chinese Medicine</span>
 

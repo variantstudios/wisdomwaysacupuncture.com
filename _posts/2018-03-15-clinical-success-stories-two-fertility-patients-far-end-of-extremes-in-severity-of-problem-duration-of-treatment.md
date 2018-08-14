@@ -1,26 +1,17 @@
 ---
-
 title: 'Clinical Success Stories: Two Fertility Patients, Far End of Extremes in Severity of Problem &#038; Duration of Treatment'
 date: 2018-03-15T11:21:45+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Clinic Success Stories: Two Fertility Patients, Two Treatment Paths'
-thesis_description:
-  - 'Story of two acupuncture fertility patients ending with a healthy baby, yet vastly different treatments and journeys along the way. '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, fertility
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
   - womens-health
 tags:
   - fertility
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Clinic Success Stories: Two Fertility Patients, Two Treatment Paths'
+  page_description: 'Story of two acupuncture fertility patients ending with a healthy baby, yet vastly different treatments and journeys along the way. '
+  share_image_path:
+layout: post
 ---
 <div id="attachment_3640" style="width: 243px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2018/06/pregnant-1245703_1920.jpg"><img class=" wp-image-3640" src="/assets/images/wp-content/uploads/2018/06/pregnant-1245703_1920-150x100.jpg" alt="fertility acupuncture" width="233" height="155" srcset="/assets/images/wp-content/uploads/2018/06/pregnant-1245703_1920-150x100.jpg 150w, /assets/images/wp-content/uploads/2018/06/pregnant-1245703_1920-300x200.jpg 300w, /assets/images/wp-content/uploads/2018/06/pregnant-1245703_1920-768x512.jpg 768w, /assets/images/wp-content/uploads/2018/06/pregnant-1245703_1920-1024x683.jpg 1024w" sizes="(max-width: 233px) 100vw, 233px" /></a>

@@ -8,7 +8,7 @@ tags:
 hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
 search_engine_optimization:
   page_title: "Got Onion Breath? Good for You!: An Acupuncturist's Advice for Boosting Your Immunity. Constantly Sick in CO: Part VII"
-  page_description:  'Last in a series of acupuncture blogs re: people being constantly sick in CO, and what we can do about it. '
+  page_description: 'Last in a series of acupuncture blogs re: people being constantly sick in CO, and what we can do about it. '
   share_image_path:
 layout: post
 ---

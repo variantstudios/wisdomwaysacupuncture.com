@@ -1,5 +1,6 @@
 ---
 title: 'Constantly Sick in CO, Part VI: When Your Diet Just Isn&#8217;t Cutting It, These Supplements Can Be the Missing Link'
+date: 2013-05-09T17:49:34+00:00
 categories:
   - nutrition--food
 tags:

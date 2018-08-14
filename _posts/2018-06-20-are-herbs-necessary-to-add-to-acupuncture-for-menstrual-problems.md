@@ -1,20 +1,17 @@
 ---
-
 title: Are Herbs Necessary to Add to Acupuncture for Menstrual Problems?
 date: 2018-06-20T15:46:43+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Are Herbs Necessary to Add to Acupuncture for Menstrual Problems?
-thesis_description:
-  - 'In China, herbs ARE the main treatment for menstrual issues. Instead of a supplement to acupuncture, I think of acupuncture as a supplement to herbs. '
-thesis_keywords:
-  - chinese herbs, menstrual problems, period problems, hormone imbalance
 categories:
   - my-approach--philosophy-and-stories
   - womens-health
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Are Herbs Necessary to Add to Acupuncture for Menstrual Problems?
+  page_description: 'In China, herbs ARE the main treatment for menstrual issues. Instead of a supplement to acupuncture, I think of acupuncture as a supplement to herbs. '
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;">Does Every Hormone Imbalance or Menstrual Problem Require Herbs for Successful Treatment?</span>
 

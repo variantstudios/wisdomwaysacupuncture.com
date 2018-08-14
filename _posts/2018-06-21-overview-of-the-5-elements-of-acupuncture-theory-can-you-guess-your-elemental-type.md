@@ -1,19 +1,16 @@
 ---
-
 title: 'Overview of the 5 Elements of Acupuncture Theory: Can You Guess Your Elemental Type?'
 date: 2018-06-21T01:24:32+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'The 5 Elements of Acupuncture Theory: Can you Guess Your Elemental Type?'
-thesis_description:
-  - 'In this video I review the 5 Element types used in 5 Elements acupuncture, and by the end you might have some guesses for what type you might be! '
-thesis_keywords:
-  - 5-elements, Acupuncture, Acupuncture Fort Collins, Five Elements
 categories:
   - five-elements
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'The 5 Elements of Acupuncture Theory: Can you Guess Your Elemental Type?'
+  page_description: 'In this video I review the 5 Element types used in 5 Elements acupuncture, and by the end you might have some guesses for what type you might be! '
+  share_image_path:
+layout: post
 ---
 
 During acupuncture treatments as well as out and about when I’m giving talks, people are usually fascinated when I start talking about the 5 Elements of acupuncture theory, because they reveal so much about what makes us tick, as well as the health issues we’re likely to encounter.
