@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order:
-hero_image: /assets/images/menses.jpg
+hero_image: /assets/images/moon.jpg
 search_engine_optimization:
   page_title:
   page_description:
