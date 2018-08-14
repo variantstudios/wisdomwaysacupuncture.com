@@ -1,19 +1,16 @@
 ---
-
 title: Study Shows Acupuncture Regulates the Eyes and Vision
 date: 2014-01-03T13:28:35+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Acupuncture Regulates and Improves Vision, According to New Study
-thesis_description:
-  - 'This study, focused on the acupuncture point UB 60, proves what acupuncturists have known for at least 1,000 years: that acupuncture can improve vision. By using MRI technology, this study showed that this acupuncture point stimulates areas of the brain associated with the eyes and vision.'
-thesis_keywords:
-  - Acupuncture, acupuncturist, acupuncture fort collins, fort collins acupuncture, acupuncture vision, acupuncture eyes
 categories:
   - exciting-acupuncture-research
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Acupuncture Regulates and Improves Vision, According to New Study
+  page_description: 'This study, focused on the acupuncture point UB 60, proves what acupuncturists have known for at least 1,000 years: that acupuncture can improve vision. By using MRI technology, this study showed that this acupuncture point stimulates areas of the brain associated with the eyes and vision.'
+  share_image_path:
+layout: post
 ---
 [<img class="alignleft size-thumbnail wp-image-1761" title="Acupuncture for the Eyes_11 (2)" src="/assets/images/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2-150x136.jpg" alt="Acupuncture helps vision" width="150" height="136" srcset="/assets/images/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2-150x136.jpg 150w, /assets/images/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2-300x272.jpg 300w, /assets/images/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2.jpg 323w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/images/wp-content/uploads/2014/01/Acupuncture-for-the-Eyes_11-2.jpg)While we in the field of acupuncture know that it works because we see the results every day and have extensively studied the archives dating back thousands of years of Chinese medicine, it is always cool when a new study demonstrates not only _that_, but _how_,  acupuncture works. This <a title="Acupuncture point UB 60 improves vision" href="http://www.healthcmi.com/Acupuncture-Continuing-Education-News/786-mriub60tb5#sthash.AlhSvOOR.gbpl" target="_blank" rel="noopener">study</a> is citing the affects of a common acupuncture point on the outer ankle, Urinary Bladder (UB) 60, for improving vision.
 

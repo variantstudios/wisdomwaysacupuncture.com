@@ -1,26 +1,17 @@
 ---
-
 title: Acupuncture Clinic Moving to New Permanent Location Next Month
 date: 2013-01-16T05:59:01+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - New Acupuncture Clinic for Wisdom Ways Acupuncture
-thesis_description:
-  - 'Wisdom Ways Acupuncture has a new home!  The location is 363 W. Drake Road, Suite 1.'
-thesis_keywords:
-  - acupuncture, chinese medicine, acupuncture fort collins, fort collins acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - uncategorized
 tags:
   - acupuncture-fort-collins
   - fort-collins-acupuncture
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: New Acupuncture Clinic for Wisdom Ways Acupuncture
+  page_description: 'Wisdom Ways Acupuncture has a new home!  The location is 363 W. Drake Road, Suite 1.'
+  share_image_path:
+layout: post
 ---
 <div>
   <div id="attachment_1380" style="width: 160px" class="wp-caption alignleft">

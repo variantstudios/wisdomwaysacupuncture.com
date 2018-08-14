@@ -1,23 +1,16 @@
 ---
-
 title: 'Got Onion Breath?  Good for You!: Constantly Sick in CO, What Can We Do? Part VII'
 date: 2013-05-17T16:58:25+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Got Onion Breath? Good for You!: An Acupuncturist's Advice for Boosting Your Immunity. Constantly Sick in CO: Part VII"
-thesis_description:
-  - 'Last in a series of acupuncture blogs re: people being constantly sick in CO, and what we can do about it. '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - nutrition--food
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Got Onion Breath? Good for You!: An Acupuncturist's Advice for Boosting Your Immunity. Constantly Sick in CO: Part VII"
+  page_description: 'Last in a series of acupuncture blogs re: people being constantly sick in CO, and what we can do about it. '
+  share_image_path:
+layout: post
 ---
 <div id="attachment_1505" style="width: 160px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2013/05/onions-and-garlic.jpg"><img class="size-thumbnail wp-image-1505" title="onions and garlic acupuncture" src="/assets/images/wp-content/uploads/2013/05/onions-and-garlic-150x126.jpg" alt="acupuncture believes onions are good for immunity" width="150" height="126" srcset="/assets/images/wp-content/uploads/2013/05/onions-and-garlic-150x126.jpg 150w, /assets/images/wp-content/uploads/2013/05/onions-and-garlic.jpg 245w" sizes="(max-width: 150px) 100vw, 150px" /></a>

@@ -1,22 +1,17 @@
 ---
-
 title: '&#8220;Nightmare bacteria,&#8221; on rise in U.S.: Is Prevention via Acupuncture &#038; Nutrition a Better Approach to Health Care?'
 date: 2013-03-06T15:30:50+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_description:
-  - 'With the rise of resistant bacteria, using acupuncture & nutrition to prevent infections is more important than ever.   '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, resistant bacteria
-thesis_title:
-  - 'Can Acupuncture & Nutrition Prevent the Need for Antibiotics?'
 categories:
   - random-musings
 tags:
   - immunity
   - immune-system
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Can Acupuncture & Nutrition Prevent the Need for Antibiotics?'
+  page_description: 'With the rise of resistant bacteria, using acupuncture & nutrition to prevent infections is more important than ever.   '
+  share_image_path:
+layout: post
 ---
 <div id="attachment_1426" style="width: 160px" class="wp-caption alignleft">
   <a href="/assets/images/wp-content/uploads/2013/03/baceria-acupuncturist.jpg"><img class="size-thumbnail wp-image-1426" title="bacteria acupuncturist" src="/assets/images/wp-content/uploads/2013/03/baceria-acupuncturist-150x59.jpg" alt="Acupuncture increases immunity to fight bacterial infection" width="150" height="59" srcset="/assets/images/wp-content/uploads/2013/03/baceria-acupuncturist-150x59.jpg 150w, /assets/images/wp-content/uploads/2013/03/baceria-acupuncturist-300x118.jpg 300w, /assets/images/wp-content/uploads/2013/03/baceria-acupuncturist.jpg 635w" sizes="(max-width: 150px) 100vw, 150px" /></a>

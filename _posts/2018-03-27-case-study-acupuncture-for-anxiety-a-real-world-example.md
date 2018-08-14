@@ -1,22 +1,17 @@
 ---
-
 title: 'Case Study: Acupuncture for Anxiety, a Real World Example'
 date: 2018-03-27T15:38:05+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Success! Acupuncture for Anxiety: Another Real World Example '
-thesis_description:
-  - Anxiety is one of the most common issues I treat. This is the story of a typical successful case, as acupuncture is so effective for anxiety!
-thesis_keywords:
-  - stress, anxiety
 categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
   - uncategorized
 tags:
   - acupuncture-and-anxiety
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Success! Acupuncture for Anxiety: Another Real World Example '
+  page_description: Anxiety is one of the most common issues I treat. This is the story of a typical successful case, as acupuncture is so effective for anxiety!
+  share_image_path:
+layout: post
 ---
 
 <div id="attachment_2177"><a href="/assets/images/wp-content/uploads/2013/03/frustration-acupuncture.jpg"><img title="Acupuncture for Anxiety" alt="acupuncture effective for anxiety" srcset="/assets/images/wp-content/uploads/2013/03/frustration-acupuncture-150x99.jpg 150w, /assets/images/wp-content/uploads/2013/03/frustration-acupuncture.jpg 275w" sizes="(max-width: 150px) 100vw, 150px" src="/assets/images/wp-content/uploads/2013/03/frustration-acupuncture-150x99.jpg" /></a><p>acupuncture for anxiety is effective treatment</p></div>

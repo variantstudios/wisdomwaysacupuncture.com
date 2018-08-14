@@ -1,25 +1,16 @@
 ---
-
 title: 'Constantly Sick in CO, Part VI: When Your Diet Just Isn&#8217;t Cutting It, These Supplements Can Be the Missing Link'
 date: 2013-05-09T17:49:34+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "When Your Diet Isn't Cutting It, Adding Supplements to your Acupuncture Can Help Boost Your Immune System"
-thesis_description:
-  - "Acupuncturists usually recommend you get all your nutrients from food, but when your diet just isn't cutting it, adding these supplements can help improve your immune system."
-thesis_keywords:
-  - Acupuncture, immune system, Acupuncture Fort Collins
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - nutrition--food
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "When Your Diet Isn't Cutting It, Adding Supplements to your Acupuncture Can Help Boost Your Immune System"
+  page_description: "Acupuncturists usually recommend you get all your nutrients from food, but when your diet just isn't cutting it, adding these supplements can help improve your immune system."
+  share_image_path: 
+layout: post
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/154.jpg" alt="IgG Helps Acupuncture for Immunity" width="177" height="174" align="left" border="0" hspace="10" vspace="5" />
 

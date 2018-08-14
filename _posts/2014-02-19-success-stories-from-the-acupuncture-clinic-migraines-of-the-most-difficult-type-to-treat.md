@@ -1,23 +1,16 @@
 ---
-
 title: 'Success Stories from the Acupuncture Clinic: Migraines of the Most Difficult Type to Treat'
 date: 2014-02-19T15:07:29+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Success Stories from the Acupuncture Clinic: Very Difficult Migraines'
-thesis_description:
-  - "This is one of my most challenging migraine cases I've had. I'm sharing it to illustrate how important herbs, as well as lifestyle choices, can be in resolving migraines."
-thesis_keywords:
-  - migraines, acupuncture for migraines, acupunture for migraines in fort collins
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Success Stories from the Acupuncture Clinic: Very Difficult Migraines'
+  page_description: "This is one of my most challenging migraine cases I've had. I'm sharing it to illustrate how important herbs, as well as lifestyle choices, can be in resolving migraines."
+  share_image_path:
+layout: post
 ---
 Today&#8217;s success story is about a case that has actually been one of my most difficult migraine cases ever.
 

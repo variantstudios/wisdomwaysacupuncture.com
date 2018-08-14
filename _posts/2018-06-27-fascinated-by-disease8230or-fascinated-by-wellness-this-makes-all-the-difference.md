@@ -1,24 +1,16 @@
 ---
-
 title: 'Fascinated by Disease&#8230;or Fascinated by Wellness? This Makes All the Difference'
 date: 2018-06-27T09:04:46+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Fascinated by Disease, or by Wellness? This Makes All the Difference
-thesis_description:
-  - A fascination with disease vs. wellness makes all the difference in how one approaches illness. Our personal success story with Multiple Sclerosis, MS.
-thesis_keywords:
-  - 'multiple sclerosis, MS, auto-immunity, autoimmune, '
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - my-approach--philosophy-and-stories
 tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Fascinated by Disease, or by Wellness? This Makes All the Difference
+  page_description: A fascination with disease vs. wellness makes all the difference in how one approaches illness. Our personal success story with Multiple Sclerosis, MS.
+  share_image_path:
+layout: post
 ---
 
 Some years ago, something “horrible” happened in the life of myself and my Significant Other (SO): his eyes one day got wonky, and long story short when he went to the doctor that week for an elbow injury and mentioned his eye symptoms, the doctor immediately walked out of the room, made a phone call, and within 2 minutes my SO was on his way to a specialist. Within hours, we found ourselves in the hospital radiology department after two brain MRIs with a diagnosis of Multiple Sclerosis (MS).

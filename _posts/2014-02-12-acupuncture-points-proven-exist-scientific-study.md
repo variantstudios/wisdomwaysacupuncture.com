@@ -1,22 +1,18 @@
 ---
-
 title: Acupuncture Points Proven to Exist in Scientific Study!
 date: 2014-02-12T14:08:45+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Acupuncture Points Proven to Exist in Many Scientific Studies
-thesis_description:
-  - Science able to "see" and confirm the existence of acupuncture points! LCD thermal imaging and other technology shows exact location of points.
-thesis_keywords:
-  - acupuncture-fort-collins, Acupuncture studies, acupuncture points proven to exist
-image: /wp-content/uploads/2014/02/acupuncture-points-light-up.jpg
 categories:
   - my-approach--philosophy-and-stories
   - exciting-acupuncture-research
   - random-musings
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Acupuncture Points Proven to Exist in Many Scientific Studies
+  page_description: 'Science able to "see" and confirm the existence of acupuncture points! LCD thermal imaging and other technology shows exact location of points.'
+  share_image_path:
+layout: post
 ---
 [<img class="size-thumbnail wp-image-664 alignleft" title="Acupunctture Channels " src="/assets/images/wp-content/uploads/2010/06/back-of-acupuncture-man-100x150.jpg" alt="acupuncture meridians and acupuncture points" width="100" height="150" srcset="/assets/images/wp-content/uploads/2010/06/back-of-acupuncture-man-100x150.jpg 100w, /assets/images/wp-content/uploads/2010/06/back-of-acupuncture-man.jpg 135w" sizes="(max-width: 100px) 100vw, 100px" />](/assets/images/wp-content/uploads/2010/06/back-of-acupuncture-man.jpg)**It seems that science has finally been able to &#8220;see&#8221; and therefore acknowledge the existence of acupuncture points! In some exciting studies that were recently done, researchers used CT scans on the body to measure the difference between acupuncture and non-acupuncture points. The resulting images showed that there are marked differences between the locations that acupuncturists mapped out long ago&#8212;and which are now used in acupuncture treatment&#8212;and non acupuncture points.**
 

@@ -1,20 +1,17 @@
 ---
-
 title: 'The Big Question: Are Dietary Changes Really Necessary to Achieve Results from Acupuncture?'
 date: 2014-01-22T15:28:48+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'The Big Question: Are dietary changes necessary to acheive results with acupuncture'
-thesis_description:
-  - "Are dietary changes really necessary for acupuncture to have healing affects? The answer is both yes and no. Certainly, every day, I see people experience dramatic improvements in their health, without any lifestyle changes.  Perhaps after a handful of weeks, they're 70% better than before they came in.  That's common, and a huge success! Especially if no other medical treatment  has improved anything at all. However, there is the other side of this. In some cases, the dietary changes are so important for a person's healing, that without them, it's like each treatment is taking two steps forward, and then they go out into life and put the very things in their body that are causing their symptoms, and they go one or two steps back. We're constantly chasing symptoms, rather than causing true healing."
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncturist, Fort Collins Acupuncture, Acupuncturist Fort Collins
 categories:
   - my-approach--philosophy-and-stories
   - nutrition--food
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'The Big Question: Are dietary changes necessary to acheive results with acupuncture'
+  page_description: "Are dietary changes really necessary for acupuncture to have healing affects? The answer is both yes and no. Certainly, every day, I see people experience dramatic improvements in their health, without any lifestyle changes.  Perhaps after a handful of weeks, they're 70% better than before they came in.  That's common, and a huge success! Especially if no other medical treatment  has improved anything at all. However, there is the other side of this. In some cases, the dietary changes are so important for a person's healing, that without them, it's like each treatment is taking two steps forward, and then they go out into life and put the very things in their body that are causing their symptoms, and they go one or two steps back. We're constantly chasing symptoms, rather than causing true healing."
+  share_image_path:
+layout: post
 ---
 It&#8217;s the beginning of the year and just about the time when the motivation to keep New Year&#8217;s resolutions is wearing off fast. While I&#8217;m not one for New Year&#8217;s resolutions (mostly because I&#8217;ve never really been successful at keeping them, and as an acupuncturist prefer instead to just keep myself on track and balanced in smaller increments all throughout the year), there is no denying that many people feel that the beginning of the year is an opportunity for a fresh start,  a chance for a &#8220;do-over&#8221;. I don&#8217;t know the stats around it, but I&#8217;m sure some people do go on to have success and make big changes that stick, and which dramatically improve their lives.
 

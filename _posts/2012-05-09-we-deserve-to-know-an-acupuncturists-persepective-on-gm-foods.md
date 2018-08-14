@@ -1,25 +1,18 @@
 ---
-
 title: 'We Deserve to Know: An Acupuncturist&#8217;s Persepective on GM Foods'
 date: 2012-05-09T12:41:12+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "We Deserve to Know: An Acupuncturist's Persepective on GM Foods"
-thesis_description:
-  - "GMOs play such a huge role in our health and our children's health forever into the future, that as an acupuncturist, I can't stay quiet about this."
-thesis_keywords:
-  - acupuncture, alternative medicine, chinese medicine, acupuncture fort collins, fort collins acupuncture, alternative medicine, integrative medicine
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - nutrition--food
   - random-musings
 tags:
   - food-safety
   - monsanto-evil
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "We Deserve to Know: An Acupuncturist's Persepective on GM Foods"
+  page_description: "GMOs play such a huge role in our health and our children's health forever into the future, that as an acupuncturist, I can't stay quiet about this."
+  share_image_path:
+layout: post
 ---
 <h5 style="text-align: left;">
   <span style="color: #999999;">5/9/2012</span>

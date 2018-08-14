@@ -1,21 +1,14 @@
 ---
-
 title: 'Late-Summer Season/Earth Element of Acupuncture VIDEO: Receiving and Nurturing for Yourself &#038; Others'
 date: 2017-09-09T15:37:25+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Earth Element of Acupuncture: Inger Giffin, Acupuncture Fort Collins, Co'
+  page_description: In my acupuncture practice in Fort Collins, I work with the seasonal aspects of staying balanced both emotionally and physically through the foods we eat. This video gives tips for staying balanced now and throughout the colder months to come.
+  share_image_path:
 layout: post
-
-
-thesis_title:
-  - 'Earth Element of Acupuncture: Inger Giffin, Acupuncture Fort Collins, Co'
-thesis_description:
-  - In my acupuncture practice in Fort Collins, I work with the seasonal aspects of staying balanced both emotionally and physically through the foods we eat. This video gives tips for staying balanced now and throughout the colder months to come.
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
-categories:
-  - late-summer--earth-element
 ---
 **Hello and welcome to [Earth Element Season](http://www.wisdomwaysacupuncture.com/2011/09/10/late-summer-is-the-most-important-time-to-nourish-your-qi/)! &#8212; an extra season that we recognize in Chinese medicine called &#8220;Late Summer&#8221;.**
 

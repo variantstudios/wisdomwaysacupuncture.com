@@ -1,23 +1,16 @@
 ---
-
 title: 'Brrrrrrr! Are you hypersensitive to the cold?  Your Acupuncturist Says You May be Yang Deficient: Signs and Symptoms of Yang Deficiency'
 date: 2013-01-11T14:08:45+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture theory: Symptom of Yang Deficiency. COLD! '
-thesis_description:
-  - "While it's normal to feel cold in the winter, acupuncturists know it's not normal to never be able to warm up.  If you're yang deficient, we can help!"
-thesis_keywords:
-  - Acupuncture, chinese medicine, yang deficiency, cold, chronic fatigue, loose stools, low back pain, diarrhea, impotence, Acupuncture Fort Collins, Fort Collins Acupuncture
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - random-musings
 tags:
   - yang-deficiency
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture theory: Symptom of Yang Deficiency. COLD! '
+  page_description: "While it's normal to feel cold in the winter, acupuncturists know it's not normal to never be able to warm up.  If you're yang deficient, we can help!"
+  share_image_path:
+layout: post
 ---
 [<img class="alignleft size-thumbnail wp-image-1370" title="acupuncture yang deficiency" src="/assets/images/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency-150x57.jpg" alt="acupuncture cold" width="150" height="57" srcset="/assets/images/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency-150x57.jpg 150w, /assets/images/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency-300x114.jpg 300w, /assets/images/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency.jpg 364w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/images/wp-content/uploads/2013/01/acupuncture-brrrr-yang-deficiency.jpg)It’s the middle of winter.  As I type this, a light snow is coming down outside and the weekend forecast is in the teens.  It’s normal to feel cold in weather like this, right?
 

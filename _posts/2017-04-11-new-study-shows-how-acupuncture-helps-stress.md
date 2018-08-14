@@ -1,17 +1,6 @@
 ---
-
 title: New Study Shows how Acupuncture Helps Stress by Regulating Hormones
 date: 2017-04-11T11:05:43+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - New Study Shows how Acupuncture Helps Stress by Regulating Hormones
-thesis_description:
-  - 'A study showed that acupuncture helps stress by blocking the HPA pathway, which controls: reactions to stress, sexuality, digestion, energy, and immunity. '
-thesis_keywords:
-  - acupuncture for stress, acupuncture helps stress
 categories:
   - exciting-acupuncture-research
 tags:
@@ -21,6 +10,12 @@ tags:
   - acupuncture-and-anxiety
   - acupuncture-and-irritability
   - acupuncture-and-depression
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: New Study Shows how Acupuncture Helps Stress by Regulating Hormones
+  page_description: 'A study showed that acupuncture helps stress by blocking the HPA pathway, which controls: reactions to stress, sexuality, digestion, energy, and immunity. '
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;">Acupuncture helps Stress&#8230;but HOW?</span>
 

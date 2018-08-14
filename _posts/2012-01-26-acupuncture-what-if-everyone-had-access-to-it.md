@@ -1,21 +1,16 @@
 ---
-
 title: 'Acupuncture: What if Everyone Had Access to It?'
 date: 2012-01-26T19:14:24+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Acupuncture and Chinese Medicine Should be Included as an Essential Health Benefit
-thesis_description:
-  - By 2014, most health plans will be required to offer a set of items and services known as "essential health benefits”. Acupuncture should be part of it!
-thesis_keywords:
-  - acupuncture, alternative medicine, chinese medicine, acupuncture fort collins, fort collins acupuncture, alternative medicine, integrative medicine
 categories:
   - uncategorized
 tags:
   - acupuncture and insurance
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Acupuncture and Chinese Medicine Should be Included as an Essential Health Benefit
+  page_description: By 2014, most health plans will be required to offer a set of items and services known as "essential health benefits”. Acupuncture should be part of it!
+  share_image_path:
+layout: post
 ---
 <p style="text-align: center;">
   <strong>What if Acupuncture was included in every insurance plan as part of &#8220;Essential Health Benefits&#8221;?</strong>

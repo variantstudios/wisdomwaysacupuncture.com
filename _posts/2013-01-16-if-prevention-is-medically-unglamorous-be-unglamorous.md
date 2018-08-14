@@ -1,21 +1,16 @@
 ---
-
 title: 'The Acupuncturist Says: If Prevention is Medically Unglamorous&#8230;Be Unglamorous!'
 date: 2013-01-16T11:49:50+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncturists Say: If Prevention is Medically Unglamorous...Be Unglamorous!'
-thesis_description:
-  - 'Acupuncture Classic: "The sages of antiquity did not treat diseases that had already manifested, but diseases which had not yet manifested."  '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture
 categories:
   - random-musings
 tags:
   - preventative-medicine
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncturists Say: If Prevention is Medically Unglamorous...Be Unglamorous!'
+  page_description: 'Acupuncture Classic: "The sages of antiquity did not treat diseases that had already manifested, but diseases which had not yet manifested."  '
+  share_image_path:
+layout: post
 ---
 **_&#8220;The sages of antiquity did not treat diseases that had already manifested, but diseases which had not yet manifested. When you wait until a disease has broken out to treat it, is that not like waiting to be thirsty to dig a well, or until you&#8217;re in battle before casting weapons._&#8220;**
 

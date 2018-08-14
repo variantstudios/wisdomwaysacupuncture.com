@@ -1,17 +1,6 @@
 ---
-
 title: 'Into the Fire we Go!: More tips for Staying Balanced in Summer'
 date: 2017-05-23T20:45:53+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Into the Fire we Go!--More Tips from an Acupuncturist for Staying Balanced in Summer
-thesis_description:
-  - "According to acupuncture theory, summer is the season related to the Fire Element.  Like every season, summer brings its strengths and challenges, and learning where we're likely to get out of balance can help us stay more vibrant in this exciting time of year. "
-thesis_keywords:
-  - acupuncture, alternative medicine, chinese medicine, Fire Element, acupuncture fort collins, fort collins acupuncture, alternative medicine, integrative medicine
 categories:
   - uncategorized
 tags:
@@ -21,6 +10,12 @@ tags:
   - fire-element
   - acupuncture-and-depression
   - chinese-medicine
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Into the Fire we Go!--More Tips from an Acupuncturist for Staying Balanced in Summer
+  page_description: "According to acupuncture theory, summer is the season related to the Fire Element.  Like every season, summer brings its strengths and challenges, and learning where we're likely to get out of balance can help us stay more vibrant in this exciting time of year. "
+  share_image_path:
+layout: post
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/111.jpg" alt="Fire Heart Acupuncture" width="181" height="144" align="left" border="0" hspace="5" vspace="5" />
 

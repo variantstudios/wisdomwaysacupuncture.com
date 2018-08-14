@@ -1,21 +1,6 @@
 ---
-
 title: 'Chronic Inflammatory Diseases and Chronic Parasitism: An Acupuncture Approach to Treatment'
 date: 2018-01-10T13:21:26+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Chronic Inflammatory Diseases & Parasitism: An Acupuncture Approach'
-thesis_description:
-  - 'Explains how I treat conditions like chronic fatigue, fibromyalgia, lupus, Lyme Disease, candida, Epstein-barre, & many other inflammatory conditions.'
-thesis_keywords:
-  - chronic-fatigue, fibromyalgia, Lupus, Lyme Disease, Chronic Parasitism, candida, Epstein-Barre
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - my-approach--philosophy-and-stories
 tags:
@@ -24,6 +9,12 @@ tags:
   - acupuncture-and-fibromyalgia
   - chronic-parasitism
   - chronic-inflammation
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Chronic Inflammatory Diseases & Parasitism: An Acupuncture Approach'
+  page_description: 'Explains how I treat conditions like chronic fatigue, fibromyalgia, lupus, Lyme Disease, candida, Epstein-barre, & many other inflammatory conditions.'
+  share_image_path:
+layout: post
 ---
 [<img class="alignleft size-full wp-image-905" title="Acupuncture Chronic Inflammation Chronic Fatigue" src="/assets/images/wp-content/uploads/2010/09/43.jpg" alt="Acupuncture Helps Women with Chronic Fatigue and Fibromyalgia" width="90" height="135" />](/assets/images/wp-content/uploads/2010/09/43.jpg)Recently, I have become fascinated with the condition of Chronic Parasitism causing chronic inflammatory conditions.  Chronic inflammatory conditions are often combined under the term “knotty diseases” in Chinese medicine acupuncture theory, illustrating that they are difficult to unwind or untie…they are so deeply imbedded in the system that to get rid of them is like untying a tight knot, difficult and slow.
 

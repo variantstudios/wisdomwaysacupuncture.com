@@ -1,29 +1,18 @@
 ---
-
 title: 'Don&#8217;t  Throw Those Dandelion Greens Away!: There&#8217;s Powerful Medicine for Springtime in Those Garden Weeds'
 date: 2017-05-06T12:58:29+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Don't Throw Those Dandelion Greens Away! They balance the Spring Liver"
-thesis_description:
-  - 'Acupuncture theory says those dandelion "weeds" are powerful springtime, Liver-balancing medicine, clearing out the sluggishness of winter. '
-thesis_thumb:
-  - https://origin.ih.constantcontact.com/fs124/1102844965003/img/160.jpg
-thesis_keywords:
-  - dandelions, spring cleanse, liver cleanse fort collins, cleanse fort collins
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - spring--wood-element
   - eating-with-the-seasons
 tags:
   - liver-qi-stagnation
   - liver-imbalance
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Don't Throw Those Dandelion Greens Away! They balance the Spring Liver"
+  page_description: 'Acupuncture theory says those dandelion "weeds" are powerful springtime, Liver-balancing medicine, clearing out the sluggishness of winter. '
+  share_image_path:
+layout: post
 ---
 <div align="center">
   <p>

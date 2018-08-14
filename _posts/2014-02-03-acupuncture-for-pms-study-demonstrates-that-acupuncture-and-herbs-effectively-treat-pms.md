@@ -1,22 +1,17 @@
 ---
-
 title: 'Acupuncture for PMS: Good News! Study Reveals Acupuncture and Herbs both Extremely Effective'
 date: 2014-02-03T10:58:14+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture for PMS: Good News! Study Reveals Acupuncture and Herbs both Extremely Effective'
-thesis_description:
-  - 'Acupuncture for PMS: study shows that acupuncture reduced PMS by 77.8%. Herbs helped fatigue and insomnia by 68-79%. '
-thesis_keywords:
-  - acupuncture for PMS, Chinese herbs for PMS
 categories:
   - exciting-acupuncture-research
   - womens-health
 tags:
   - PMS
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title:  'Acupuncture for PMS: Good News! Study Reveals Acupuncture and Herbs both Extremely Effective'
+  page_description: 'Acupuncture for PMS: study shows that acupuncture reduced PMS by 77.8%. Herbs helped fatigue and insomnia by 68-79%. '
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;">Acupuncture for PMS, Chinese herbs for PMS</span>
 

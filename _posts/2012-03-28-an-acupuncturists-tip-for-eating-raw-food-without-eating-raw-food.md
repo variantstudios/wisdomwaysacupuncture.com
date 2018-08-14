@@ -1,24 +1,17 @@
 ---
-
 title: 'An Acupuncturist&#8217;s Tip for Eating Raw Food without Eating Raw Food'
 date: 2012-03-28T16:23:31+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Tips for Eating Raw Food without Eating Raw Food--From an Acupuncturist's Kitchen"
-thesis_description:
-  - "On hot days we just want to bite into a nice, cool, crisp salad. Here's one idea for those who shouldn't be eating raw foods. "
-thesis_keywords:
-  - 'acupuncture, acupuncture fort collins, fort collins acupuncture, '
 categories:
   - nutrition--food
 tags:
   - medicinal-foods
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title:  "Tips for Eating Raw Food without Eating Raw Food--From an Acupuncturist's Kitchen"
+  page_description: "On hot days we just want to bite into a nice, cool, crisp salad. Here's one idea for those who shouldn't be eating raw foods. "
+  share_image_path:
+layout: post
 ---
-&nbsp;
-
 <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/106.jpg" alt="Acupuncture Grilled Veggie Salad" width="166" height="166" align="left" border="0" hspace="5" vspace="5" />It&#8217;s been unseasonably HOT!
 
 **During warm weather like this, some days you just want to bite into a nice, cool, crisp salad. For many people though, because of what Acupuncture theories say about energetic nutrition, I advise that they shouldn&#8217;t be eating raw foods. What to do then, when nourishing soups, stews, and casseroles are the last thing on your mind?**

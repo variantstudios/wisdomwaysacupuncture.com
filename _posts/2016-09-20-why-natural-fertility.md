@@ -1,20 +1,17 @@
 ---
-
 title: Why Natural Fertility?
 date: 2016-09-20T10:11:52+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Natural Fertility: Why I Treat Only Natural Fertility & Refer for ART'
-thesis_description:
-  - "Explains the different acupuncture treatments goals of natural fertility vs. ART cases, and why I believe I'm better for patients by focusing on just natural fertility."
-thesis_keywords:
-  - natural fertility, natural fertility fort collins, acupuncture for fertility, acupuncture for infertility
 categories:
   - my-approach--philosophy-and-stories
   - womens-health
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Natural Fertility: Why I Treat Only Natural Fertility & Refer for ART'
+  page_description: "Explains the different acupuncture treatments goals of natural fertility vs. ART cases, and why I believe I'm better for patients by focusing on just natural fertility."
+  share_image_path:
+layout: post
 ---
 ## <span style="color: #808000;"><b>Natural Fertility vs. ART/IVF</b></span>
 

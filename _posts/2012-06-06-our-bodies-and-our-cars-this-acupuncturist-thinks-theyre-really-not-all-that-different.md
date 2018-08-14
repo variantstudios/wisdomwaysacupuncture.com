@@ -1,22 +1,17 @@
 ---
-
 title: 'Your Body and Your Car&#8230;This Acupuncturist Thinks They&#8217;re Not All that Different!'
 date: 2012-06-06T17:35:46+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Our Bodies and Our Cars...From an Acupuncture Perspective, They're Really Not All that Different."
-thesis_description:
-  - 'We can understand our own symptoms by looking at what we see happening around us. This article compares Yin Deficiency to an overheating car. '
-thesis_keywords:
-  - acupuncture-fort-collins, fort collins acupuncture, yin deficiency
 categories:
   - my-approach--philosophy-and-stories
   - random-musings
 tags:
   - yin-deficiency
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Our Bodies and Our Cars...From an Acupuncture Perspective, They're Really Not All that Different."
+  page_description: 'We can understand our own symptoms by looking at what we see happening around us. This article compares Yin Deficiency to an overheating car. '
+  share_image_path:
+layout: post
 ---
 <img src="https://origin.ih.constantcontact.com/fs085/1102844965003/img/113.jpg" alt="acupuncture yin deficiency overheating" width="216" height="143" align="left" border="0" hspace="5" vspace="5" />
 

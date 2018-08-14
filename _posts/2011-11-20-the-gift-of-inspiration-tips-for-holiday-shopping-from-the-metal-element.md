@@ -1,24 +1,17 @@
 ---
-
 title: 'The Gift of Inspiration: Tips for Holiday Shopping from the Metal Element'
 date: 2011-11-20T17:56:46+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'The Gift of Inspiration: Tips for Holiday Shopping from the Metal Element '
-thesis_description:
-  - "Let the gifts of the Metal Element of acupuncture theory, guide our own gift giving this holiday season. Let's keep things SANE and inspiring! "
-thesis_keywords:
-  - Acupuncture, 5 Elements, Metal Element, acupuncture fort collins, chinese medicine fort collins, fort collins chinese medicine, fort collins acupuncture, conscious holidays
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - autumn--metal-element
   - random-musings
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'The Gift of Inspiration: Tips for Holiday Shopping from the Metal Element '
+  page_description: "Let the gifts of the Metal Element of acupuncture theory, guide our own gift giving this holiday season. Let's keep things SANE and inspiring! "
+  share_image_path:
+layout: post
 ---
 <p style="text-align: left;">
   <img src="http://ih.constantcontact.com/fs085/1102844965003/img/93.jpg" alt="Shopping" width="155" height="105" align="left" border="0" hspace="5" vspace="5" /><strong><span style="color: #808000;">Stuff, stuff, and more stuff!</span> </strong>

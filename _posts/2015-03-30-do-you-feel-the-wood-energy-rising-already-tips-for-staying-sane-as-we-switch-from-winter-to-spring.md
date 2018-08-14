@@ -1,27 +1,6 @@
 ---
-
 title: 'Do You Feel the Wood Element Energy Rising Already?: Tips for Staying Sane as we Move from Winter to Spring'
 date: 2015-03-30T09:03:43+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Tips for Staying Sane as we Move from Winter to Spring/Wood Element Time
-thesis_description:
-  - "As the days get longer and the Wood Element energy rises, symptoms related to imbalanced liver often begin to increase. Here's tips for avoiding that!"
-thesis_keywords:
-  - wood-element, liver imbalance, wood imbalance
-thesis_thumb:
-  - http://www.wisdomwaysacupuncture.com/wp-admin/domtek.org/en/first_steps/yin_yang.php
-thesis_thumb_alt:
-  - http://www.wisdomwaysacupuncture.com/wp-admin/domtek.org/en/first_steps/yin_yang.php
-ampforwp_custom_content_editor:
-  - ""
-ampforwp_custom_content_editor_checkbox:
-  - ""
-ampforwp-amp-on-off:
-  - default
 categories:
   - spring--wood-element
 tags:
@@ -31,6 +10,12 @@ tags:
   - acupuncture-and-anxiety
   - acupuncture-and-irritability
   - acupuncture-and-depression
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Tips for Staying Sane as we Move from Winter to Spring/Wood Element Time
+  page_description: "As the days get longer and the Wood Element energy rises, symptoms related to imbalanced liver often begin to increase. Here's tips for avoiding that!"
+  share_image_path:
+layout: post
 ---
 <div style="width: 194px" class="wp-caption alignleft">
   <a href="http://www.wisdomwaysacupuncture.com/wp-admin/domtek.org/en/first_steps/yin_yang.php"><img style="margin: 5px; border: 0px none;" title="Acupuncture Wood Element" src="http://ih.constantcontact.com/fs124/1102844965003/img/178.gif" alt="Acupuncture in Fort Collins, CO Wood Element" width="184" height="170" align="left" border="0" hspace="5" vspace="5" /></a>

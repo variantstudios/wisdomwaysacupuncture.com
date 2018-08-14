@@ -1,26 +1,17 @@
 ---
-
 title: 'Chinese Medicine and your Immunity: Boost your Wei Qi Now to Stay Healthy This Winter'
 date: 2011-11-02T16:56:14+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Chinese Medicine and your Immunity: Boost your Wei Qi Now to Stay Healthy This Winter'
-thesis_description:
-  - 'Acupuncture and herbs can be effective for raising immunity, and even studies are finding proven links between acupuncture and immune system improvement.  '
-thesis_keywords:
-  - acupuncture-fort-collins, Fort Collins Acupuncture, acupuncture for immune system
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - exciting-acupuncture-research
 tags:
   - immunity
   - immune-system
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Chinese Medicine and your Immunity: Boost your Wei Qi Now to Stay Healthy This Winter'
+  page_description: 'Acupuncture and herbs can be effective for raising immunity, and even studies are finding proven links between acupuncture and immune system improvement.  '
+  share_image_path:
+layout: post
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/91.jpg" alt="Lungs and Wei Qi" width="141" height="105" align="left" border="0" hspace="5" vspace="5" />I hope you&#8217;ve all been staying warm and cozy through our first couple snow storms of the year! **As the weather gets colder, many people come to me for a few seasonal &#8220;tune-up&#8221; treatments to prepare their body for winter and ward off illness. While Chinese medicine has its own theory for why acupuncture and herbs can be effective for raising immunity, even scientific studies are finding proven links between acupuncture and immune system improvement.**
 

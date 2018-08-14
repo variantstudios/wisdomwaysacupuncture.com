@@ -1,24 +1,17 @@
 ---
-
 title: 'Portrait of a Food Meltdown: Even Acupuncturists Need to Find Ways to Keep Keepin&#8217; on, When Eating Healthy Feels Too Overwhelming'
 date: 2016-08-06T15:29:19+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Portrait of a Food Meltdown: Even Acupuncturists Have to Find Ways to Keep Keepin' on, When Eating Healthy Feels Too Overwhelming"
-thesis_description:
-  - "As an acupuncturist, I'm usually coaching my patients through food meltdowns. But here's how my own meltdown went, and I handled it. Hope it helps you!"
-thesis_keywords:
-  - Acupuncture, acupuncturist, acupuncture fort collins, fort collins acupuncture
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - nutrition--food
   - my-paleo-life
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Portrait of a Food Meltdown: Even Acupuncturists Have to Find Ways to Keep Keepin' on, When Eating Healthy Feels Too Overwhelming"
+  page_description: "As an acupuncturist, I'm usually coaching my patients through food meltdowns. But here's how my own meltdown went, and I handled it. Hope it helps you!"
+  share_image_path:
+layout: post
 ---
 <table id="content_LETTER.BLOCK21" border="0" width="819" cellspacing="0" cellpadding="0">
   <tr>

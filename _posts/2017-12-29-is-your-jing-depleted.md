@@ -1,23 +1,16 @@
 ---
-
 title: 'Is Your Jing Depleted?  A Chinese Medicine Concept you may Want to Know About'
 date: 2017-12-29T10:00:27+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture and Your Jing: Is Your Jing Depleted?'
-thesis_description:
-  - 'Jing relates to the Water element & Kidneys, and is our root, constitutional Qi which we must not deplete. Explains what jing is and why it matters. '
-thesis_keywords:
-  - Kidney Qi, Jing, water element, kidneys
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - winter--water-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture and Your Jing: Is Your Jing Depleted?'
+  page_description: 'Jing relates to the Water element & Kidneys, and is our root, constitutional Qi which we must not deplete. Explains what jing is and why it matters. '
+  share_image_path:
+layout: post
 ---
 ## **
   

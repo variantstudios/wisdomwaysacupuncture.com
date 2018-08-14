@@ -1,21 +1,18 @@
 ---
-
 title: 'Study: Acupuncture Effective for Endometriosis &#8211; Study Results and Clinical Experience'
 date: 2018-05-08T08:49:03+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture & Endometriosis-Study Results & Successful Clinical Experience'
-thesis_description:
-  - "Acupuncture Study Shows it's Effective for Endometriosis - article includes the study results, as well as how I treat it clinically to get successful clinical results"
-thesis_keywords:
-  - endometriosis, acupuncture for endometriosis, acupuncture for endometriosis in Fort Collins
 categories:
   - my-approach--philosophy-and-stories
   - exciting-acupuncture-research
   - womens-health
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture & Endometriosis-Study Results & Successful Clinical Experience'
+  page_description: "Acupuncture Study Shows it's Effective for Endometriosis - article includes the study results, as well as how I treat it clinically to get successful clinical results"
+  share_image_path:
+layout: post
 ---
 
 <div id="attachment_3635"><a href="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920.jpg"><img alt="endometriosis acupuncture" srcset="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg 150w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-300x200.jpg 300w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-768x513.jpg 768w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-1024x684.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" src="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg" /></a>

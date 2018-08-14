@@ -1,20 +1,17 @@
 ---
-
 title: Success Stories from the Wintertime Acupuncture Clinic
 date: 2012-01-08T10:30:04+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Success Stories from the Wintertime Acupuncture Clinic
-thesis_description:
-  - 'In the middle of winter, in my acupuncture clinic I commonly treat issues related to the kidneys and bladder, & the Water Element.'
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture
 categories:
   - 'success-stories-from-the-clinic-before-and-after-patient-cases'
   - winter--water-element
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Success Stories from the Wintertime Acupuncture Clinic
+  page_description: 'In the middle of winter, in my acupuncture clinic I commonly treat issues related to the kidneys and bladder, & the Water Element.'
+  share_image_path:
+layout: post
 ---
 **We’re in the middle of winter, and that means in my acupuncture clinic I am commonly treating issues which have to do with the kidneys and bladder, the two organs associated with the [Water Element](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), according to Chinese Medicine.
   

@@ -1,23 +1,16 @@
 ---
-
 title: 3 Tips from an Acupuncturist for a Perfect Fall Cleanse
 date: 2013-10-10T17:08:48+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 3 Tips from an Acupuncturist for a Perfect Fall Cleanse
-thesis_description:
-  - "What kind of cleanse should I do!? With acupuncture there is no cleanse that's right for everyone, so consider 3 things when deciding on a cleanse."
-thesis_keywords:
-  - Acupuncture, Acupuncture Fort Collins, Fort Collins acupuncture, Cleanse, Fall Cleanse
-thesis_robots:
-  - 'a:2:{s:7:"noindex";b:1;s:8:"nofollow";b:1;}'
 categories:
   - nutrition--food
 tags:
   - medicinal-foods
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 3 Tips from an Acupuncturist for a Perfect Fall Cleanse
+  page_description: "What kind of cleanse should I do!? With acupuncture there is no cleanse that's right for everyone, so consider 3 things when deciding on a cleanse."
+  share_image_path:
+layout: post
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/165.jpg" alt="null" width="240" height="140" align="left" border="0" hspace="5" vspace="5" />I am often asked by my acupuncture patients how I feel about cleanses. While my responses have changed somewhat over the years, one thing has always remained stable: **there is no single, cookie cutter cleanse that is right for everyone. If you&#8217;re thinking of doing a cleanse soon, you will want to consider the three things listed below before deciding on the cleanse that&#8217;s right for you.**
 

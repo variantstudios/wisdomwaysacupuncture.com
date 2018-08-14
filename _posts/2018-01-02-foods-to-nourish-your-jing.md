@@ -1,21 +1,6 @@
 ---
-
 title: 'Foods to Nourish Your Jing&#8211;An Acupuncturist&#8217;s Approach to using Chinese Medicine Nutritional Principles for Staying Healthy'
 date: 2018-01-02T11:34:06+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "Chinese Medicine Foods to Nourish Your Jing: An Acupuncturist's Approach"
-thesis_description:
-  - 'As acupuncturists, we believe we need to do everything possible to avoid tapping into and therefore depleting our Jing -- the root of all energy.'
-thesis_keywords:
-  - water-element, Kidneys, Jing
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - eating-with-the-seasons
 tags:
@@ -24,6 +9,12 @@ tags:
   - acupuncture-fort-collins
   - fort-collins-acupuncture
   - seasonal-eating
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "Chinese Medicine Foods to Nourish Your Jing: An Acupuncturist's Approach"
+  page_description: 'As acupuncturists, we believe we need to do everything possible to avoid tapping into and therefore depleting our Jing -- the root of all energy.'
+  share_image_path:
+layout: post
 ---
 **
   

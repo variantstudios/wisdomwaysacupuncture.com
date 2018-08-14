@@ -1,20 +1,17 @@
 ---
-
 title: 'Another Acupuncture Paleo Practitioner Approved, Amazingly Yummy and Filling Non-grain &#8220;bun/pancake&#8221; Recipe, Perfectly Balancing for Cold Winter Months'
 date: 2014-01-21T14:45:50+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - An Acupuncture Paleo Practitioner Approved "hamburger bun" Recipe
-thesis_description:
-  - "As an acupuncture paleo practitioner, I'm always excited when I come across a recipe that not only tastes fabulous and is versatile, but is medicinal according the nutrition principles of Chinese Medicine. "
-thesis_keywords:
-  - Paleo practitioner, paleo hamburger buns
 categories:
   - my-paleo-life
   - recipes
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'An Acupuncture Paleo Practitioner Approved "hamburger bun" Recipe'
+  page_description: "As an acupuncture paleo practitioner, I'm always excited when I come across a recipe that not only tastes fabulous and is versatile, but is medicinal according the nutrition principles of Chinese Medicine. "
+  share_image_path:
+layout: post
 ---
 &nbsp;
 

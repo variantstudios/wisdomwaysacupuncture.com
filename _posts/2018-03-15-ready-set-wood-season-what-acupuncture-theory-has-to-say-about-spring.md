@@ -1,19 +1,6 @@
 ---
-
 title: 'Ready, Set&#8230;WOOD SEASON! Acupuncture Advice for Staying Balanced in Spring'
 date: 2018-03-15T09:34:28+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "It's WOOD SEASON! Acupuncture Advice on Staying Balanced in Spring"
-thesis_description:
-  - 'Explains the emotional and physical relationships/challenges with the Wood Element, and what we can do to stay balanced in spring/Wood Season. '
-thesis_keywords:
-  - wood-element, liver imbalance
-thesis_thumb:
-  - /assets/images/wp-content/uploads/2013/03/wood-energy-acupuncture.jpg
 categories:
   - spring--wood-element
   - eating-with-the-seasons
@@ -23,6 +10,12 @@ tags:
   - acupuncture-and-stress
   - acupuncture-and-anxiety
   - acupuncture-and-depression
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "It's WOOD SEASON! Acupuncture Advice on Staying Balanced in Spring"
+  page_description: 'Explains the emotional and physical relationships/challenges with the Wood Element, and what we can do to stay balanced in spring/Wood Season. '
+  share_image_path:
+layout: post
 ---
 <p style="text-align: center;">
   <em>&#8220;And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom&#8221;</em>

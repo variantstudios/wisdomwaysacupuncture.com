@@ -1,24 +1,17 @@
 ---
-
 title: 'How to Make &#8220;Paleo Bread&#8221; that&#8217;s just Veggie &#038; Protein, Without Unhealthy Gluten-Free Substitutes'
 date: 2014-03-11T09:56:07+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - A Paleo approved grain-free sugar free veggie full "Paleo Bread" loaf!
-thesis_description:
-  - I often advise patients to cut out wheat and other inflammatory foods, making people wonder, what about bread!? This paleo bread recipe is just the answer!
-thesis_keywords:
-  - Paleo bread, Paleo Fort Collins
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - my-paleo-life
   - recipes
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'A Paleo approved grain-free sugar free veggie full "Paleo Bread" loaf!'
+  page_description: I often advise patients to cut out wheat and other inflammatory foods, making people wonder, what about bread!? This paleo bread recipe is just the answer!
+  share_image_path:
+layout: post
 ---
 [<img class=" wp-image-1990 alignleft" style="border: 0.5px solid black;" src="/assets/images/wp-content/uploads/2014/03/IMG_3925-150x112.jpg" alt="Acupuncture and bread" width="303" height="226" srcset="/assets/images/wp-content/uploads/2014/03/IMG_3925-150x112.jpg 150w, /assets/images/wp-content/uploads/2014/03/IMG_3925-300x225.jpg 300w, /assets/images/wp-content/uploads/2014/03/IMG_3925-1024x768.jpg 1024w" sizes="(max-width: 303px) 100vw, 303px" />](/assets/images/wp-content/uploads/2014/03/IMG_3925.jpg)
 

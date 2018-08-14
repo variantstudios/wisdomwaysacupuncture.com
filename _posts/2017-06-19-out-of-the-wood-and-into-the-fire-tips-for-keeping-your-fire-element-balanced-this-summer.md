@@ -1,23 +1,6 @@
 ---
-
 title: 'Out of the Wood and Into the Fire: Tips for Keeping your Fire Element Balanced This Summer'
 date: 2017-06-19T15:54:24+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Out of the Wood and Into the Fire: Tips for Keeping your Fire element balanced this Summer'
-thesis_description:
-  - "According to Chinese Medicine, we're entering the Fire Season. Here's tips for helping our Fire element stay balanced."
-thesis_keywords:
-  - 'chinese medicine, liver, wood season, five elements, fire season, acupuncture, '
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - summer--fire-element
 tags:
@@ -27,6 +10,12 @@ tags:
   - wood-element
   - chinese-medicine
   - summer-season
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Out of the Wood and Into the Fire: Tips for Keeping your Fire element balanced this Summer'
+  page_description: "According to Chinese Medicine, we're entering the Fire Season. Here's tips for helping our Fire element stay balanced."
+  share_image_path:
+layout: post
 ---
 <img src="http://ih.constantcontact.com/fs085/1102844965003/img/79.jpg" alt="Summer Sun" width="155.4" height="116.4" align="left" border="0" hspace="5" vspace="5" />**We&#8217;ve made it through the Wood season!**
 

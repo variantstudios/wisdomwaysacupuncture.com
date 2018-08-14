@@ -1,22 +1,17 @@
 ---
-
 title: Acupuncture Helps Keep Emotions Up when Dreary Days Bring you Down
 date: 2012-02-15T12:21:58+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - Acupuncture can Help Keep Emotions Up when the Dreary Days Come
-thesis_description:
-  - 'Acupuncture is very effective for Seasonal Affective Disorder, otherwise appropriately known as SAD. Schedule appointments when shorter days hit. '
-thesis_keywords:
-  - chinese-medicine, Acupuncture, Chinese Medical Nutrition, Acupuncture Fort Collins, Fort Collins Acupuncture, Acupuncture and SAD
 categories:
   - my-approach--philosophy-and-stories
   - winter--water-element
 tags:
   - seasonal-affective-disorder
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: Acupuncture can Help Keep Emotions Up when the Dreary Days Come
+  page_description: 'Acupuncture is very effective for Seasonal Affective Disorder, otherwise appropriately known as SAD. Schedule appointments when shorter days hit. '
+  share_image_path:
+layout: post
 ---
 <div>
   <strong> </strong>

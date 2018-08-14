@@ -1,20 +1,17 @@
 ---
-
 title: Acupuncture Tips from the Earth Element for Staying Balanced in Late Summer
 date: 2016-08-21T16:50:57+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_description:
-  - 'This time of year, recognized by Acupuncturists as "Late Summer", is associated with the Earth Element, and the organs of digestion.  It relates to taking in nourishment and distributing the resources so that the entire self, including body and spirit, are nourished. This article will give tips from an acupuncture perspective on what you can do to stay balanced as the season unfolds. '
-thesis_keywords:
-  - Acupuncture, 5 Elements, Earth Element, Medicinal Foods, Acupuncture Fort Collins, Fort Collins acupuncture
 categories:
   - late-summer--earth-element
   - eating-with-the-seasons
 tags:
   - medicinal-foods
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title:
+  page_description: 'This time of year, recognized by Acupuncturists as "Late Summer", is associated with the Earth Element, and the organs of digestion.  It relates to taking in nourishment and distributing the resources so that the entire self, including body and spirit, are nourished. This article will give tips from an acupuncture perspective on what you can do to stay balanced as the season unfolds. '
+  share_image_path:
+layout: post
 ---
 <img src="https://origin.ih.constantcontact.com/fs124/1102844965003/img/164.jpg" alt="Acupuncturist's Harvest" width="182" height="121" align="left" border="0" hspace="5" vspace="5" />
 

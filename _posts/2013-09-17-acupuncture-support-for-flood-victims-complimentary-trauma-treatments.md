@@ -1,25 +1,16 @@
 ---
-
 title: 'Acupuncture Support for Flood Victims &#8211; Complimentary Trauma Treatments'
 date: 2013-09-17T16:00:22+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncture Support for Flood Victims - Complimentary Trauma Treatments'
-thesis_description:
-  - In an effort to contribute help where I can, I am offering complimentary de-stressing acupuncture treatment to anyone who has been directly affected by the floods
-thesis_keywords:
-  - Acupuncture, fort collins flood, trauma acupuncture
-thesis_robots:
-  - 'a:2:{s:7:"noindex";b:1;s:8:"nofollow";b:1;}'
-thesis_thumb_width:
-  - "66"
-thesis_thumb_height:
-  - "66"
 categories:
   - uncategorized
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: 'Acupuncture Support for Flood Victims - Complimentary Trauma Treatments'
+  page_description: In an effort to contribute help where I can, I am offering complimentary de-stressing acupuncture treatment to anyone who has been directly affected by the floods
+  share_image_path:
+layout: post
 ---
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>

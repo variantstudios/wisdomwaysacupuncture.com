@@ -1,20 +1,17 @@
 ---
-
 title: 'An Acupuncturist&#8217;s perfect Fall Balancing Recipe that will Warm and Nourish your Qi'
 date: 2013-10-30T15:11:42+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - "An Acupuncturist's perfect Fall Balancing Recipe that will Warm and Nourish your Qi"
-thesis_description:
-  - "If you come to me for acupuncture and we've done any TCM dietary counseling, or you've been to one of my Chinese medicine seasonal eating talks, then you know that as the seasons change, the foods we should be eating to stay balanced and healthy change too. This recipe combines the best of amazing tastiness with incredible medicine to form the perfect medicinal fall meal!"
-thesis_robots:
-  - 'a:3:{s:7:"noindex";b:1;s:8:"nofollow";b:1;s:9:"noarchive";b:1;}'
 categories:
   - eating-with-the-seasons
   - recipes
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title: "An Acupuncturist's perfect Fall Balancing Recipe that will Warm and Nourish your Qi"
+  page_description: "If you come to me for acupuncture and we've done any TCM dietary counseling, or you've been to one of my Chinese medicine seasonal eating talks, then you know that as the seasons change, the foods we should be eating to stay balanced and healthy change too. This recipe combines the best of amazing tastiness with incredible medicine to form the perfect medicinal fall meal!"
+  share_image_path:
+layout: post
 ---
 <div id="attachment_1659" style="width: 194px" class="wp-caption alignleft">
   <a title="Acupuncture recipe for perfect Qi building fall meal" href="/assets/images/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato.jpg"><img class="size-thumbnail wp-image-1659 " title="acupuncturist roasted chicken and tomato" src="/assets/images/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato-150x112.jpg" alt="An acupuncturist's recipe for a fall balancing dinner" width="184" height="137" srcset="/assets/images/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato-150x112.jpg 150w, /assets/images/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato-300x225.jpg 300w, /assets/images/wp-content/uploads/2013/10/acupuncturist-roasted-chicken-and-tomato-1024x768.jpg 1024w" sizes="(max-width: 184px) 100vw, 184px" /></a>

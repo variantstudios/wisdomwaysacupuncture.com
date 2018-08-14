@@ -1,19 +1,16 @@
 ---
-
 title: Take a Hot Ginger Bath During the First Stages of a Common Cold
 date: 2011-11-10T12:51:26+00:00
-author: Inger Giffin, L.Ac., Dipl. Ac.
-layout: post
-
-
-thesis_title:
-  - 'Acupuncturist Recommendation: Take a Hot Ginger Bath During the First Stages of a Common Cold'
-thesis_description:
-  - "Many herbs that treat colds are herbs that make you sweat. So acupuncturists prescribe sweating with baths if you're not sweating on your own during a cold."
-thesis_keywords:
-  - acupuncture, acupuncture fort collins, fort collins acupuncture, common colds
 categories:
   - my-approach--philosophy-and-stories
+tags:
+  -
+hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+search_engine_optimization:
+  page_title:  'Acupuncturist Recommendation: Take a Hot Ginger Bath During the First Stages of a Common Cold'
+  page_description: "Many herbs that treat colds are herbs that make you sweat. So acupuncturists prescribe sweating with baths if you're not sweating on your own during a cold."
+  share_image_path:
+layout: post
 ---
 **<img src="http://ih.constantcontact.com/fs085/1102844965003/img/92.jpg" alt="Hot Baths for Common Colds" width="120" height="120" align="left" border="0" hspace="5" vspace="5" />As we have hit cold season full-force, the past couple weeks I&#8217;ve been focusing on what we can do to keep our immune systems strong, and herbs we can take if we&#8217;ve come down with a cold. Today I&#8217;d like to share another tip, which can be used right when you first feel the cold symptoms coming on.**
 
