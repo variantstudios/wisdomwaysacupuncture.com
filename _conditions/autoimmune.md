@@ -3,7 +3,7 @@ title: Acupuncture for Autoimmunity
 areas_of_specialties:
   selected: true
   selected_title: Autoimmunity
-  selected_image: /assets/images/acupuncture-inflammation-autoimmune-2.jpg
+  selected_image: /assets/images/acupuncture-fort-collins-inflammation-tree.jpg
   order: 4
 hero_image:
 search_engine_optimization:
