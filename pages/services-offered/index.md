@@ -1,12 +1,12 @@
 ---
-title: "Services Offered page"
-hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+title: Services Offered page
+hero_image: /assets/images/acupuncture-fort-collins-stress-hero.jpg
 search_engine_optimization:
-  page_title: "Services Offered - WisdomWays Acupuncture"
+  page_title: Services Offered - WisdomWays Acupuncture
   page_description:
   share_image_path:
 layout: page
-permalink: "/services-offered/"
+permalink: /services-offered/
 ---
 
 # Services Offered
@@ -24,5 +24,3 @@ Click the navigation tabs at the top to find out more about each of these treatm
 In addition to Acupuncture and herbs, if nutritional guidance/changes will help as well, I'll encourage you to make a nutrition consultation so that I have time to go deeper into educating you on both Western holistic approaches to nutrition, as well as individualized Eastern approaches you can incorporate as well.
 
 While I'm not a nutritionist, these recommendations are usually enough to help women reach their goals. In some cases I might I refer out to others who can run us lab tests and/or provide more in-depth or intuitive eating counseling.
-
-&nbsp;
