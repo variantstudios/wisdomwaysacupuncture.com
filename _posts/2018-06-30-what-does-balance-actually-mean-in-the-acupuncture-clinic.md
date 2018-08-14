@@ -1,7 +1,7 @@
 ---
 title: >-
-  What does &#8220;Balance&#8221; Actually Mean in the Acupuncture Clinic? How
-  to Know if You&#8217;re Balanced and How we Get You Back to Balance
+  'What does "Balance" Actually Mean in the Acupuncture Clinic? How
+  to Know if You're Balanced and How we Get You Back to Balance'
 categories:
   - my-approach--philosophy-and-stories
   - random-musings
