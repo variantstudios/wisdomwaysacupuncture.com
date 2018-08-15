@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order:
-hero_image:
+hero_image: /assets/images/heroes/acupuncture-fort-collins-LI4.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -20,7 +20,7 @@ There is more than one approach we can take with Chinese medicine, but a key poi
 
 ### Acupuncture and Chinese herbs for Infections
 
-Sometimes “killing” the pathogen is a necessary step, yet this can also be an incredibly depleting treatment process, administered to a body that is already very weak. In my clinic, I’ve had huge success with taking the alternate approach of simply looking at where the body’s imbalances are — &nbsp;where their ecosystem was “off” in the first place, which is what allowed the pathogen to take hold and control — and working to improve and rebalance their body’s correct function. It’s amazing how successful this simple approach has proven, on the hundreds of patients I’ve treated with these infections over the years.
+Sometimes “killing” the pathogen is a necessary step, yet this can also be an incredibly depleting treatment process, administered to a body that is already very weak. In my clinic, I’ve had huge success with taking the alternate approach of simply looking at where the body’s imbalances are —  where their ecosystem was “off” in the first place, which is what allowed the pathogen to take hold and control — and working to improve and rebalance their body’s correct function. It’s amazing how successful this simple approach has proven, on the hundreds of patients I’ve treated with these infections over the years.
 
 The body’s immune system was designed to be able to encounter all sorts of pathogens, and to effectively rid them from the body.
 
