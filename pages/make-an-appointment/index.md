@@ -1,12 +1,12 @@
 ---
-title: "Make Appointment page"
-hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+title: Make Appointment page
+hero_image: /assets/images/heroes/acupuncture-fort-collins-make-appointment-2.hero.jpg
 search_engine_optimization:
-  page_title: "Make Appointment - WisdomWays Acupuncture"
+  page_title: Make Appointment - WisdomWays Acupuncture
   page_description:
   share_image_path:
 layout: page
-permalink: "/make-an-appointment/"
+permalink: /make-an-appointment/
 ---
 
 # Make Appointment
@@ -14,7 +14,7 @@ permalink: "/make-an-appointment/"
 *Please note we are only accepting new patients whose issues are within Inger’s area of specialty. If you’re unsure if you’re a good fit, please call rather than using the online scheduler.*
 {: .error_message}
 
-#### **Schedule an Acupuncture Appointment:&nbsp;**[Online Scheduling](https://instant-scheduling.com/sch.php?kn=184475){: target="_blank"}
+#### **Schedule an Acupuncture Appointment:**[Online Scheduling](https://instant-scheduling.com/sch.php?kn=184475){: target="_blank"}
 
 #### **Or call:** [(970) 227-3077](tel://+19702273077)
 
