@@ -1,6 +1,6 @@
 ---
 title: Our Team page
-hero_image: /assets/images/heroes/Inger-and-Liz-acupuncture-fort-collins.jpg
+hero_image: /assets/images/heroes/Inger-and-Liz-acupuncture-fort-collins-hero.jpg
 search_engine_optimization:
   page_title: Our Team - WisdomWays Acupuncture
   page_description:
