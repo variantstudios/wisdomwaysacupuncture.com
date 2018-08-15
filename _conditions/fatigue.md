@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title: Fatigue
   selected_image: /assets/images/conditions/acupuncture-for-fatigue-sleepiness.jpg
   order: 4
-hero_image: /assets/images/acupuncture-fort-collins-fatigue-hero.jpg
+hero_image: /assets/images/acupuncture-fort-collins-chronic-illness.jpg
 search_engine_optimization:
   page_title:
   page_description:
