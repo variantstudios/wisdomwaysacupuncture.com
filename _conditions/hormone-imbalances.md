@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order:
-hero_image: /assets/images/female-reproductive-cycle-hero.jpg
+hero_image: /assets/images/womens-health-acupuncture-hero2.jpg
 search_engine_optimization:
   page_title:
   page_description:
