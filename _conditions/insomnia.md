@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title: Insomnia
   selected_image: /assets/images/conditions/DSC07519.jpg
   order: 4
-hero_image:
+hero_image: /assets/images/heroes/acupuncture-fort-collins-leg-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -18,7 +18,7 @@ Luckily, Chinese medicine can help.
 
 While I commonly treat insomnia, it's often just another symptom we’re addressing along with other primary concerns such as anxiety or hormonal imbalances.
 
-It tends to worsen in menopausal women which explains why it’s a very common problem in my clinic. However, some women are just prone to it from a very young age -- which is actually diagnostic to other symptoms she might also be struggling with.
+It tends to worsen in menopausal women which explains why it’s a very common problem in my clinic. However, some women are just prone to it from a very young age – which is actually diagnostic to other symptoms she might also be struggling with.
 
 ## Acupuncture & Herbs for Insomnia
 
