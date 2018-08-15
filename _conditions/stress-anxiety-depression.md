@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order:
-hero_image:
+hero_image: /assets/images/acupuncture-fort-collins-anxiety-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -14,7 +14,7 @@ search_engine_optimization:
 
 Emotional wellness is addressed with every patient regardless of what they come in for, but many people get acupuncture specifically for anxiety, depression, panic attacks, unmanageable stress, and problems like OCD or ADHD.
 
-In Chinese medicine we don’t recognize a difference between mental and physical wellness, and therefore just look for each individual’s unique imbalances -- which always explain to us the underlying “why” behind the symptoms.
+In Chinese medicine we don’t recognize a difference between mental and physical wellness, and therefore just look for each individual’s unique imbalances – which always explain to us the underlying “why” behind the symptoms.
 
 When we treat the underlying cause, which in acupuncture is called our “root imbalance”, then treatment for many emotional imbalances is extremely effective.
 
@@ -22,7 +22,7 @@ When we treat the underlying cause, which in acupuncture is called our “root i
 
 I often treat people with even severe anxiety or panic attacks, and with a series of treatments, they cease to be an issue. Many people, should they choose (always and only after notifying their MD first and working with them), are able to completely get off their anxiety or depression medications, once the acupuncture has had enough of a chance to balance their system.
 
-Sometimes patients with anxiety get anxious just about the thought of getting stuck with a bunch of needles! It doesn’t sound relaxing at all, but ironically, relaxation is&nbsp; exactly what people report.
+Sometimes patients with anxiety get anxious just about the thought of getting stuck with a bunch of needles! It doesn’t sound relaxing at all, but ironically, relaxation is  exactly what people report.
 
 ## Chinese Herbs for Anxiety, Depression, Stress…
 
