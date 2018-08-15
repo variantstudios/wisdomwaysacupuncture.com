@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order:
-hero_image: /assets/images/AdobeStock_193281116_Preview.jpeg
+hero_image: /assets/images/acupuncture-gynecology-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
