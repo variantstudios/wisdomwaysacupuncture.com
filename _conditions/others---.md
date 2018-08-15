@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order: 0
-hero_image:
+hero_image: /assets/images/heroes/acupuncture-fort-collins-leg-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
