@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title: Migraines
   selected_image: /assets/images/conditions/DSC07519.jpg
   order: 0
-hero_image:
+hero_image: /assets/images/acupuncture-fort-collins-headaches-hero.jpg
 search_engine_optimization:
   page_title: 'Headaches, Migraines'
   page_description:
