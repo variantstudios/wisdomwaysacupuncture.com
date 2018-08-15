@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order:
-hero_image:
+hero_image: /assets/images/acupuncture-fort-colllins-digestion-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -27,7 +27,7 @@ Perhaps you:
 
 Because problems like this are so prevalent, I'm typically working on improving the digestion of every patient. The prognosis is generally very good – even for life-long problems.
 
-And because digestion — and therefore good nutrient absorption —&nbsp; is so important for overall health and wellness, it is vital that we not only improve your digestive problems, but that we address it during the treatment of any ailment.
+And because digestion — and therefore good nutrient absorption —  is so important for overall health and wellness, it is vital that we not only improve your digestive problems, but that we address it during the treatment of any ailment.
 
 Whether caused by stress/anxiety, food allergies, auto-immunity, parasites, or just general poor health and weakness, I see great results using both acupuncture and herbs.
 
