@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title:
   selected_image:
   order:
-hero_image: /assets/images/AdobeStock_193006260_Preview_1-c.jpg
+hero_image: /assets/images/female-reproductive-cycle-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
