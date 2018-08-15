@@ -1,6 +1,6 @@
 ---
 title: Nutritional Guidance
-hero_image: /assets/images/acupuncture-fort-collins-nutrition-hero.jpg
+hero_image: /assets/images/heroes/acupuncture-fort-collins-consultation-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
