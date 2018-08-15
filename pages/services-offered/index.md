@@ -1,6 +1,6 @@
 ---
 title: Services Offered page
-hero_image: /assets/images/Acupuncture-Fort-Collins-Interview-room-1.jpg
+hero_image: /assets/images/heroes/acupuncture-fort-collins-consultation-hero.jpg
 search_engine_optimization:
   page_title: Services Offered - WisdomWays Acupuncture
   page_description:
