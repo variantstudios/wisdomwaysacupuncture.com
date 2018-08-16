@@ -32,9 +32,10 @@ But even as the sun begins to set — too early for most of our liking — I not
 
 And I’ve suddenly found my inspiration for this week’s bit of Wisdom:&nbsp; A simple bowl of warm local peaches, harvested last year and preserved into compote for enjoyment on just a winter’s day as today, topped with a dollop of fresh organic cream.
 
-Mmmmmm…preserved sunshine and fluffy rich decadence!
+![peaches and cream](http://origin.ih.constantcontact.com/fs085/1102844965003/img/8.jpg "Acupuncturist eats locally grown and preserved peaches")
+{: .align-to-center}
 
-![peached and cream](http://origin.ih.constantcontact.com/fs085/1102844965003/img/8.jpg)
+Mmmmmm…preserved sunshine and fluffy rich decadence!
 
 OK, so it has whipped cream on top — even sweetened with a small amount of unrefined sugar — and we generally want to avoid too much of this kind of thing. But as I tune into my body, all I feel is a yes, Yes, YES!
 
