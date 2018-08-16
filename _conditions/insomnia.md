@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title: Insomnia
   selected_image: /assets/images/conditions/DSC07519.jpg
   order: 4
-hero_image: /assets/images/heroes/acupuncture-fort-collins-leg-hero.jpg
+hero_image: /assets/images/acupuncture-fort-collins-headaches-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
