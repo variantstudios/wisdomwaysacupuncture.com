@@ -1,52 +1,45 @@
 ---
 title: When Eating More Salt will Help Conserve Your Qi
-date: 2010-12-07T17:10:41+00:00
+date: 2010-12-07 17:10:00
 categories:
   - winter--water-element
   - eating-with-the-seasons
 tags:
-  -
-hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+hero_image: /assets/images/salt-qi-blog.jpg
 search_engine_optimization:
   page_title: Eating More Salt Can Help Conserve Your Qi
-  page_description: "Acupuncture theory says that the 5 flavors medicinally balance the body and conserve Qi.  Salt draws your Qi to your core, where it's stored in winter."
+  page_description: >-
+    Acupuncture theory says that the 5 flavors medicinally balance the body and
+    conserve Qi.  Salt draws your Qi to your core, where it's stored in winter.
   share_image_path:
 layout: post
 ---
-<div id="attachment_945" style="width: 129px" class="wp-caption alignleft">
-  <a href="/assets/images/wp-content/uploads/2010/12/salt.jpg"><img class="size-full wp-image-945" title="salt" src="/assets/images/wp-content/uploads/2010/12/salt.jpg" alt="Salt can Help Your Qi" width="119" height="78" /></a>
-  
-  <p class="wp-caption-text">
-    Salt Can Help Your Qi
-  </p>
-</div>
 
-**We&#8217;re entering into [Water season](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), the season related to the [Kidneys](http://www.wisdomwaysacupuncture.com/2017/12/29/is-your-jing-depleted/). ** 
+<div id="attachment_945" style="width: 129px" class="wp-caption alignleft">&nbsp;</div>
 
-**Energy, or Qi, is at it&#8217;s lowest point in the cycle of the year,** so during winter, it&#8217;s appropriate to be less active and to conserve our energy stores. Unfortunately, just because it&#8217;s _appropriate_ to do less, doesn&#8217;t mean that modern life always allows it; **so the more we can do to take care of our energy during this time of year, the more of it we&#8217;ll have.**
+We’re entering into [Water season](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), the season related to the [Kidneys](http://www.wisdomwaysacupuncture.com/2017/12/29/is-your-jing-depleted/).&nbsp;
 
-**Believe it or not, eating more salt during the winter can help maintain your stores of energy.** 
+Energy, or Qi, is at it’s lowest point in the cycle of the year, so during winter, it’s appropriate to be less active and to conserve our energy stores. Unfortunately, just because it’s appropriate to do less, doesn’t mean that modern life always allows it; so the more we can do to take care of our energy during this time of year, the more of it we’ll have.
 
-In the spring, everything is moving upwards and outwards&#8211;plants sprout everywhere and move towards the sun, and foods that grow quickly and upwards are in abundance.  Asparagus and lettuce leaves are the food of the day.  It is appropriate to eat foods that grow up and vigorously towards the sun during those times of year, because they help our energies to move outwards and up as well.
+### Believe it or not, eating more salt during the winter can help maintain your stores of energy.
 
-**But now it is winter, and we want our Qi stored deep inside us at our core, where it will safely nest and keep us strong and well during these cold winter months.  Salt directs our Qi inwards and downward to our core, and for this reason it helps conserve our Qi. (keep in mind this entire article relates to unrefined sea salt, which still contains all its minerals)
-  
-** 
+In the spring, everything is moving upwards and outwards–plants sprout everywhere and move towards the sun, and foods that grow quickly and upwards are in abundance.&nbsp; Asparagus and lettuce leaves are the food of the day.&nbsp; It is appropriate to eat foods that grow up and vigorously towards the sun during those times of year, because they help our energies to move outwards and up as well.
 
-#### <span style="color: #808000;">Really? Eat <em>more</em> salt?</span>
+But now it's winter, and we want our Qi stored deep inside us at our core, where it will safely nest and keep us strong and well during these cold winter months.&nbsp; Salt directs our Qi inwards and downward to our core, and for this reason it helps conserve our Qi. (keep in mind this entire article relates to unrefined sea salt, which still contains all its minerals)
 
-I don&#8217;t buy into this whole &#8220;no salt&#8221; craze that modern medicine subscribes to.  Salt has been a healthy part of many cultures for thousands of years, and is actually one of 5 medicinal &#8220;flavors&#8221; in Chinese Medicine. Yes, millions of people have high blood pressure because of too much salt (among other things) in their diets.  But is is the culprit really the healthy sea salt they&#8217;re ingesting as part of a normal, whole and clean foods diet that, or is it the &#8220;extras&#8221; that nowadays are not really extras but standard everyday fare: huge bags of chips, excessively salted tins of nuts, gargantuan buckets of popcorn at the movies, packaged and processed foods that are loaded with refined sodium&#8230;?
+#### Really? Eat more salt?
 
-### <span style="color: #808000;"><strong>&#8220;Flavors&#8221; as medicine, according to acupuncture theory</strong></span>
+I don’t buy into this whole “no salt” craze that modern medicine subscribes to.&nbsp; Salt has been a healthy part of many cultures for thousands of years, and is actually one of 5 medicinal “flavors” in Chinese Medicine. Yes, millions of people have high blood pressure because of too much salt (among other things) in their diets.&nbsp; But is is the culprit really the healthy sea salt they’re ingesting as part of a normal, whole and clean foods diet that, or is it the “extras” that nowadays are not really extras but standard everyday fare: huge bags of chips, excessively salted tins of nuts, gargantuan buckets of popcorn at the movies, packaged and processed foods that are loaded with refined sodium…?
 
-**All the flavors are important to get into our diets in a balanced amount, according to Chinese Medicine. There is sweet (which we eat too much of), bitter (which we eat not enough), sour, salty, and bland.  Eating each one in correct amounts helps keep our bodies balanced.  Because sour astringes, which means to hold, bind, or draw together, it also helps conserve our energies during these colder months.**
+### “Flavors” as medicine, according to acupuncture theory
 
-**If we examine many native cultures, we see that they naturally practiced the tradition of eating saltier foods in the winter time&#8230;stored sauerkrauts, relishes, and pickles not only preserved summer&#8217;s bounty to be eaten throughout the year, but foods like these help keep the people&#8217;s energies tucked deep inside.**
+All the flavors are important to get into our diets in a balanced amount, according to Chinese Medicine. There is sweet (which we eat too much of), bitter (which we eat not enough), sour, salty, and bland.&nbsp; Eating each one in correct amounts helps keep our bodies balanced.&nbsp; Because sour astringes, which means to hold, bind, or draw together, it also helps conserve our energies during these colder months.
 
-**So go ahead and salt your dinner a little more liberally than usual during the upcoming colder months.** Try to eat some sauerkraut or pickles  daily, both of which add a combination of the medicinal salty and sour flavors. **Your  Qi will move deep into your core so your &#8220;engine&#8221; can hum along nicely all winter, revving up your digestion, your metabolism, and your all over body functioning .**
+If we examine many native cultures, we see that they naturally practiced the tradition of eating saltier foods in the winter time…stored sauerkrauts, relishes, and pickles not only preserved summer’s bounty to be eaten throughout the year, but foods like these help keep the people’s energies tucked deep inside.
 
-**May our &#8220;engines&#8221; purr and run strong all winter long!!!**
+So go ahead and salt your dinner a little more liberally than usual during the upcoming colder months. Try to eat some sauerkraut or pickles&nbsp; daily, both of which add a combination of the medicinal salty and sour flavors. Your&nbsp; Qi will move deep into your core so your “engine” can hum along nicely all winter, revving up your digestion, your metabolism, and your all over body functioning .
 
-_disclaimer: if you eat a large amount of processed foods and do not plan on stopping, then of course you would not want to add more salt&#8230;you are already eating too much.  Also, if you have a kidney condition or other serious medical condition in which salt is strictly forbidden in all but the smallest amount, please continue with this diet!!!  There is no cookie cutter approach for everyone when it comes to eating, and these articles should never override medical advice.
-  
-_
+May our “engines” purr and run strong all winter long!!!
+
+\*\*disclaimer: if you eat a large amount of processed foods and do not plan on stopping, then of course you would not want to add more salt…you are already eating too much.&nbsp; Also, if you have a kidney condition or other serious medical condition in which salt is strictly forbidden in all but the smallest amount, please continue with this diet!!!&nbsp; There is no cookie cutter approach for everyone when it comes to eating, and these articles should never override medical advice.
+{: .error_message}
