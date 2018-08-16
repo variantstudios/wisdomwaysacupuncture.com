@@ -6,7 +6,7 @@ categories:
 tags:
   - medical-acupuncture
   - dry-needling
-hero_image:
+hero_image: /assets/images/shocked-woman-acupuncture.jpg
 search_engine_optimization:
   page_title: Problems with Medical Acupuncture
   page_description: >-
@@ -17,9 +17,7 @@ search_engine_optimization:
 layout: post
 ---
 
-<div id="attachment_806" style="width: 102px" class="wp-caption alignleft"><p class="wp-caption-text"><img class="size-full wp-image-806" title="Woman afraid to get acupuncture from untrained medical professional" alt="Acupuncture without training is scary" width="92" height="141" src="/assets/images/wp-content/uploads/2010/06/image-scared-person1-e1277314104924.jpg" />&ldquo;You&rsquo;ve had only 4 days of training in acupuncture!?!&rdquo;</p></div>
-
-Yowzers!!!
+Only FOUR days and some health care providers can start practicing acupuncture?! Yowzers!
 
 I became informed of the above advertisement for “medical acupuncture” while browsing the web for interesting articles to post to my blog.
 
