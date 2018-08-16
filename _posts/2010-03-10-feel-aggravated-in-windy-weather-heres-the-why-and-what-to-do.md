@@ -7,7 +7,7 @@ tags:
   - wind
   - liver-qi-stagnation
   - liver-imbalance
-hero_image: /assets/images/heroes/windy-days-aggravate-your-qi.jpg
+hero_image: /assets/images/heroes/windy-aggravates-liver.jpg
 search_engine_optimization:
   page_title: Feel Extra Aggravated in Windy Weather? Here's the Why and What to Do!
   page_description: >-
