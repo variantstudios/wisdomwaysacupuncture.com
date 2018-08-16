@@ -1,6 +1,6 @@
 ---
 title: Blog page
-hero_image: /assets/images/heroes/acupuncture-fort-collins-blog-hero.jpg
+hero_image: /assets/images/heroes/fort-collins-acupuncture-blog.jpg
 search_engine_optimization:
   page_title: Blog - WisdomWays Acupuncture
   page_description:
