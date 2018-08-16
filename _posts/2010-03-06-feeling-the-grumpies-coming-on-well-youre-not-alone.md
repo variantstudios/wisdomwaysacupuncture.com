@@ -7,7 +7,7 @@ tags:
   - liver-qi-stagnation
   - liver-imbalance
   - acpuncture-and-stress
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+hero_image:
 search_engine_optimization:
   page_title: Feeling the Grumpies Coming On?  That's the pesky Liver
   page_description: >-
