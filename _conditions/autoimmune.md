@@ -5,7 +5,7 @@ areas_of_specialties:
   selected_title: Autoimmunity
   selected_image: /assets/images/acupuncture-fort-collins-inflammation-tree.jpg
   order: 5
-hero_image:
+hero_image: /assets/images/heroes/acupuncture-fort-collins-ST25-hero.jpg
 search_engine_optimization:
   page_title:
   page_description:
