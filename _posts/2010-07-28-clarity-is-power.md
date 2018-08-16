@@ -10,7 +10,7 @@ search_engine_optimization:
   page_description: >-
     Clarity is an important trait of the Fire Element.  When we can access our
     Fire Element, we feel clear on who we are and passionate towards life.
-  share_image_path:
+  share_image_path: /assets/images/clarity-is-power-fire-element-post.jpg
 layout: post
 ---
 
