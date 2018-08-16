@@ -4,6 +4,7 @@ title: >-
   Earth
 date: 2010-07-14 12:57:00
 categories:
+  - summer--fire-element
 tags:
 hero_image: /assets/images/meagan-post.jpg
 search_engine_optimization:
