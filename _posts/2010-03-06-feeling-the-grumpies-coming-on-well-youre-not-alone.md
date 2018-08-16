@@ -18,10 +18,10 @@ layout: post
 ---
 
 #### Feeling more irritable lately?
-{: .align-to-center}
 
 #### Getting bothered by the silly little things?
-{: .align-to-center}
+
+&nbsp;
 
 Well you’re not alone!
 
