@@ -17,13 +17,14 @@ search_engine_optimization:
 layout: post
 ---
 
-#### Feeling more irritable lately?
+Feeling more irritable lately?
+{: .align-to-center}
 
-#### Getting bothered by the silly little things?
-
-&nbsp;
+Getting bothered by the silly little things?
+{: .align-to-center}
 
 Well you’re not alone!
+{: .align-to-center}
 
 Already this week people are beginning to report an increase in their levels of irritability and frustration.
 
