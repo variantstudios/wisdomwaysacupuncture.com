@@ -1,6 +1,7 @@
 --- 
 layout: default 
 ---
+{% if page.layout != "post" %} 
 {% if page.hero_image %}
 <div class="front-hero clearfix">
     <div class="front-hero-wrapper clearfix">
@@ -18,6 +19,7 @@ layout: default
         </div>
     </div>
 </div>
+{% endif %}
 {% endif %}
 <div class="content-bg clearfix">
     <div class="subpage clearfix">
