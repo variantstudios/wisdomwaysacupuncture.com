@@ -4,7 +4,7 @@ date: 2010-06-06 12:35:00
 categories:
   - exciting-acupuncture-research
 tags:
-hero_image:
+hero_image: /assets/images/woman-acupuncture-fort-collins.jpg
 search_engine_optimization:
   page_title: Groundbreaking Research Proves How Acupuncture Works
   page_description: More research continues to validate the effectiveness of acupuncture.
