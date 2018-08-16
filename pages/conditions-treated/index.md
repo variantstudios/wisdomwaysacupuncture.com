@@ -1,6 +1,6 @@
 ---
 title: Conditions Treated
-hero_image: /assets/images/heroes/acupuncture-fort-collins-conditions-treated.jpg
+hero_image: /assets/images/heroes/acupuncture-fort-collins-ST25-hero.jpg
 search_engine_optimization:
   page_title: Conditions Treated - WisdomWays Acupuncture
   page_description:
