@@ -1,7 +1,7 @@
 ---
 title: >-
-  Interview:  Meagan O&#8217;Nan,The &#8220;Mistress of Happiness&#8221;
-  Creating Your Heaven on Earth
+  Interview:  Meagan O'Nan, The "Mistress of Happiness": Creating Your Heaven on
+  Earth
 date: 2010-07-14 12:57:00
 categories:
 tags:
