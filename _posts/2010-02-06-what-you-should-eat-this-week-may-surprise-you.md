@@ -59,3 +59,7 @@ Come to think of it, perhaps our creator *wanted* a dull and barren season so th
 Hmmm, something to think about…
 
 Oh yes!&nbsp; But now, back to my peaches and cream!
+
+&nbsp;
+
+&nbsp;
