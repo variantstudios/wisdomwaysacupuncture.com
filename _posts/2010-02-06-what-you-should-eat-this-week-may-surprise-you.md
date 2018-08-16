@@ -17,10 +17,8 @@ search_engine_optimization:
 layout: post
 ---
 
-###### (update: this is an old post from before I went paleo, so I now would make changes accordingly. But I kept this post up because the message still applies!)
-{: .align-to-center}
-
-&nbsp;
+(update: this is an old post from before I went paleo, so I now would make changes accordingly. But I kept this post up because the message still applies!)
+{: .pink_message}
 
 Today, as I sit and write looking out my still-winter window and think about what I’ve learned this week, I notice the leafless trees and unmelted snow on the ground.
 
