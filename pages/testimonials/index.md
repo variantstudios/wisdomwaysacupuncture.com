@@ -1,6 +1,6 @@
 ---
 title: Testimonials page
-hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+hero_image: /assets/images/heroes/acupuncture-fort-collins-consultation-hero.jpg
 search_engine_optimization:
   page_title: Testimonials - WisdomWays Acupuncture
   page_description:
