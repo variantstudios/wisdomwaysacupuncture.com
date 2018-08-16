@@ -28,7 +28,9 @@ While it may be true that these colds can be clues that we’re not caring for o
 
 ##### 1) Chinese medicine thinks of bacterium and viruses (pathogens) as “Evil Qi”, and our body’s immune system as part of our “Righteous Qi”
 
-Nice descriptions, eh? Whichever is stronger “wins the battle”.
+Nice descriptions, eh?
+
+Whichever is stronger “wins the battle”.
 
 This means that even if you have an incredibly strong immune system, when a pathogen comes along with even stronger Qi, it wins, and you get an uninvited cold, couch surfing in your livingroom. Pretty basic.
 
