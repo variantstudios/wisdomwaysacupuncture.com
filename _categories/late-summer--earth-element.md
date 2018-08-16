@@ -7,6 +7,7 @@ popular_blog_topics:
   order: 3
 post: >-
   2016-08-21-acupuncture-tips-from-the-earth-element-for-staying-balanced-in-late-summer
+hero_image:
 search_engine_optimization:
   page_title:
   page_description:

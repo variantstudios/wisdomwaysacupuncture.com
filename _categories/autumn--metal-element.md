@@ -7,6 +7,7 @@ popular_blog_topics:
   order: 4
 post: >-
   2016-11-05-metal-season-the-time-for-learning-about-letting-go-8212-but-that-what8217s-of-value-remains
+hero_image:
 search_engine_optimization:
   page_title:
   page_description:
