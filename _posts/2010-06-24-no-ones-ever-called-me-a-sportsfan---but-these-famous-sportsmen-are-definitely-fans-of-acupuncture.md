@@ -26,13 +26,10 @@ But when I saw the list of well-known athletes who openly discuss the success th
 Grant Hill, a famous NBA player, speaks of his successful experience with acupuncture.&nbsp; Here’s an excerpt:
 
 “Acupuncture doesn’t just heal injuries, but it relaxes and at the same time stimulates energy,” said Cao. (Grant’s Acupuncturist)
-{: .frost_message}
 
 After a Game 1 loss to Portland in the first round of the playoffs, Hill felt sluggish and heavy-legged. So he scheduled an appointment with Cao before Game 2 and came out “feeling better than at any time this entire season.”
-{: .frost_message}
 
 As the Suns have progressed in the playoffs, Hill has kept up his treatments.“I’ve been kicking myself for not going to see him more during the regular season,” he said. “I’m low on energy or I might have a muscle contusion. I’ve even come for allergies. I don’t know if the stuff (really) works. Maybe it’s a placebo. But I like it and I’ve had good results doing it.”
-{: .frost_message}
 
 Wade, of Miami Heat, also receives acupuncture, (and in fact an old supervisor of mine was his acupuncturist!)&nbsp; Wade uses acupuncture to soothe his knee pain.
 
