@@ -20,6 +20,7 @@ Each winter, I see an increase in my acupuncture practice in people coming in fo
 *“During an attack of Raynaud’s, affected areas of your skin usually turn white at first. Then, the affected areas often turn blue, feel cold and numb, and your sensory perception is dulled. As circulation improves, the affected areas may turn red, throb, tingle or swell. The order of the changes of color isn’t the same for all people, and not everyone experiences all three colors.”*
 
 *–Mayoclinic.com*
+{: .align-to-right}
 
 The Western explanation is that this discoloration of the skin occurs because an abnormal spasm of the blood vessels causes a diminished blood supply to the local tissues.&nbsp; While the cause of this is unknown, both abnormal nerve control of the blood-vessel diameter and nerve sensitivity to cold exposure are thought to be contributing factors.
 
@@ -39,4 +40,7 @@ Often, acupuncture alone can work to alleviate symptoms in the short term, and c
 
 Raynaud’s is a perfect example of a chronic condition which is treated wonderfully through Chinese Medicine, with the only side effect being increased quality of life, more energy, and better overall health!
 
-If you’re struggling with this condition, you can [schedule an appointment online](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/) or call (970) 227-3077
+If you’re struggling with this condition and you think acupuncture can help, [Schedule Appointment ](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
+
+&nbsp;
