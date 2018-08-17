@@ -51,3 +51,6 @@ But it can’t do the job on its own. The more we can follow practices that regu
 Regular acupuncture treatments, herbal prescriptions, correct dietary habits, and the practices listed above; are all great ways to facilitate ease and wellness in our body.
 
 We must learn that reducing stress is not a luxury, but a necessity, and one that will reward you with greater levels of happiness, strength, and well-being.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
