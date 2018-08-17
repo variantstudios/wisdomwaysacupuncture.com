@@ -47,3 +47,8 @@ Why is this?
 Because [Late Summer/Earth](/2016/08/21/acupuncture-tips-from-the-earth-element-for-staying-balanced-in-late-summer/) time is related to the muscle tissue as well as to the organs of digestion, this is another great reason to treat muscle issues/pain during this time of year, in addition to the digestive issues spoken about in the seasonal article.
 
 Remember…no one need be debilitated by Chronic Fatigue and Fibromyalgia!
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
+
+&nbsp;
