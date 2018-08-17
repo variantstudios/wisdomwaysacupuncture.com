@@ -56,3 +56,6 @@ And it shouldn’t, to anyone who is practicing acupuncture.
 To end my posting, I will share a story that was told by a friend of mine, who was suffering from unexplained weight gain and fatigue, and who was getting sick often. &nbsp;She went to an MD for acupuncture because this was all her insurance would pay for. &nbsp;When the MD asked why she came for acupuncture, she stated “just general well-being”. &nbsp;The “acupuncturist” looked at her puzzled, and said, “I don’t know what you’re talking about.”
 
 The moral of the story is, go to your MD for western medicine, to your Chiropractor for chiropractic care, and by all means, to a Licensed Acupuncturist for acupuncture!&nbsp; :-)
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
