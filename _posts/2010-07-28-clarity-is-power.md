@@ -70,4 +70,8 @@ The most wonderful thing about the Heart’s wisdom, is that you can rarely (if 
 
 <div style="text-align: center;">So take a moment to ask yourself, am I clear in all areas of my life?&nbsp; Your Heart Fire will thank you for it!</div>
 
+<div style="text-align: center;">&nbsp;</div>
+
+<div style="text-align: center;"><a class="call-to-action" data-cms-editor-link-style="undefined" href="/make-an-appointment/">Schedule an Appointment</a></div>
+
 &nbsp;
