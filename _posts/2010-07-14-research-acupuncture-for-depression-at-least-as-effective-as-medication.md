@@ -41,6 +41,9 @@ One complication that patients need to look out for, is that patients with depre
 
 I urge anyone with depression to do whatever they can to improve their chances of experiencing joy and fulfillment this summer, as those experiences are not only necessary to stay balanced, but we continuously feed off the high that they give us as the winter months hit and it becomes the natural time to sink inward and experience the more serious aspects of life. (see featured Fire article for more explanation)
 
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
+
 \*\*Sources:
 
 -Allen, J. J. B. (2000). Depression and acupuncture: a controlled clinical trial. Psychiatric Times Online, 22, 3.
