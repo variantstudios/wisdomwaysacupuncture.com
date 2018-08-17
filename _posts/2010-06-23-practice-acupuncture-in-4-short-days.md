@@ -1,5 +1,5 @@
 ---
-title: Practice Acupuncture in 4 Short Days!
+title: '"Practice Acupuncture in 4 Short Days!"'
 date: 2010-06-23 11:31:00
 categories:
   - uncategorized
