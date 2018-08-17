@@ -75,4 +75,9 @@ Something is *seriously* broken with modern medicine, and the only way it will c
 ##### Wellness and natural medicine…the NEW health care. :-)
 {: .align-to-center}
 
+&nbsp;
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
+
 **&nbsp;**
