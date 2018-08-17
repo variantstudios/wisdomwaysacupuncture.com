@@ -19,18 +19,11 @@ layout: post
 
 &nbsp;
 
-##### As an acupuncturist, why am I writing about beef, when everyone knows we “should be eating way less beef”?
-{: .align-to-center}
+As an acupuncturist, why am I writing about beef, when everyone knows we “should be eating way less beef”?
 
-&nbsp;
+Because the reality is, we eat beef.&nbsp;
 
-##### Because the reality is, we eat beef.&nbsp;
-{: .align-to-center}
-
-&nbsp;
-
-##### Lots of it.
-{: .align-to-center}
+Lots of it.
 
 And the beef that most of us are eating is a major part of why it’s such a problem. Because beef is such a staple of our modern diet, whether it is recommended medicinally or not, I figured I should write an article on its medicinal effects, based on Acupuncture/Chinese Medicine principles.&nbsp;
 
