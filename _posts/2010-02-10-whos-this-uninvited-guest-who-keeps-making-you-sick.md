@@ -68,7 +68,10 @@ Lastly…maybe you just really haven’t been taking care of yourself?
 
 If constant sickness is self-inflicted, then use your illness as a gentle cue for what needs to be changed.
 
-Regardless of the cause of frequent illness, Chinese medicine can help. You can [schedule an acupuncture appointment online](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/) to get started on working with any of the above imbalances. Or call (970) 227-3077 to schedule.&nbsp;
+Regardless of the cause of frequent illness, Chinese medicine can help.
+
+### [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
 
 &nbsp;
 
