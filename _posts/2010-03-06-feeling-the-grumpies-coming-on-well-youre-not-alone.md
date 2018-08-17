@@ -18,13 +18,10 @@ layout: post
 ---
 
 Feeling more irritable lately?
-{: .align-to-center}
 
 Getting bothered by the silly little things?
-{: .align-to-center}
 
 Well you’re not alone!
-{: .align-to-center}
 
 Already this week people are beginning to report an increase in their levels of irritability and frustration.
 
@@ -50,4 +47,8 @@ And secondly, begin visioning now for what you would like to create in your life
 
 And it never hurts to hear it again, patience indeed is a virtue… especially in this turn into the glimmers of Spring.
 
+[Schedule an Appointment](/make-an-appointment/)
+{: .align-to-center}
+
 **&nbsp;**
+{: .align-to-center}
