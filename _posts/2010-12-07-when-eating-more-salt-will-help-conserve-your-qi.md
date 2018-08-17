@@ -41,5 +41,8 @@ So go ahead and salt your dinner a little more liberally than usual during the u
 
 May our “engines” purr and run strong all winter long!!!
 
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
+
 \*\*disclaimer: if you eat a large amount of processed foods and do not plan on stopping, then of course you would not want to add more salt…you are already eating too much.&nbsp; Also, if you have a kidney condition or other serious medical condition in which salt is strictly forbidden in all but the smallest amount, please continue with this diet!!!&nbsp; There is no cookie cutter approach for everyone when it comes to eating, and these articles should never override medical advice.
 {: .error_message}
