@@ -34,10 +34,6 @@ The irony is, at the same time that western medicine continues to discredit acup
 
 Because several times a month many of my patients ask me if I can refer their out-of-town mother/brother/son/friend, etc. to an acupuncturist.&nbsp; And like their loved ones, there are millions of others who have never seen an acupuncturist and who will soon search for one…and possibly will end up with a chiropractor, MD, PA, or PT who is practicing “medical acupuncture” with almost no knowledge of the medicine.
 
-Just a simple google search for acupuncture in our Fort Collins reveals a few local chiropractors who have even search-engine-optimized themselves to come up at the top when searching for “acupuncture”.
-
-Huh!?!
-
 The more the public is educated, the more they will know what to look for when seeking out an acupuncturist.
 
 A great place to start is [acufinder.com](http://r20.rs6.net/tn.jsp?et=1103486434302&amp;s=0&amp;e=001Mi_yGIJIhISiLSebEf2sX-EMrw-ja56TNNavf7oiIzFndPEOudIU2NOBAFQCTQ2aoJDkyF17q5o-dKcv0AjZNhO_vSCXec2PwNPiCJMzPPzgwGCMiM_5qQ==){: target="_blank"}.&nbsp; This acupuncture directory lists ONLY fully trained, certified, and licensed acupuncturists, and it researches the person’s background before posting their contact information on their website.
@@ -47,3 +43,6 @@ A great place to start is [acufinder.com](http://r20.rs6.net/tn.jsp?et=110348643
 <div>&nbsp;</div>
 
 Pass along the website I posted above, which should give them a great start.&nbsp; And don’t be afraid to do what several of my patients have done, which is to say to their MDs and chiropractors a polite “no thanks, I prefer to see someone who has been fully trained in acupuncture” when they have offered to try acupuncture on them.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
