@@ -3,6 +3,7 @@ title: 'The Long Awaited GREENS Experiment...DO Try this at Home, Folks!'
 date: 2011-06-08 12:46:00
 categories:
   - eating-with-the-seasons
+  - nutrition--food
 tags:
 hero_image: /assets/images/dark-leafy-greens-experiment.jpg
 search_engine_optimization:
