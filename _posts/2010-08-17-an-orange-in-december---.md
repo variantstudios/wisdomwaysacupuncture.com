@@ -34,7 +34,7 @@ The juice would explode into their noses, the sharp fragrance of citrus overtaki
 
 <div>&nbsp;</div>
 
-#### \*\*Fast-forward 60 years.&nbsp; \*\*
+### Fast-forward 60 years.
 
 Not only are oranges now available year round, but we can get whatever we want, whenever we want it, no matter how far away it was grown.
 
@@ -44,11 +44,11 @@ Not only are oranges now available year round, but we can get whatever we want, 
 
 And then would come the story, “You know, when I was young…” Blah blah blah, yeah yeah yeah, just give me the chips.
 
-##### **My transformation as I began eating local**
+#### **My transformation as I began eating local**
 
 Well this month something unexpected occurred.&nbsp; As I have begun my “Local Eating” adventure, I’ve been busy in the kitchen canning up jars of Apricot Jam, Watermelon Lemongrass Jelly, Peach Compote, Dilly Beans, Marinated Roasted Red Peppers, and other fun stuff.&nbsp; The shelves in my basement are quickly filling up with neat little rows of beautifully colored jars.&nbsp; My new freezer has several loaves of zucchini bread, as well as flash frozen bags of more beans, shredded zucchini in portions pre-measured out for winter loaves, cubed pesto sauce, and a few other things.
 
-\*Have I gone crazy?&nbsp; Have all of us “locavores” lost our marbles? \*
+Have I gone crazy?&nbsp; Have all of us “locavores” lost our marbles?
 
 Wasn’t a huge benefit of industrial agriculture and convenience foods that they allowed us women to get out of the kitchen and into the more important workplace, away from those pesky tasks involved with feeding ourselves? And besides, I can just run down to Whole Foods and get whatever I want all winter long, right?
 
@@ -68,7 +68,7 @@ I’m shooting for 80% or so local which means, no, this year I won’t just run
 
 <div style="text-align: center;"><em>Er hem&hellip;I think I finally understand the value of her story&hellip; (darn it&hellip;)</em></div>
 
-###### \*\*<br>When we have so much, at any time we want it, we stop appreciating what we have.&nbsp; \*\*
+#### <br>When we have so much, at any time we want it, we stop appreciating what we have.
 
 Even if what we have in all this excess is lacking in quality, we don’t seem to care. Everything is disposable, from our food, to our technology…even our relationships and families.&nbsp; Life starts losing its passion and shimmer.<br><br>I’ve discovered something else, too.&nbsp;
 
