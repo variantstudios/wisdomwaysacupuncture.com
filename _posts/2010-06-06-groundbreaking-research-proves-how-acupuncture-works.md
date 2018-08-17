@@ -31,3 +31,6 @@ Acupuncture for pain relief is actually being taught to American Air Force physi
 It has taken many years for the western medical world to accept acupuncture as a bonafide, legitimate form of medicine, but with research like this continuing to pour forth from the laboratories, our scientists will continue to discover what the Chinese have known for thousands of years…that acupuncture works!
 
 1. Holistic Science & Spirit ExaminerTima Vlasto, Oct. 2009
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
