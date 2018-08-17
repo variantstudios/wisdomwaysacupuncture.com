@@ -17,9 +17,9 @@ search_engine_optimization:
 layout: post
 ---
 
-##### Is this another shameless plug to try to get you to eat more greens?
+#### Is this another shameless plug to try to get you to eat more greens?
 
-##### You betcha!
+#### You betcha!
 
 Many of you know I’ve been trying the whole “local eating” thing this past year.&nbsp; While it is turning into a huge international movement born out of the need to eat more sustainably, it fits perfectly in with ancient Chinese Medicine eating philosophy.
 
