@@ -22,13 +22,13 @@ As we've hit cold season full-force, the past couple weeks I’ve been focusing 
 
 Today I’d like to share another tip, which can be used right when you first feel the cold symptoms coming on.
 
-#### Sweat!
+### Sweat!
 
 Many of the herbs we give to knock out a cold, are diaphoretics. Or in other words, herbs that make you sweat.&nbsp;
 
 Chinese Medicine believes that this sweating action removes the pathogen from those outer layers of the body that have been invaded.&nbsp; For this same reason, acupuncturists often prescribe sweating through baths when a person is not sweating on their own during a cold.
 
-#### Are you already sweating?
+### Are you already sweating?
 
 If you get a cold, pay attention to if you’re already sweating.&nbsp;
 
