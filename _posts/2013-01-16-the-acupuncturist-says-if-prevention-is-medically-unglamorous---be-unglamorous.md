@@ -19,8 +19,10 @@ layout: post
 ---
 
 *“The sages of antiquity did not treat diseases that had already manifested, but diseases which had not yet manifested. When you wait until a disease has broken out to treat it, is that not like waiting to be thirsty to dig a well, or until you’re in battle before casting weapons.*“
+{: .align-to-center}
 
 *– Chinese medical Classic*
+{: .align-to-right}
 
 This is an ancient saying in one of the Chinese medical “classics”. While strict proponents of modern medicine look down upon these ancient ways as being simpleminded and unglamorous, a deeper look reveals the wisdom behind its theories.
 
