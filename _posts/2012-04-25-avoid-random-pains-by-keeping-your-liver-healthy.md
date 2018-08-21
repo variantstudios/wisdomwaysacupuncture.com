@@ -64,5 +64,5 @@ And for now, may you have happy livers and freely flowing Qi!
 
 If your pain is due to an orthopedic problem or injury, then I refer out these days for these issues. However, if you have random migrating pains that sound like what’s discussed in this blog, you can schedule an appointment and we’ll get you started on helping your liver get healthier!
 
-Schedule an Appointment
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
