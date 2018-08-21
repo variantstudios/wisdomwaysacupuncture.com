@@ -19,9 +19,9 @@ search_engine_optimization:
 layout: post
 ---
 
-<div id="attachment_1287" style="width: 160px" class="wp-caption alignleft"><a href="/assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture.jpg"><img class="size-thumbnail wp-image-1287 " title="fibromyalgia acupuncture" alt="Acupuncture for Fibromyalgia" srcset="/assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture-150x101.jpg 150w, /assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture-300x203.jpg 300w, /assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture.jpg 493w" sizes="(max-width: 150px) 100vw, 150px" width="150" height="101" src="/assets/images/wp-content/uploads/2012/05/fibromyalgia-acupuncture-150x101.jpg" /></a><p class="wp-caption-text">Common Fibromyalgia Pain Points</p></div>
+<div id="attachment_1287">Last week, I wrote about the connection between random pains that we get throughout our body, and the potential connection with our liver.</div>
 
-Last week, I wrote about [the connection between random pains that we get throughout our body](http://www.wisdomwaysacupuncture.com/2012/04/25/avoid-random-pains-by-keeping-your-liver-healthy/), and the potential connection with our liver.
+<div>&nbsp;</div>
 
 This week, I will focus on fibromyalgia, which unfortunately is becoming more and more common. Fortunately though, acupuncture and Chinese medicine in general excel at treating this condition. While there is not much that western medicine can do for fibromyalgia, using acupuncture, I see complete turnarounds in the condition time and again.
 
