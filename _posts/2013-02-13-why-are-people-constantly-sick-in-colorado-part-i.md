@@ -112,6 +112,6 @@ layout: post
 
 <div class="align-to-center">&nbsp;</div>
 
-<div class="align-to-center"><a href="__notset__">Schedule an Appointment</a></div>
+<div class="align-to-center"><a class="call-to-action" data-cms-editor-link-style="undefined" href="/make-an-appointment/">Schedule an Appointment</a></div>
 
 &nbsp;
