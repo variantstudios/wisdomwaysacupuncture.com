@@ -1,6 +1,6 @@
 ---
 title: >-
-  Constantly Sick in Colorado: What Can We Do? Part II. An Acupuncturist&#8217;s
+  Constantly Sick in Colorado: What Can We Do? Part II. An Acupuncturist's
   Approach
 date: 2013-02-27 14:33:00
 categories:
@@ -8,7 +8,6 @@ categories:
 tags:
   - acupuncture-fort-collins
   - fort-collins-acupuncture
-  - frequent illness
 hero_image: /assets/images/heroes/acupuncture-frequent-illness.jpg
 search_engine_optimization:
   page_title: >-
