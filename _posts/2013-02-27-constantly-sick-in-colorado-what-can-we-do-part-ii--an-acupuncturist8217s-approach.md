@@ -60,8 +60,16 @@ I too struggle with busyness. I too go through phases where all I want to do is 
 
 ###### (update: since going paleo, this has changed into Epic pork rinds) :-)
 
-I get lazy, I lose inspiration, I start feeling really vibrant and then forget that I only felt that way because I was taking stellar care of myself, and I slack off and start feeling off. Then it’s back on the horse I go, taking my herbs, scheduling my acupuncture, making more of a commitment to put cooking at home at the top of my priority list. Sure, my “out of balance” may be 5 or 10% of how far many people let themselves go, but the point is, we ALL need to practice the exact same things.
+I get lazy, I lose inspiration, I start feeling really vibrant and then forget that I only felt that way because I was taking stellar care of myself, and I slack off and start feeling off. Then it’s back on the horse I go, taking my herbs, scheduling my acupuncture, making more of a commitment to put cooking at home at the top of my priority list.
 
-I said that this week I would talk about the foods that have been proven to boost our immune system from a western scientific perspective, but since this article has already gotten so long, until next week, I’m going to leave you with this: if you’re someone who has been getting sick frequently, then please ponder together with me how closely you are building your DAILY nutrients around the food lists we’ve already discussed. Are you just eating soundly a couple meals a week, or is it more like 80% of the time? Where do you fall on that continuum? And lastly, I’ll leave you with a question and invitation: are you willing to go on an immune boosting adventure with me? :-) Are you willing to really work for the next few months of the cold season to focus your meals predominately around the foods I’ve already given you, as well as the foods I will discuss in these articles over the coming weeks? I’m considering this an experiment, one I’m going to do with all of you. I want to tackle this issue once and for all, but I can’t do it without some of you who have been getting sick frequently, being willing to travel the road with me.
+Sure, my “out of balance” may be 5 or 10% of how far many people let themselves go, but the point is, we ALL need to practice the exact same things.
+
+I said that this week I would talk about the foods that have been proven to boost our immune system from a western scientific perspective, but since this article has already gotten so long, until next week, I’m going to leave you with this: if you’re someone who has been getting sick frequently, then please ponder together with me how closely you are building your DAILY nutrients around the food lists we’ve already discussed.
+
+Are you just eating soundly a couple meals a week, or is it more like 80% of the time? Where do you fall on that continuum?
+
+And lastly, I’ll leave you with a question and invitation: are you willing to go on an immune boosting adventure with me? :-) Are you willing to really work for the next few months of the cold season to focus your meals predominately around the foods I’ve already given you, as well as the foods I will discuss in these articles over the coming weeks?
+
+I’m considering this an experiment, one I’m going to do with all of you. I want to tackle this issue once and for all, but I can’t do it without some of you who have been getting sick frequently, being willing to travel the road with me.
 
 So stay tuned again for a continuation of this topic, including the promised discussion around foods and supplements that will supercharge your immunity!
