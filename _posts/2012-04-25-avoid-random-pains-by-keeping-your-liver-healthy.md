@@ -1,17 +1,23 @@
 ---
 title: Avoid Random Pains by Keeping your Liver Healthy
-date: 2012-04-25T16:57:42+00:00
+date: 2012-04-25 16:57:00
 categories:
   - random-musings
+  - spring--wood-element
 tags:
   - liver-qi-stagnation
   - liver-imbalance
   - roaming-pain
   - migrating-pain
-hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+  - wood-element
+hero_image:
 search_engine_optimization:
-  page_title: "Avoid Random Pains by Keeping your Liver Healthy: An Acupuncturist's Tip for Decreasing Pain"
-  page_description: 'If you have random roaming pains, balancing your liver with acupuncture can help get to the source of the niggling pains that "come out of nowhere". '
+  page_title: >-
+    Avoid Random Pains by Keeping your Liver Healthy: An Acupuncturist's Tip for
+    Decreasing Pain
+  page_description: >-
+    If you have random roaming pains, balancing your liver with acupuncture can
+    help get to the source of the niggling pains that "come out of nowhere".
   share_image_path:
 layout: post
 ---
