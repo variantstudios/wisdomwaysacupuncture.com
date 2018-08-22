@@ -8,6 +8,7 @@ categories:
 tags:
   - acupuncture-fort-collins
   - fort-collins-acupuncture
+  - frequent illness
 hero_image: /assets/images/heroes/acupuncture-frequent-illness.jpg
 search_engine_optimization:
   page_title: >-
