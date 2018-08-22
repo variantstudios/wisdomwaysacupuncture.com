@@ -41,15 +41,21 @@ Of course I don’t want to discredit the huge benefits of acupuncture treatment
 
 The most ancient forms of Chinese medicine believed that the first course therapy should always be dietary. If that doesn’t work, only then do we turn towards medicine. Additionally, as I mentioned last week, usually anyone who is coming for treatment is already at the place of having advanced imbalances, so relying on the treatment and herbs alone to restore what needs the support of solid nutrition, is typically not sufficient.
 
-Now none of this about boosting our Qi through our food and digestion is really new information for my patients. Most patients, if we've done a nutrition consultation, have gone home with lists of foods that will help build and balance their Qi. I take the time to talk about nutrition because it is so important. But what is new, or at least different, for us in Colorado, is what I mentioned last week: our constantly changing weather patterns which set us up to be more susceptible to not being able to ward off common infectious pathogens.
+Now none of this about boosting our Qi through our food and digestion is really new information for my patients. Most patients, if we've done a nutrition consultation, have gone home with lists of foods that will help build and balance their Qi.
 
-This means, since we are more susceptible to getting sick than people who live in a more steady climate, it is even MORE important for us here to be getting the foods into our system that will supercharge our immune system and Qi. Indeed Chinese medical literature confirms the increased propensity for common colds when weather changes dramatically. Perhaps in a more stable climate we could get away with more, but what I’m starting to wonder is if we just can’t let up here.
+But what is new -- or at least different -- for us in Colorado, is what I mentioned last week: our constantly changing weather patterns which set us up to be more susceptible to not being able to ward off common infectious pathogens.
+
+This means, since we are more susceptible to getting sick than people who live in a more steady climate, it is even MORE important for us here to be getting the foods into our system that will supercharge our immune system and Qi.
+
+Indeed Chinese medical literature confirms the increased propensity for common colds when weather changes dramatically. Perhaps in a more stable climate we could get away with more, but what I’m starting to wonder is if we just can’t let up here.
 
 ## When you’re doing “everything right” and it’s still not working
 
 Do you feel like you’re doing everything right and it’s still not working?
 
-This quandary has been stumping me as well, making me wonder why so many people who are doing all these great things to improve their health are still getting sick so often. In my search for an answer this week, I started pondering the nutrition aspect. I had to wonder how really good we all are with nutrition. And if maybe on closer inspection, we’re not really following the guidelines for boosting and balancing our Qi as much as we think we are.
+This quandary has been stumping me as well, making me wonder why so many people who are doing all these great things to improve their health are still getting sick so often.
+
+In my search for an answer this week, I started pondering the nutrition aspect. I had to wonder how really good we all are with nutrition. And if maybe on closer inspection, we’re not really following the guidelines for boosting and balancing our Qi as much as we think we are.
 
 I do want to address the supercharging immune boosting foods from a western perspective as well, but Chinese medical wisdom tells us that eating the basic foods to balance our system makes for very strong Qi. So are we really doing “everything right”…or, even close?
 
