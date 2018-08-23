@@ -24,7 +24,7 @@ A couple weeks ago, I had one of those moments that as an acupuncturist, I’m u
 
 Because I so often hear my patients experience them when they’re trying to completely overhaul their entire way of eating, once I was through it (and thinking clearly) I knew what this next blog would be about — sharing my experience in hopes that it might be an inspiration to others when they’re in the middle of their own version of a food meltdown.
 
-### We all — even acupuncturists whose entire lives revolve around health — need strategies to get through these moments
+#### We all — even acupuncturists whose entire lives revolve around health — need strategies to get through these moments
 
 Because if we think we’re just doing it wrong when we stumble upon challenges (EXPECT them to come…don’t be surprised that they do. Be prepared!) it’s easy for those who haven’t gained a strong chest of “tools” to think “this must not be for me…I’m just not cut out for this, it’s too hard”.
 
@@ -134,7 +134,7 @@ I knew this was important to share. Why?
 
 Because as I said, I think so many of us mistake the hard times with meaning that we’re doing “it” wrong. (“It” meaning: living life like a person who “has it all together” and does IT,&nbsp; RIGHT)
 
-It reminds me of new meditators who think they're doing it wrong when they can't control their thoughts and "mess up" AGAIN. But to paraphrase one spiritual teacher: "Ahhhh, a million thoughts a minute! That's wonderful...a million opportunities every minute to turn your mind back to the Divine"
+It reminds me of new meditators who think they're doing it wrong when they can't control their thoughts and "mess up" AGAIN. But to paraphrase one spiritual teacher: "Ahhhh, a million thoughts a minute! That's wonderful…a million opportunities every minute to turn your mind back to the Divine"
 
 And so, I say to myself and all of you who sometimes struggle with fitting healthy eating into busy lives: ”Ahhhhh, ‘messed up’ again…wonderful! Another opportunity to open up the cookbooks, try new amazing recipes, and get reinspired and cook”.
 
