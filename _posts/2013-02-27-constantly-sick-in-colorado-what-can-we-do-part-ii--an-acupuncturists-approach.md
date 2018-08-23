@@ -5,10 +5,10 @@ title: >-
 date: 2013-02-27 14:33:00
 categories:
   - nutrition--food
+  - my-approach--philosophy-and-stories
 tags:
   - acupuncture-fort-collins
   - fort-collins-acupuncture
-  - frequent illness
 hero_image: /assets/images/heroes/acupuncture-frequent-illness.jpg
 search_engine_optimization:
   page_title: >-
@@ -28,7 +28,7 @@ layout: post
 
 <div>This week, I&rsquo;m going to go into more detail on how vital it is to build our immune Qi or energy with the food we eat, why I suspect that even when we&rsquo;re doing &ldquo;everything right&rdquo; it&rsquo;s still not working. Lastly, I&rsquo;m going to invite you on an adventure. :-)</div>
 
-&nbsp;
+ 
 
 ## We restore our Qi daily through food
 
@@ -44,7 +44,7 @@ The most ancient forms of Chinese medicine believed that the first course therap
 
 Now none of this about boosting our Qi through our food and digestion is really new information for my patients. Most patients, if we've done a nutrition consultation, have gone home with lists of foods that will help build and balance their Qi.
 
-But what is new -- or at least different -- for us in Colorado, is what I mentioned last week: our constantly changing weather patterns which set us up to be more susceptible to not being able to ward off common infectious pathogens.
+But what is new – or at least different – for us in Colorado, is what I mentioned last week: our constantly changing weather patterns which set us up to be more susceptible to not being able to ward off common infectious pathogens.
 
 This means, since we are more susceptible to getting sick than people who live in a more steady climate, it is even MORE important for us here to be getting the foods into our system that will supercharge our immune system and Qi.
 
