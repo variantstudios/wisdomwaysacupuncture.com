@@ -7,7 +7,7 @@ categories:
   - nutrition--food
   - my-paleo-life
 tags:
-hero_image: /assets/images/heroes/acupuncture-channels.jpg
+hero_image: /assets/images/heroes/acupuncturists-food-meltdown.jpg
 search_engine_optimization:
   page_title: >-
     Portrait of a Food Meltdown: Even Acupuncturists Have to Find Ways to Keep
@@ -38,7 +38,7 @@ It was Monday morning, the beginning of another very full week.
 
 I had no food in the house.
 
-My entire “food plan” hinges upon me taking the time at some point over the weekend to shop and spend about 3-4 hours in the kitchen cooking. If I don’t take that time over the weekend, that next entire week basically goes down the drain.&nbsp;
+My entire “food plan” hinges upon me taking the time at some point over the weekend to shop and spend about 3-4 hours in the kitchen cooking. If I don’t take that time over the weekend, that next entire week basically goes down the drain. 
 
 I end up grabbing take-out food from Whole Foods deli at best, or grabbing things like Veggie puffs and crackers at worst, and just snacking on those all day to get through. (update: Since going paleo my go-to rushy snacks have changed…but the relevance of the article remains)
 
@@ -62,7 +62,7 @@ It seems so silly looking back, but suddenly, the nothing-to-eat-before-I-leave-
 * All the effort I make in the midst of the crazy processed food world we live in, to still take care of myself.
 * The fact that I’d also like to feel like I had a life outside of my food choices that should allow for some weekends “off” of cooking.
 
-I was frustrated.&nbsp;
+I was frustrated. 
 
 I was sad and teary.
 
@@ -74,9 +74,9 @@ The usual activities I love, of shopping at the farmers market, poring over my c
 
 ##### To be honest, I was just downright pissed.
 
-I was pissed at the entire industrial food complex that seemed to be “controlling” how hard eating healthy can be (do I hear Victim?).&nbsp;
+I was pissed at the entire industrial food complex that seemed to be “controlling” how hard eating healthy can be (do I hear Victim?). 
 
-I was pissed that I don’t have the kind of body that can just eat whatever I want and still feel great.&nbsp;
+I was pissed that I don’t have the kind of body that can just eat whatever I want and still feel great. 
 
 I was pissed that I wasn’t one of those people who can just tune out of their bodies completely and feel totally “fine” sitting in front of the TV munching on Doritos and delivered pizza, or working themselves into a frenzy for years on end, never taking the time to prioritize food.
 
@@ -114,7 +114,7 @@ Well, I stopped by Whole Foods on my way to work and once again, with red puffy 
 
 I stumbled through my day feeling “off” and not myself.
 
-And then, since as the saying goes, I was sick and tired enough of feeling sick and tired, I sucked it up and went against my usual weekday routine and the first chance I got, I made a list and&nbsp; went to Whole Foods for real this time, and did the shop that I usually do on the weekend.
+And then, since as the saying goes, I was sick and tired enough of feeling sick and tired, I sucked it up and went against my usual weekday routine and the first chance I got, I made a list and  went to Whole Foods for real this time, and did the shop that I usually do on the weekend.
 
 I wasn’t in the mood, and I felt like I “should” have been working if I’d been a more responsible person and “had my act together” in the first place. But I did it, so that come the next day’s lunch break, I could go home and cook, however inconvenient.
 
@@ -124,15 +124,15 @@ And that’s what I did.
 
 And I felt better.
 
-Ahhhh, relief.&nbsp; The meltdown was over, inspiration renewed, and my fridge was stocked once again.
+Ahhhh, relief.  The meltdown was over, inspiration renewed, and my fridge was stocked once again.
 
-And, I started sharing this story with some of you during your appointments as you came&nbsp; for your treatments over the next few days.
+And, I started sharing this story with some of you during your appointments as you came  for your treatments over the next few days.
 
 ### The lesson?
 
 I knew this was important to share. Why?
 
-Because as I said, I think so many of us mistake the hard times with meaning that we’re doing “it” wrong. (“It” meaning: living life like a person who “has it all together” and does IT,&nbsp; RIGHT)
+Because as I said, I think so many of us mistake the hard times with meaning that we’re doing “it” wrong. (“It” meaning: living life like a person who “has it all together” and does IT,  RIGHT)
 
 It reminds me of new meditators who think they're doing it wrong when they can't control their thoughts and "mess up" AGAIN. But to paraphrase one spiritual teacher: "Ahhhh, a million thoughts a minute! That's wonderful…a million opportunities every minute to turn your mind back to the Divine"
 
