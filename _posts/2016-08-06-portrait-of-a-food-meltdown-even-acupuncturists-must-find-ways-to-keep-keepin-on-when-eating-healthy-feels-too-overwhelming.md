@@ -1,13 +1,13 @@
 ---
 title: >-
-  Portrait of a Food Meltdown: Even Acupuncturists Need to Find Ways to Keep
-  Keepin'; on, When Eating Healthy Feels Too Overwhelming
+  Portrait of a Food Meltdown: Even Acupuncturists Must Find Ways to Keep
+  Keepin' on, When Eating Healthy Feels Too Overwhelming
 date: 2016-08-06 15:29:00
 categories:
   - nutrition--food
   - my-paleo-life
 tags:
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+hero_image: /assets/images/heroes/acupuncture-channels.jpg
 search_engine_optimization:
   page_title: >-
     Portrait of a Food Meltdown: Even Acupuncturists Have to Find Ways to Keep
@@ -32,7 +32,7 @@ Hearing that even people who’ve been eating healthy for years come upon challe
 
 #### The build-up to The Perfect Storm
 
-So here was the situation.&nbsp;
+So here was the situation. 
 
 It was Monday morning, the beginning of another very full week.
 
@@ -56,7 +56,7 @@ I was hungry, rushed, and preparing for a busy week at work that would “allow 
 
 I looked ahead in my mind over the next days and all I could foretell was feeling worse and worse as I slogged through another week of poor eating.
 
-###
+## #
 
 It seems so silly looking back, but suddenly, the nothing-to-eat-before-I-leave-for-work, combined with not having any food prepared for clinic lunches or dinners for the second week in a row, collided to create the perfect food storm, and it all started crashing around me:
 
@@ -66,9 +66,9 @@ All the effort I make in the midst of the crazy processed food world we live in,
 
 The fact that I’d also like to feel like I had a life outside of my food choices that should allow for some weekends “off” of cooking.
 
-&nbsp;
+ 
 
-I was frustrated.&nbsp;
+I was frustrated. 
 
 I was sad and teary.
 
@@ -80,7 +80,7 @@ The usual activities I love, of shopping at the farmers market, poring over my c
 
 #### To be honest, I was just downright pissed.
 
-#### I was pissed at the entire industrial food complex that seemed to be “controlling” how hard eating healthy can be (do I hear Victim?).&nbsp; I was pissed that I don’t have the kind of body that can just eat whatever I want and still feel good.&nbsp; I was pissed that I wasn’t one of those people who can just tune out of their bodies completely and feel totally “fine” sitting in front of the TV munching on Doritos and delivered pizza, or working themselves into a frenzy for years on end, never taking the time to prioritize food.
+#### I was pissed at the entire industrial food complex that seemed to be “controlling” how hard eating healthy can be (do I hear Victim?).  I was pissed that I don’t have the kind of body that can just eat whatever I want and still feel good.  I was pissed that I wasn’t one of those people who can just tune out of their bodies completely and feel totally “fine” sitting in front of the TV munching on Doritos and delivered pizza, or working themselves into a frenzy for years on end, never taking the time to prioritize food.
 
 #### But most of all, I felt like a failure.
 
@@ -108,25 +108,25 @@ Yet so many of you whom I treat, especially those who are trying to give up grai
 
 Serious, full-blown, show stopping, emotional meltdowns. You’re hungry, you don’t know what to eat, and suddenly your whole food plan is blown, and you say “Screw it! this is too darn hard, it’s not worth it”.
 
-I know. I understand. So what did I do? Well, I stopped by whole foods on my way to work and once again, with red puffy eyes, got a roasted whole chicken and carrot sticks, and some completely underwhelming breakfast food from the hot deli section. I stumbled through my day feeling “off” and not myself. And then, since as the saying goes, I was sick and tired enough of feeling sick and tired, I sucked it up and went against my usual weekday routine and the first chance I got, I made a list and&nbsp; went to Whole Foods for real this time, and did the shop that I usually do on the weekend. I wasn’t in the mood, and I felt like I “should” have been working if I’d been a more responsible person and “had my act together” in the first place — but I did it, so that come the next day’s lunch break, I could go home and cook, however inconvenient.
+I know. I understand. So what did I do? Well, I stopped by whole foods on my way to work and once again, with red puffy eyes, got a roasted whole chicken and carrot sticks, and some completely underwhelming breakfast food from the hot deli section. I stumbled through my day feeling “off” and not myself. And then, since as the saying goes, I was sick and tired enough of feeling sick and tired, I sucked it up and went against my usual weekday routine and the first chance I got, I made a list and  went to Whole Foods for real this time, and did the shop that I usually do on the weekend. I wasn’t in the mood, and I felt like I “should” have been working if I’d been a more responsible person and “had my act together” in the first place — but I did it, so that come the next day’s lunch break, I could go home and cook, however inconvenient.
 
 And that’s what I did. And I ate my first home-cooked, nutritious, absolutely satisfying and satiating meal that I’d had in two weeks.
 
 And I felt better.
 
-Ahhhh, relief.&nbsp; The meltdown was over, inspiration renewed, and my fridge was stocked once again.
+Ahhhh, relief.  The meltdown was over, inspiration renewed, and my fridge was stocked once again.
 
-And, I started sharing this story with some of you during your appointments as you came&nbsp; for your treatments over the next few days.
+And, I started sharing this story with some of you during your appointments as you came  for your treatments over the next few days.
 
 ### The lesson?
 
 I knew this was important to share. Why?
 
-Because as I said in the beginning, I think so many of us mistake the hard times with meaning that we’re doing “it” wrong. (“It” meaning: living life like a person who “has it all together” and does IT,&nbsp; RIGHT)
+Because as I said in the beginning, I think so many of us mistake the hard times with meaning that we’re doing “it” wrong. (“It” meaning: living life like a person who “has it all together” and does IT,  RIGHT)
 
 It reminds me of what I hear so often when I advise people that meditation is crucial for them. Usually — from the people who need it the most — I hear “Oh, I tried meditation, and it didn’t work. I couldn’t stop thinking”. As a 20+ year meditator, all I can do is chuckle and explain that that’s exactly par for the course!
 
-In fact, it’s the reason we meditate in the first place. As one spiritual teacher explained, after a nun living in a convent which focuses on contemplative Christianity proclaimed with frustration, “I can’t meditate…I have a million thoughts every minute!”: “Ahhhh, wonderful!”, the teacher said,&nbsp; “A million opportunities every minute to turn your mind back to God”.
+In fact, it’s the reason we meditate in the first place. As one spiritual teacher explained, after a nun living in a convent which focuses on contemplative Christianity proclaimed with frustration, “I can’t meditate…I have a million thoughts every minute!”: “Ahhhh, wonderful!”, the teacher said,  “A million opportunities every minute to turn your mind back to God”.
 
 And so, I say to myself and all of you who sometimes struggle with new diet changes or just fitting healthy eating into busy lives in general…”Ahhhhh, ‘messed up’ again…wonderful! Another opportunity to open up the cookbooks, to try new recipes, and to get reinspired and cook”.
 
