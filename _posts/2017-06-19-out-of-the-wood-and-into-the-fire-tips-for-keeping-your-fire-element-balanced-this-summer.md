@@ -23,7 +23,7 @@ layout: post
 
 We’ve made it through the Wood season!
 
-According to Chinese Medicine, we’re entering the season related to the Fire Element, which corresponds to the Heart and to Summer.&nbsp;
+#### According to Chinese Medicine, we’re entering the season related to the Fire Element, which corresponds to the Heart and to Summer.&nbsp;
 
 As opposed to the Wood season, which was all about setting goals, independently forging ahead through whatever blocked our dreams from coming to fruition, and steadfast discipline; now it’s the time when relaxation, community, gathering, and fun, will be more appropriate to the season.
 
