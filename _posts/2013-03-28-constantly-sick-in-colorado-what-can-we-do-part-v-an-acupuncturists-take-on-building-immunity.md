@@ -5,6 +5,7 @@ title: >-
 date: 2013-03-28 18:53:00
 categories:
   - nutrition--food
+  - my-approach--philosophy-and-stories
 tags:
   - immunity
   - liver-blood
@@ -28,11 +29,11 @@ layout: post
 
 <div>&nbsp;</div>
 
-If you haven’t been too pleased with the last couple week’s suggestions because you’re not big on dark leafy greens or mushrooms, then take heart, because practically everyone loves berries, and that is the food I will be focusing on this week.&nbsp;
+If you haven’t been too pleased with the last couple week’s suggestions because you’re not big on dark leafy greens or mushrooms, then take heart, because practically everyone loves berries, and that is the food I will be focusing on this week. 
 
 Please don’t take this as a free-pass to avoid greens and mushrooms though! :-)
 
-Because while no discussion on immunity would be complete without bringing up berries, their role has less to do with preventing common colds and more to do with cancer prevention.&nbsp; I am including them in this series simply because of their importance in overall immune function.
+Because while no discussion on immunity would be complete without bringing up berries, their role has less to do with preventing common colds and more to do with cancer prevention.  I am including them in this series simply because of their importance in overall immune function.
 
 <div>Also, while berries are the topic of today&rsquo;s article, most that we grow in our region will still not be available for a few months, as is the case with fresh foods in general in this region.</div>
 
@@ -56,15 +57,15 @@ Because while no discussion on immunity would be complete without bringing up be
 
 ## Berries
 
-OK, let’s get down to the nitty gritty on berries.&nbsp; Acupuncture theory has long recognized the benefits of berries, especially for nourishing the blood and the liver.&nbsp;
+OK, let’s get down to the nitty gritty on berries.  Acupuncture theory has long recognized the benefits of berries, especially for nourishing the blood and the liver. 
 
-I have written in past articles how important the liver is to good immunity, since the liver regulates stress and stress and immunity are so closely related. Also, one of the most important jobs of the liver is to keep our Qi flowing smoothly, and when this function is impaired, tissue can easily build up, forming tumors and other masses.&nbsp;
+I have written in past articles how important the liver is to good immunity, since the liver regulates stress and stress and immunity are so closely related. Also, one of the most important jobs of the liver is to keep our Qi flowing smoothly, and when this function is impaired, tissue can easily build up, forming tumors and other masses. 
 
 But here’s a little about what science has to say about berries:
 
 * Berries contain very high levels of ellagic acid, which inhibits the formation of tumors, making them powerful anti-cancer foods.
 * They combat inflammation by neutralizing enzymes that destroy connective tissue, making them an important food for auto-immune disorders.
-* Some berries, such as cranberry, are well-known for their bacterial fighting abilities, due to their sugar D-mannose which simply binds to bacteria, preventing them from latching onto our tissues, making them an effective and proven treatment for urinary tract infections.&nbsp; The bacterium are prevented from sticking to the bladder, and they are easily flushed out with each urination.
+* Some berries, such as cranberry, are well-known for their bacterial fighting abilities, due to their sugar D-mannose which simply binds to bacteria, preventing them from latching onto our tissues, making them an effective and proven treatment for urinary tract infections.  The bacterium are prevented from sticking to the bladder, and they are easily flushed out with each urination.
 * PubMed has stated that the flavones in berries have shown promise in acting against HIV.
 
 <div>The reports on the anti-oxidant health benefits of berries are endless.&nbsp; This is great news, because almost everyone likes the idea of adding more berries into their diets.&nbsp;</div>
