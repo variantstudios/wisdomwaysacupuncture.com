@@ -17,19 +17,43 @@ layout: post
 
 It’s the midst of winter and all is elusive…the days are short and dark, the fields barren.&nbsp;
 
-Not much occurs on the surface, and when we're in rhythm with the patterns of nature, our lives reflect this dormancy as well.&nbsp; In this time of rest, and especially in our do-ing culture, it is all too easy to underestimate the subtleties of power and transformation that are brewing beneath the surface.
+Not much occurs on the surface, and when we're in rhythm with the patterns of nature, our lives reflect this dormancy as well.&nbsp;
 
-According to the Taoist roots of Chinese Medicine and 5-Elements acupuncture theory, we are now in the season associated with the Water Element.
+In this time of rest, and especially in our do-ing culture, it is all too easy to underestimate the subtleties of power and transformation that are brewing beneath the surface.
 
-When asked their favorite season, most people proclaim “Summer!”.&nbsp; Who doesn’t enjoy hanging out in that time of Fire, of parties, celebrations, and sunshine?&nbsp; But ask who loves winter, and you’re mostly met with sullen answers filled with longings for spring.&nbsp; So let’s look towards the power of Water, and draw on it to help us through this often trying season.
+#### According to the Taoist roots of Chinese Medicine and 5-Elements acupuncture theory, we are now in the season associated with the Water Element.
 
-Water is depth.&nbsp; It is associated with the transformative processes of life, death, and rebirth.&nbsp; Many philosophers are Water types, who are quite pleased to spend their days engulfed in quandaries into the nature of existence.&nbsp; They understand that something deep and intense is happening beneath the surface — something unknown, and they seek to bring this awareness and acceptance into their daily existence.&nbsp; Many, in times of profound emotion, report dreaming of being engulfed in waves, or drowning in the ocean’s waters. It is natural in these times of intensity to be overwhelmed with fear, and indeed fear is the emotion associated with Water.&nbsp; But when our Water element is balanced, rather than living in fear, we are able to be in the philosopher’s state of awe, and can ponder the unknowns of life and death without being swept away by overwhelm.
+When asked their favorite season, most people proclaim “Summer!”.&nbsp; Who doesn’t enjoy hanging out in that time of Fire, of parties, celebrations, and sunshine?&nbsp;
 
-Physically, the Water element is about our growth, development, and reproduction, and is related to the Kidneys and Bladder organs, and to our bones.&nbsp; It is common for issues related to these organs to arise or worsen during their peak season, and indeed, I treat them more in my acupuncture practice during the winter months.&nbsp; For example, during the winter people may experience more dramatic issues with frequent urination.&nbsp; Because the Kidneys store our vital life force energy, or Qi, fatigue is common in winter.&nbsp; When this Qi is depleted, such as in Chronic Fatigue Syndrome or adrenal burnout, it is hard to even find the energy to carry out our daily functions.&nbsp; Also related to our Kidneys are sexual energy (there can be impotence, low sex drive, or infertility), “grasping the lung Qi” (there can be asthma or shallow breathing), and temperature regulation (there can be extreme cold or heat, as in hot flashes).
+But ask who loves winter, and you’re mostly met with sullen answers filled with longings for spring.&nbsp;
 
-####
+So let’s look towards the power of Water, and draw on it to help us through this often trying season.
 
-#### Follow these tips for balancing your Water element in the winter:
+### Traits of the Water Element
+
+##### Emotional/Spiritual aspects
+
+Water is depth.&nbsp; It is associated with the transformative processes of life, death, and rebirth.&nbsp;
+
+Many philosophers are Water types, who are quite pleased to spend their days engulfed in quandaries into the nature of existence.&nbsp; They understand that something deep and intense is happening beneath the surface — something unknown, and they seek to bring this awareness and acceptance into their daily existence.&nbsp;
+
+Many, in times of profound emotion, report dreaming of being engulfed in waves, or drowning in the ocean’s waters. It is natural in these times of intensity to be overwhelmed with fear, and indeed fear is the emotion associated with Water.&nbsp;
+
+But when our Water element is balanced, rather than living in fear, we are able to be in the philosopher’s state of awe, and can ponder the unknowns of life and death without being swept away by overwhelm.
+
+##### Physical aspects of water
+
+Physically, the Water element is about our growth, development, and reproduction, and is related to the Kidneys and Bladder organs, and to our bones.&nbsp;
+
+It's common for issues related to these organs to arise or worsen during their peak season, and indeed, I treat them more in my acupuncture practice during the winter months.&nbsp;
+
+For example, during the winter people may experience more dramatic issues with frequent urination.&nbsp;
+
+Because the Kidneys store our vital life force energy, or Qi, fatigue is common in winter.&nbsp; When this Qi is depleted, such as in Chronic Fatigue Syndrome or adrenal burnout, it is hard to even find the energy to carry out our daily functions.&nbsp;
+
+Also related to our Kidneys are sexual energy (there can be impotence, low sex drive, or infertility), “grasping the lung Qi” (there can be asthma or shallow breathing), and temperature regulation (there can be extreme cold or heat, as in hot flashes).
+
+## Follow these tips for balancing your Water element in the winter:
 
 * Food Therapy: &nbsp;focus your meals around foods which balance your kidneys.
 
