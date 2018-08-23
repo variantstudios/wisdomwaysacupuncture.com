@@ -19,7 +19,7 @@ search_engine_optimization:
 layout: post
 ---
 
-<div align="center"><p class="green_message"><span style="color: #636303;"><em>&ldquo;A weed is just a plant whose virtues have not yet been discovered&rdquo;</em></span><span style="color: #636303;"><em><br />&ndash;Ralph Waldo Emerson</em></span></p><div align="center">&nbsp;</div></div>
+<div align="center"><p class="frost_message"><span style="color: #636303;"><em>&ldquo;A weed is just a plant whose virtues have not yet been discovered&rdquo;</em></span><span style="color: #636303;"><em><br />&ndash;Ralph Waldo Emerson</em></span></p><div align="center">&nbsp;</div></div>
 
 <div><p>We&rsquo;ve all seen &rsquo;em, we&rsquo;ve all got &rsquo;em, right?&nbsp;</p><p>Those pesky, durable flowers that sprout up from everywhere in our gardens and driveways.&nbsp; The typical response is to either yank them out and throw them into the garden waste bag, or to give them a good dose of toxic weed killer.</p></div>
 
