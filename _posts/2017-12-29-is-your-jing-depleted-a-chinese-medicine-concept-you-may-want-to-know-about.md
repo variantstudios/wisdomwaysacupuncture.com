@@ -1,10 +1,9 @@
 ---
-title: Is Your Jing Depleted?  A Chinese Medicine Concept you may Want to Know About
+title: Is Your Jing Depleted?  A Chinese Medicine Concept you May Want to Know About
 date: 2017-12-29 10:00:00
 categories:
   - winter--water-element
 tags:
-  - jing
   - water-element
 hero_image: /assets/images/heroes/sub-page-hero-example.jpg
 search_engine_optimization:
@@ -82,4 +81,4 @@ For anyone trying to get pregnant and having problems, it could be a Jing defici
 
 <div>&nbsp;</div>
 
-<div><h2>Take care of your Kidneys now for a more vibrant spring ahead</h2><p>The image above is a good visual description of a person with strong Jing.&nbsp; She is strong, alive, and vibrant, and her energy flows from her core (where her Jing is stored), outward.&nbsp;</p><p>Although we may be in the midst of winter, a time more for dormancy and inward focus than other times of year; come spring, we will want our energy vibrant and strong to take on the Wood energy of that season, which is a force to be reckoned with, for sure.</p><p>If you think your Jing or Kidneys might be depleted, you can schedule an acupuncture appointment for an assessment, diagnosis, and treatment, by clicking the button below.</p><p>Schedule an Appointment</p><p>&nbsp;</p><p>&nbsp;</p></div>
+<div><h2>Take care of your Kidneys now for a more vibrant spring ahead</h2><p>The image above is a good visual description of a person with strong Jing.&nbsp; She is strong, alive, and vibrant, and her energy flows from her core (where her Jing is stored), outward.&nbsp;</p><p>Although we may be in the midst of winter, a time more for dormancy and inward focus than other times of year; come spring, we will want our energy vibrant and strong to take on the Wood energy of that season, which is a force to be reckoned with, for sure.</p><p>If you think your Jing or Kidneys might be depleted, you can schedule an acupuncture appointment for an assessment, diagnosis, and treatment, by clicking the button below.</p><p class="align-to-center"><a class="call-to-action" data-cms-editor-link-style="undefined" href="/make-an-appointment/">Schedule an Appointment</a></p><p>&nbsp;</p><p>&nbsp;</p></div>
