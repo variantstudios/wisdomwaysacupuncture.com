@@ -1,29 +1,33 @@
 ---
-title: 'Study: Acupuncture Effective for Endometriosis &#8211; Study Results and Clinical Experience'
-date: 2018-05-08T08:49:03+00:00
+title: >-
+  Study: Acupuncture Effective for Endometriosis: Study Results and Clinical
+  Experience
+date: 2018-05-08 08:49:00
 categories:
   - my-approach--philosophy-and-stories
   - exciting-acupuncture-research
   - womens-health
 tags:
-  -
-hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+  - endometriosis
+  - menstrual cramps
+hero_image:
 search_engine_optimization:
-  page_title: 'Acupuncture & Endometriosis-Study Results & Successful Clinical Experience'
-  page_description: "Acupuncture Study Shows it's Effective for Endometriosis - article includes the study results, as well as how I treat it clinically to get successful clinical results"
+  page_title: Acupuncture & Endometriosis-Study Results & Successful Clinical Experience
+  page_description: >-
+    Acupuncture Study Shows it's Effective for Endometriosis - article includes
+    the study results, as well as how I treat it clinically to get successful
+    clinical results
   share_image_path:
 layout: post
 ---
 
-<div id="attachment_3635"><a href="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920.jpg"><img alt="endometriosis acupuncture" srcset="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg 150w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-300x200.jpg 300w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-768x513.jpg 768w, /assets/images/wp-content/uploads/2018/06/belly-3186730_1920-1024x684.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" src="/assets/images/wp-content/uploads/2018/06/belly-3186730_1920-150x100.jpg" /></a>
-		<p>Sooth your endometriosis pain with acupuncture</p>
-	</div>
-
-## My experience using acupuncture for endometriosis
+<div id="attachment_3635"><h2>My experience using acupuncture for endometriosis</h2></div>
 
 A very common ailment I treat in my acupuncture practice is [endometriosis](https://en.wikipedia.org/wiki/Endometriosis).
 
-Sometimes women come in with an actual diagnosis based on a [laparoscopy](https://www.healthline.com/health/endometriosis/laparoscopy-for-endometriosis); other times it’s just suspected based on their severe pain which might be just around their period, or in bad cases commonly causes various symptoms throughout their cycle. It’s a condition for which unfortunately western medicine just doesn’t have great treatment options.
+Sometimes women come in with an actual diagnosis based on a [laparoscopy](https://www.healthline.com/health/endometriosis/laparoscopy-for-endometriosis); other times it’s just suspected based on their severe pain which might be just around their period, or in bad cases commonly causes various symptoms throughout their cycle.
+
+It’s a condition for which unfortunately western medicine just doesn’t have great treatment options.
 
 I’ve seen women who have bowel, urinary, ovulatory, and digestive function all affected due to the lesions that are growing all throughout their abdominal cavity; and usually when it’s this severe, these are the women who have symptoms not only all month long, but then have absolutely disabling pain with their actual period.
 
@@ -51,7 +55,7 @@ Also relapse rates showed better results for acupuncture as well: “One year fo
 
 In general, because of the tendency for the endometrial lesions to recur, in my practice I encourage my patients to stay on some level of maintenance treatment, which might just mean coming in monthly around their cycle, or taking herbs during their period to help the body fully expel the endometrial lining.
 
-Participants in Study
+### Participants in Study: Blood Stasis diagnosis
 
 In Chinese medicine there are many underlying reasons for why a person may come in with a particular diagnosis. That means that each person with the same western disease might be given completely different diagnoses from an acupuncture perspective.
 
@@ -61,6 +65,9 @@ However, blood stasis is ALWAYS just what we call a “branch diagnosis”, in o
 
 When we get to the causative factor, and continue to work over time through maintenance, then I see fabulous responses with my patients and very low incidences of relapse.
 
-If you’re unnecessarily suffering from endometriosis, I’d love the opportunity to help you! You can [schedule an appointment online](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/) or call us at (970) 227-3077.
+If you’re unnecessarily suffering from endometriosis, I’d love the opportunity to help you! You can schedule an appointment using the button below.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
 
 &nbsp;
