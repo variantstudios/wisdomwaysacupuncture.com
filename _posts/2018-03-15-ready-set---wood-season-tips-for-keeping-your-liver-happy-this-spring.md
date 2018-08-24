@@ -23,7 +23,7 @@ layout: post
 ---
 
 “And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom” &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; – Ana&iuml;s Nin
-{: .green_message}
+{: .frost_message}
 
 Looking out my window, I see a flat watercolor blend of dull browns and grays— for most members of the plant kingdom, dormancy is still the order of the day.
 {: .present-before-paste}
