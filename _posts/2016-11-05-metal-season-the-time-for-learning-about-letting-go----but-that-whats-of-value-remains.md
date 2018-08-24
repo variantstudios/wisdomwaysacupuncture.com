@@ -10,7 +10,7 @@ tags:
   - five-elements
   - metal-element
   - seasonal-eating
-hero_image: /assets/images/heroes/metal-element-let-it-go.jpg
+hero_image: /assets/images/heroes/acupuncture-metal-element-fall.jpg
 search_engine_optimization:
   page_title: >-
     Metal Season: The Time for Learning about Letting Go, but that what's of
@@ -52,7 +52,7 @@ As we emotionally let go of what no longer serves us, our bowels let go also, mo
 
 Constipation comes for those who have a hard time letting go, and this manifests emotionally in the form of depression — we lose all inspiration for life.
 
-&nbsp;
+ 
 
 ## Balance your Metal with the following tips:
 
