@@ -1,6 +1,6 @@
 ---
 title: 'What your Impatience/Agitation and What I Saw in my Garden, Have in Common'
-date: 2018-03-02 00:00:00
+date: 2018-03-04 00:00:00
 categories:
   - spring--wood-element
 tags:
@@ -29,7 +29,7 @@ And then the acupuncturist in me got hit on the head with an epiphany: Aaaaah, T
 
 They’re feeling the same energy that those little plants are, which causes things to move upwards, to rise tall, to burst forth.
 
-#### This, is the beginning of the Wood Element -- the most celebrated and feared energy of the year in Chinese Medicine.
+#### This, is the beginning of the Wood Element – the most celebrated and feared energy of the year in Chinese Medicine.
 
 It's celebrated by acupuncturists because we all love Spring’s return to life and the energy that comes with it. And it's feared because the unbridled fierceness which that energy contains can be very difficult to manage.
 
