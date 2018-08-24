@@ -10,20 +10,16 @@ tags:
   - 5-elements
   - water-element
   - meditation
+  - jing
 hero_image: /assets/images/heroes/jing-meditation-acupuncture.jpg
 search_engine_optimization:
   page_title: >-
     Acupuncture and Your Jing: 5 Minute Meditation for Greater Strength,
     Vitality, and Joy!
   page_description: >-
-    'According to acupuncture theory found in ancient Chinese texts, the Dan
-    Tian is the source of vitality and joy, as well as the center of physical
-    strength and source of stamina. The past few weeks I've been focusing on our
-    Jing, which is stored in our Kidneys, and is related to the Water Element in
-    Chinese Medicine. Now, I will teach you a simple, pleasurable meditation
-    exercise that you can do daily, to increase your kidney function, build your
-    vital Qi to enhance health and immunity, and connect back into your peaceful
-    center. This peaceful center is known as the lower "Dan Tian".'
+    A simple meditation you can do daily to increase your kidney function, build
+    your vital Qi to enhance health and immunity, and connect back into your
+    peaceful center.
   share_image_path:
 layout: post
 ---
