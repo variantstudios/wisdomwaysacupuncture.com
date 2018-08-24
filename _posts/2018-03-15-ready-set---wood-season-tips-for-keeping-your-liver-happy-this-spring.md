@@ -10,7 +10,7 @@ tags:
   - wood-element
   - chinese-medicine
   - five-elements
-hero_image: /assets/images/heroes/wood-energy-acupuncture-liver.jpg
+hero_image: /assets/images/heroes/spring-acupuncture-wood-element-liver.jpg
 search_engine_optimization:
   page_title: >-
     It's Wood Season according to Chinese Medicine and acupuncture theory: Tips
@@ -22,10 +22,8 @@ search_engine_optimization:
 layout: post
 ---
 
-{: .present-before-paste}
-
-***“And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom”   – Anaïs Nin***
-{: .green_message.present-before-paste}
+“And the day came, when the risk it took to stay tight in a bud, became more painful than the risk it took to blossom” &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; – Ana&iuml;s Nin
+{: .green_message}
 
 Looking out my window, I see a flat watercolor blend of dull browns and grays— for most members of the plant kingdom, dormancy is still the order of the day.
 {: .present-before-paste}
@@ -33,13 +31,13 @@ Looking out my window, I see a flat watercolor blend of dull browns and grays—
 But over the next several weeks, tiny buds on the trees will burst forth from glossy limbs; and sparkling fields will be jumping and buzzing with lush excitement in green!
 {: .present-before-paste}
 
-According to the 5 Elements branch of Chinese medicine, each season brings its own energy, which is essential to harness for the balance of the whole, and for our health and wellbeing.  
+According to the 5 Elements branch of Chinese medicine, each season brings its own energy, which is essential to harness for the balance of the whole, and for our health and wellbeing. &nbsp;
 {: .present-before-paste}
 
 ### Spring is associated with the Wood Element and the Liver.
 {: .present-before-paste}
 
-It’s that tiny sapling, pushing up with all its might and against all odds through the crack in the cement. It’s the powerful trunk of the tree that uproots an entire house. It’s the energy of the Warrior–it is single focused, goal oriented, and never takes its eye off the target. 
+It’s that tiny sapling, pushing up with all its might and against all odds through the crack in the cement. It’s the powerful trunk of the tree that uproots an entire house. It’s the energy of the Warrior–it is single focused, goal oriented, and never takes its eye off the target.&nbsp;
 {: .present-before-paste}
 
 It’s about growth, forward movement, and transformation.
@@ -51,7 +49,7 @@ Some argue that it is the most powerful Element of all, as it is the urge of lif
 ### The Wood Element reminds us that growth and movement are vital
 {: .present-before-paste}
 
-Without growth, we stagnate, and with stagnation comes a host of problems. If we're stagnating in any area in life, it is precisely in the spring more than any other time that these issues come to the forefront. 
+Without growth, we stagnate, and with stagnation comes a host of problems. If we're stagnating in any area in life, it is precisely in the spring more than any other time that these issues come to the forefront.&nbsp;
 {: .present-before-paste}
 
 If we are held back or blocked, anger soon follows.
