@@ -12,8 +12,7 @@ tags:
   - acupuncture-and-irritability
   - acupuncture-and-depression
   - wood-element
-  - relaxation techniques
-hero_image: /assets/images/heroes/wood-element-rising.jpg
+hero_image: /assets/images/heroes/spring-wood-element-rising-acupuncture.jpg
 search_engine_optimization:
   page_title: Tips for Staying Sane as we Move from Winter to Spring/Wood Element Time
   page_description: >-
@@ -83,7 +82,7 @@ I’ll be writing more about this as we actually enter into Wood season when spr
 
 1) Relaxation Techniques: I can’t stress how important relaxation techniques are, and in particular, meditation. I will soon post a blog which includes information related to a fascinating study that was just done that measured the changes that happen when we meditate, as compared to just doing calming activities. But in the meantime, you can start trying to implement some kind of relaxation tools into your daily routines.
 
-2) Relaxation techniques: In case you didn’t quite get how important this is the first time I said it, I’ll repeat it again. :-) Every time you meditate, it’s like you’re self treating yourself and sticking a little invisible needle into those pesky liver points that help so much to regulate your liver, calm your liver,&nbsp; and keep it happy.
+2) Relaxation techniques: In case you didn’t quite get how important this is the first time I said it, I’ll repeat it again. :-) Every time you meditate, it’s like you’re self treating yourself and sticking a little invisible needle into those pesky liver points that help so much to regulate your liver, calm your liver,  and keep it happy.
 
 3) Relaxation techniques: OK I really mean it. If you want to keep your liver happy, one of the best ways to do it, and to keep the great successes we’ve had during treatment progressing forward and not regressing, is to implement relaxation techniques into your regular self-care practices.
 
