@@ -1,6 +1,6 @@
 ---
 title: >-
-  Fascinated by Disease&#8230;or Fascinated by Wellness? This Makes All the
+  Fascinated by Disease...or Fascinated by Wellness? This Makes All the
   Difference
 date: 2018-06-27 09:04:00
 categories:
@@ -35,9 +35,9 @@ We kicked into high gear and he now went paleo with me. Now we were both doing i
 
 He'd been assigned to a neurologist who was the “top of the top” in MS treatment. She’s doing cutting edge research and people fly in from all over the country to see her. She tries out all the latest and greatest drugs on her patients.
 
-At our first appointment she was very thorough and patient in explaining the disease, and wanted to put him on drugs, the best one decreasing progression of the disease by about 30%. He would stay on it his entire life.&nbsp;
+At our first appointment she was very thorough and patient in explaining the disease, and wanted to put him on drugs, the best one decreasing progression of the disease by about 30%. He would stay on it his entire life. 
 
-She seemed quite proud about that drug...but we were underwhelmed.
+She seemed quite proud about that drug…but we were underwhelmed.
 
 I knew clinically that simple diet changes and Chinese medicine gave WAY better responses!
 
@@ -51,7 +51,7 @@ In fact she seemed completely disinterested in the fact that thousands of people
 
 She didn’t care.
 
-If there was a drug that had the same results it would be of the greatest breakthroughs in modern medicine&nbsp; in decades.
+If there was a drug that had the same results it would be of the greatest breakthroughs in modern medicine  in decades.
 
 But nope…she wasn’t interested at all.
 
