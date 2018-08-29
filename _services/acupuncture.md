@@ -2,8 +2,10 @@
 title: Acupuncture
 hero_image: /assets/images/acupuncture-fort-collins-stress-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins
+  page_description: >-
+    Acupuncture is very relaxing! Here's what to expect, what needles feel like,
+    how many treatments needed, results expected, and how acupuncture works.
   share_image_path: /assets/images/tongue-and-pulse.jpg
 ---
 
