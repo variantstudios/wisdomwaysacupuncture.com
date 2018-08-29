@@ -7,8 +7,11 @@ areas_of_specialties:
   order:
 hero_image: /assets/images/acupuncture-fort-collins-digestive-problems-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins for Digestive Problems
+  page_description: >-
+    With almost 20 years clinical experience, our acupuncturist Inger has helped
+    thousands of women improve their digestion -- the root of all health &
+    vitality.
   share_image_path:
 ---
 
