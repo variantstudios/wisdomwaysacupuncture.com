@@ -5,11 +5,12 @@ popular_blog_topics:
   popular_title:
   popular_image:
   order:
-post: >-
-  2016-11-05-metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains
-hero_image:
+post:
+hero_image: /assets/images/acupuncture-fort-collins-eating-with-seasons.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Eating with the Local Seasons in Fort Collins
+  page_description: >-
+    Acupuncture theory supports eating seasonally for optimal health. Get tips
+    for making seasonal eating in Fort Collins fun and easy!
 ---
 
