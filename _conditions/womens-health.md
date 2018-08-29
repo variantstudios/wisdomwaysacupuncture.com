@@ -1,5 +1,5 @@
 ---
-title: Acupuncture for Women's Health
+title: Acupuncture for Women's Health & Infertility
 areas_of_specialties:
   selected: true
   selected_title: Women's Health
@@ -7,8 +7,10 @@ areas_of_specialties:
   order: 1
 hero_image: /assets/images/womens-health-acupuncture-hero2.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins for Women's Health & Infertility
+  page_description: >-
+    In her almost 20 years experience, Inger has helped thousands of women
+    recover from their women's health problems.
   share_image_path:
 ---
 
