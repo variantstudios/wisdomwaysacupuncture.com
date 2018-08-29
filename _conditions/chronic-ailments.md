@@ -1,5 +1,5 @@
 ---
-title: Chronic Ailments
+title: Acupuncture for Chronic Ailments
 areas_of_specialties:
   selected: true
   selected_title: Chronic Illness
