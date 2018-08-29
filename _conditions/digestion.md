@@ -1,5 +1,5 @@
 ---
-title: Digestive Problems
+title: Acupuncture for Digestive Problems
 areas_of_specialties:
   selected: false
   selected_title:
