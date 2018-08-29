@@ -8,7 +8,10 @@ popular_blog_topics:
 post: 2017-12-31-the-depths-of-the-water-element-will-keep-you-balanced-this-winter
 hero_image:
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Water Element of 5 Elements Acupuncture Theory
+  page_description: >-
+    In my acupuncture practice in Fort Collins, I work a lot with the elements
+    because understanding our elemental type and its related season helps us
+    stay healthy.
 ---
 
