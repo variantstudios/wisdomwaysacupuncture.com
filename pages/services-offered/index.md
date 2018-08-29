@@ -1,9 +1,12 @@
 ---
-title: Services Offered page
+title: Services Offered at Wisdom Ways Acupuncture
 hero_image: /assets/images/Acupuncture-Fort-Collins-Interview-room-1.jpg
 search_engine_optimization:
-  page_title: Services Offered - WisdomWays Acupuncture
-  page_description:
+  page_title: Services Offered at WisdomWays Acupuncture in Fort Collins
+  page_description: >-
+    I use acupuncture & work extensively with customized herbal formulas; the
+    combo yielding the best results. Nutritional guidance is also used when
+    needed.
   share_image_path:
 layout: page
 permalink: /services-offered/
