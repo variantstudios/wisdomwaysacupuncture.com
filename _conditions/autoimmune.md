@@ -1,5 +1,5 @@
 ---
-title: Acupuncture for Autoimmunity
+title: 'Acupuncture for Autoimmunity, Fort Collins'
 areas_of_specialties:
   selected: true
   selected_title: Autoimmunity
