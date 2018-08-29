@@ -7,8 +7,10 @@ areas_of_specialties:
   order:
 hero_image: /assets/images/acupuncture-menstrual-problems-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins for Menstrual Problems
+  page_description: >-
+    With almost 20 years experience, Inger successfully helps women recover from
+    menstrual problems, using both acupuncture and Chinese Herbs.
   share_image_path:
 ---
 
