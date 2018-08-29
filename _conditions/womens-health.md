@@ -9,8 +9,8 @@ hero_image: /assets/images/womens-health-acupuncture-hero2.jpg
 search_engine_optimization:
   page_title: Acupuncture in Fort Collins for Women's Health & Infertility
   page_description: >-
-    In her almost 20 years experience, Inger has helped thousands of women
-    recover from their women's health problems.
+    In her 20 years of experience, Inger has helped thousands of women recover
+    from their women's health problems.
   share_image_path:
 ---
 
