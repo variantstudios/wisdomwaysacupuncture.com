@@ -1,5 +1,5 @@
 ---
-title: 'Stress, Anxiety, Depression'
+title: 'Acupuncture for Stress, Anxiety, Depression'
 areas_of_specialties:
   selected: false
   selected_title:
@@ -7,8 +7,11 @@ areas_of_specialties:
   order:
 hero_image: /assets/images/acupuncture-fort-collins-anxiety-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: 'Acupuncture in Fort Collins for Stress, Anxiety, & Depression'
+  page_description: >-
+    If you're struggling with emotions, acupuncture can help! Inger successfully
+    helps women with emotional imbalances, every day. Come for relaxing
+    treatment.
   share_image_path:
 ---
 
