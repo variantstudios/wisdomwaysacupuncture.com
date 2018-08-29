@@ -1,5 +1,5 @@
 ---
-title: 'Headaches, Migraines'
+title: Acupuncture for Headaches & Migraines
 areas_of_specialties:
   selected: false
   selected_title: Migraines
