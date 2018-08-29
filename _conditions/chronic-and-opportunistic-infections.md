@@ -7,8 +7,11 @@ areas_of_specialties:
   order:
 hero_image: /assets/images/heroes/acupuncture-fort-collins-LI4.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: 'Acupuncture for Lyme & Opportunistic Infections, in Fort Collins'
+  page_description: >-
+    My growing clinical evidence convinces me more and more that Chinese
+    medicine, including acupuncture & herbs, successfully treats Chronic
+    Infections.
   share_image_path:
 ---
 
