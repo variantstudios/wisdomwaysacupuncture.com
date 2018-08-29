@@ -2,7 +2,7 @@
 title: 'Acupuncture Specialties: Women’s Health & Chronic Illness'
 hero_image: /assets/images/heroes/acupuncture-fort-collins-ST25-hero.jpg
 search_engine_optimization:
-  page_title: Conditions Treated - WisdomWays Acupuncture
+  page_title: Acupuncture in Fort Collins for Women's Health & Chronic Ailments
   page_description: >-
     With both Acupuncture & Chinese herbs, Inger specializes in Women's Health
     and Chronic health issues. In almost 20 years experience she's helped
