@@ -9,8 +9,11 @@ post: >-
   2016-11-05-metal-season-the-time-for-learning-about-letting-go----but-that-whats-of-value-remains
 hero_image:
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Metal Element of 5 Elements Acupuncture Theory
+  page_description: >-
+    In my acupuncture practice in Fort Collins, I work a lot with the elements
+    because understanding our elemental type and the season we're in will help
+    us stay balanced.
 ---
 
 ###### The \*featured\* Metal/Fall post is above; to read just click the image! It’s a great starting point because it covers an overview of the element.
