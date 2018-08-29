@@ -1,5 +1,5 @@
 ---
-title: Chronic and Opportunistic Infections
+title: Acupuncture for Chronic and Opportunistic Infections
 areas_of_specialties:
   selected: false
   selected_title:
