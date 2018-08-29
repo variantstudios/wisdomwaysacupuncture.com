@@ -7,8 +7,10 @@ areas_of_specialties:
   order:
 hero_image: /assets/images/acupuncture-gynecology-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins for Gynecology Problems
+  page_description: >-
+    With almost 20 years experience in women's health, Inger successfully uses
+    acupuncture and Chinese herbs to treat gynecological problems naturally.
   share_image_path:
 ---
 
