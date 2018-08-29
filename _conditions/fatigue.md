@@ -7,8 +7,10 @@ areas_of_specialties:
   order: 4
 hero_image: /assets/images/acupuncture-fort-collins-chronic-illness.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins for Fatigue & Chronic Fatigue
+  page_description: >-
+    Acupuncture and Chinese herbs are extremely effective at helping Fatigue &
+    Chronic Fatigue. We can help you recover from this scary condition!
   share_image_path:
 ---
 
