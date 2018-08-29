@@ -7,8 +7,10 @@ areas_of_specialties:
   order: 4
 hero_image: /assets/images/acupuncture-fort-collins-headaches-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins for Insomnia
+  page_description: >-
+    At Wisdom Ways Acupuncture we successfully treat insomnia with Acupuncture
+    and Herbs. Women are often able to get off their sleeping medications.
   share_image_path:
 ---
 
