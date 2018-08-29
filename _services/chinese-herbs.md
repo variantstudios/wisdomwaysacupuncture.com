@@ -2,8 +2,11 @@
 title: Chinese Herbs
 hero_image: /assets/images/chinese-herbs-fort-collins-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Customized Chinese Herbs in Fort Collins
+  page_description: >-
+    Inger uses herbs extensively, almost 100% of her patients are prescribed
+    individualized herbal formulas. Explains how herbs are used & addresses herb
+    safety
   share_image_path:
 ---
 
