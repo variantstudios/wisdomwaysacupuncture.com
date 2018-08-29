@@ -1,5 +1,5 @@
 ---
-title: Gynecology Issues
+title: Acupuncture for Gynecology Issues
 areas_of_specialties:
   selected: false
   selected_title:
