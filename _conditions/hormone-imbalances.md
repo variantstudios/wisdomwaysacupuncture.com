@@ -1,5 +1,5 @@
 ---
-title: Hormone Imbalances
+title: Acupuncture for Hormone Imbalances
 areas_of_specialties:
   selected: false
   selected_title:
