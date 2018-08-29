@@ -9,7 +9,10 @@ post: >-
   2016-08-21-acupuncture-tips-from-the-earth-element-for-staying-balanced-in-late-summer
 hero_image:
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Earth Element of 5 Elements Acupuncture Theory
+  page_description: >-
+    In my acupuncture practice in Fort Collins, I work a lot with the elements
+    because understanding our elemental type and its related season helps us
+    stay healthy.
 ---
 
