@@ -1,5 +1,5 @@
 ---
-title: Fatigue & Chronic Fatigue
+title: Acupuncture for Fatigue & Chronic Fatigue
 areas_of_specialties:
   selected: true
   selected_title: Fatigue
