@@ -7,8 +7,10 @@ areas_of_specialties:
   order:
 hero_image: /assets/images/acupunture-menopause-fort-collins.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins for Menopause
+  page_description: >-
+    With 20 years experience in women's health, Inger successfully uses
+    acupuncture & Chinese herbs to help women gracefully move through menopause.
   share_image_path:
 ---
 
