@@ -7,8 +7,10 @@ areas_of_specialties:
   order: 2
 hero_image: /assets/images/pregnant-fort-collins-acupuncture-fall.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture for Fertility in Fort Collins. Get Pregnant Naturally
+  page_description: >-
+    We help women trying to get pregnant without the use of ART. Using
+    acupuncture & herbs, we help restore reproductive function naturally.
   share_image_path:
 ---
 
