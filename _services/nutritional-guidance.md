@@ -1,9 +1,11 @@
 ---
-title: Nutritional Guidance
+title: Nutritional Guidance at Wisdom Ways Acupuncture
 hero_image: /assets/images/acupuncture-fort-collins-nutrition-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: 'Nutritional Guidance at Wisdom Ways Acupuncture, Fort Collins'
+  page_description: >-
+    At Wisdom Ways Acupuncture Inger blends functional western, with Chinese
+    Medicine nutritional principles; customizing a unique plan for you.
   share_image_path:
 ---
 
