@@ -7,8 +7,11 @@ areas_of_specialties:
   order: 0
 hero_image: /assets/images/acupuncture-fort-collins-headaches-hero.jpg
 search_engine_optimization:
-  page_title: 'Headaches, Migraines'
-  page_description:
+  page_title: Acupuncture in Fort Collins for Headaches and Migraines
+  page_description: >-
+    Wisdom Ways Acupuncture has an almost 100% success rate for migraines.
+    Clinical evidence convinces us you don't need to live with migraines any
+    more!
   share_image_path:
 ---
 
