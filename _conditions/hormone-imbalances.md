@@ -7,8 +7,10 @@ areas_of_specialties:
   order:
 hero_image: /assets/images/womens-health-acupuncture-hero2.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Acupuncture in Fort Collins for Hormone Imbalances
+  page_description: >-
+    With 20 years experience in women's health, Inger successfully uses both
+    acupuncture & Chinese herbs to help women recover from hormone imbalances.
   share_image_path:
 ---
 
