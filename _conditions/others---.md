@@ -1,5 +1,5 @@
 ---
-title: Others...
+title: Other Conditions Treated with Acupuncture
 areas_of_specialties:
   selected: false
   selected_title:
@@ -7,8 +7,10 @@ areas_of_specialties:
   order: 0
 hero_image: /assets/images/heroes/acupuncture-fort-collins-leg-hero.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: 'Conditions Treated with Acupuncture, Fort Collins'
+  page_description: >-
+    Acupuncture successfully treats so many conditions. These are the ones we
+    can help you with!
   share_image_path:
 ---
 
