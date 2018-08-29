@@ -12,8 +12,8 @@ search_engine_optimization:
   page_title: Metal Element of 5 Elements Acupuncture Theory
   page_description: >-
     In my acupuncture practice in Fort Collins, I work a lot with the elements
-    because understanding our elemental type and the season we're in will help
-    us stay balanced.
+    because understanding our elemental type and its related season helps us
+    stay healthy.
 ---
 
 ###### The \*featured\* Metal/Fall post is above; to read just click the image! It’s a great starting point because it covers an overview of the element.
