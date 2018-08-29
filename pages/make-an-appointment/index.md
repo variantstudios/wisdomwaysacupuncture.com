@@ -1,9 +1,11 @@
 ---
-title: Make Appointment page
+title: Schedule an Acupuncture Appointment
 hero_image: /assets/images/heroes/acupuncture-fort-collins-make-appointment-2.hero.jpg
 search_engine_optimization:
-  page_title: Make Appointment - WisdomWays Acupuncture
-  page_description:
+  page_title: 'Make Acupuncture Appointment, Fort Collins. Wisdom Ways Acupuncture'
+  page_description: >-
+    Schedule an appointment now using either our convenient online scheduler, or
+    call us at (970) 227-3077.
   share_image_path:
 layout: page
 permalink: /make-an-appointment/
