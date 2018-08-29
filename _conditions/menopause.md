@@ -1,5 +1,5 @@
 ---
-title: Menopause
+title: Acupuncture for Menopause
 areas_of_specialties:
   selected: false
   selected_title:
