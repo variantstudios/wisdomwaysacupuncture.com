@@ -7,7 +7,7 @@ areas_of_specialties:
   order: 3
 hero_image: /assets/images/chronic-illness-acupuncture-hero1.jpg
 search_engine_optimization:
-  page_title: Specializing in Acupuncture for Chronic Ailments
+  page_title: Acupuncture in Fort Collins for Chronic Ailments
   page_description: >-
     With almost 20 years experience, Inger, acupuncturist, has helped thousands
     of patients recover from their chronic symptoms.
