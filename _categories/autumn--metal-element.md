@@ -16,8 +16,5 @@ search_engine_optimization:
     stay healthy.
 ---
 
-##### The best place to start learning about the Metal Element is by clicking blog post above, which gives an overview of Metal.
+The best place to start learning about the Metal Element is by clicking blog post above, which gives an overview of Metal.<br><br>Then have fun scrolling down to learn more about Metal and how to keep your own Metal Element balanced! &nbsp;
 {: .light_gray_message.align-to-center}
-
-##### Then have fun scrolling down to learn more about Metal and how to keep your own Metal Element balanced!
-{: .align-to-center}
