@@ -16,5 +16,8 @@ search_engine_optimization:
     stay healthy.
 ---
 
-The \*featured\* Metal/Fall post is above; to read just click the image! It’s a great starting point because it covers an overview of the element.<br><br>The Metal Element relates to the Fall, the Lungs and Large Intestines, and to grief – but also inspiration. These posts contain tips we can use to stay balanced not just in the Fall, but really any time we find ourselves faced with these “Metal” challenges.
+##### The best place to start learning about the Metal Element is by clicking blog post above, which gives an overview of Metal.
 {: .light_gray_message.align-to-center}
+
+##### Then have fun scrolling down to learn more and Metal and how to keep your own Metal Element balanced!
+{: .align-to-center}
