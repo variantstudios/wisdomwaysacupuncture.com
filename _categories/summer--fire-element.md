@@ -16,4 +16,4 @@ search_engine_optimization:
 ---
 
 To get started on learning about the Fire Element, click on the image above for the main Fire blog post. Then, have fun scrolling down to learn more about Fire and how to keep your own Fire Element balanced!
-{: .dark_gray_message}
+{: .light_gray_message.align-to-center}
