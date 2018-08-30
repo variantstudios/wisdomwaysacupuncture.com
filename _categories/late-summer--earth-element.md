@@ -17,4 +17,4 @@ search_engine_optimization:
 ---
 
 To get started on learning about the Earth Element, click on the image above for the main Earth blog post. Then, have fun scrolling down to learn more about Earth and how to keep your own Earth Element balanced!
-{: .align-to-center}
+{: .light_gray_message.align-to-center}
