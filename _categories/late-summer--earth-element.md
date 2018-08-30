@@ -16,5 +16,5 @@ search_engine_optimization:
     stay healthy.
 ---
 
-To get started learning about the Earth Element, click on the image above for the main Earth blog post.<br>&nbsp;Then, have fun scrolling down to learn more about Fire and how to keep your own Fire Element balanced!
+To get started learning about the Earth Element, click on the image above for the main Earth blog post.<br>&nbsp;Then, have fun scrolling down to learn more about Earth and how to keep your own Earth Element balanced!
 {: .light_gray_message.align-to-center}
