@@ -7,7 +7,7 @@ popular_blog_topics:
   order: 4
 post: >-
   2016-11-05-metal-season-the-time-for-learning-about-letting-go----but-that-whats-of-value-remains
-hero_image:
+hero_image: /assets/images/metal-element-acupuncture-featured.jpg
 search_engine_optimization:
   page_title: Metal Element of 5 Elements Acupuncture Theory
   page_description: >-
