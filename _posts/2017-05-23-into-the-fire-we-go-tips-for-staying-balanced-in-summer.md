@@ -7,7 +7,7 @@ tags:
   - 5-elements
   - fire-element
   - acupuncture-and-depression
-hero_image: /assets/images/acupuncture-fire-element-featured.jpg
+hero_image: /assets/images/acupuncture-summer-fire-element.jpg
 search_engine_optimization:
   page_title: >-
     Into the Fire we Go!--More Tips from an Acupuncturist for Staying Balanced
