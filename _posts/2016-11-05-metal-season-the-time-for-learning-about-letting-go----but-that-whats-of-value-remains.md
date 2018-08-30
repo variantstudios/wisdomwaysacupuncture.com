@@ -10,7 +10,7 @@ tags:
   - five-elements
   - metal-element
   - seasonal-eating
-hero_image: /assets/images/heroes/acupuncture-metal-element-fall.jpg
+hero_image: /assets/images/metal-element-acupuncture-featured.jpg
 search_engine_optimization:
   page_title: >-
     Metal Season: The Time for Learning about Letting Go, but that what's of
