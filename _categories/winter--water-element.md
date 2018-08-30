@@ -15,3 +15,5 @@ search_engine_optimization:
     stay healthy.
 ---
 
+The best place to start learning about the Water Element is by clicking the blog post above, which gives an overview of Water.<br><br>Then, have fun scrolling down to learn more about Water and how to keep your own Water Element balanced!
+{: .light_gray_message.align-to-center}
