@@ -6,7 +6,7 @@ popular_blog_topics:
   popular_image: /assets/images/conditions/5 Elements_fire-heart.jpg
   order: 2
 post: 2017-05-23-into-the-fire-we-go-tips-for-staying-balanced-in-summer
-hero_image:
+hero_image: /assets/images/acupuncture-fire-element-featured.jpg
 search_engine_optimization:
   page_title: Fire Element of 5 Elements Acupuncture Theory
   page_description: >-
