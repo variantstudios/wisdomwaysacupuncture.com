@@ -16,5 +16,5 @@ search_engine_optimization:
     stay healthy.
 ---
 
-To get started learning about the Wood Element, click on the image above for the main Wood blog post.<br><br>Then, have fun scrolling down to learn more about Wood and how to keep your own Wood Element balanced!
-{: .light_gray_message}
+The best place to start learning about the Wood Element is by clicking the blog post above, which gives an overview of Wood.<br><br>Then, have fun scrolling down to learn more about Wood and how to keep your own Wood Element balanced!
+{: .light_gray_message.align-to-center}
