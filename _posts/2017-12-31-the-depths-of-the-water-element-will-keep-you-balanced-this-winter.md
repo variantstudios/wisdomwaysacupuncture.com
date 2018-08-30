@@ -5,7 +5,7 @@ categories:
   - winter--water-element
 tags:
   - water-element
-hero_image: /assets/images/acupuncture-water-Element-dark-frozen-water.jpg
+hero_image: /assets/images/water-element-acupuncture-featured.jpg
 search_engine_optimization:
   page_title: Staying Balanced with the Water Element in the Depths of Winter
   page_description: >-
