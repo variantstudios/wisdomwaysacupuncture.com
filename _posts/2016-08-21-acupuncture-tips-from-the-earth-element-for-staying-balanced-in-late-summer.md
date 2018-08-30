@@ -6,7 +6,7 @@ categories:
   - eating-with-the-seasons
 tags:
   - medicinal-foods
-hero_image: /assets/images/heroes/earth-element-acupuncture-featured.jpg
+hero_image: /assets/images/heroes/acupuncture-earth-element-late-summer.jpg
 search_engine_optimization:
   page_title:
   page_description: >-
