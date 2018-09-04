@@ -1,5 +1,5 @@
 ---
-title: 'Earth: Tips Stay Balanced in Late Summer'
+title: 'Tips from Earth: It’s All About Receiving & Nourishment'
 date: 2016-08-21 16:50:00
 categories:
   - late-summer--earth-element
