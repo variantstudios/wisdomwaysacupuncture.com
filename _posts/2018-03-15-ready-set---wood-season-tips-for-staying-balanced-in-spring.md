@@ -10,7 +10,7 @@ tags:
   - wood-element
   - chinese-medicine
   - five-elements
-hero_image: /assets/images/heroes/fort-collins-acupuncture-wood-element-spring.jpg
+hero_image: /assets/images/heroes/spring-wood-element-acupuncture-fort-collins-1.jpg
 search_engine_optimization:
   page_title: >-
     It's Wood Season according to Chinese Medicine and acupuncture theory: Tips
