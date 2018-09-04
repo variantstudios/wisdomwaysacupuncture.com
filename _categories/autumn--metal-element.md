@@ -5,8 +5,7 @@ popular_blog_topics:
   popular_title: Autumn / Metal Element
   popular_image: /assets/images/conditions/metal-sacred-buddha.jpg
   order: 4
-post: >-
-  2016-11-05-metal-time-to-learn-about-letting-go----but-that-value-still-remains
+post: 2016-11-05-metal-learn-about-letting-go----but-that-value-still-remains
 hero_image:
 search_engine_optimization:
   page_title: Metal Element of 5 Elements Acupuncture Theory
