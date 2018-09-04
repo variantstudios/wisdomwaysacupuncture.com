@@ -6,7 +6,7 @@ categories:
   - eating-with-the-seasons
 tags:
   - medicinal-foods
-hero_image: /assets/images/heroes/acupuncture-earth-element-late-summer.jpg
+hero_image: /assets/images/heroes/fort-collins-acupuncture-late-summer-earth-element.jpg
 search_engine_optimization:
   page_title:
   page_description: >-
@@ -34,25 +34,25 @@ While it may not mean standing over a huge pot of boiling Ball jars, read on to 
 
 ## The Earth Element, Digestion, and Nourishment
 
-This time of year, recognized by Acupuncturists as “[Late Summer](http://www.wisdomwaysacupuncture.com/2017/09/09/earth-element-acupuncture-late-summer-season-video-live/)“, is associated with the Earth Element, and the organs of digestion.&nbsp;
+This time of year, recognized by Acupuncturists as “[Late Summer](http://www.wisdomwaysacupuncture.com/2017/09/09/earth-element-acupuncture-late-summer-season-video-live/)“, is associated with the Earth Element, and the organs of digestion. 
 
 It relates to taking in nourishment and distributing the resources so that the entire self, including body and spirit, are nourished.
 
-Think of the term “Mother Earth”, which reminds us of our primal source of nourishment: our mothers.&nbsp; Both her rich milk and her emotional reassurance prepare us to move out into the world with a deep well of fullness from which to give of ourselves.&nbsp;
+Think of the term “Mother Earth”, which reminds us of our primal source of nourishment: our mothers.  Both her rich milk and her emotional reassurance prepare us to move out into the world with a deep well of fullness from which to give of ourselves. 
 
 As we grow older, it continues to be true that when we are adequately nourished, we have a stability in us that goes beyond the physical, allowing us to nurture others as we have been nurtured and nourished.
 
 ## Are you an Earth Type?
 
-Earth Element “types” are natural caretakers.&nbsp; When balanced they have an abundance of reserves to give to others, but when imbalanced easily build resentment over how much they give.&nbsp;
+Earth Element “types” are natural caretakers.  When balanced they have an abundance of reserves to give to others, but when imbalanced easily build resentment over how much they give. 
 
-Their issues commonly manifest around the theme of feeling lack of nourishment from the world. Codependency is a common trait among Earth Element types and those who were neglected as children.&nbsp; If you recognize these traits in yourself, it's even more important to use this time of year to care for and nourish yourself.
+Their issues commonly manifest around the theme of feeling lack of nourishment from the world. Codependency is a common trait among Earth Element types and those who were neglected as children.  If you recognize these traits in yourself, it's even more important to use this time of year to care for and nourish yourself.
 
-People who are under-nourished very often manifest digestive symptoms, such as irregular bowels, bloating, loose stools, or cramping pains; as well as fatigue and weak muscles.&nbsp;
+People who are under-nourished very often manifest digestive symptoms, such as irregular bowels, bloating, loose stools, or cramping pains; as well as fatigue and weak muscles. 
 
-Over time, if our digestive system is chronically unable to produce enough Qi from the food that we eat, all our organs and tissues suffer.&nbsp; Weight gain commonly follows.&nbsp;
+Over time, if our digestive system is chronically unable to produce enough Qi from the food that we eat, all our organs and tissues suffer.  Weight gain commonly follows. 
 
-Chronic Fatigue Syndrome complicated with Fibromyalgia, or an auto-immune disorder that has taken over the entire body,&nbsp; are perfect examples of an Earth Element imbalance that has gone on long enough that several systems of the body have become affected.
+Chronic Fatigue Syndrome complicated with Fibromyalgia, or an auto-immune disorder that has taken over the entire body,  are perfect examples of an Earth Element imbalance that has gone on long enough that several systems of the body have become affected.
 
 ## Below are several tips anyone can use to balance and strengthen their Earth Element:
 
@@ -67,7 +67,7 @@ Chronic Fatigue Syndrome complicated with Fibromyalgia, or an auto-immune disord
 3. Exercise regularly to prevent your Earth Energy from stagnating and “turning into mud”, slowing your digestion and bringing stubbornness and obstinacy.
 4. As the earth rotates around the sun every single day, the Earth organs thrive on regularity…so keep your daily routine as regular as possible.
 5. If you truly tend to over-give and drain your own reserves, perhaps it’s time to back off and make a commitment this season to care for yourself first.
-6. Schedule some acupuncture appointments to address issues of weight gain, digestive complaints, or emotional emptiness.&nbsp; If they are deriving from Earth Element imbalances, this is the best time of year to work on them.
+6. Schedule some acupuncture appointments to address issues of weight gain, digestive complaints, or emotional emptiness.  If they are deriving from Earth Element imbalances, this is the best time of year to work on them.
 
 The more we do now to preserve and conserve our digestive energies, the more we reap the harvest – both physically and emotionally – of the sweetness that is the hallmark of this season.
 
