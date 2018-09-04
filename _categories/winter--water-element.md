@@ -5,7 +5,7 @@ popular_blog_topics:
   popular_title: Winter / Water Element
   popular_image: /assets/images/5-elements-dark-frozen-water.jpg
   order: 5
-post: 2017-12-31-the-depths-of-the-water-element-will-keep-you-balanced-this-winter
+post: 2017-12-31-water-its-depths-will-keep-you-balanced-in-winter
 hero_image:
 search_engine_optimization:
   page_title: Water Element of 5 Elements Acupuncture Theory
