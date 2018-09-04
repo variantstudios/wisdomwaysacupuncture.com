@@ -1,5 +1,5 @@
 ---
-title: 'Metal: Time to Learn about Letting Go -- But that Value Still Remains'
+title: 'Metal: Learn about Letting Go -- But that Value Still Remains'
 date: 2016-11-05 18:09:00
 categories:
   - autumn--metal-element
