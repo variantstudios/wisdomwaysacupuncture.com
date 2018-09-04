@@ -1,5 +1,5 @@
 ---
-title: 'Ready, Set...Wood Season!: Tips for Keeping your Liver Happy this Spring'
+title: 'Ready, Set...Wood Season!: Tips for Staying Balanced this Spring'
 date: 2018-03-15 14:00:00
 categories:
   - five-elements
