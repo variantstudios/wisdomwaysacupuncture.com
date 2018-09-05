@@ -1,5 +1,5 @@
 ---
-title: 'Tips from Earth: It’s All About Receiving & Nourishment'
+title: 'Tips from Earth: It’s All About Receiving and Nourishment'
 date: 2016-08-21 16:50:00
 categories:
   - late-summer--earth-element
