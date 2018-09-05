@@ -11,3 +11,5 @@ search_engine_optimization:
   page_title:
   page_description:
 ---
+
+##### The blogs here represent a random sampling of typical cases that I treat every day. Perhaps you'll find similarities between yourself and some of my patients?
