@@ -16,6 +16,4 @@ search_engine_optimization:
 
 ##### I’ve been told often that I have a very unique style of practicing acupuncture. I blend my passion for educating patients with my personal background of meditation and emotional healing, as well as my science background from my pre-med studies at University and my advanced use of customized herbal medicine.
 
-##### I bring in my love of writing, food, and nutrition; but above everything else my belief that if I can empower patients with knowledge and tools to keep them healthy and balanced, they’ll need my help much less and live lives filled with vibrancy.
-
-##### The blogs on this page help illustrate my style of practice. However since all my blogs are a reflection of my approach to the medicine, check out more topics to learn about the 5 Elements, clinical success stories, and more!
+##### I bring in my love of writing, food, and nutrition; but above everything else my belief that if I can empower patients with knowledge and tools to keep them healthy and balanced, they’ll need my help much less to live lives filled with vibrancy. So check out these blogs which help illustrate my approach to the medicine.
