@@ -1,5 +1,5 @@
 ---
-title: 'Water:  Its Depths will Keep you Balanced in Winter'
+title: 'Water Element:  Its Depths will Keep you Balanced in Winter'
 date: 2017-12-31 06:53:00
 categories:
   - winter--water-element
