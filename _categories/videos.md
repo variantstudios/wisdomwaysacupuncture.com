@@ -13,3 +13,5 @@ search_engine_optimization:
     Videos about acupuncture and so much more, for learning about your
     imbalances and how to stay healthy,  Be empowered on your health journey!
 ---
+
+##### Check back later as this page will be getting updated soon with many of my educational videos!
