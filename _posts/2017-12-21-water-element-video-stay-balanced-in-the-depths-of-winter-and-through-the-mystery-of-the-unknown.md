@@ -26,5 +26,3 @@ Winter relates to the Water Element, but any time we find ourselves suddenly thr
 Learn some tips for nurturing your own Water, with this video.
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9pQVhHT0plelRVWSIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe src="https://www.youtube.com/embed/iAXGOJezTUY" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
-
-&nbsp;
