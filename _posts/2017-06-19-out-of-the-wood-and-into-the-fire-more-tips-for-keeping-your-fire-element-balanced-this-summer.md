@@ -5,7 +5,6 @@ title: >-
 date: 2017-06-19 15:54:00
 categories:
   - summer--fire-element
-  - spring--wood-element
 tags:
   - fire-element
   - wood-element
@@ -51,11 +50,11 @@ Many people’s hearts feel a vague and confusing sorrow today, and indeed, base
 
 This is because the Fire Element is about heart connection.  It’s about the joy of being together and the time of enjoying the fruition and fruits of our labor. 
 
-### Fire "controls" Metal
+### Fire “controls” Metal
 
 On the 5 Elements chart, the Fire element is the one that “controls”, or keeps in check, the [Metal element](/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/); which is more about loss, letting go, and grieving. 
 
-So when we don't have enough activities in our lives that nurture our Fire or heart, and that are about receiving and enjoying love; it's easy then for our Metal element to get out of check and for sorrow to set in.
+So when we don’t have enough activities in our lives that nurture our Fire or heart, and that are about receiving and enjoying love; it’s easy then for our Metal element to get out of check and for sorrow to set in.
 
 ### Do you have plans for nourishing your Fire Element this summer?
 
