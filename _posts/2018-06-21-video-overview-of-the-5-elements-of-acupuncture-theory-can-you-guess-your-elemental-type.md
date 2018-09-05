@@ -1,14 +1,14 @@
 ---
 title: >-
-  Overview of the 5 Elements of Acupuncture Theory: Can You Guess Your Elemental
-  Type?
+  VIDEO: Overview of the 5 Elements of Acupuncture Theory: Can You Guess Your
+  Elemental Type?
 date: 2018-06-21 01:24:00
 categories:
   - five-elements
   - videos
 tags:
   - 5-elements
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+hero_image:
 search_engine_optimization:
   page_title: 'The 5 Elements of Acupuncture Theory: Can you Guess Your Elemental Type?'
   page_description: >-
@@ -33,5 +33,3 @@ If after watching this video you suspect your Elements are out of balance and yo
 {: .align-to-center}
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9SZDRyaGYzM2p0ayIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe src="https://www.youtube.com/embed/Rd4rhf33jtk" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
-
-&nbsp;
