@@ -1,15 +1,16 @@
 ---
 title: >-
-  Water Element Video: Stay Balanced in the Depths of Winter and Through the
+  Water Element VIDEO: Stay Balanced in the Depths of Winter and Through the
   Mystery of the Unknown
 date: 2017-12-21 00:00:00
 categories:
   - winter--water-element
   - five-elements
+  - videos
 tags:
   - water-element
   - five-elements
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+hero_image:
 search_engine_optimization:
   page_title: 'Water Video: Stay Balanced in Winter and Through the Unknown'
   page_description: >-
