@@ -1,7 +1,7 @@
 ---
 title: Random Musings
 popular_blog_topics:
-  popular: true
+  popular: false
   popular_title: Random Musings by the Acupuncturist
   popular_image:
   order:
