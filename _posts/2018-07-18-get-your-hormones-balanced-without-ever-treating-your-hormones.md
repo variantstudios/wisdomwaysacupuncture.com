@@ -27,7 +27,7 @@ Chinese medicine developed thousands of years ago before hormones were known to 
 
 #### Each women with hormone imbalance is seen as a unique case, there is no cookie-cutter "hormone treatment"
 
-I could hypothetically see 10 women a day who all have nearly similar hormone panel results, and yet each woman would be seen as unique from an acupuncture perspective. One woman may be cold and tired all the time yet wakes all night with extreme night sweats and evening heat, as well as having very long cycles that only come every few months. Another woman with the same lab results might be high-strung and agitated, suffer from anxiety and irritability, have short menstrual cycles,&nbsp; yet also wakes all night with night sweats and extreme heat. A third woman might have digestive problems, frequent illnesses, headaches; and also wakes with night sweats.
+I could hypothetically see 10 women a day who all have nearly similar hormone panel results, and yet each woman would be seen as unique from an acupuncture perspective. One woman may be cold and tired all the time yet wakes all night with extreme night sweats and evening heat, as well as having very long cycles that only come every few months. Another woman with the same lab results might be high-strung and agitated, suffer from anxiety and irritability, have short menstrual cycles,  yet also wakes all night with night sweats and extreme heat. A third woman might have digestive problems, frequent illnesses, headaches; and also wakes with night sweats.
 
 I look at each person's tongue and feel their pulses, doing what we call a "pulse and tongue" diagnosis. I can pretty much guarantee that this would result in each of these women getting a completely different diagnosis.
 
