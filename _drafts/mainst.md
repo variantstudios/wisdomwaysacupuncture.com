@@ -4,8 +4,7 @@ date: 2018-02-19 00:00:00
 categories:
   - random-musings
 tags:
-  - integrative medicine
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+hero_image:
 search_engine_optimization:
   page_title: 'Acupuncture Continues to go Mainstream: We''re not Quacks Anymore!'
   page_description: >-
