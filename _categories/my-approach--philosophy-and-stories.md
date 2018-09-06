@@ -14,6 +14,8 @@ search_engine_optimization:
     blogs for a taster of my style of acupuncture practice.
 ---
 
-##### The first and most important step you can take is to find an acupuncturist who’s the right fit for YOU. We’re all very different, with varying specialties, bedside manners, and styles of practice.
+##### If you're looking for an acupuncturist, the most important step you can take is to find an acupuncturist who’s the right fit for YOU.
+
+##### We’re all very different, with varying specialties, bedside manners, and styles of practice.
 
 ##### So along with clicking the Conditions Treated tab above to see if I specialize in treating your condition, check out these blogs which help illustrate my approach to the medicine, and give you a taste of what you can expect if you start acupuncture treatment with me.
