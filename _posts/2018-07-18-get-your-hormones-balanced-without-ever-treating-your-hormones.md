@@ -27,7 +27,7 @@ Chinese medicine developed thousands of years ago before hormones were known to 
 
 #### Each women with hormone imbalance is seen as a unique case, there is no cookie-cutter "hormone treatment"
 
-I could hypothetically see 10 women a day who all have nearly similar hormone panel results, and yet each woman would be seen as unique from an acupuncture perspective. One woman may be cold and tired all the time yet wakes all night with extreme night sweats and evening heat, as well as having very long cycles that only come every few months. Another woman with the same lab results might be high-strung and agitated, suffer from anxiety and irritability, have short menstrual cycles,  yet also wakes all night with night sweats and extreme heat. A third woman might have digestive problems, frequent illnesses, headaches; and also wakes with night sweats.
+I could hypothetically see 10 women a day who all have nearly similar hormone panel results, and yet each woman would be seen as unique from an acupuncture perspective. One woman may be cold and tired all the time yet wakes all night with extreme night sweats and evening heat, as well as having very long cycles that only come every few months. Another woman with the same lab results might be high-strung and agitated, suffer from anxiety and irritability, have short menstrual cycles,&nbsp; yet also wakes all night with night sweats and extreme heat. A third woman might have digestive problems, frequent illnesses, headaches; and also wakes with night sweats.
 
 I look at each person's tongue and feel their pulses, doing what we call a "pulse and tongue" diagnosis. I can pretty much guarantee that this would result in each of these women getting a completely different diagnosis.
 
@@ -40,3 +40,8 @@ Conversely, a menopausal women where it's normal for her to have lower hormones,
 For all these reasons you can see that there is no use in us using hormone panels to assess or diagnose our patients. Regardless of what hormone panels say, we are still going to work with the current symptoms and imbalances that each woman comes in with, and work to correct the imbalances that are causing them.
 
 Call it regulating hormones, or balancing the system, it's all the same thing! Regardless, I find treatment to be extremely effective in this very important factor of wellness for all of us women.
+
+If you'd like to get started on regulating your hormones, you can schedule an appointment by clicking the button below.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
