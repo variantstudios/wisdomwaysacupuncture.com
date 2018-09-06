@@ -10,10 +10,10 @@ hero_image: /assets/images/acupuncture-education-fort-collins.jpg
 search_engine_optimization:
   page_title: My Approach to Acupuncture
   page_description: >-
-    Patients tell me that my approach is extremely unique. I blend extensive
-    education individualized to your imbalances, with holistic acupuncture.
+    Find out if Wisdom Ways Acupuncture is a good fit for YOU by reading these
+    blogs for a taster of my style of acupuncture practice.
 ---
 
-##### I’ve been told often that I have a very unique style of practicing acupuncture. I blend my passion for educating patients with my personal background of meditation and emotional healing, as well as my science background from my pre-med studies at University and my advanced use of customized herbal medicine.
+##### The first and most important step you can take is to find an acupuncturist who's the right fit for YOU. We're all very different, with varying specialties, bedside manners, and styles of practice.
 
-##### I bring in my love of writing, food, and nutrition; but above everything else my belief that if I can empower patients with knowledge and tools to keep them healthy and balanced, they’ll need my help much less to live lives filled with vibrancy. So check out these blogs which help illustrate my approach to the medicine.
+##### So along with clicking the Conditions Treated tab above to see if I specialize in treating your condition, check out these blogs which help illustrate not only my approach to the medicine, but a taste of what you can expect if you start acupuncture treatment with me.
