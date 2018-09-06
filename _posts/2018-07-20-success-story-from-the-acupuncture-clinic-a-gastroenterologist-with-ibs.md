@@ -5,7 +5,7 @@ categories:
   - success-stories-from-the-clinic-before-and-after-patient-cases
 tags:
   - IBS
-  - digestion
+  - digestive problems
 hero_image:
 search_engine_optimization:
   page_title: 'Acupuncture for IBS: Success Stories from the Clinic'
