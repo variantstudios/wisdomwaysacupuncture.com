@@ -38,7 +38,7 @@ Depending on each person's unique story, as I get to know a patient I often give
 * Allowing her spouse and kids to do nice things for her rather than resisting their support as she heals from illness
 * Backing off on intense cortisol-stimulating exercises, instead opting for more gentle exercises like long walks, even if it feels like it's not doing anything.
 
-While any of these might sound as easy as getting out of bed in the morning for you, simple tasks like these can be radically transformative for someone else.&nbsp; And what one person needs to, for example, move their stagnant qi to make their migraines go away; will be completely different for another migraine patient who needs to nourish and build her body up rather than move her qi.
+While any of these might sound as easy as getting out of bed in the morning for you, simple tasks like these can be radically transformative for someone else.  And what one person needs to, for example, move their stagnant qi to make their migraines go away; will be completely different for another migraine patient who needs to nourish and build her body up rather than move her qi.
 
 ### If you understand the problem, you can understand how to help it
 
@@ -52,5 +52,3 @@ If you'd like to come in and learn about your own imbalances and how to stay hea
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
-
-&nbsp;
