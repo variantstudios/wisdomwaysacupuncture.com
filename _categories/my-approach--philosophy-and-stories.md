@@ -5,8 +5,7 @@ popular_blog_topics:
   popular_title: My Approach
   popular_image: /assets/images/my-acupuncture-approach-fort-collins.jpg
   order: 6
-post: >-
-  2018-06-30-what-does-balance-actually-mean-in-the-acupuncture-clinic-how-to-know-if-youre-balanced-and-how-we-get-you-back-to-balance
+post:
 hero_image: /assets/images/acupuncture-education-fort-collins.jpg
 search_engine_optimization:
   page_title: My Approach to Acupuncture
