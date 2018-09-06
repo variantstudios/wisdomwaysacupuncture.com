@@ -3,10 +3,10 @@ title: Is Your Jing Depleted?  A Chinese Medicine Concept you May Want to Know A
 date: 2017-12-29 10:00:00
 categories:
   - winter--water-element
+  - five-elements
 tags:
   - water-element
-  - jing
-hero_image: /assets/images/heroes/jing-core.jpg
+hero_image: /assets/images/heroes/jing-kidneys-acupuncture-fort-collins.jpg
 search_engine_optimization:
   page_title: 'Acupuncture and Your Jing: Is Your Jing Depleted?'
   page_description: >-
