@@ -4,9 +4,9 @@ date: 2016-09-20 10:11:00
 categories:
   - my-approach--philosophy-and-stories
   - womens-health
+  - fertility
 tags:
   - fertility
-  - infertility
 hero_image: /assets/images/acupuncture-fertility.jpg
 search_engine_optimization:
   page_title: 'Natural Fertility: Why I Treat Only Natural Fertility & Refer for ART'
@@ -30,7 +30,7 @@ Before I get into those reasons, I want to make it clear that I have nothing aga
 
 But I quickly discovered, after working more and more with infertility in my clinic, that to work with ART patients meant dividing my work and brain between two — often conflicting — goals and realities.
 
-My number one goal with every patient who walks through my door, is to restore normal and healthy balance and wellness to their system. That's my passion, that’s why I love this medicine, and it’s what makes me excited to go to work every day.
+My number one goal with every patient who walks through my door, is to restore normal and healthy balance and wellness to their system. That’s my passion, that’s why I love this medicine, and it’s what makes me excited to go to work every day.
 
 When treating IVF patients, the goal is different: do everything possible to support the IVF treatment, often using protocol-based (i.e. not individualized) treatments based on modern studies; and increase the women’s wellness in the process as much as possible.
 
@@ -38,11 +38,11 @@ When treating IVF patients, the goal is different: do everything possible to sup
 
 #### 1) Chinese Medicine tries to SOLVE the problem, ART goes around it
 
-While our treatments during ART definitely improve a woman’s tolerance of and successful results from the ART, it’s not at all about correcting the underlying imbalances that are causing her infertility in the first place — ART is going around those problems, and we’re just supporting that process. &nbsp;
+While our treatments during ART definitely improve a woman’s tolerance of and successful results from the ART, it’s not at all about correcting the underlying imbalances that are causing her infertility in the first place — ART is going around those problems, and we’re just supporting that process.  
 
-And that's great, for the many acupuncturists and patients who work with ART. But it’s just not where my skills are focused.
+And that’s great, for the many acupuncturists and patients who work with ART. But it’s just not where my skills are focused.
 
-When we focus on natural fertility, we believe that barring specific circumstances, fertility is the natural outcome of wellness and healthy/normal physiological functions. Restoring normal function however takes time, and when women are doing ART they're usually starting it in the immediate future, which doesn't give us time to fix anything. Again that's just not the goal of the treatment in those cases anyway.
+When we focus on natural fertility, we believe that barring specific circumstances, fertility is the natural outcome of wellness and healthy/normal physiological functions. Restoring normal function however takes time, and when women are doing ART they’re usually starting it in the immediate future, which doesn’t give us time to fix anything. Again that’s just not the goal of the treatment in those cases anyway.
 
 #### 2) I wanted to get REALLY REALLY GOOD at correcting the underlying cause of infertility
 
@@ -79,5 +79,3 @@ You can schedule now by clicking the button below.
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
-
-&nbsp;
