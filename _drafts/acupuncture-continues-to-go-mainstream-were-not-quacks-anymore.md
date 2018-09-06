@@ -5,9 +5,10 @@ categories:
   - success-stories-from-the-clinic-before-and-after-patient-cases
   - womens-health
 tags:
+  - blood stagnation
   - endometriosis
   - menstrual cramps
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+hero_image:
 search_engine_optimization:
   page_title:
   page_description:
@@ -25,7 +26,7 @@ This [quiz](https://www.speakendo.com/endometriosis-resources/symptom-quiz){: ta
 
 ### The basics: what is endometriosis?
 
-Endometriosis is when the menstrual blood -- your endometrium -- moves out of the uterus and into the abdominal cavity, and doesn't naturally get reabsorbed.&nbsp; Since this tissue is guided by hormones, its buildup and shedding mimic the menstrual cycle. In the case of endometriosis though, the blood doesn't have an exit route like the blood in the uterus, so it causes inflammation and scarring in the abdomen.
+Endometriosis is when the menstrual blood – your endometrium – moves out of the uterus and into the abdominal cavity, and doesn't naturally get reabsorbed.&nbsp; Since this tissue is guided by hormones, its buildup and shedding mimic the menstrual cycle. In the case of endometriosis though, the blood doesn't have an exit route like the blood in the uterus, so it causes inflammation and scarring in the abdomen.
 
 In a normal system that doesn't have an imbalance causing too much buildup of tissue without enough breakdown of it, this tissue would just get reabsorbed and not cause any problems. But in someone with endometriosis, there is a problem with the normal breakdown of blood and tissue so their body tends towards buildup of these tissues. In Chinese Medicine we call that "blood stagnation".
 
@@ -35,7 +36,7 @@ When blood stagnation goes on for years uncorrected, it then commonly turns into
 
 #### How western medicine addresses blood stagnation
 
-Because "blood stagnation" is not recognized by western medicine as an underlying diagnosis (except in a systemic blood disorder such as thrombophilia), they treat each manifestation of it as a separate issue. If there's endometriosis, they'll do laparascopic surgery. If there's a fibroid, they surgically remove that as well. If there's other sorts of benign masses or tumors, again their general strategy is to remove them.
+Because "blood stagnation" is not recognized by western medicine as an underlying diagnosis (except in a systemic blood disorder such as [thrombophilia](https://en.wikipedia.org/wiki/Thrombophilia){: target="_blank"}), they treat each manifestation of it as a separate issue. If there's endometriosis, they'll do [laparascopic surgery](https://www.healthline.com/health/endometriosis/laparoscopy-for-endometriosis){: target="_blank"}. If there's a fibroid, they surgically remove that as well. If there's other sorts of benign masses or tumors, again their general strategy is to remove them.
 
 #### The problem with this approach is that the masses just keep coming back.
 
