@@ -14,4 +14,4 @@ search_engine_optimization:
     imbalances and how to stay healthy,  Be empowered on your health journey!
 ---
 
-##### Check back later as this page will be getting updated soon with many of my educational videos!
+##### Continue to check back, as this page will be getting updated soon with many of my educational videos!
