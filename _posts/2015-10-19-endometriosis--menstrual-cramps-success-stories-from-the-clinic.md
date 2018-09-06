@@ -16,7 +16,7 @@ search_engine_optimization:
 layout: post
 ---
 
-Since one of my acupuncture specialties is Women's Health, a common issue that brings women in is [endometriosis](https://en.wikipedia.org/wiki/Endometriosis){: target="_blank"}. If you're suffering from severe menstrual cramps, have unexplainable abdominal pain that tends to worsen around your period, causes pain with intercourse, and/or affects your urinary or bowel functions, you may have endometriosis.&nbsp; The good news is, we can help!
+Since one of my acupuncture specialties is Women's Health, a common issue that brings women in is [endometriosis](https://en.wikipedia.org/wiki/Endometriosis){: target="_blank"}. If you're suffering from severe menstrual cramps, have unexplainable abdominal pain that tends to worsen around your period, causes pain with intercourse, and/or affects your urinary or bowel functions, you may have endometriosis.  The good news is, we can help!
 
 This [quiz](https://www.speakendo.com/endometriosis-resources/symptom-quiz){: target="_blank"} can asses your likelihood of an endometriosis diagnosis. However, this entire post applies to any woman with painful cramps, not just those with this diagnosis.
 
@@ -26,7 +26,7 @@ This [quiz](https://www.speakendo.com/endometriosis-resources/symptom-quiz){: ta
 
 ### The basics: what is endometriosis?
 
-Endometriosis is when the menstrual blood – your endometrium – moves out of the uterus and into the abdominal cavity, and doesn't naturally get reabsorbed.&nbsp; Since this tissue is guided by hormones, its buildup and shedding mimic the menstrual cycle. In the case of endometriosis though, the blood doesn't have an exit route like the blood in the uterus, so it causes inflammation and scarring in the abdomen.
+Endometriosis is when the menstrual blood – your endometrium – moves out of the uterus and into the abdominal cavity, and doesn't naturally get reabsorbed.  Since this tissue is guided by hormones, its buildup and shedding mimic the menstrual cycle. In the case of endometriosis though, the blood doesn't have an exit route like the blood in the uterus, so it causes inflammation and scarring in the abdomen.
 
 In a normal system that doesn't have an imbalance causing too much buildup of tissue without enough breakdown of it, this tissue would just get reabsorbed and not cause any problems. But in someone with endometriosis, there is a problem with the normal breakdown of blood and tissue so their body tends towards buildup of these tissues. In Chinese Medicine we call that "blood stagnation".
 
@@ -74,7 +74,7 @@ We will continue treating her with acupuncture connected to "e-stim"as close as 
 
 Jan came in for debilitating menstrual cramps that caused her to miss work at least one day/month, as well as pain during intercourse that was causing relationship problems. She had abdominal discomfort all month that made her dread urinating and having bowel movements.
 
-By her second month of treatment all her symptoms except her cramps were gone.&nbsp; After 6 cycles of treatment, her cramps were mild enough that she considered herself "cured". This was after many years of western treatment that hadn't helped her problem at all, and had only masked it by halting her periods.
+By her second month of treatment all her symptoms except her cramps were gone.  After 6 cycles of treatment, her cramps were mild enough that she considered herself "cured". This was after many years of western treatment that hadn't helped her problem at all, and had only masked it by halting her periods.
 
 #### Jan is typical of many endometriosis patients
 
