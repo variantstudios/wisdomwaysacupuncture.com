@@ -4,7 +4,7 @@ date: 2018-07-11 00:00:00
 categories:
   - my-approach--philosophy-and-stories
 tags:
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+hero_image: /assets/images/heroes/benefit-acupuncture-fort-collins.jpg
 search_engine_optimization:
   page_title: 'Our Ideal Patient: Who Will Benefit the Most from Acupuncture with Us'
   page_description: >-
