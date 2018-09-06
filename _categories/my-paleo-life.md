@@ -6,7 +6,7 @@ popular_blog_topics:
   popular_image:
   order:
 post:
-hero_image: /assets/images/acupuncture-fort-collins-paleo-life.jpg
+hero_image: /assets/images/fort-collins-paleo-life-acupuncture.jpg
 search_engine_optimization:
   page_title: My Acupuncture Paleo Life
   page_description: >-
