@@ -5,9 +5,12 @@ popular_blog_topics:
   popular_title:
   popular_image:
   order:
-post:
-hero_image:
+post: >-
+  2018-06-21-video-overview-of-the-5-elements-of-acupuncture-theory-can-you-guess-your-elemental-type
+hero_image: /assets/images/acupuncture-fort-collins-five-elements.1.jpg
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Five Elements of Acupuncture
+  page_description: >-
+    Can you guess which element you are, within acupuncture's 5 Element theory?
+    These posts should help!
 ---
