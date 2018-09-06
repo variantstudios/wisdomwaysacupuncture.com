@@ -14,3 +14,6 @@ search_engine_optimization:
     for making seasonal eating in Fort Collins fun and easy!
 ---
 
+##### Acupuncture theory says that the more we eat foods that are in season, the more easily balanced we'll stay. That's because for much of the year, the earth produces the exact foods we need to nourish or cleanse the organs related to that season.
+
+##### When it's not producing foods at all, the preserving techniques that have been used for centuries give our foods the exact energetic properties we need to nourish our organs in the winter.&nbsp; These blogs delve deeper into this concept.
