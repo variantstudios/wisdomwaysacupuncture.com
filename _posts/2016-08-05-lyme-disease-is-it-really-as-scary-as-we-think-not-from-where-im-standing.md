@@ -2,8 +2,8 @@
 title: 'Lyme Disease: Is it really as scary as we think? Not from where I''m Standing!'
 date: 2016-08-05 00:00:00
 categories:
-  - my-approach--philosophy-and-stories
   - success-stories-from-the-clinic-before-and-after-patient-cases
+  - chronic--opportunistic-infections
 tags:
 hero_image:
 search_engine_optimization:
