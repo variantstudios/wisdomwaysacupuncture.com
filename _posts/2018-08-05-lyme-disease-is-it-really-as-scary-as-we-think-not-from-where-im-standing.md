@@ -54,9 +54,9 @@ We started at two treatments/week to help with the acute body-aches. At the begi
 
 We started her on herbs at week 3. One week after being on the herbs, she noticed a dramatic shift in her energy, to the point that she said she was feeling like herself again for large chunks of the day. By 3 weeks into the herbs, she hadn’t had any Lyme symptoms for a week.
 
-We kept her on herbs for another couple months to consolidate the treatment, but she felt completely normal that entire time.&nbsp;
+We kept her on herbs for another couple months to consolidate the treatment, but she felt completely normal that entire time. 
 
-So to summarize, after being debilitated for 4 months with barely any improvement in symptoms; she felt noticeably better after only a couple acupuncture treatments, with stabilized improvement at week 3. Once we got the herbs into the mix it only took 1 week to start feeling “normal” again, and finally 3 weeks into the herbs she felt no signs of the illness. &nbsp;
+So to summarize, after being debilitated for 4 months with barely any improvement in symptoms; she felt noticeably better after only a couple acupuncture treatments, with stabilized improvement at week 3. Once we got the herbs into the mix it only took 1 week to start feeling “normal” again, and finally 3 weeks into the herbs she felt no signs of the illness.  
 
 ## Not all Lyme treatment is this quick
 
@@ -70,19 +70,19 @@ But I wanted to share this quick easy case because it illustrates the point I'm 
 
 We resolved it by helping the body process and contend with the infection, in the way it’s supposed to be able to when confronted with any pathogen.
 
-Certain imbalances create a situation where pathogens can get locked in the body and the immune system can’t cope with the infection. So we can kill, kill, kill with medications and/or supplements, &nbsp;and while they might temporarily decrease the pathogens, they’re not solving the reason why the infection became chronic in the first place.
+Certain imbalances create a situation where pathogens can get locked in the body and the immune system can’t cope with the infection. So we can kill, kill, kill with medications and/or supplements,  and while they might temporarily decrease the pathogens, they’re not solving the reason why the infection became chronic in the first place.
 
 THAT is what we’re addressing with this alternate approach.
 
 It’s honoring the body’s innate wisdom by helping it deal with the infections itself. It’s like telling the body “I trust that you know how to move through this, and I’m just tapping into that ability with our treatments”.
 
-This is typically such a relief to long-time sufferers, who often feel betrayed and untrusting of their bodies. A paradigm shift that often brings patients to tears. They FINALLY&nbsp; feel that they can stop fighting against something.
+This is typically such a relief to long-time sufferers, who often feel betrayed and untrusting of their bodies. A paradigm shift that often brings patients to tears. They FINALLY  feel that they can stop fighting against something.
 
 And because we work holistically, other symptoms such as emotions and digestion are being addressed at the same time as the Lyme. So patients come out feeling not only finally recovered from the infection, but also restored after the depleting regimens they’ve been on.
 
 ### Does the conventional route ever work?
 
-Keep in mind that the population of Lyme patients I see is likely skewed. Meaning, those who go the conventional route (whether allopathic or naturopathic) of rounds of drugs or supplements to kill the infection -- AND get better – aren’t the ones that end up in my office.
+Keep in mind that the population of Lyme patients I see is likely skewed. Meaning, those who go the conventional route (whether allopathic or naturopathic) of rounds of drugs or supplements to kill the infection – AND get better – aren’t the ones that end up in my office.
 
 So the people I see are the ones who go the conventional route and still feel horrible.
 
