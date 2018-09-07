@@ -4,10 +4,8 @@ date: 2017-04-03 00:00:00
 categories:
   - success-stories-from-the-clinic-before-and-after-patient-cases
   - my-approach--philosophy-and-stories
+  - chronic--opportunistic-infections
 tags:
-  - Lyme
-  - Lyme Disease
-  - Chronic Infections
 hero_image:
 search_engine_optimization:
   page_title: 'Success Stories from the Acupuncture Clinic: Lyme Disease'
