@@ -35,7 +35,9 @@ And because the initial imbalance that allowed the pathogen to take root ALWAYS 
 
 It’s the same philosophy that guides my treatment of all conditions: honor the wisdom of the body, and simply help it function in a balanced way and then watch how it resolves infections on its own.
 
-If you're suffering from a long term infection and would like to take a new approach that's perhaps more honoring to your own body's innate healing wisdom, you can schedule an appointment now.
+To read blogs related real-life patients who have recovered from long-time illness like Lyme, go to my [Chronic & Opportunistic Infections](/blog/category/chronic--opportunistic-infections/) topic page.
+
+And if you’re suffering from a long term infection and would like to take a new approach that’s perhaps more honoring to your own body’s innate healing wisdom, you can schedule an appointment now.
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
