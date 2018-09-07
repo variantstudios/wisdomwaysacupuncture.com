@@ -5,11 +5,10 @@ categories:
   - chronic--opportunistic-infections
   - my-approach--philosophy-and-stories
 tags:
-  - Epstein-barr
 hero_image:
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: Successfully Treat Epstein-barr without ever Treating Epstein-barr
+  page_description: Promote your own body's vitality so that IT keeps this virus in check.
   share_image_path:
 layout: post
 ---
@@ -26,7 +25,7 @@ In other words, various sources agree that probably 90% of us are carrying aroun
 
 So if we all carry this virus, how do we know that the lab result has anything to do with their symptoms? And how do we know that if someone else who has no symptoms at all were to be tested, that they wouldn’t turn up positive for the virus as well?
 
-The point is, I believe that the only reason their numbers are high is because they are sick...they’re not sick BECAUSE their numbers are high. So it makes the diagnosis and lab result irrelevant.
+The point is, I believe that the only reason their numbers are high is because they are sick…they’re not sick BECAUSE their numbers are high. So it makes the diagnosis and lab result irrelevant.
 
 #### Let me explain some more.
 
