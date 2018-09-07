@@ -52,7 +52,7 @@ We started her off at twice/week appointments. At her second visit she started h
 
 By the second week of treatment, she came in no longer having the strange nerve sensations in her arms, and the heavy dragging body feelings were about 50% better. The upper body "energy moving up" feelings were dramatically reduced. Her energy was still very bad, but she'd had no "hit a wall" days.
 
-By week 3 we backed her down to once/week treatments, and that week she no longer had the upper body symptoms, and her heavy dragging feelings were almost completely gone.&nbsp; Her energy was noticeably improved, still however with good and bad days.
+By week 3 we backed her down to once/week treatments, and that week she no longer had the upper body symptoms, and her heavy dragging feelings were almost completely gone.  Her energy was noticeably improved, still however with good and bad days.
 
 By the 4th week she was feeling so much better that her report was "I forgot that I ever felt this good before". She was still tired, but with the absence of the heavy body feeling and the weird energy sensations, she realized how emotionally drained she'd been as well, from those strange symptoms. With her emotions higher, she felt renewed energy, even though she still needed to very much monitor her energy output.
 
@@ -64,7 +64,7 @@ I saw her one more time after that. I had actually thought that she would need m
 
 This patient came in with a much more complex mix of symptoms. While I wasn't convinced they were all related to Lyme, her doctors were telling her they were not just the Lyme, but co-infections.
 
-She had alternating constipation and diarrhea, anxiety, extreme fatigue, headaches, body aches, insomnia, and also strange nervy sensations that would move throughout her body.&nbsp; Some of these symptoms she had had before the Lyme, but everything had gotten worse around the time of the Lyme diagnosis. Additionally, she had always suffered from painful periods.
+She had alternating constipation and diarrhea, anxiety, extreme fatigue, headaches, body aches, insomnia, and also strange nervy sensations that would move throughout her body.  Some of these symptoms she had had before the Lyme, but everything had gotten worse around the time of the Lyme diagnosis. Additionally, she had always suffered from painful periods.
 
 She had been sick for about 10 months, and unlike the first patient had only taken one round of antibiotics. It didn't change her symptoms, and being more natural minded she went to a functional western doctor for other options. That doctor put her on an herbal protocol for 3 months to treat the infections. It didn't really change her symptoms either.
 
@@ -76,17 +76,17 @@ As is usual, we started off with twice/week treatments.
 
 As is also common, even from the first treatment, her body aches were noticeably improved. She also felt much more calm and able to manage her anxiety within the first week of treatment.
 
-After two weeks of treatment her insomnia was approx 25% better, and the nervy sensations started diminishing.&nbsp; She also reported that she couldn't remember the last time she'd had a headache.
+After two weeks of treatment her insomnia was approx 25% better, and the nervy sensations started diminishing.  She also reported that she couldn't remember the last time she'd had a headache.
 
 She would get a burst of energy after each treatment that would last a couple hours, but then the fatigue would return.
 
-We started her on herbs during the second week.&nbsp; She immediately noticed her stools normalizing with the herbs. They were now mostly on the constipation side but she was now going every day, even if her stools were small hard balls.
+We started her on herbs during the second week.  She immediately noticed her stools normalizing with the herbs. They were now mostly on the constipation side but she was now going every day, even if her stools were small hard balls.
 
-Her energy continued to lag, and she had a setback when her first period came after we'd started treatment. All her symptoms returned, one day feeling like we'd made no progress at all, which triggered intense anxiety for her.&nbsp; She stayed in bed for almost an entire day, feeling completely drained.
+Her energy continued to lag, and she had a setback when her first period came after we'd started treatment. All her symptoms returned, one day feeling like we'd made no progress at all, which triggered intense anxiety for her.  She stayed in bed for almost an entire day, feeling completely drained.
 
 But she bounced back very quickly after her period was gone, and over the next month all her symptoms continued to gradually improve. We backed down to once/week treatments at week 5, once her subjective assessment was that she was about 50% improved overall.
 
-This patient, being prone to emotional tension, had more setbacks than the last patient. Every time she got emotionally wrapped up in some kind of "drama" in her life, she would have a bad day.&nbsp;
+This patient, being prone to emotional tension, had more setbacks than the last patient. Every time she got emotionally wrapped up in some kind of "drama" in her life, she would have a bad day. 
 
 Still, except for that one day around her period, even her bad days now were better than most of her good days for the prior 8 months.
 
@@ -100,7 +100,7 @@ Treatment progressed at this rate, twice/month treatments, for the next few mont
 
 ### Summary of treatment
 
-While this second patient took significantly longer than the first to recover, she also immediately noticed an improvement in her quality of life in the first couple weeks, including body aches, sleep, constipation/diarrhea, headaches, and anxiety.&nbsp;
+While this second patient took significantly longer than the first to recover, she also immediately noticed an improvement in her quality of life in the first couple weeks, including body aches, sleep, constipation/diarrhea, headaches, and anxiety. 
 
 Since many of these symptoms she'd dealt with long before this illness, along with her recovery from Lyme she was recovering from imbalances she's been living with for many years, including horrible menstrual cramps.
 
@@ -116,7 +116,3 @@ If you've been suffering from Lyme and you'd like to try a different approach, y
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
-
-&nbsp;
-
-&nbsp;
