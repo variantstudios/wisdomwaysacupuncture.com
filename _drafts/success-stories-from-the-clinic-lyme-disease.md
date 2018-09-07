@@ -1,11 +1,13 @@
 ---
 title: 'Success Stories from the Clinic: Lyme Disease'
-date: 2018-06-27 00:00:00
+date: 2017-04-03 00:00:00
 categories:
   - success-stories-from-the-clinic-before-and-after-patient-cases
+  - my-approach--philosophy-and-stories
 tags:
   - Lyme
   - Lyme Disease
+  - Chronic Infections
 hero_image:
 search_engine_optimization:
   page_title: 'Success Stories from the Acupuncture Clinic: Lyme Disease'
@@ -42,7 +44,7 @@ After getting sick her self-care became impeccable, and she ate only clean, orga
 
 She had done several courses of antibiotic treatment over the course of one year, and while it did help her initially, these remaining symptoms had never gone away, and it had now been about a year like this.
 
-### Acupuncture Treatment:
+### Acupuncture and Herbal Treatment:
 
 This was one of those "miracle" patients that responded incredibly fast to treatment. While this response is not unheard of, it's uncommon enough that I tell patients to expect a longer course of treatment.
 
@@ -62,8 +64,59 @@ I saw her one more time after that. I had actually thought that she would need m
 
 This patient came in with a much more complex mix of symptoms. While I wasn't convinced they were all related to Lyme, her doctors were telling her they were not just the Lyme, but co-infections.
 
-She had alternating constipation and diarrhea, anxiety, extreme fatigue, headaches, insomnia, and also strange nervy sensations that would move throughout her body.&nbsp; Some of these symptoms she had had before the Lyme, but everything had gotten worse around the time of the Lyme diagnosis. Additionally, she had always suffered from painful periods.
+She had alternating constipation and diarrhea, anxiety, extreme fatigue, headaches, body aches, insomnia, and also strange nervy sensations that would move throughout her body.&nbsp; Some of these symptoms she had had before the Lyme, but everything had gotten worse around the time of the Lyme diagnosis. Additionally, she had always suffered from painful periods.
 
-She had been sick for about 8 months, and unlike the first patient had only taken one round of antibiotics. It didn't change her symptoms, and being more natural minded she went to a functional western doctor for other options. That doctor put her on an herbal protocol for 3 months to treat the infections. It didn't really change her symptoms either.
+She had been sick for about 10 months, and unlike the first patient had only taken one round of antibiotics. It didn't change her symptoms, and being more natural minded she went to a functional western doctor for other options. That doctor put her on an herbal protocol for 3 months to treat the infections. It didn't really change her symptoms either.
 
 This patient's Chinese medicine diagnosis matched the one I see so commonly in people with chronic infections. Because she was quite "textbook" in this regard, while I wasn't sure how quickly she would respond, I was pretty certain she would. Her complex mix of symptoms was not at all confusing from a Chinese medicine perspective.
+
+### Acupuncture and Herbal Treatment:
+
+As is usual, we started off with twice/week treatments.
+
+As is also common, even from the first treatment, her body aches were noticeably improved. She also felt much more calm and able to manage her anxiety within the first week of treatment.
+
+After two weeks of treatment her insomnia was approx 25% better, and the nervy sensations started diminishing.&nbsp; She also reported that she couldn't remember the last time she'd had a headache.
+
+She would get a burst of energy after each treatment that would last a couple hours, but then the fatigue would return.
+
+We started her on herbs during the second week.&nbsp; She immediately noticed her stools normalizing with the herbs. They were now mostly on the constipation side but she was now going every day, even if her stools were small hard balls.
+
+Her energy continued to lag, and she had a setback when her first period came after we'd started treatment. All her symptoms returned, one day feeling like we'd made no progress at all, which triggered intense anxiety for her.&nbsp; She stayed in bed for almost an entire day, feeling completely drained.
+
+But she bounced back very quickly after her period was gone, and over the next month all her symptoms continued to gradually improve. We backed down to once/week treatments at week 5, once her subjective assessment was that she was about 50% improved overall.
+
+This patient, being prone to emotional tension, had more setbacks than the last patient. Every time she got emotionally wrapped up in some kind of "drama" in her life, she would have a bad day.&nbsp;
+
+Still, except for that one day around her period, even her bad days now were better than most of her good days for the prior 8 months.
+
+Her next period came with dramatically less cramps than she'd had in years, and while she still had a flare of her symptoms, it was very mild.
+
+2 months into treatment her biggest symptom was fatigue. Her stools had completely normalized, she had only had headaches around her period, her sleep was much better, and she'd had no body aches or nervy sensations for weeks.
+
+We continued seeing her every other week into month 3 of treatment. At that point her energy was about 70% improved. She felt much better but still not like herself.
+
+Treatment progressed at this rate, twice/month treatments, for the next few months. She slowly but surely felt about 10% better each month, and at the end of 6 months of treatment, she felt recovered, rarely thinking about the Lyme
+
+### Summary of treatment
+
+While this second patient took significantly longer than the first to recover, she also immediately noticed an improvement in her quality of life in the first couple weeks, including body aches, sleep, constipation/diarrhea, headaches, and anxiety.&nbsp;
+
+Since many of these symptoms she'd dealt with long before this illness, along with her recovery from Lyme she was recovering from imbalances she's been living with for many years, including horrible menstrual cramps.
+
+While her fatigue improved slowly, taking 3 months to improve by 70% and another 3 to get to 100%, she still felt a peace and calm that she had never been able to access before treatment. So while a little tired still most days, her quality of life was much improved.
+
+## 2 acupuncture patients that are typical of many
+
+These are just two patients, but since I always choose patients who represent the wide range of patients I treat every day, they are good examples of how you might also respond if you come for treatment for Lyme.
+
+Notice, never once did I mention that I was "treating Lyme" in the course of either treatment. I was simply restoring balance to their body so it could do the job it was designed to do in the first place: process infections so they can''t take over the body.
+
+If you've been suffering from Lyme and you'd like to try a different approach, you can schedule now by clicking the button below:
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
+
+&nbsp;
+
+&nbsp;
