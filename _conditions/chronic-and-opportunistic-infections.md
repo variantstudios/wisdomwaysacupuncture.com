@@ -23,7 +23,7 @@ There is more than one approach we can take with Chinese medicine, but a key poi
 
 ### Acupuncture and Chinese herbs for Infections
 
-Sometimes “killing” the pathogen is a necessary step, yet this can also be an incredibly depleting treatment process, administered to a body that is already very weak. In my clinic, I’ve had huge success with taking the alternate approach of simply looking at where the body’s imbalances are —  where their ecosystem was “off” in the first place, which is what allowed the pathogen to take hold and control — and working to improve and rebalance their body’s correct function. It’s amazing how successful this simple approach has proven, on the hundreds of patients I’ve treated with these infections over the years.
+Sometimes “killing” the pathogen is a necessary step, yet this can also be an incredibly depleting treatment process, administered to a body that is already very weak. In my clinic, I’ve had huge success with taking the alternate approach of simply looking at where the body’s imbalances are — &nbsp;where their ecosystem was “off” in the first place, which is what allowed the pathogen to take hold and control — and working to improve and rebalance their body’s correct function. It’s amazing how successful this simple approach has proven, on the hundreds of patients I’ve treated with these infections over the years.
 
 The body’s immune system was designed to be able to encounter all sorts of pathogens, and to effectively rid them from the body.
 
@@ -34,3 +34,8 @@ In our modern day, we’ve learned to fear pathogens like Lyme and Epstein-Barr,
 And because the initial imbalance that allowed the pathogen to take root ALWAYS underlies all the other symptoms a patient may be having as well, any other issues they’ve struggled with over their life get better as well; such as migraines, PMS, irregular periods, digestive issues, etc.
 
 It’s the same philosophy that guides my treatment of all conditions: honor the wisdom of the body, and simply help it function in a balanced way and then watch how it resolves infections on its own.
+
+If you're suffering from a long term infection and would like to take a new approach that's perhaps more honoring to your own body's innate healing wisdom, you can schedule an appointment now.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
