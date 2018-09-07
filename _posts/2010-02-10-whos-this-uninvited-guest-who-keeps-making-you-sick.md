@@ -3,6 +3,7 @@ title: Who's this Uninvited Guest who Keeps Making you Sick?
 date: 2010-02-10 17:36:00
 categories:
   - my-approach--philosophy-and-stories
+  - chronic--opportunistic-infections
 tags:
   - evil-qi
   - strengthening-your-immune-system
@@ -40,7 +41,7 @@ So whether our immunity is weak or strong, the answer is the same for all of us:
 
 Rather than being related to the strength of the pathogen, it’s more related to a pathogen getting into a level of the body where it just gets “stuck”.
 
-While this isn’t really how we think about it in Chinese Medicine, I can explain it in a simplified way by saying that it’s like the body tenses up, which creates an environment where pathogens can lurk in hidden tight places where the immune system and drugs can’t access them to rid them from the body once and for all.&nbsp; While meds or herbs can maybe lower the level of the pathogen, temporarily make the cold feel like it’s better, it’s really just gone latent and hidden in the body.
+While this isn’t really how we think about it in Chinese Medicine, I can explain it in a simplified way by saying that it’s like the body tenses up, which creates an environment where pathogens can lurk in hidden tight places where the immune system and drugs can’t access them to rid them from the body once and for all.  While meds or herbs can maybe lower the level of the pathogen, temporarily make the cold feel like it’s better, it’s really just gone latent and hidden in the body.
 
 This imbalance is very common among patients who tend to be high-strung or who have just been under a lot of stress. The same imbalance which causes a tendency for tension also creates this dynamic which allows the pathogen to get stuck.
 
@@ -72,9 +73,3 @@ Regardless of the cause of frequent illness, Chinese medicine can help.
 
 ### [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
-
-&nbsp;
-
-**&nbsp;**
-
-&nbsp;
