@@ -22,7 +22,7 @@ layout: post
 
 <div>&nbsp;</div>
 
-<div>All it will take is one person coming in for their regular acupuncture appointment saying they have a cold, and the next thing I know, almost everyone is coming in fighting something as well.&nbsp; People I haven&rsquo;t seen in several months suddenly pop up on the schedule to get treated for a URI.&nbsp;</div>
+<div>All it will take is one person coming in for their regular acupuncture appointment saying they have a cold, and the next thing I know, almost everyone is coming in fighting something as well.&nbsp; Patients I haven&rsquo;t seen in several months suddenly pop up on the schedule to get treated for a URI.&nbsp;</div>
 
 <div>&nbsp;</div>
 
