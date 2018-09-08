@@ -52,7 +52,7 @@ This woman is having hot flashes because her body has a fluid metabolism issue, 
 
 ###### Patient 2: Stuck Qi causing heat from constraint, causing a “pressure cooker”-like situation
 
-This is a very high strung patient with the opposite problem. She has EXCESS rather than depleted energy, and everything is so tense and tight in her body that her life-force energy gets bottled up. When this life-force energy gets constrained from an inability for her entire system to relax and functions to flow unimpeded; not only can she not settle down, but her bowels get stuck. That bottled up energy causes her body’s normal heat to explode upward, just like in a pressure cooker, which causes her hot flashes. &nbsp;While she sweats with a hot flash, it’s not excessive like with the first patient.
+This is a very high strung patient with the opposite problem. She has EXCESS rather than depleted energy, and everything is so tense and tight in her body that her life-force energy gets bottled up. When this life-force energy gets constrained from an inability for her entire system to relax and functions to flow unimpeded; not only can she not settle down, but her bowels get stuck. That bottled up energy causes her body’s normal heat to explode upward, just like in a pressure cooker, which causes her hot flashes.  While she sweats with a hot flash, it’s not excessive like with the first patient.
 
 Her successful treatment involved basically releasing the pressure cooker, calming her stress, and allowing her energy and bowels to flow more smoothly.
 
@@ -60,7 +60,7 @@ Her successful treatment involved basically releasing the pressure cooker, calmi
 
 Everything about this patient was dry. She simply didn’t have enough fluids to keep her body cool or to moisten her bowels and skin. So when she hit menopause she had constant overheating. She rarely sweat with her hot flashes. We call this classic “yin deficiency”.
 
-In this case, adding moisture and fluids into her system mainly through herbs, and making sure she was eating enough moistening/enriching foods, resolved her hot flashes as well as her other symptoms. &nbsp;
+In this case, adding moisture and fluids into her system mainly through herbs, and making sure she was eating enough moistening/enriching foods, resolved her hot flashes as well as her other symptoms.  
 
 ###### Patient 4: Excess Fluids being poorly metabolized
 
