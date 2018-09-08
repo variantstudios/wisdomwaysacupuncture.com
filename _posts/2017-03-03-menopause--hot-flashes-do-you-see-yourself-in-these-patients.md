@@ -25,7 +25,7 @@ What there ARE acupuncture points and herbs for are all the various underlying r
 
 ### Unique patient, unique menopause treatment
 
-The entire basis of Chinese medicine rests on analyzing each patient as an individual. Unfortunately, in modern times in an effort to standardize the medicine, the tools used to get at the underlying cause of symptoms has become a dying art.
+The entire basis of Chinese medicine rests on analyzing each patient as an individual. Unfortunately, in modern times -- in an effort to standardize the medicine -- the tools used to get at the underlying cause of symptoms has become a dying art.
 
 More and more acupuncturists are being taught to administer treatment based on “diseases” or syndromes, handing out herbal formulas “for” headaches, hot flashes, insomnia, constipation, etc.
 
@@ -33,7 +33,7 @@ But that’s not how the medicine was designed to work, and trying to force it i
 
 #### This blog will list 4 recent patients with hot flashes as an example to illustrate the point. See if you can find similarities between yourself and any of these patients.
 
-##### Each patient came in for menopausal hot flashes, but also has:
+Each patient came in for menopausal hot flashes, but also has:
 
 1. ###### Chronic clear vaginal discharge, frequent and urgent urination, lots of sweat, coldness, and fatigue
 2. ###### Anxiety, inability to settle down, and very slow moving bowels that are normal form
@@ -42,7 +42,7 @@ But that’s not how the medicine was designed to work, and trying to force it i
 
 From a western perspective, each woman would just be diagnosed as having hot flashes due to menopause, and would all be given the same recommendations. And from a modern Chinese medicine perspective, each of these women would likely get a cookie cutter menopause treatment as well.
 
-##### But if we analyze each woman individually, we can see that each one is actually having hot flashes for completely different reasons.
+But if we analyze each woman individually, we can see that each one is actually having hot flashes for completely different reasons.
 
 By addressing those reasons, we not only resolve the hot flashes, but the other problems as well.
 
@@ -52,15 +52,15 @@ This woman is having hot flashes because her body has a fluid metabolism issue, 
 
 ###### Patient 2: Stuck Qi causing heat from constraint, causing a “pressure cooker”-like situation
 
-This is a very high strung patient with the opposite problem. She has EXCESS rather than depleted energy, and everything is so tense and tight in her body that her life-force energy gets bottled up. When this life-force energy gets constrained from an inability for her entire system to relax and functions to flow unimpeded; not only can she not settle down, but her bowels get stuck. That bottled up energy causes her body’s normal heat to explode upward, just like in a pressure cooker, which causes her hot flashes.  While she sweats with a hot flash, it’s not excessive like with the first patient.
+This is a very high strung patient with the opposite problem. She has EXCESS rather than depleted energy, and everything is so tense and tight in her body that her life-force energy gets bottled up. When this life-force energy gets constrained from an inability for her entire system to relax and functions to flow unimpeded; not only can she not settle down, but her bowels get stuck. That bottled up energy causes her body’s normal heat to explode upward, just like in a pressure cooker, which causes her hot flashes. &nbsp;While she sweats with a hot flash, it’s not excessive like with the first patient.
 
 Her successful treatment involved basically releasing the pressure cooker, calming her stress, and allowing her energy and bowels to flow more smoothly.
 
 ###### Patient 3: Dryness creating too much heat
 
-Everything about this patient was dry. She simply didn’t have enough fluids to keep her body cool or to moisten her bowels and skin. So when she hit menopause she had constant overheating. She rarely sweat with her hot flashes. We call this classic “yin deficiency”.
+Everything about this patient was dry. She simply didn’t have enough fluids to keep her body cool or to moisten her bowels and skin. So when she hit menopause she had constant overheating. She rarely sweat with her hot flashes or during even intense workouts, because her body lacked the moisture needed to produce sweat. We call this classic “yin deficiency”.
 
-In this case, adding moisture and fluids into her system mainly through herbs, and making sure she was eating enough moistening/enriching foods, resolved her hot flashes as well as her other symptoms.  
+In this case, adding moisture and fluids into her system mainly through herbs, and making sure she was eating enough moistening/enriching foods, resolved her hot flashes as well as her other symptoms. &nbsp;
 
 ###### Patient 4: Excess Fluids being poorly metabolized
 
