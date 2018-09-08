@@ -1,6 +1,6 @@
 ---
 title: Successfully Treat Epstein-barr without ever Treating Epstein-barr
-date: 2017-12-06 00:00:00
+date: 2016-02-06 00:00:00
 categories:
   - chronic--opportunistic-infections
   - my-approach--philosophy-and-stories
@@ -19,13 +19,15 @@ In their head it explains all the symptoms they’ve been suffering from: namely
 
 But I take a different perspective.
 
-#### My view is that their Epstein-Barr levels are inflated BECAUSE of their imbalances, not the other way around.
+#### My view is that their Epstein-Barr levels are inflated BECAUSE of their symptoms, not the other way around.
 
 In other words, various sources agree that probably 90% of us are carrying around the Epstein-barr virus. If you ever had mono as a kid, you’ve got it.
 
-So if we all carry this virus, how do we know that the lab result has anything to do with their symptoms? And how do we know that if someone else who has no symptoms at all were to be tested, that they wouldn’t turn up positive for the virus as well?
+So if we all carry this virus, how do we know that the lab result has anything to do with the cause of their symptoms? And how do we know that if someone else who has no symptoms at all were to be tested, that they wouldn’t turn up high positive for the virus as well?
 
-The point is, I believe that the only reason their numbers are high is because they are sick…they’re not sick BECAUSE their numbers are high. So it makes the diagnosis and lab result irrelevant.
+And what if when their body is in good health, their numbers naturally go down?
+
+The point is, I believe they’re not sick because their numbers are high, but that their numbers are high BECAUSE they're sick…. So it makes the diagnosis and lab result irrelevant.
 
 #### Let me explain some more.
 
@@ -49,11 +51,13 @@ We do that by completely ignoring the Epstein-barr, and just looking at each pat
 
 It’s rare that patients go back to test for Epstein-barr once they’re feeling better.
 
-They have their lives back, they’re tired of doctor’s appointments, and they just want to get on with their lives. So it’s rare for me to get to see before and after lab results to verify the effectiveness of the treatment.
+They have their lives back, they’re tired of doctor’s appointments, and they just want to get on with things. So it’s rare for me to get to see before and after lab results to verify the effectiveness of the treatment.
 
 But in the rare cases that I HAVE been able to see before and after lab results, sure enough they confirm that the Epstein-barr levels have gone way down.
 
-The summary is, when patients come in with a dramatic lab result showing that they’ve got very high levels of the virus, I find the diagnosis completely unintimidating.
+The summary is, when patients come in with a dramatic lab result showing that they’ve got very high levels of the virus, I find the diagnosis completely unintimidating. It' never seemed to have any clinical relevance whatsoever, and has never affected successful outcome of treatment.
+
+We just work to resolve the underlying cause for each patient's symptoms, just as with every other condition.
 
 If you'd like to get started on restoring normal function to your body after an Epstein-barr diagnosis, you can schedule an appointment using the button below.
 
