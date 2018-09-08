@@ -37,8 +37,8 @@ Each patient came in for menopausal hot flashes, but also has:
 
 1. ###### Chronic clear vaginal discharge, frequent and urgent urination, lots of sweat, coldness, and fatigue
 2. ###### Anxiety, inability to settle down, and very slow moving bowels that are normal form
-3. ###### Unquenchable thirst, dry eczema, and hard painful bowels
-4. ###### Edema and never feels thirsty
+3. ###### Unquenchable thirst, dry eczema, never sweats, and hard painful bowels
+4. ###### Edema, rarely sweats, and never feels thirsty
 
 From a western perspective, each woman would just be diagnosed as having hot flashes due to menopause, and would all be given the same recommendations. And from a modern Chinese medicine perspective, each of these women would likely get a cookie cutter menopause treatment as well.
 
@@ -60,19 +60,21 @@ Her successful treatment involved basically releasing the pressure cooker, calmi
 
 Everything about this patient was dry. She simply didn’t have enough fluids to keep her body cool or to moisten her bowels and skin. So when she hit menopause she had constant overheating. She rarely sweat with her hot flashes or during even intense workouts, because her body lacked the moisture needed to produce sweat. We call this classic “yin deficiency”.
 
-In this case, adding moisture and fluids into her system mainly through herbs, and making sure she was eating enough moistening/enriching foods, resolved her hot flashes as well as her other symptoms. &nbsp;
+In this case, adding moisture and fluids into her system mainly through yin-nourishing herbs, and making sure she was eating enough moistening/enriching foods, resolved her hot flashes as well as her other symptoms. &nbsp;
 
 ###### Patient 4: Excess Fluids being poorly metabolized
 
-This patient is similar to patient #1, in that it was a problem with her body processing its fluids. In this case though her symptoms were being held IN too much, as evidenced by the edema, as opposed to leaking out too much like in the first case. She was never thirsty because her body always felt water logged. Because her fluids were stuck as edema they weren’t able to perform their function of cooling her body, and she would get hot flashes.
+This patient is similar to patient #1, in that it was a problem with her body processing its fluids. In this case though her fluids were being held IN too much -- as evidenced by the edema -- as opposed to leaking out too much like in the first case. She was never thirsty because her body always felt water logged and already had too many pooled fluids in it. Because her fluids were stuck as edema they weren’t able to perform their function of cooling her body, and she would get hot flashes.
 
-Again, by ignoring the menopause as a “cause” for her hot flashes, I instead focused on restoring her body’s ability to absorb its fluids so they would leave her tissues and be accessible elsewhere. Suddenly, she started having a normal thirst, her edema went away, and yes her hot flashes were dramatically improved as well.
+Interestingly enough, although she had a ton of fluids available to produce sweat, since it was locked up in her tissues, she also would not sweat much during hot flashes. It would be a mistake to conclude that she has fluids/yin deficiency like the last patient, and trying to nourish her yin/fluids would just make everything worse.
+
+Again, by ignoring the menopause as a “cause” for her hot flashes, I instead focused on restoring her body’s ability to absorb its fluids so they would leave her tissues and be accessible elsewhere. Suddenly, she started having a normal thirst and sweat, her edema went away, and yes her hot flashes were dramatically improved as well.
 
 ### Do you have these or other symptoms too?
 
 I hope this has been helpful in understanding how I would address your hot flashes.
 
-When we can ignore the obvious “cause” of your hot flashes (menopause) and instead put on our detective hats and look beneath the symptoms for what isn’t functioning correctly instead, then we can resolve it from the core.
+When we can ignore the obvious “cause” of your hot flashes (menopause) and instead put on our detective hats and look beneath the symptoms for what isn’t functioning correctly instead, then we can resolve the issue from the core.
 
 Then, not only do your hot flashes improve, but other symptoms do as well.
 
