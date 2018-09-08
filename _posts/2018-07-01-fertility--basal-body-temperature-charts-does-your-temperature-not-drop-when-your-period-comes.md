@@ -62,7 +62,7 @@ Her blood wasn’t flowing well, so would form into big clots, that wouldn’t l
 
 It is also believed that when we have blood stagnation, all the old blood in our uterus forms layers that block the formation of a good, fresh endometrial lining each month. A properly formed, fresh endometrial lining creates good implantation sites for the embryo.
 
-Blood stagnation is also the root cause behind the many immune factors that contribute to repeated miscarriage, as well as the tendency to form subchorionic hematomas as she did. Discussing either of these problems is beyond the scope of this blog, but soon I’ll be blogging about each of these issues individually.
+Blood stagnation is also the root cause behind the many [immune factors](https://fertilitysolutions.com.au/the-immune-system-and-infertility/){: target="_blank"} that contribute to repeated miscarriage, as well as the tendency to form subchorionic hematomas as she did. Discussing either of these problems is beyond the scope of this blog, but soon I’ll be blogging about each of these issues individually.
 
 ### Her successful acupuncture treatment
 
