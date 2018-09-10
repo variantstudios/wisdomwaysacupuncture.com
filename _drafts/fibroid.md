@@ -2,8 +2,10 @@
 title: Successfully Treat Fibroids with Acupuncture & Herbs
 date:
 categories:
+  - womens-health
 tags:
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+  - fibroids
+hero_image: /assets/images/heroes/acupuncture-fort-collins-fibroid.jpg
 search_engine_optimization:
   page_title:
   page_description:
@@ -11,13 +13,13 @@ search_engine_optimization:
 layout: post
 ---
 
-For fibroids of a certain size, and/or if a gynecologist says the fibroid needs to come out immediately, then Chinese medicine is not an option for treating them.
+For [fibroids](https://www.mayoclinic.org/diseases-conditions/uterine-fibroids/symptoms-causes/syc-20354288){: target="_blank"} of a certain size, and/or if a gynecologist says the fibroid needs to come out immediately, then Chinese medicine is not a treatment option.
 
 However, the most common consensus among acupuncture gynecology specialists is that for fibroids around 3 cm and smaller, there’s a good chance Chinese medicine can successfully shrink them.
 
-Many acupuncturists report successfully treating larger fibroids however; and in fact most of the patients I’ve treated for fibroids have actually had fibroids larger than this.
+Many acupuncturists report successfully treating larger fibroids however; and in fact most of the patients I’ve treated for fibroids have actually had fibroids larger than this. Most small fibroids don't cause symptoms and so women go through life not even knowing they're there.
 
-The most recent case was a woman in her early 30s with a fibroid approx. 6 cm. She was having heavy bleeding, irregular periods, urinary urgency, and abdominal discomfort. Her gynecologist was not worried about the fibroid, but did say if it continued to grow and cause heavier bleeding the only option would be surgery. She advised it was fine to try other options first.
+The most recent case I treated was a woman in her early 30s with a fibroid approx. 6 cm. She was having heavy bleeding, irregular periods, urinary urgency, and abdominal discomfort. Her gynecologist was not worried about the fibroid, but did say if it continued to grow and cause heavier bleeding the only option would be surgery. She advised it was fine to try other options first.
 
 With acupuncture and herbs this patient’s periods normalized and the pain and urine symptoms completely went away. Ultrasound verified that after 2.5 months of treatment, the fibroid had dramatically shrunk.
 
@@ -27,7 +29,7 @@ If your doctor says your fibroid either doesn’t need to be removed immediately
 
 ### My gynecology training
 
-Because some acupuncturists have been taught differently than me and/or have not had success shrinking fibroids, there’s a common misunderstanding among some acupuncturists that surgery is the only option for fibroids.
+Because due to differences in training and experience, some acupuncturists tell people that acupuncture and herbs can't ever shrink fibroids and that the only option is surgery.
 
 So in case you’ve been told that from another acupuncturist, I want to lend credence to my what I’m writing here by giving a little background of my experience with fibroids.
 
