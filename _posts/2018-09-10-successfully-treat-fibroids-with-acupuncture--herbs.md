@@ -1,6 +1,6 @@
 ---
 title: Successfully Treat Fibroids with Acupuncture & Herbs
-date:
+date: 2018-09-10 20:08:10
 categories:
   - womens-health
 tags:
@@ -46,7 +46,7 @@ My education continued when I lived in China for a stint to do clinical internsh
 
 Women were able to get another U/S before each visit, and so as we’d see these women return week after week, we’d see the evidence with our very own eyes of what the treatment was doing.
 
-Sure enough, as the weeks progressed we’d see the fibroids shrinking. &nbsp;This was so common that I came back to the states assured that Chinese medicine can successfully treat fibroids with no doubt in my mind.
+Sure enough, as the weeks progressed we’d see the fibroids shrinking.  This was so common that I came back to the states assured that Chinese medicine can successfully treat fibroids with no doubt in my mind.
 
 Once home my own clinical experience began to match what I witnessed in China.
 
@@ -72,11 +72,11 @@ Old Chinese Medicine looks like “there’s an underlying imbalance that’s CA
 
 However, more and more acupuncture schools aren't teaching students how to do this complex form of diagnosis, so modern Chinese medicine unfortunately looks more like “this is the disease, and this is the herbal formula to treat it”.
 
-So, there’s a few “fibroid” formulas, and “crampy period” formulas, etc.&nbsp; Each fibroid patient will get a cookie cutter treatment for "fibroids".
+So, there’s a few “fibroid” formulas, and “crampy period” formulas, etc.  Each fibroid patient will get a cookie cutter treatment for "fibroids".
 
 But this doesn’t work.
 
-And if an acupuncturist uses the medicine this way, which is unfortunately becoming more and more common, then the medicine is going to continue to be less and less powerful.&nbsp; There seems to be a growing list of conditions that I notice my colleagues think are “too much” for us to treat -- conditions that many of us treat every day.
+And if an acupuncturist uses the medicine this way, which is unfortunately becoming more and more common, then the medicine is going to continue to be less and less powerful.  There seems to be a growing list of conditions that I notice my colleagues think are “too much” for us to treat – conditions that many of us treat every day.
 
 ## Do acupuncture and herbs work every time for small fibroids?
 
