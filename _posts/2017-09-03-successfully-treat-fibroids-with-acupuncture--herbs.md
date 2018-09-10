@@ -82,7 +82,7 @@ And if an acupuncturist uses the medicine this way, which is unfortunately becom
 
 I’m certainly not saying that EVERY case of fibroids I’ve ever treated has been successful. I’ve definitely had a few cases where it hasn’t worked.
 
-But still in those cases, many of the women’s other symptoms went away, such as fatigue, insomnia, anxiety, hot flashes, etc. So the treatment was still very beneficial, and the women were set up to go through their surgery in much better health and with less stress.
+But still in those cases, many of the other symptoms the women had went away; such as fatigue, insomnia, anxiety, hot flashes, etc. So the treatment was still very beneficial, and the women were set up to go through their surgery in much better health and with less stress.
 
 If you’ve been diagnosed with fibroids and your gynecologist has told you surgery isn’t immediately necessary, and you’d like to try an approach that has prevented surgery for many other woman, you can schedule an appointment now.
 
