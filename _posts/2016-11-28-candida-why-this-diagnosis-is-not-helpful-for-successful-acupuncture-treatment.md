@@ -2,12 +2,11 @@
 title: >-
   Candida: Why this Diagnosis is not Helpful For Successful Acupuncture
   Treatment
-date: 2018-11-28 00:00:00
+date: 2016-11-28 00:00:00
 categories:
   - chronic--opportunistic-infections
   - my-approach--philosophy-and-stories
 tags:
-  - candida
 hero_image:
 search_engine_optimization:
   page_title: Are you ready for a new approach to your candida?
@@ -82,7 +81,7 @@ If you’ve tried other treatments yet still worry about candida, then Chinese m
 
 At your first visit we’ll discuss all your symptoms and find out what the underlying cause is that’s allowed candida to grow excessively. Whether it’s candida or not, by addressing the root cause UNDER the candida overgrowth, I find this approach to be much more effective. It's also much more gentle on the body than trying to constantly kill stuff.
 
-To schedule an appointment to start working on your candida diagnosis, use the button below. &nbsp;
+To schedule an appointment to start working on your candida diagnosis, use the button below.  
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
