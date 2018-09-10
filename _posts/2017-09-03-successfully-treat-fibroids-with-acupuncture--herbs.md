@@ -1,6 +1,6 @@
 ---
 title: Successfully Treat Fibroids with Acupuncture & Herbs
-date: 2018-09-10 20:08:10
+date: 2017-09-03 20:08:00
 categories:
   - womens-health
 tags:
