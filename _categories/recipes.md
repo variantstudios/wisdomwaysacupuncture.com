@@ -14,4 +14,4 @@ search_engine_optimization:
     recipes help that effort!
 ---
 
-##### These recipes comprise some of my “triumph” moments in my food journey. Those surprise discoveries that make eating healthy a whole lot more fun and easy. While some are paleo, other posts are from before my paleo days. They’ll still provide great tips for yummy medicinal recipes!
+##### These recipes comprise some of my “triumph” moments on my food journey -- those surprise discoveries that make eating healthy a whole lot more fun and easy. While some are paleo, other posts are from before my paleo days. They’ll still provide great tips for yummy medicinal recipes!
