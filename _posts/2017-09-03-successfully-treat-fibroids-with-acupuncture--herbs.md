@@ -18,7 +18,7 @@ For [fibroids](https://www.mayoclinic.org/diseases-conditions/uterine-fibroids/s
 
 But the most common consensus among acupuncture gynecology specialists is that for fibroids around 3 cm and smaller, there’s a good chance Chinese medicine can successfully shrink them.
 
-Many acupuncturists actually report successfully treating larger fibroids; and in fact most of the patients I’ve treated for fibroids have actually had masses larger than this. Many small fibroids don’t cause symptoms and so women go through life not even knowing they’re there.
+Many acupuncturists actually report successfully treating larger fibroids; and in fact most of the patients I’ve treated for fibroids have actually had masses larger than this.
 
 The most recent case I treated was a woman in her early 30s with a fibroid approx. 6 cm. She was having heavy bleeding, irregular periods, urinary urgency, and abdominal discomfort. Her gynecologist was not worried about the fibroid, but did say if it continued to grow and cause heavier bleeding the next step would be surgery. She advised it was fine to try other options first.
 
