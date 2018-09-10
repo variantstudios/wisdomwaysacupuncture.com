@@ -66,7 +66,7 @@ Chinese medicine has undergone radical changes in the last century, which have t
 
 But the summary is that they’re trying to fit a square peg into a round hole.
 
-Modern medicine looks like “this is the disease, and this is the treatment/s for this disease”. Everyone with the disease is seen as the same patient, and they all pretty much get the same treatments.
+Western medicine looks like “this is the disease, and this is the treatment/s for this disease”. Everyone with the disease is seen as the same patient, and they all pretty much get the same treatments.
 
 Old Chinese Medicine looks like “there’s an underlying imbalance that’s CAUSING the disease, which shows up in infinitely unique ways in each patient. THAT’S what we’re treating, so despite what their disease name is, to successfully treat the patient’s disease you need to know how to diagnose and treat the underlying imbalance”.
 
