@@ -22,7 +22,7 @@ While period issues are some of the most common gynecological problems we treat,
 
 ### Gynecology treatment in the US vs. China
 
-Unfortunately, Chinese medicine is not used in the US for gynecological issues anywhere near to the extent that it's able. While studying advanced gynecology in China, I saw it used extensively for issues that in the US we would think of as “too severe” for Chinese medicine; such as fibroids/masses (up to a certain size), endometriosis, and heavy bleeding.
+Unfortunately, Chinese medicine is not used in the US for gynecological issues anywhere near to the extent that it’s able. While studying advanced gynecology in China, I saw it used extensively for issues that in the US we would think of as “too severe” for Chinese medicine; such as [fibroids/masses](/2017/09/03/successfully-treat-fibroids-with-acupuncture-herbs/){: target="_blank"} (up to a certain size), [endometriosis](/2018/05/08/study-acupuncture-effective-for-endometriosis-study-results-and-clinical-experience/){: target="_blank"}, and heavy bleeding.
 
 Chinese medicine is the primary course of treatment in these cases all over China, and using it on my patients with these issues has garnered the same results. Many women have been able to avoid surgeries and other procedures meant to alleviate the above-mentioned, and other menstrual/reproductive related issues.
 
