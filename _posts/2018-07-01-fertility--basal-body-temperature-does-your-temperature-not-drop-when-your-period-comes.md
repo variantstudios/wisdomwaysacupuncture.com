@@ -1,16 +1,15 @@
 ---
 title: >-
-  Fertility & Basal Body Temperature Charts: Does YOUR Temperature not Drop when
-  your Period Comes?
+  Fertility & Basal Body Temperature: Does Your Temperature not Drop when your
+  Period Comes?
 date: 2018-07-01 00:00:00
 categories:
   - fertility
   - womens-health
 tags:
   - fertility
+  - infertility
   - basal body temperature
-  - BBT
-  - miscarriage
 hero_image: /assets/images/fertility-acupuncture-fort-collins-BBT.jpg
 search_engine_optimization:
   page_title: >-
@@ -37,7 +36,7 @@ In an ideal situation, right when your period comes, your temperature should sho
 
 If it doesn’t drop, it could potentially mean that you’re having issues with “blood stagnation”.
 
-When blood leaves with the onset of menstruation, heat is discharged with it, and your temperature therefore drops. &nbsp;(Western physiology has a different explanation, involving dropping progesterone levels. This is also true, but not clinically relevant to resolving the problem discussed in this post)
+When blood leaves with the onset of menstruation, heat is discharged with it, and your temperature therefore drops.  (Western physiology has a different explanation, involving dropping progesterone levels. This is also true, but not clinically relevant to resolving the problem discussed in this post)
 
 Cases where the temperature stays up almost always have a problem with the blood not being released well. This results in symptoms, signs, or problems such as:
 
@@ -48,7 +47,7 @@ Cases where the temperature stays up almost always have a problem with the blood
 
 #### I’ll use a recent patient as an example, since she’s so typical for Blood Stagnation and had all of the above problems.
 
-This patient had tried getting pregnant for 2 years. She had regular periods and her OPKs showed ovulation at the correct time. She was in good health and had barely any symptoms except crampy periods and some headaches around her period time.&nbsp;
+This patient had tried getting pregnant for 2 years. She had regular periods and her OPKs showed ovulation at the correct time. She was in good health and had barely any symptoms except crampy periods and some headaches around her period time. 
 
 She finally got pregnant, only to lose the pregnancy at week 5. Six months later she got pregnant again, but had a [subchorionic hematoma](https://emedicine.medscape.com/article/404971-overview){: target="_blank"} and lost this pregnancy as well at week 8.
 
@@ -56,7 +55,7 @@ That’s when she came to me.
 
 Consultation revealed that she’d always had big dark clots in her blood that were dark purple to black in color. I advised her to start taking her BBTs, and sure enough, when her period came, she didn’t have a temperature drop until day 3, the day when her blood would start flowing more clear red and liquidy and the clots and cramps were mostly gone.
 
-#### Blood Stagnation and why it creates fertility problems&nbsp;
+#### Blood Stagnation and why it creates fertility problems 
 
 Her blood wasn’t flowing well, so would form into big clots, that wouldn’t leave her uterus easily. In an attempt to get the stuck blood out her uterus had to tighten up/spasm, which brought on the cramps.
 
@@ -70,7 +69,7 @@ Because this patient didn’t really have problems anywhere else in her cycle, w
 
 I also started her on herbs immediately.
 
-The first full cycle after starting treatment, her cramps dramatically improved, but&nbsp; her temperature stayed high, and her blood quality was the same.
+The first full cycle after starting treatment, her cramps dramatically improved, but  her temperature stayed high, and her blood quality was the same.
 
 The next period came with the typical increase in dark chunky clots being released, along with increased cramping. I warn almost all my patients that it’s typically inevitable that they’ll have one horrible cycle, with ugly big chunks being released from the uterus and worse cramps as the uterus struggled to dislodge all that accumulated old blood. Her temperature still didn’t fall with the onset of her cramping again this month.
 
