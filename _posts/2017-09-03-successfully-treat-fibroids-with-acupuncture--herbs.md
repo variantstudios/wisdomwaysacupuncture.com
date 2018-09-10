@@ -16,9 +16,9 @@ layout: post
 
 For [fibroids](https://www.mayoclinic.org/diseases-conditions/uterine-fibroids/symptoms-causes/syc-20354288){: target="_blank"} of a certain size, and/or if a gynecologist says the fibroid needs to come out immediately, then Chinese medicine is not a treatment option.
 
-However, the most common consensus among acupuncture gynecology specialists is that for fibroids around 3 cm and smaller, there’s a good chance Chinese medicine can successfully shrink them.
+But the most common consensus among acupuncture gynecology specialists is that for fibroids around 3 cm and smaller, there’s a good chance Chinese medicine can successfully shrink them.
 
-Many acupuncturists actually report successfully treating larger fibroids; and in fact most of the patients I’ve treated for fibroids have actually had masses larger than this. Many small fibroids don't cause symptoms and so women go through life not even knowing they're there.
+Many acupuncturists actually report successfully treating larger fibroids; and in fact most of the patients I’ve treated for fibroids have actually had masses larger than this. Many small fibroids don’t cause symptoms and so women go through life not even knowing they’re there.
 
 The most recent case I treated was a woman in her early 30s with a fibroid approx. 6 cm. She was having heavy bleeding, irregular periods, urinary urgency, and abdominal discomfort. Her gynecologist was not worried about the fibroid, but did say if it continued to grow and cause heavier bleeding the next step would be surgery. She advised it was fine to try other options first.
 
@@ -30,7 +30,7 @@ If your doctor says your fibroid either doesn’t need to be removed immediately
 
 ### My gynecology training
 
-Due to differences in training and experience, some acupuncturists tell people that acupuncture and herbs can't ever shrink fibroids and that the only option is surgery.
+Due to differences in training and experience, some acupuncturists tell people that acupuncture and herbs can’t ever shrink fibroids and that the only option is surgery.
 
 So in case you’ve been told that from another acupuncturist, I want to lend credence to my what I’m writing here by giving a little background of my experience with fibroids.
 
@@ -60,7 +60,7 @@ For the past few years I’ve been studying under a Classical Chinese medicine t
 
 ## Why don’t all acupuncturists have success with treating fibroids?
 
-While I can't speak to what other people are doing in their own clinics, I can speak to Chinese medicine in general and the different ways it's practiced.
+While I can’t speak to what other people are doing in their own clinics, I can speak to Chinese medicine in general and the different ways it’s practiced.
 
 Chinese medicine has undergone radical changes in the last century, which has tried to fit it into the western model of medicine. You can read more about that in my [Classical Medicine](/2018/01/01/classical-chinese-medicine-8211-what-it-is-why-it-matters-and-why-i8217m-moving-towards-it-in-my-practice/) post.
 
@@ -70,9 +70,9 @@ Modern medicine looks like “this is the disease, and this is the treatment/s f
 
 Old Chinese Medicine looks like “there’s an underlying imbalance that’s CAUSING the disease, which shows up in infinitely unique ways in each patient. THAT’S what we’re treating, so despite what their disease name is, to successfully treat the patient’s disease you need to know how to diagnose and treat the underlying imbalance”.
 
-However, more and more acupuncture schools aren't teaching students how to do this complex form of diagnosis, so modern Chinese medicine unfortunately looks more like “this is the disease, and this is the herbal formula to treat it”.
+However, more and more acupuncture schools aren’t teaching students how to do this complex form of diagnosis, so modern Chinese medicine unfortunately looks more like “this is the disease, and this is the herbal formula to treat it”.
 
-So, there’s a few “fibroid” formulas, and “crampy period” formulas, etc.&nbsp; Each fibroid patient will get a cookie cutter treatment for "fibroids".
+So, there’s a few “fibroid” formulas, and “crampy period” formulas, etc.&nbsp; Each fibroid patient will get a cookie cutter treatment for “fibroids”.
 
 But this doesn’t work.
 
@@ -80,7 +80,7 @@ And if an acupuncturist uses the medicine this way, which is unfortunately becom
 
 ## Do acupuncture and herbs work every time for small fibroids?
 
-I’m certainly not saying that EVERY case of fibroids I’ve ever treated has been successful. I've definitely had a few cases where it hasn't worked.
+I’m certainly not saying that EVERY case of fibroids I’ve ever treated has been successful. I’ve definitely had a few cases where it hasn’t worked.
 
 But still in those cases, many of the women’s other symptoms went away, such as fatigue, insomnia, anxiety, hot flashes, etc. So the treatment was still very beneficial, and the women were set up to go through their surgery in much better health and with less stress.
 
