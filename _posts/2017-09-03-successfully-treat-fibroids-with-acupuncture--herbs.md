@@ -56,7 +56,7 @@ I then went on to study advanced gynecology under Bob Flaws, who is well known f
 
 #### Current advanced studies
 
-For the past few years I’ve been studying under a Classical Chinese medicine teacher. She passes down the strong lineage in Chinese medicine of successful treatment of fibroids, and translates Chinese medical literature as well. Many case studies are listed in translated medical literature for us all to learn from, where fibroids much larger than 3cm are successfully shrunk.
+For the past few years I’ve been studying under a Classical Chinese medicine teacher. She passes down the strong lineage in Chinese medicine of successful treatment of fibroids, and translates Chinese medical literature as well. Many case studies are listed in translated medical texts for us all to learn from, where fibroids much larger than 3cm are successfully shrunk.
 
 ## Why don’t all acupuncturists have success with treating fibroids?
 
