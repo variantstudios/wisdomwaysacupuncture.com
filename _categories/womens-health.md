@@ -17,4 +17,4 @@ search_engine_optimization:
 
 ##### If you’re wondering if Chinese medicine can help you with your Women’s Health and/or fertility problems, then spend some time in this blog category to learn more about how I approach the treatment of many of these issues.
 
-##### These blogs cover topics such as: clinical success stories related to women’s health, acupuncture studies showing how beneficial Chinese medicine can be for these issues, my personal approach to treating women’s health and fertility, and more! Visit [Fertility](/blog/category/fertility/) page for posts ONLY on that topic.
+##### These blogs cover topics such as: my personal approach to treating women’s health and fertility, clinical success stories related to women’s health, acupuncture studies showing how beneficial Chinese medicine can be for these issues, and more! Visit [Fertility](/blog/category/fertility/) blog page for posts ONLY on that topic.
