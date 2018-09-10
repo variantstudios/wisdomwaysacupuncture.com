@@ -62,7 +62,7 @@ For the past few years I’ve been studying under a Classical Chinese medicine t
 
 While I can’t speak to what other people are doing in their own clinics, I can speak to Chinese medicine in general and the different ways it’s practiced.
 
-Chinese medicine has undergone radical changes in the last century, which has tried to fit it into the western model of medicine. You can read more about that in my [Classical Medicine](/2018/01/01/classical-chinese-medicine-8211-what-it-is-why-it-matters-and-why-i8217m-moving-towards-it-in-my-practice/) post.
+Chinese medicine has undergone radical changes in the last century, which have tried to fit it into the western model of medicine. You can read more about that in my [Classical Medicine](/2018/01/01/classical-chinese-medicine-8211-what-it-is-why-it-matters-and-why-i8217m-moving-towards-it-in-my-practice/) post.
 
 But the summary is that they’re trying to fit a square peg into a round hole.
 
