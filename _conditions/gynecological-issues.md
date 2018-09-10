@@ -14,7 +14,7 @@ search_engine_optimization:
   share_image_path:
 ---
 
-If you're my patient, then regardless of what you're coming in for, I will always ask how your cycle is or was. This gives us great insight into what imbalances are lurking inside.
+If you’re my patient, then regardless of what you’re coming in for, I will always ask how your cycle is or was. This gives us great insight into what imbalances are lurking inside.
 
 The timing, color, and texture of your bleeding gives us huge clues to solve the riddle of your menstrual and other problems; as do any PMS symptoms or discomfort you experience.
 
@@ -22,7 +22,7 @@ While period issues are some of the most common gynecological problems we treat,
 
 ### Gynecology treatment in the US vs. China
 
-Unfortunately, Chinese medicine is not used in the US for gynecological issues anywhere near to the extent that it is able. While studying advanced gynecology in China, I saw it used extensively for issues that in the US we would think of as “too severe” for Chinese medicine; such as fibroids/masses (up to a certain size), endometriosis, and heavy bleeding.
+Unfortunately, Chinese medicine is not used in the US for gynecological issues anywhere near to the extent that it's able. While studying advanced gynecology in China, I saw it used extensively for issues that in the US we would think of as “too severe” for Chinese medicine; such as fibroids/masses (up to a certain size), endometriosis, and heavy bleeding.
 
 Chinese medicine is the primary course of treatment in these cases all over China, and using it on my patients with these issues has garnered the same results. Many women have been able to avoid surgeries and other procedures meant to alleviate the above-mentioned, and other menstrual/reproductive related issues.
 
