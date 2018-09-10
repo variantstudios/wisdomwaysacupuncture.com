@@ -6,7 +6,7 @@ popular_blog_topics:
   popular_image: /assets/images/conditions/womens-health.jpg
   order: 9
 post:
-hero_image: /assets/images/womens-health-acupuncture-hero2.jpg
+hero_image: /assets/images/acupuncture-fort-collins-womens-health.jpg
 search_engine_optimization:
   page_title: Acupuncture for Women's Health
   page_description: >-
