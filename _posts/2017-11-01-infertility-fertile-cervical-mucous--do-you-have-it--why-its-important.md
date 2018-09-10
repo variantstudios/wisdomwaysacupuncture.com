@@ -85,7 +85,7 @@ Usually if there’s not good fertile mucous, it’s because of underlying issue
 
 Luckily, except in very particular cases, Chinese medicine has the tools to address and fix those problems. Acupuncture treatments timed at specific phases throughout your cycle, along with herbs, successfully resolves many fertility related problems.
 
-If you’ve been struggling with infertility, we’d address your cervical mucous, as well as take a very detailed look at your entire cycle to detect all the areas where we can focus our work to help you get pregnant.&nbsp;
+If you’ve been struggling with infertility, we’d address your cervical mucous, as well as take a very detailed look at your entire cycle to detect all the areas where we can focus our work to help you get pregnant. 
 
 If you’d like to schedule an appointment, you can do that now using the button below.
 
