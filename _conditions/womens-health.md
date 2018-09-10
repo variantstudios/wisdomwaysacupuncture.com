@@ -14,10 +14,12 @@ search_engine_optimization:
   share_image_path:
 ---
 
-Whether you’re a young woman suffering from irregular or painful periods, a more mature one who is transitioning into or through menopause, or dealing with any gynecology problem; we can help!
+Whether you’re a young woman struggling with fertility, suffering from irregular or painful periods, or a more mature one who is transitioning into or through menopause; or just dealing with any gynecology problem; we can help!
 
 Being that women’s health is one of my specialties, I work with it extensively and each problem deserves its own page to explain in more detail how I work with it in my acupuncture clinic.
 
 To see these specific details on some of the common issues I treat, scroll over the individual tabs under “Women’s Health”.
 
 Although not listed on the tabs, we also commonly treat: endometriosis, abnormal discharges, fibroids, vaginal infections, itching/burning, pelvic pain, urinary symptoms, and more!
+
+Check out my[ Women's Health blog category](/blog/category/womens-health/) for blog topics on these topics, which illustrate how I approach various women's health issues, including fertility.
