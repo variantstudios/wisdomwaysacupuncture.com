@@ -16,7 +16,7 @@ permalink: /make-an-appointment/
 *Please note we are only accepting new patients whose issues are within Inger’s area of specialty. If you’re unsure if you’re a good fit, please call rather than using the online scheduler.*
 {: .error_message}
 
-#### **Schedule an Acupuncture Appointment:**[Online Scheduling](https://instant-scheduling.com/sch.php?kn=184475){: target="_blank"}
+#### **Schedule an Acupuncture Appointment:**[ Online Scheduling](https://instant-scheduling.com/sch.php?kn=184475){: target="_blank"}
 
 #### **Or call:** [(970) 227-3077](tel://+19702273077)
 
