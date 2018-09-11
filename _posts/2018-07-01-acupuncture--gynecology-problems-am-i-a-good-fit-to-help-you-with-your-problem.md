@@ -31,7 +31,7 @@ We’ve got:
 * any other symptoms that happen at repeated intervals during our cycle
 * menopause, when our natural rhythms often go completely haywire
 
-Our menstrual and hormone cycles absolutely lend a level of intense complexity to the picture when treating female patients. On top of everything, these factors need to be considered even if a women is coming in for something “totally unrelated”, like digestive issues or fatigue!
+Our menstrual and hormone cycles absolutely lend a level of intense complexity to the picture when treating female patients. On top of everything, these factors need to be considered even if a woman is coming in for something “totally unrelated”, like digestive issues or fatigue!
 
 ### Treatment constantly changes
 
