@@ -32,9 +32,9 @@ I’ll get back to that later, but first, I want to go over 2 types of Factors t
 
 ## Genetic and Immune Factors and why they’re important to fertility
 
- 
+&nbsp;
 
-#### Genetic Factors/thrombophelias
+#### [Genetic Factors/thrombophelias](https://www.newyorkfertilityservices.com/causes-of-infertility/recurrent-miscarriage/clotting-disorders-recurrent-miscarriage/){: target="_blank"}
 
 * Prothrombin
 * MTHFR hypercysteinemia
@@ -47,10 +47,11 @@ I’ll get back to that later, but first, I want to go over 2 types of Factors t
 * Antinuclear antibodies
 * Natural Killer Cells
 * Cytotoxic B cells
+* Blocking antibodies
 
 I could devote numerous long blogs to each one of these factors, but since google has a wealth of information on each topic, for this post I’ll just list some of the ways these factors impair fertility, then I’ll move to how we treat it in the clinic.
 
-### The summary of the result is that these factors interfere with blood flow
+### The summary is that these factors interfere with blood flow
 
 They:
 
@@ -61,7 +62,7 @@ They:
 
 ### How do we address this with acupuncture and herbs?
 
-As I mentioned before, “Blood Stagnation” or “blood stasis” are issues acupuncturists work with every day. Even without tests to alert us to issues with blood stagnation, the body gives us a wealth of signs and symptoms to tell us that we need to help this problem.
+As I mentioned before, “Blood Stagnation”/“blood stasis” is an issue acupuncturists work with every day. Even without western tests to alert us to issues with clotting factors, the body gives us a wealth of signs and symptoms to tell us that we need to help this problem.
 
 Women with blood flow issues often have these common symptoms:
 
@@ -71,6 +72,8 @@ Women with blood flow issues often have these common symptoms:
 * They might be prone to moles or other skin discolorations
 * Their tongue diagnosis will reveal a purplish hue, and there might be dark dots on it
 * Their Basal Body Temperature ([BBT) often doesn’t drop right when their period arrives.](/2018/07/01/fertility-basal-body-temperature-does-your-temperature-not-drop-when-your-period-comes/)
+
+How I work with blood stasis
 
 If I ever see a fertility patient with these issues, and especially if she’s already had 1 or more miscarriages, I STRONGLY caution her against trying to get pregnant until these signs and symptoms have improved. The chances of miscarrying again are extremely high unless these issues are corrected.
 
