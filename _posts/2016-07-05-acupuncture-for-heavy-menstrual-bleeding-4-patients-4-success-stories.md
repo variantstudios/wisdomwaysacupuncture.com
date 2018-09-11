@@ -1,6 +1,6 @@
 ---
 title: 'Acupuncture for Heavy Menstrual Bleeding: 4 Patients, 4 Success Stories'
-date: 2013-07-05 00:00:00
+date: 2016-07-05 00:00:00
 categories:
   - womens-health
   - success-stories-from-the-clinic-before-and-after-patient-cases
@@ -82,7 +82,7 @@ This was a classic “Spleen” Qi Deficiency case. (ignore the spleen part, it 
 
 All the loss of blood resulted in blood deficiency also (think of anemia – not an exact correlation but anemia is one example of blood deficiency), so she had the dry skin and hair.
 
-By boosting her qi and nourishing her blood, her bleeding normalized and her blood deficiency symptoms showed signs of improvement. Nourishing blood and boosting qi isn’t an overnight process, so we’re keeping her on herbs to continue working on her energy as well as skin/hair. &nbsp;4 months into treatment her energy is about 75% better, so we’re hoping to get it to 100% with a couple more months of herbal treatment.
+By boosting her qi and nourishing her blood, her bleeding normalized and her blood deficiency symptoms showed signs of improvement. Nourishing blood and boosting qi isn’t an overnight process, so we’re keeping her on herbs to continue working on her energy as well as skin/hair.  4 months into treatment her energy is about 75% better, so we’re hoping to get it to 100% with a couple more months of herbal treatment.
 
 ##### Patient #4
 
