@@ -58,5 +58,10 @@ A woman who would have had much poorer egg quality before treatment is now poise
 
 Acupuncture and Chinese herbs not only help with successful results, but with the stress and anxiety that go along with this delicate health issue.&nbsp; And because it helps to actually resolve the underlying causes of the infertility as opposed to just circumnavigating them, the prospective mother is poised to be at her best when the little one does come along, instead of being frazzled and unbalanced from invasive and stressful procedures.
 
+![](/assets/images/icons/acupuncture-in-fort-collins-blog.jpg){: .left-inline}Check out my [Fertility blog page](/blog/category/fertility/), which illustrates how I approach natural fertility and how Chinese medicine helps.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
+
 \*\*Please note: While IVF is an amazing option for women and studies show that combining it with Chinese medicine can increase success rates, where my work and continued training is focused is on helping women get pregnant naturally. The goals and methods of treatment for a woman undergoing IVF treatment differ quite greatly from the work that’s done in working to get pregnant naturally; therefore if you’re looking to start treatment while planning to also start ART, we’ll refer out.
 {: .error_message}
