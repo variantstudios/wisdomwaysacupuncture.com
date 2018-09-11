@@ -3,6 +3,7 @@ title: >-
   Late-Summer Season/Earth Element of Acupuncture VIDEO: Receiving and Nurturing
   for Yourself and Others
 date: 2017-09-09 15:37:00
+categories:
 tags:
   - five-elements
   - earth element
