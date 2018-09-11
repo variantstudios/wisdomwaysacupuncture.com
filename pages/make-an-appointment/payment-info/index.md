@@ -1,28 +1,19 @@
 ---
-title: "Payment Info page"
-hero_image: '/assets/images/heroes/sub-page-hero-example.jpg'
+title: Payment Information - Wisdom Ways Acupuncture
+hero_image: /assets/images/heroes/sub-page-hero-example.jpg
 search_engine_optimization:
-  page_title: "Payment Info - WisdomWays Acupuncture"
-  page_description:
+  page_title: Payment Information - WisdomWays Acupuncture
+  page_description: Payment information for Wisdom Ways Acupuncture in Fort Collins
   share_image_path:
 layout: page
-permalink: "/make-an-appointment/payment-info/"
+permalink: /make-an-appointment/payment-info/
 ---
 
 # Payment Info
 
-There are a variety of treatment plans and packages to fit your needs, and in the end your wellness goals will decide which plan is right for you.
+At your initial appointment, during your consultation I'll go over your diagnosis and treatment options with you, and together we will come up with a treatment plan that best fits your needs.
 
-Are your goals to:
-
-* simply alleviate symptoms?
-* move past “coping” or symptom-alleviation and into high levels of wellness and thriving?
-
-Would you like nutritional guidance and individualized food recommendations as well, based on both your western & Chinese medicine diagnosis? &nbsp;
-
-Either way, Chinese Medicine can take you where you want to go.
-
-At your initial treatment, I will go over your diagnosis and options with you, and together we will come up with a treatment plan that best fits your needs.
+There are three types of payment options, each listed below.
 
 ### Self-Pay (non insurance) Patients:
 
@@ -43,7 +34,9 @@ Please call or email to find out the costs for individual treatments and treatme
 
 ### Insurance Patients:
 
-We are happy to bill your insurance company for you! &nbsp;If you would like your insurance billed, you simply need to print out the following Acupuncture Insurance Verification and Financial Agreement , then call your insurance to get the answers to the questions on the form so you can arrive with it fully completed at your first visit, your coverage verified and understanding what it includes.
+Your fees are based on your personal contracted rate with your insurance company.
+
+We are happy to bill your insurance company for you -- if you would like your insurance billed at your first visit, you simply need to print out the [Acupuncture Insurance Verification and Financial Agreement](/INSURANCE VERIFICATION &amp; FINANCIAL AGREEMENT.2018.docx), then call your insurance to get the answers to the questions on the form so you can arrive with it fully completed at your first visit, your coverage verified and understanding what it includes.
 
 **IT IS THE PATIENT’S RESPONSIBILITY TO UNDERSTAND WHAT THEIR INSURANCE DOES AND DOES NOT COVER BEFORE THEIR VISIT.** While we can't guarantee that this form with cover all the various exclusions insurance companies may have, filing out this form does help prevent unexpected surprises or payments due at time of service.
 
