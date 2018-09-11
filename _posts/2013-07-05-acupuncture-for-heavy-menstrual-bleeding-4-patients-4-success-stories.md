@@ -1,14 +1,10 @@
 ---
 title: 'Acupuncture for Heavy Menstrual Bleeding: 4 Patients, 4 Success Stories'
-date: 2015-02-05 00:00:00
+date: 2013-07-05 00:00:00
 categories:
   - womens-health
   - success-stories-from-the-clinic-before-and-after-patient-cases
 tags:
-  - gynecology
-  - heavy bleeding
-  - irregular periods
-  - hormone imbalance
 hero_image:
 search_engine_optimization:
   page_title: Acupuncture in Fort Collins for Heavy Menstrual Bleeding
@@ -64,7 +60,7 @@ I’m giving 4 examples in this blog of recent/current patients of mine who all 
 
 This woman’s diagnosis was excess cold in the uterus with yang (warmth) deficiency. Cold causes our qi and blood to get blocked, which can cause the most extreme pain there is. It’s like our uterus becomes like an ice block, and nothing can move. Which can seem contradictory because her blood was certainly moving too much.
 
-The problem started after she’d done the Tough Mudder race where she swam through their Arctic Plunge obstacle and then never warmed up the entire rest of race, despite the intense physical exercise. She tends to run on the cold side anyway so it was like this put her over the edge, turning cold into ice.
+The problem started after she’d done the Tough Mudder race where she swam through their Polar Plunge obstacle and then never warmed up the entire rest of race, despite the intense physical exercise. She tends to run on the cold side anyway so it was like this put her over the edge, turning cold into ice.
 
 By warming her up, the stagnant blood causing the pain was able to release, massively decreasing her menstrual pain. Because her cold was due to yang deficiency, it was like her body lacked the energy to both warm her up, and hold in her blood so it didn’t leak out profusely.
 
@@ -86,7 +82,7 @@ This was a classic “Spleen” Qi Deficiency case. (ignore the spleen part, it 
 
 All the loss of blood resulted in blood deficiency also (think of anemia – not an exact correlation but anemia is one example of blood deficiency), so she had the dry skin and hair.
 
-By boosting her qi and nourishing her blood, her bleeding normalized and her blood deficiency symptoms showed signs of improvement. Nourishing blood and boosting qi isn’t an overnight process, so we’re keeping her on herbs to continue working on her energy as well as skin/hair.  4 months into treatment her energy is about 75% better, so we’re hoping to get it to 100% with a couple more months of herbal treatment.
+By boosting her qi and nourishing her blood, her bleeding normalized and her blood deficiency symptoms showed signs of improvement. Nourishing blood and boosting qi isn’t an overnight process, so we’re keeping her on herbs to continue working on her energy as well as skin/hair. &nbsp;4 months into treatment her energy is about 75% better, so we’re hoping to get it to 100% with a couple more months of herbal treatment.
 
 ##### Patient #4
 
