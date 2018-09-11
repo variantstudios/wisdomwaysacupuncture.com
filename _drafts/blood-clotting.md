@@ -51,7 +51,7 @@ I’ll get back to that later, but first, I want to go over 2 types of Factors t
 
 I could devote numerous long blogs to each one of these factors, but since google has a wealth of information on each topic, for this post I’ll just list some of the ways these factors impair fertility, then I’ll move to how we treat it in the clinic.
 
-### The summary is that these factors interfere with blood flow
+### The summary is that these factors interfere with blood flow, increasing miscarriage risk
 
 They:
 
@@ -73,32 +73,28 @@ Women with blood flow issues often have these common symptoms:
 * Their tongue diagnosis will reveal a purplish hue, and there might be dark dots on it
 * Their Basal Body Temperature ([BBT) often doesn’t drop right when their period arrives.](/2018/07/01/fertility-basal-body-temperature-does-your-temperature-not-drop-when-your-period-comes/)
 
-How I work with blood stasis
+### How I work with miscarriage in fertility treatment
 
-If I ever see a fertility patient with these issues, and especially if she’s already had 1 or more miscarriages, I STRONGLY caution her against trying to get pregnant until these signs and symptoms have improved. The chances of miscarrying again are extremely high unless these issues are corrected.
+If I ever see a fertility patient with these symptoms/signs, and especially if she’s already had miscarriages, I STRONGLY caution her against trying to get pregnant until these signs and symptoms have improved. The chances of miscarrying again are extremely high unless these issues are corrected.
+
+Unless she receives treatment to correct the blood stasis, each time a woman miscarries due to immune factors her chance of miscarrying again increases exponentially.
 
 ##### Rates of miscarriages caused by Immune Factors WITHOUT TREATMENT
 {: .align-to-center}
 
 <table><tbody><tr><td>After:</td><td><h6>Chance of having live birth</h6></td></tr><tr><td class="align-to-center">3 miscarriages</td><td>30%</td></tr><tr><td>4 miscarriages</td><td>25%</td></tr><tr><td>5 miscarriages</td><td>5%</td></tr></tbody></table>
 
-As you can see from the chart, we want to do everything possible to prevent another miscarriage, because the likelihood of a live birth goes down with each one.
+As you can see from the chart, we want to do everything possible to prevent another miscarriage.
 
-But luckily, Chinese medicine is excellent at correcting this issue and I’ve seen many women with multiple miscarriages go on to have healthy babies. IF they postpone pregnancy until we have good reason to believe that the issues are resolved.
+Since Chinese medicine is excellent at correcting this issue, I’ve seen many women with multiple miscarriages go on to have healthy babies.&nbsp; IF they postpone pregnancy until we have good reason to believe that the issues are resolved.
 
-There are even some acupuncture fertility experts who make patients sign a contract agreeing to do everything possible to NOT get pregnant for usually 3 months, so they have time to help prevent another miscarriage. And they refuse to take them on as patients if they won’t agree to delay pregnancy attempts.
+There are even some acupuncture fertility experts who require their patients to sign a contract agreeing to do everything possible to NOT get pregnant for usually 3 months, so they have time to help prevent another miscarriage. And they refuse to take them on as patients if they won’t agree to delay pregnancy attempts.
 
-I don’t go that far, but sometimes I wish I did. Because however heartwrenching it is for me to see my patients go through yet another miscarriage, it’s of course even worse for her. The fact that she was forewarned doesn’t make it any easier. So I do my best to encourage delaying attempts at conception when I see these Blood stagnation issues.
+I don’t go that far, but sometimes I wish I did. Because however heart wrenching it is for me to see my patients go through yet another miscarriage, it’s of course even worse for her. The fact that she was forewarned doesn’t make it any easier.
 
-Each Immune related miscarriage increases your chance of miscarrying again, exponentially
+So I do my best to encourage delaying attempts at conception when I see these Blood stagnation issues.
 
-Immune related miscarriages are particularly nasty, because the body can actually start developing antibodies to its own growing fetus. And each time a miscarriage happens, the antibody numbers increase, which means the next pregnancy has an even greater chance of miscarrying. It’s a horrible viscious cycle.
-
-<br>IF we don’t treat the blood stagnation. If we do, then these numbers look way better.
-
-Chart miscarriage
-
-Do you have any of those signs and symptoms and you’re just starting your attempts at pregnancy?
+### Do you have any of those signs and symptoms and you’re just starting your attempts at pregnancy?
 
 If you recognize yourself in any of the symptoms listed above, then you’re probably at a higher risk of having blood stasis related pregnancy issues. It would be a good idea to address those issues before attempts at pregnancy.
 
