@@ -4,11 +4,10 @@ date: 2017-03-03 00:00:00
 categories:
   - womens-health
   - my-approach--philosophy-and-stories
+  - success-stories-from-the-clinic-before-and-after-patient-cases
 tags:
   - acupuncture-and-hot-flashes
   - menopause
-  - frequent urination
-  - sweating
 hero_image:
 search_engine_optimization:
   page_title: 'Menopause & Hot Flashes: Do You See Yourself in These Patients?'
@@ -25,7 +24,7 @@ What there ARE acupuncture points and herbs for are all the various underlying r
 
 ### Unique patient, unique menopause treatment
 
-The entire basis of Chinese medicine rests on analyzing each patient as an individual. Unfortunately, in modern times -- in an effort to standardize the medicine -- the tools used to get at the underlying cause of symptoms has become a dying art.
+The entire basis of Chinese medicine rests on analyzing each patient as an individual. Unfortunately, in modern times – in an effort to standardize the medicine – the tools used to get at the underlying cause of symptoms has become a dying art.
 
 More and more acupuncturists are being taught to administer treatment based on “diseases” or syndromes, handing out herbal formulas “for” headaches, hot flashes, insomnia, constipation, etc.
 
@@ -52,7 +51,7 @@ This woman is having hot flashes because her body has a fluid metabolism issue, 
 
 ###### Patient 2: Stuck Qi causing heat from constraint, causing a “pressure cooker”-like situation
 
-This is a very high strung patient with the opposite problem. She has EXCESS rather than depleted energy, and everything is so tense and tight in her body that her life-force energy gets bottled up. When this life-force energy gets constrained from an inability for her entire system to relax and functions to flow unimpeded; not only can she not settle down, but her bowels get stuck. That bottled up energy causes her body’s normal heat to explode upward, just like in a pressure cooker, which causes her hot flashes. &nbsp;While she sweats with a hot flash, it’s not excessive like with the first patient.
+This is a very high strung patient with the opposite problem. She has EXCESS rather than depleted energy, and everything is so tense and tight in her body that her life-force energy gets bottled up. When this life-force energy gets constrained from an inability for her entire system to relax and functions to flow unimpeded; not only can she not settle down, but her bowels get stuck. That bottled up energy causes her body’s normal heat to explode upward, just like in a pressure cooker, which causes her hot flashes.  While she sweats with a hot flash, it’s not excessive like with the first patient.
 
 Her successful treatment involved basically releasing the pressure cooker, calming her stress, and allowing her energy and bowels to flow more smoothly.
 
@@ -60,11 +59,11 @@ Her successful treatment involved basically releasing the pressure cooker, calmi
 
 Everything about this patient was dry. She simply didn’t have enough fluids to keep her body cool or to moisten her bowels and skin. So when she hit menopause she had constant overheating. She rarely sweat with her hot flashes or during even intense workouts, because her body lacked the moisture needed to produce sweat. We call this classic “yin deficiency”.
 
-In this case, adding moisture and fluids into her system mainly through yin-nourishing herbs, and making sure she was eating enough moistening/enriching foods, resolved her hot flashes as well as her other symptoms. &nbsp;
+In this case, adding moisture and fluids into her system mainly through yin-nourishing herbs, and making sure she was eating enough moistening/enriching foods, resolved her hot flashes as well as her other symptoms.  
 
 ###### Patient 4: Excess Fluids being poorly metabolized
 
-This patient is similar to patient #1, in that it was a problem with her body processing its fluids. In this case though her fluids were being held IN too much -- as evidenced by the edema -- as opposed to leaking out too much like in the first case. She was never thirsty because her body always felt water logged and already had too many pooled fluids in it. Because her fluids were stuck as edema they weren’t able to perform their function of cooling her body, and she would get hot flashes.
+This patient is similar to patient #1, in that it was a problem with her body processing its fluids. In this case though her fluids were being held IN too much – as evidenced by the edema – as opposed to leaking out too much like in the first case. She was never thirsty because her body always felt water logged and already had too many pooled fluids in it. Because her fluids were stuck as edema they weren’t able to perform their function of cooling her body, and she would get hot flashes.
 
 Interestingly enough, although she had a ton of fluids available to produce sweat, since it was locked up in her tissues, she also would not sweat much during hot flashes. In fact it was this inability to sweat that was involved in her fluids being stuck in her tissues. It would be a mistake to conclude that she has fluids/yin deficiency like the last patient, and trying to nourish her yin/fluids would just make everything worse.
 
