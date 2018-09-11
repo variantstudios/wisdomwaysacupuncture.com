@@ -2844,6 +2844,9 @@ body.blog #blog-wrapper .blog-item h3 {
   font-size: 2rem;
   margin: 0;
 }
+body.blog #blog-wrapper .blog-item h3 a.title {
+  text-decoration: none;
+}
 body.blog #blog-wrapper .blog-item p.posted {
   color: #b9b9b9;
   margin-bottom: .6rem;

@@ -77,6 +77,9 @@ body.blog {
             h3 {
                 font-size: 2rem;
                 margin: 0;
+                a.title {
+                    text-decoration: none;
+                }
             }
             p.posted {
                 color: #b9b9b9;

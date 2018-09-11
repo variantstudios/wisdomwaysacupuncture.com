@@ -28,7 +28,7 @@ layout: page
             < Back to all blogs</a>
     </p>
 
-    <h1><a href="{{page.url }}">{{page.title }}</a></h1>
+    <h1>{{page.title }}</h1>
 
     {% comment %} {% if page.categories %}
     <p class="category-label"><strong>Categories:</strong> {% for cat in page.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
