@@ -17,7 +17,7 @@ search_engine_optimization:
 layout: post
 ---
 
-Of all the great things that acupuncture can do to help fertility, one of them is improving your egg quality.
+Of all the great things that acupuncture can do to help [fertility](/conditions-treated/acupuncture-for-fertility/){: target="_blank"}, one of them is improving your egg quality.
 
 ## Acupuncture for Fertility: the goal isn’t to just get pregnant
 
