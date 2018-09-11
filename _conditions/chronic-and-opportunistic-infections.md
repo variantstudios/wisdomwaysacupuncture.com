@@ -42,4 +42,4 @@ And if you’re suffering from a long term infection and would like to take a ne
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
 
-![](/assets/images/icons/acupuncture-in-fort-collins-blog.jpg){: .left-inline}Check out the [Chronic & Opportunistic Infections](/blog/category/chronic--opportunistic-infections/) blog page to read my blogs illustrating how I approach these conditions I treat and my style of practice.
+![](/assets/images/icons/acupuncture-in-fort-collins-blog.jpg){: .left-inline}Check out the [Chronic & Opportunistic Infections](/blog/category/chronic--opportunistic-infections/) blog page to read my blogs illustrating how I approach these conditions and real-life patient recoveries.
