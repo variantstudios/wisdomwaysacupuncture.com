@@ -7,7 +7,7 @@ categories:
 tags:
   - fertility
   - infertility
-hero_image: /assets/images/acupuncture-for-fertility-fort-collins-improve-egg-quality.jpg
+hero_image:
 search_engine_optimization:
   page_title: 'Acupuncture for Fertility: How we Improve Egg Quality'
   page_description: >-
