@@ -30,6 +30,8 @@ We’ve got:
 * any other symptoms that happen at repeated intervals during our cycle
 * menopause, when our natural rhythms often go completely haywire
 
+&nbsp;
+
 Our menstrual and hormone cycles absolutely lend a level of intense complexity to the picture when treating female patients. On top of everything, these factors need to be considered even if a woman is coming in for something “totally unrelated”, like digestive issues or fatigue!
 
 ### Treatment constantly changes
@@ -38,9 +40,7 @@ An additional factor that makes treating women challenging is that you often can
 
 Depending on when they have problems, and/or what the problem is related to, you might have to change up their treatment several times throughout the cycle.
 
-It’s a lot of work! And knowing how to even piece it all out, what to do when etc. requires extensive advanced training.
-
-I have friends and colleagues who have no interest in working out the complex puzzle to get to a diagnosis, and are much happier just focusing on helping people with injuries and musculoskeletal pain.
+It’s a lot of work! I have friends and colleagues who understandably have no interest in working out the complex puzzle to get to a diagnosis, and are much happier just focusing on helping people with injuries and musculoskeletal pain.
 
 But for me, it’s all about figuring out the complexities, of solving the mystery behind the various symptoms. Yes, this takes much more time, but it’s what I love to do.
 
@@ -56,7 +56,7 @@ Because she was first a very skilled western gynecologist and only later became 
 
 My education continued when I lived in China for a stint to do clinical internships in a gynecology wing of what they call “hospitals”.
 
-In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively. The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics.  
+In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively. The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics. &nbsp;
 
 So I not only got a crash course in gynecology, but it was really \*advanced\* gynecology from standards in the US. Because Chinese medicine is used not only for so many MORE gynecology conditions, but for more SEVERE gynecology conditions than we’d ever see it used for in the west; I learned things I would never learn here in the US.
 
@@ -70,6 +70,8 @@ Once home I continued my gynecology training, and much of my advanced studies ov
 
 * Bob Flaws, who is well known for writing many of the texts used by acupuncture schools, and who specializes in gynecology. He lived in Asia and also learned medical Chinese, and translates medical literature into English for the West.
 * Jane Lyttleton, who is probably thought of as the premier Fertility expert, having literally “written the book” on using Chinese medicine for fertility. Because treating fertility naturally is about fixing all the related gynecology problems, although her trainings focus on fertility, natural fertility treatment isn’t much more than advanced gynecology.
+
+&nbsp;
 
 ### Current advanced studies
 
