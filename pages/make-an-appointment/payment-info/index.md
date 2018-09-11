@@ -36,7 +36,7 @@ Please call or email to find out the costs for individual treatments and treatme
 
 Your fees are based on your personal contracted rate with your insurance company.
 
-We are happy to bill your insurance company for you -- if you would like your insurance billed at your first visit, you simply need to print out the [Acupuncture Insurance Verification and Financial Agreement](/INSURANCE VERIFICATION &amp; FINANCIAL AGREEMENT.2018.docx), then call your insurance to get the answers to the questions on the form so you can arrive with it fully completed at your first visit, your coverage verified and understanding what it includes.
+We are happy to bill your insurance company for you – if you would like your insurance billed at your first visit, you simply need to print out the [Acupuncture Insurance Verification and Financial Agreement](/INSURANCE VERIFICATION &amp; FINANCIAL AGREEMENT.2018.pdf), then call your insurance to get the answers to the questions on the form so you can arrive with it fully completed at your first visit, your coverage verified and understanding what it includes.
 
 **IT IS THE PATIENT’S RESPONSIBILITY TO UNDERSTAND WHAT THEIR INSURANCE DOES AND DOES NOT COVER BEFORE THEIR VISIT.** While we can't guarantee that this form with cover all the various exclusions insurance companies may have, filing out this form does help prevent unexpected surprises or payments due at time of service.
 
