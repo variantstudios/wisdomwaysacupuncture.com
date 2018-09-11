@@ -18,11 +18,11 @@ search_engine_optimization:
 layout: post
 ---
 
-I’ll never forget when I first started studying infertility. Learning the incredible wisdom of the body where everything fertility related works together in perfectly coordinating unison, like an orchestra, just confirmed all the reasons I love doing what I do.
+I’ll never forget when I first started studying infertility. Learning the incredible intelligence of the body where everything works together in perfectly coordinating unison, like an orchestra, just confirmed not only everything I believe about the body's wisdom, but all the reasons I love doing what I do.
 
-The entire reproductive cycle, down to what hormones do what, which then triggers the next process, is simply amazing and just confirms everything I believe about the wisdom of the body.
+The entire reproductive cycle, down to which hormones do what, which then triggers the next process, is simply amazing.
 
-And for whatever reason, learning about the simplest of these functions – that of fallopian tube secretions – really stuck with me.
+But for whatever reason, learning about the simplest of these functions – that of fallopian tube secretions – really stuck with me.
 
 ### Our fallopian tubes have secretions?
 
@@ -65,7 +65,7 @@ When she first came in, she had chronic vaginal yeast infections. She suffered f
 
 #### She was a classic case of what we would call “phlegm stagnation”.
 
-She ate a lot of processed sugary and greasy foods, although had cleaned that up before starting treatment with me, after 16 months of trying unsuccessfully to get pregnant.  Her sinus infections had improved with her improved diet, her congestion decreasing as well. But she continued to have chronic yeast infections and her period blood remained stringy.
+She ate a lot of processed sugary and greasy foods, although had cleaned that up before starting treatment with me, after 16 months of trying unsuccessfully to get pregnant. &nbsp;Her sinus infections had improved with her improved diet, her congestion decreasing as well. But she continued to have chronic yeast infections and her period blood remained stringy.
 
 After 3 months on herbs and regular acupuncture treatments, her yeast infections finally went away, and her menstrual blood flowed as liquid.
 
