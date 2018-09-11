@@ -98,6 +98,6 @@ So I do my best to encourage delaying attempts at conception when I see these Bl
 
 If you recognize yourself in any of the symptoms listed above, then you’re probably at a higher risk of having blood stasis related pregnancy issues. It would be a good idea to address those issues before attempts at pregnancy.
 
-But whether you’ve had miscarriages, or you’re just starting your fertility journey, if you’d like to get started working on potential Blood Stasis issues, you can schedule your first appointment by clicking the button below
+Whether you’ve had miscarriages or you’re just starting your fertility journey, if you’d like to get started working on potential Blood Stasis issues, you can schedule your first appointment by clicking the button below
 
 Schedule an Appointment
