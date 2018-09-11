@@ -4,6 +4,7 @@ date: 2018-06-05 00:00:00
 categories:
   - fertility
   - womens-health
+  - success-stories-from-the-clinic-before-and-after-patient-cases
 tags:
   - fertility
   - infertility
@@ -47,7 +48,7 @@ With each new fertility patient, at the first visit I ask about their “secreti
 
 Do you have?:
 
-* &nbsp;Mucousy menstrual blood
+* Mucousy menstrual blood
 * lots of sinus congestion
 * fluid or fatty filled accumulation like cysts or lipomas
 * cloudy urine
@@ -64,7 +65,7 @@ When she first came in, she had chronic vaginal yeast infections. She suffered f
 
 #### She was a classic case of what we would call “phlegm stagnation”.
 
-She ate a lot of processed sugary and greasy foods, although had cleaned that up before starting treatment with me, after 16 months of trying unsuccessfully to get pregnant. &nbsp;Her sinus infections had improved with her improved diet, her congestion decreasing as well. But she continued to have chronic yeast infections and her period blood remained stringy.
+She ate a lot of processed sugary and greasy foods, although had cleaned that up before starting treatment with me, after 16 months of trying unsuccessfully to get pregnant.  Her sinus infections had improved with her improved diet, her congestion decreasing as well. But she continued to have chronic yeast infections and her period blood remained stringy.
 
 After 3 months on herbs and regular acupuncture treatments, her yeast infections finally went away, and her menstrual blood flowed as liquid.
 
