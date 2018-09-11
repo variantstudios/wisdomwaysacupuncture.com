@@ -53,7 +53,7 @@ Because she was first a very skilled western gynecologist and only later became 
 
 My education continued when I lived in China for a stint to do clinical internships in a gynecology wing of what they call “hospitals”.
 
-In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively. The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics. &nbsp;
+In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively. The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics.  
 
 So I not only got a crash course in gynecology, but it was really \*advanced\* gynecology from standards in the US. Because Chinese medicine is used not only for so many MORE gynecology conditions, but for more SEVERE gynecology conditions than we’d ever see it used for in the west; I learned things I would never learn here in the US.
 
