@@ -82,7 +82,7 @@ This was a classic “Spleen” Qi Deficiency case. (ignore the spleen part, it 
 
 All the loss of blood resulted in blood deficiency also (think of anemia – not an exact correlation but anemia is one example of blood deficiency), so she had the dry skin and hair.
 
-By boosting her qi and nourishing her blood, her bleeding normalized and her blood deficiency symptoms showed signs of improvement. Nourishing blood and boosting qi isn’t an overnight process, so we’re keeping her on herbs to continue working on her energy as well as skin/hair.  4 months into treatment her energy is about 75% better, so we’re hoping to get it to 100% with a couple more months of herbal treatment.
+By boosting her qi and nourishing her blood, her bleeding normalized and her blood deficiency symptoms showed signs of improvement. Nourishing blood and boosting qi isn’t an overnight process, so we’re keeping her on herbs to continue working on her energy as well as skin/hair. &nbsp;4 months into treatment her energy is about 75% better, so we’re hoping to get it to 100% with a couple more months of herbal treatment.
 
 ##### Patient #4
 
@@ -108,7 +108,7 @@ While that’s obviously true, by reducing the treatment to “balancing hormone
 
 Because although each of these women’s hormones were definitely imbalanced, that information is useless for acupuncturists to do what needs to be done to get the hormones balanced again. In each case, it took something totally different.
 
-Are you having heavy menstrual bleeding?
+## Are you having heavy menstrual bleeding?
 
 If you've been struggling with heavy bleeding, then at your initial consultation we'll work to get at the root of what's causing it in YOUR case.
 
