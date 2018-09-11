@@ -19,7 +19,7 @@ layout: post
 
 In Chinese medicine, each patient as seen as an individual. Whether they come in for migraines, IBS, vaginal discharge, or endometriosis; we can never make assumptions about what imbalance is causing their symptoms or disease.
 
-To relate this to candida, for the sake of this post let’s say that all I treated all day long, every day, was patients with the diagnosis of candida. Every single one of them would still get a completely different diagnosis, depending on symptoms and signs from their entire body.
+To relate this to candida, for the sake of this post let’s say that all I treated all day long, every day, were patients with the diagnosis of candida. Every single one of them would still get a completely different diagnosis, depending on symptoms and signs from their entire body.
 
 And their diagnosis would have nothing to do with Candida.
 
@@ -65,7 +65,9 @@ Instead we used herbs that helped the body process its fluids and secretions, cl
 
 An analogy is one of our upstairs bathrooms that desperately needs a remodel. It has no good ventilation, and yet hot steamy showers are run in it. The shower is separate from the rest of the bathroom, behind a closed door, which makes air circulation even more poor.
 
-We probably all know that when there’s too much dampness in a closed system, then mold grows. Same thing in the body. If the body doesn’t process fluids well, then you can treat for candida til the cows come home, and the candida is just going to keep growing. Just like in our bathroom, we can spray and spray with Thieves Essential Oil (an antibacterial/antifungal/antiviral essential oil). This temporarily knocks the mold out, but it just quickly comes back.
+We probably all know that when there’s too much dampness in a closed system, then mold grows. Same thing in the body. If the body doesn’t process fluids well, so there's too many sludgy congested fluids, then you can treat for candida til the cows come home, and the candida is just going to keep growing. Just like in our bathroom, we can spray and spray with Thieves Essential Oil (an antibacterial/antifungal/antiviral essential oil). This temporarily knocks the mold out, but it just quickly comes back.
+
+The same would be true if I just used "candida killing" herbs but didn't work to help her body not produce so much congested internal dampness.
 
 ##### Patient #2:
 
@@ -73,7 +75,7 @@ This person had a completely different problem. She was so stressed out and high
 
 Just like the first patient, giving a treatment to “kill” the candida would have been useless.
 
-We had to calm her stress, heal her digestion, and cool her heat. Just like the first patient, these strategies resulted in successful treatment, so that she too dropped the topic of candida all together.
+We had to calm her stress, heal her digestion, and cool her heat. Just like the first patient again, these strategies resulted in successful treatment, so that she too dropped the topic of candida all together.
 
 ### Are you ready for a new approach to your candida?
 
@@ -81,7 +83,7 @@ If you’ve tried other treatments yet still worry about candida, then Chinese m
 
 At your first visit we’ll discuss all your symptoms and find out what the underlying cause is that’s allowed candida to grow excessively. Whether it’s candida or not, by addressing the root cause UNDER the candida overgrowth, I find this approach to be much more effective. It's also much more gentle on the body than trying to constantly kill stuff.
 
-To schedule an appointment to start working on your candida diagnosis, use the button below.  
+To schedule an appointment to start working on your candida diagnosis, use the button below. &nbsp;
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
