@@ -40,9 +40,7 @@ An additional factor that makes treating women challenging is that you often can
 
 Depending on when they have problems, and/or what the problem is related to, you might have to change up their treatment several times throughout the cycle.
 
-It’s a lot of work! I have friends and colleagues who understandably have no interest in working out the complex puzzle to get to a diagnosis, and are much happier just focusing on helping people with injuries and musculoskeletal pain.
-
-But for me, it’s all about figuring out the complexities, of solving the mystery behind the various symptoms. Yes, this takes much more time, but it’s what I love to do.
+It’s a lot of work! But for me, it’s all about figuring out the complexities, of solving the mystery behind the various symptoms. Yes, this takes much more time, but it’s what I love to do.
 
 ## My experience and gynecology background
 
@@ -56,9 +54,11 @@ Because she was first a very skilled western gynecologist and only later became 
 
 My education continued when I lived in China for a stint to do clinical internships in a gynecology wing of what they call “hospitals”.
 
-In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively. The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics. &nbsp;
+In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively.&nbsp; Chinese medicine gynecology in China primarily means herbal medicine, so my internships involved watching case after case of herbal consultations.
 
-So I not only got a crash course in gynecology, but it was really \*advanced\* gynecology from standards in the US. Because Chinese medicine is used not only for so many MORE gynecology conditions, but for more SEVERE gynecology conditions than we’d ever see it used for in the west; I learned things I would never learn here in the US.
+The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics.&nbsp; (Many of these women came weekly so just had to update the doctor on changes. New patients were given more time)
+
+I not only got a crash course in gynecology, but it was actually \*advanced\* gynecology compared to what's commonly taught to acupuncturists in the US. Because Chinese medicine is used in China for not only so many MORE gynecology conditions, but for more SEVERE gynecology conditions than it's used for in the west; I saw things I would never see here in the US.
 
 The most significant thing to come out of this for me is: I left convinced that Chinese medicine can treat even conditions that we’d think are “too severe” for little ol’ Chinese medicine. You can read a good example of this in my [fibroid post](/2017/09/03/successfully-treat-fibroids-with-acupuncture-herbs/).
 
