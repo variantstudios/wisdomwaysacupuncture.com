@@ -38,7 +38,7 @@ After ovulation, the corpus luteum, which is a hormone secreting gland that’s 
 
 As the secretions thin out, the developing embryo that’s now matured just a bit more in the tube, can start making its way down to the uterus to be implanted.
 
-### What happens if this doesn’t happen as planned?
+### What happens if this doesn’t occur as planned?
 
 If the secretions aren’t the correct viscosity, then the timing is all off. The immature embryo can either travel too fast down the tubes, reaching the uterus too early for implantation, or it can be held up for too long by mucky thick secretions, also losing its chance at implantation.
 
