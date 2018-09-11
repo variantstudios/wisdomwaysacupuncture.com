@@ -22,4 +22,4 @@ To see these specific details on some of the common issues I treat, scroll over 
 
 Although not listed on the tabs, we also commonly treat: endometriosis, abnormal discharges, fibroids, vaginal infections, itching/burning, pelvic pain, urinary symptoms, and more!
 
-Check out my[ Women's Health blog category](/blog/category/womens-health/) for blog topics on these topics, which illustrate how I approach various women's health issues, including fertility.
+Check out my[ Women's Health blog category](/blog/category/womens-health/) for blogs I've written on these topics, which illustrate how I approach various women's health issues, including fertility. If you're ONLY wanting to read my fertility related blogs, then go to my [Fertility blog page](/blog/category/fertility/).
