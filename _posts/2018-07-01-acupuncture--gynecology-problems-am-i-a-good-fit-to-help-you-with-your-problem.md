@@ -5,7 +5,6 @@ title: >-
 date: 2018-07-01 00:00:00
 categories:
   - womens-health
-  - fertility
 tags:
 hero_image: /assets/images/acupuncture-gynecology-hero.jpg
 search_engine_optimization:
@@ -43,7 +42,7 @@ It’s a lot of work! And knowing how to even piece it all out, what to do when 
 
 I have friends and colleagues who have no interest in working out the complex puzzle to get to a diagnosis, and are much happier just focusing on helping people with injuries and musculoskeletal pain.
 
-But for me, it's all about figuring out the complexities, of solving the mystery behind the various symptoms. Yes, this takes much more time, but it's what I love to do.
+But for me, it’s all about figuring out the complexities, of solving the mystery behind the various symptoms. Yes, this takes much more time, but it’s what I love to do.
 
 ## My experience and gynecology background
 
@@ -57,7 +56,7 @@ Because she was first a very skilled western gynecologist and only later became 
 
 My education continued when I lived in China for a stint to do clinical internships in a gynecology wing of what they call “hospitals”.
 
-In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively. The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics. &nbsp;
+In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively. The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics.  
 
 So I not only got a crash course in gynecology, but it was really \*advanced\* gynecology from standards in the US. Because Chinese medicine is used not only for so many MORE gynecology conditions, but for more SEVERE gynecology conditions than we’d ever see it used for in the west; I learned things I would never learn here in the US.
 
@@ -86,7 +85,7 @@ There are certain issues, such as massive fibroids, uterine bleeding in post-men
 
 But if you’re already under the care of a western doctor so you know the dangerous red flags have been ruled out, and you want a different approach to resolve your gynecology issue, then there’s a good chance that I can help.
 
-There are also many common menstrual issues that don't need a visit to the doctor first. If you think we’d be a good fit and you’d like to schedule an appointment, you can use the button below.
+There are also many common menstrual issues that don’t need a visit to the doctor first. If you think we’d be a good fit and you’d like to schedule an appointment, you can use the button below.
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
