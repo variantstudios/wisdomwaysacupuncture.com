@@ -77,7 +77,14 @@ How I work with blood stasis
 
 If I ever see a fertility patient with these issues, and especially if she’s already had 1 or more miscarriages, I STRONGLY caution her against trying to get pregnant until these signs and symptoms have improved. The chances of miscarrying again are extremely high unless these issues are corrected.
 
-Luckily, Chinese medicine is excellent at correcting this issue and I’ve seen many women with multiple miscarriages go on to have healthy babies. IF they postpone pregnancy until we have good reason to believe that the issues are resolved.
+##### Rates of miscarriages caused by Immune Factors WITHOUT TREATMENT
+{: .align-to-center}
+
+<table><tbody><tr><td>After:</td><td><h6>Chance of having live birth</h6></td></tr><tr><td class="align-to-center">3 miscarriages</td><td>30%</td></tr><tr><td>4 miscarriages</td><td>25%</td></tr><tr><td>5 miscarriages</td><td>5%</td></tr></tbody></table>
+
+As you can see from the chart, we want to do everything possible to prevent another miscarriage, because the likelihood of a live birth goes down with each one.
+
+But luckily, Chinese medicine is excellent at correcting this issue and I’ve seen many women with multiple miscarriages go on to have healthy babies. IF they postpone pregnancy until we have good reason to believe that the issues are resolved.
 
 There are even some acupuncture fertility experts who make patients sign a contract agreeing to do everything possible to NOT get pregnant for usually 3 months, so they have time to help prevent another miscarriage. And they refuse to take them on as patients if they won’t agree to delay pregnancy attempts.
 
