@@ -4,11 +4,20 @@ title: >-
   How Chinese Medicine Helps
 date: 2017-03-07 00:00:00
 categories:
+  - womens-health
+  - fertility
 tags:
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+  - miscarriage
+  - blood stagnation
+  - blood stasis
+hero_image:
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: >-
+    Acupuncture for Fertility: Recurrent Miscarriage, Blood Clotting Factors,
+    and How Chinese Medicine Helps
+  page_description: >-
+    If you’ve had multiple miscarriages, clotting factors might be an issue.
+    Acupuncture can help.
   share_image_path:
 layout: post
 ---
@@ -23,7 +32,7 @@ I’ll get back to that later, but first, I want to go over 2 types of Factors t
 
 ## Genetic and Immune Factors and why they’re important to fertility
 
-&nbsp;
+ 
 
 #### Genetic Factors/thrombophelias
 
