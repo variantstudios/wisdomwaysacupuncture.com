@@ -4,6 +4,9 @@ title: >-
   for Yourself and Others
 date: 2017-09-09 15:37:00
 categories:
+  - late-summer--earth-element
+  - five-elements
+  - videos
 tags:
   - five-elements
   - earth element
@@ -29,5 +32,3 @@ Hope you enjoy! And if in the end you think your own Earth Element could use som
 {: .align-to-center}
 
 <div class="cms-embed" data-cms-embed="PGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC96WlZWQ1c5dVowZyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJhdXRvcGxheTsgZW5jcnlwdGVkLW1lZGlhIiBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+"><iframe src="https://www.youtube.com/embed/zZVVCW9uZ0g" allow="autoplay; encrypted-media" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
-
-&nbsp;
