@@ -94,10 +94,11 @@ I don’t go that far, but sometimes I wish I did. Because however heart wrenchi
 
 So I do my best to encourage delaying attempts at conception when I see these Blood stagnation issues.
 
-### Do you have any of those signs and symptoms and you’re just starting your attempts at pregnancy?
+### Do you have any of the blood stagnation signs and symptoms and you’re just starting your attempts at pregnancy?
 
 If you recognize yourself in any of the symptoms listed above, then you’re probably at a higher risk of having blood stasis related pregnancy issues. It would be a good idea to address those issues before attempts at pregnancy.
 
 Whether you’ve had miscarriages or you’re just starting your fertility journey, if you’d like to get started working on potential Blood Stasis issues, you can schedule your first appointment by clicking the button below
 
-Schedule an Appointment
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
