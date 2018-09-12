@@ -40,4 +40,4 @@ Herbs are so powerful for treating gynecological issues that they are commonly t
 ![](/assets/images/icons/acupuncture-in-fort-collins-blog.jpg){: .left-inline}Check out my [Women's Health Blog page](/blog/category/womens-health/) to learn more about my experience and approach with treating gynecology and other Women's Health issues.
 {: .align-to-center}
 
-You can also read this blog for specifics on my [Advanced Gynecology Training](/2018/07/01/acupuncture-gynecology-problems-am-i-a-good-fit-to-help-you-with-your-problem/)
+You can also read this blog for specifics on my [Advanced Gynecology Training](/2018/07/01/acupuncture-for-gynecology-problems-my-gynecology-training-and-experience/)
