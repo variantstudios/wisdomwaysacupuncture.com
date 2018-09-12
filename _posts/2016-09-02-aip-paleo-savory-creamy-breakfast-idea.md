@@ -73,3 +73,11 @@ We use a GINORMOUS pot for this. You don’t need to make yours as big as ours, 
 9) Once the soup has cooled enough to not be as dangerous should splatters happen, use your immersion blender to puree the soup into a bisque. If you don’t have an immersion blender, well, first piece of advice is you get one. J Second piece of advice is use a blender and add the soup in batches into the blender and keep doing that until it’s all blended.
 
 10) Eat and enjoy!!!
+
+&nbsp;
+
+PS: If you want to earn a bonus prize, a big E for Effort, then put the chicken carcass aside and either immediately put it back into the empty soup pot with water to make into Bone Broth for your next bisque. That way you're basically drinking bone broth without having to drink it on its own.
+
+Or do what we do, which is use the chicken carcass PLUS add a couple large bones from an animal we've purchased whole from local grass-fed/pastured farmers. You can also find large bones in the butcher section of many grocery stores.
+
+Make sure your bones are GRASS FED AND ORGANIC!!! There's no point drinking a bunch of bone broth that's filled with a bunch of crap in it.
