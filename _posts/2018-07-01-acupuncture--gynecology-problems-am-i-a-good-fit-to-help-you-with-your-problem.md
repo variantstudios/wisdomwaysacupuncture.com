@@ -70,11 +70,9 @@ Because she was first a very skilled western gynecologist and only later became 
 
 My education continued when I lived in China for a stint to do clinical internships in a gynecology wing of what they call “hospitals”.
 
-In China they integrate western and Chinese medicine much more than we do here, and since Chinese medicine is still their first course treatment for most gynecology problems, it’s used extensively.&nbsp; Chinese medicine gynecology in China primarily means herbal medicine, so my internships involved watching case after case of herbal consultations.
+Since herbal medicine is still their first course treatment for most gynecology problems, it’s used extensively. Each week I observed hundreds and hundreds of women being treated with herbs for their gynecology problems, and getting better.
 
-The clinic was extremely busy and it was not uncommon to see 20 women/hour. In one 3 hour shift you’d see more patients than you’d see in a week in most western clinics.&nbsp; (Many of these women came weekly so just had to update the doctor on changes. New patients were given more time)
-
-I not only got a crash course in gynecology, but it was actually \*advanced\* gynecology compared to what's commonly taught to acupuncturists in the US. Because Chinese medicine is used in China for not only so many MORE gynecology conditions, but for more SEVERE gynecology conditions than it's used for in the west; I saw things I would never see here in the US.
+[Because Chinese medicine is used in China for not only so many MORE gynecology conditions, but for more SEVERE gynecology conditions than it's used for in the west; I saw things I would never see here in the US.](/make-an-appointment/){: .call-to-action}I not only got a crash course in gynecology, but it was actually \*advanced\* gynecology compared to what's commonly taught to acupuncturists in the US.
 
 The most significant thing to come out of this for me is: I left convinced that Chinese medicine can treat even conditions that we’d think are “too severe” for little ol’ Chinese medicine. You can read a good example of this in my [fibroid post](/2017/09/03/successfully-treat-fibroids-with-acupuncture-herbs/).
 
