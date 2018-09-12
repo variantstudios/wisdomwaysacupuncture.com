@@ -1,7 +1,5 @@
 ---
-title: >-
-  Acupuncture & Gynecology Problems: Are You Looking for an Acupuncturist Who
-  Can Help You?
+title: 'Acupuncture for Gynecology Problems: My Gynecology Training and Experience.'
 date: 2018-07-01 00:00:00
 categories:
   - womens-health
@@ -46,9 +44,9 @@ Depending on when they have problems, and/or what the problem is related to, you
 
 While many acupuncturists might not agree with this, I've personally found that unless I tailor-make my patients their herbal prescriptions ("formulas"), then I'm less likely to get great results.
 
-It's becoming more and more common in modern day to use "patents", which are pre-blended mixes of herbs in pill form.&nbsp; Requiring no preparation, patents are extremely more convenient for patients and practitioners. They don't require extensive herbal training, since they're often used in a more western way: You have menstrual cramps, use this patent for menstrual cramps.&nbsp; But this often completely misses the underlying cause for the issue.
+It's becoming more and more common in modern day to use "patents", which are pre-blended mixes of herbs in pill form.  Requiring no preparation, patents are extremely more convenient for patients and practitioners. They don't require extensive herbal training, since they're often used in a more western way: You have menstrual cramps, use this patent for menstrual cramps.  But this often completely misses the underlying cause for the issue.
 
-Chinese herbalism is an insanely complex art form and science, requiring a lifetime to truly master. While most of my patients do get better with my customized blends, I still consider myself nowhere near mastery and dedicate much of my energy towards constantly honing my skills.&nbsp; 17 years into my herbal experience I have a grasp of its richness, yet still a lifetime of improvement ahead.
+Chinese herbalism is an insanely complex art form and science, requiring a lifetime to truly master. While most of my patients do get better with my customized blends, I still consider myself nowhere near mastery and dedicate much of my energy towards constantly honing my skills.  17 years into my herbal experience I have a grasp of its richness, yet still a lifetime of improvement ahead.
 
 ### Women and emotions
 
