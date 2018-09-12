@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: My Approach
   popular_image: /assets/images/my-acupuncture-approach-fort-collins.jpg
-  order: 6
+  order: 1
 post:
 hero_image: /assets/images/acupuncture-education-fort-collins.jpg
 search_engine_optimization:
