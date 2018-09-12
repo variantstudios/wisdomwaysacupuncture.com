@@ -18,7 +18,7 @@ layout: post
 
 One of the hardest things for us to figure out when my partner first got diagnosed with an auto-immune condition, was what to do for breakfast.
 
-Eggs had been our mainstay. Veggie scrambles and veggie frittatas made up the bulk of our breakfast food. But on the AutoImmune Protocol (AIP) eggs are out.  
+Eggs had been our mainstay. Veggie scrambles and veggie frittatas made up the bulk of our breakfast food. But on the AutoImmune Protocol (AIP) eggs are out. &nbsp;
 
 I knew it needed to feel like comfort food, since neither of us wanted to get up and have leftovers or other food that’s normally considered lunch or dinner fare.
 
@@ -28,7 +28,7 @@ Several years in and we’re still enjoying this almost every morning. We whip u
 
 Since he’s doing fabulous, living with no sign of the disease whatsoever, we long ago backed down to just plain paleo, so sometimes if we’re out of bisque we’ll have a veggie scramble again. But for the most part, even though we CAN eat eggs again, this bisque is so yummy, savory, satisfying, and creamy, as well as easy to reheat in the mornings; that we often actually prefer it now.
 
-Also, it gets veggies into your body first thing in the morning without you even trying!
+Also, it gets veggies into our bodies first thing in the morning without us even trying!
 
 ### Here’s the basic recipe.
 
@@ -68,7 +68,7 @@ We use a GINORMOUS pot for this. You don’t need to make yours as big as ours, 
 
 7) Bring to a boil then turn down and set a timer for about 35 minutes. (less if you’re just using separate cuts of chicken, which will cook faster)
 
-8) Get a large set of tongs and CAREFULLY remove the whole chicken and put it on a plate to cool. Once cool enough to touch, take all meat off the carcass and put it back in the pot. 
+8) Get a large set of tongs and CAREFULLY remove the whole chicken and put it on a plate to cool. Once cool enough to touch, take all meat off the carcass and put it back in the pot.&nbsp;
 
 9) Once the soup has cooled enough to not be as dangerous should splatters happen, use your immersion blender to puree the soup into a bisque. If you don’t have an immersion blender, well, first piece of advice is you get one. J Second piece of advice is use a blender and add the soup in batches into the blender and keep doing that until it’s all blended.
 
