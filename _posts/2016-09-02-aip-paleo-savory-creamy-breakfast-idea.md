@@ -1,5 +1,5 @@
 ---
-title: soup
+title: AIP Paleo Savory Creamy Breakfast Idea
 date: 2016-09-02 00:00:00
 categories:
   - nutrition--food
