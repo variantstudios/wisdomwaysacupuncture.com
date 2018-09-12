@@ -74,7 +74,7 @@ Since herbal medicine is still their first course treatment for most gynecology 
 
 If a woman had hormone imbalances, heavy bleeding, menstrual cramps, masses up to a certain size, endometriosis, vaginal discharges, menopause symptoms etc; they would all come to the herbalist first. And because Chinese medicine is used in China not only for so many MORE gynecology conditions, but for more SEVERE gynecology conditions than it's used for in the west; I saw things I would never get to see here in the US.
 
-It was a crash course in expanding my mind to include the vast gynecology problems that we can treat. I left convinced that Chinese medicine can handle even conditions that we’d think are “too severe” for little ol’ Chinese medicine. You can read a good example of this in my [fibroid post](/2017/09/03/successfully-treat-fibroids-with-acupuncture-herbs/).
+I left convinced that Chinese medicine can handle even conditions that we’d think are “too severe” for little ol’ Chinese medicine. You can read a good example of this in my [fibroid post](/2017/09/03/successfully-treat-fibroids-with-acupuncture-herbs/).
 
 ### Advanced Gynecology Training
 
@@ -82,8 +82,6 @@ Once home I continued my gynecology training, and much of my advanced studies ov
 
 * Bob Flaws, who is well known for writing many of the texts used by acupuncture schools, and who specializes in gynecology. He lived in Asia and also learned medical Chinese, and translates medical literature into English for the West.
 * Jane Lyttleton, who is probably thought of as the premier Fertility expert, having literally “written the book” on using Chinese medicine for fertility. Because treating fertility naturally is about fixing all the related gynecology problems, although her trainings focus on fertility, natural fertility treatment isn’t much more than advanced gynecology.
-
-&nbsp;
 
 ### Current advanced studies
 
