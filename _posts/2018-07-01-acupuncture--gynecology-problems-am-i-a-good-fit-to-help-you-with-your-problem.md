@@ -72,11 +72,9 @@ My education continued when I lived in China for a stint to do clinical internsh
 
 Since herbal medicine is still their first course treatment for most gynecology problems, it’s used extensively. Each week I observed hundreds and hundreds of women being treated with herbs for their gynecology problems, and getting better.
 
-[Because Chinese medicine is used in China for not only so many MORE gynecology conditions, but for more SEVERE gynecology conditions than it's used for in the west; I saw things I would never see here in the US.](/make-an-appointment/){: .call-to-action}I not only got a crash course in gynecology, but it was actually \*advanced\* gynecology compared to what's commonly taught to acupuncturists in the US.
+If a woman had hormone imbalances, heavy bleeding, menstrual cramps, masses up to a certain size, endometriosis, vaginal discharges, menopause symptoms etc; they would all come to the herbalist first. And because Chinese medicine is used in China not only for so many MORE gynecology conditions, but for more SEVERE gynecology conditions than it's used for in the west; I saw things I would never get to see here in the US.
 
-The most significant thing to come out of this for me is: I left convinced that Chinese medicine can treat even conditions that we’d think are “too severe” for little ol’ Chinese medicine. You can read a good example of this in my [fibroid post](/2017/09/03/successfully-treat-fibroids-with-acupuncture-herbs/).
-
-But the point is, I saw first-hand cases of herbs successfully treating things like very heavy uterine bleeding and abdominal masses – two things that normally we’d just assume we can’t treat here in the west.
+It was a crash course in expanding my mind to include the vast gynecology problems that we can treat. I left convinced that Chinese medicine can handle even conditions that we’d think are “too severe” for little ol’ Chinese medicine. You can read a good example of this in my [fibroid post](/2017/09/03/successfully-treat-fibroids-with-acupuncture-herbs/).
 
 ### Advanced Gynecology Training
 
