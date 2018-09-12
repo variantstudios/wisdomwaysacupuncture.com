@@ -16,6 +16,6 @@ search_engine_optimization:
 
 ###### If you struggle to eat the way you think you should, you’re not alone!
 
-###### Sometimes patients get the impression that I’m “perfect” with self-care and never share their challenges. But every lifestyle change we make has a steep learning curve, and when I went paleo several years ago, I stumbled through my own foibles, temper-tantrums, delightful discoveries, and triumphs.
+###### Sometimes patients get the impression that I’m “perfect” with self-care and never share their challenges. But every lifestyle change has a steep learning curve, and when I went paleo several years ago, I stumbled through my own foibles, temper-tantrums, delightful discoveries, and triumphs.
 
 ###### These posts tell some of those stories. I hope they’ll inspire you to keep on goin’ when you hit walls of frustration and feelings of failure.
