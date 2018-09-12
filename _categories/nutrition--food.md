@@ -14,6 +14,6 @@ search_engine_optimization:
     food-as-medicine, recipes, and fitting healthy eating into busy lives.
 ---
 
-##### Making healthy food choices in the midst of busy, over-filled lives can be a challenge, even for someone like me who's a complete foodie and loves cooking from scratch. If we can make eating healthy FUN and unintimidating, then we're more likely to make those better choices.
+###### Making healthy food choices in the midst of busy, over-filled lives can be a challenge, even for someone like me who’s a complete foodie and loves cooking from scratch. If we can make eating healthy FUN and unintimidating, then we’re more likely to make those better choices.
 
-##### These blogs cover topics such as: paleo benefits, struggles, and recipes; local eating, food-as medicine, seasonal eating, Chinese medicine nutrition principles, my own food challenges and triumphs, and just general inspiration for great eating!
+###### These blogs cover topics such as: paleo benefits, struggles, and recipes; local eating, food-as medicine, seasonal eating, Chinese medicine nutrition principles, my own food challenges and triumphs, and just general inspiration for great eating!
