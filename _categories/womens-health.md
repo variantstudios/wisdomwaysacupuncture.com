@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Women's Health & Fertility
   popular_image: /assets/images/conditions/womens-health.jpg
-  order: 9
+  order: 4
 post:
 hero_image: /assets/images/acupuncture-fort-collins-womens-health.jpg
 search_engine_optimization:
