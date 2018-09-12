@@ -1,7 +1,7 @@
 ---
 title: >-
-  Acupuncture & Gynecology Problems: Am I a Good Fit to Help you with Your
-  Problem?
+  Acupuncture & Gynecology Problems: Are You Looking for an Acupuncturist Who
+  Can Help You?
 date: 2018-07-01 00:00:00
 categories:
   - womens-health
