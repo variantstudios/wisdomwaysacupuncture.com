@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Videos
   popular_image: /assets/images/acupuncture-videos-square.jpg
-  order: 10
+  order: 5
 post:
 hero_image: /assets/images/acupuncture-educational-videos.jpg
 search_engine_optimization:
