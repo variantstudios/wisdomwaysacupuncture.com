@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Autumn / Metal Element
   popular_image: /assets/images/conditions/metal-sacred-buddha.jpg
-  order: 4
+  order: 9
 post: 2016-11-05-metal-learn-about-letting-go----but-that-value-still-remains
 hero_image:
 search_engine_optimization:
