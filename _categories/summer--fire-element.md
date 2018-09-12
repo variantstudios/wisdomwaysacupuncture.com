@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Summer / Fire Element
   popular_image: /assets/images/conditions/5 Elements_fire-heart.jpg
-  order: 2
+  order: 7
 post: 2017-05-23-into-the-fire-we-go-tips-for-staying-balanced-in-summer
 hero_image:
 search_engine_optimization:
