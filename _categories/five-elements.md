@@ -15,3 +15,4 @@ search_engine_optimization:
     These posts should help!
 ---
 
+###### These blogs include ALL 5 elements. To see blogs related to one specific element, click that element in the side-bar, or go back to the [home page](/) and scroll down to click the related element's image.
