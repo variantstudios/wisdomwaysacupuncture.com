@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Late Summer / Earth Element
   popular_image: /assets/images/conditions/Earth-Element-square.jpg
-  order: 3
+  order: 8
 post: 2016-08-21-tips-from-earth-its-all-about-receiving-and-nourishment
 hero_image:
 search_engine_optimization:
