@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Winter / Water Element
   popular_image: /assets/images/5-elements-dark-frozen-water.jpg
-  order: 5
+  order: 10
 post: 2017-12-31-water-element-its-depths-will-keep-you-balanced-in-winter
 hero_image:
 search_engine_optimization:
