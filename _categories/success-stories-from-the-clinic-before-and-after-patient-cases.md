@@ -4,7 +4,7 @@ popular_blog_topics:
   popular: true
   popular_title: Before & After Clinic Case Studies
   popular_image: /assets/images/success stories.jpg
-  order: 7
+  order: 2
 post:
 hero_image: /assets/images/heroes/front-hero.jpg
 search_engine_optimization:
