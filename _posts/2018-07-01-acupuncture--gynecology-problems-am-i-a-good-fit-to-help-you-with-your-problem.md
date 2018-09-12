@@ -18,6 +18,10 @@ layout: post
 
 If you’re in Fort Collins area and you’re looking for help from acupuncture with a gynecology problem, this blog should help you figure out if I might be a good fit for you.
 
+Because treating women's health/gynecology issues comes with its extra challenges, successful treatment requires a complex use of Chinese medicine. I'll explain not only these complexities, but also my gynecology training and experience.
+
+If you just want to see my gynecology training/experience, scroll down to that section.
+
 ## Why Women’s Health can be challenging to treat with Acupuncture
 
 Some acupuncturists don’t like treating women because we’re so complex.
@@ -30,21 +34,33 @@ We’ve got:
 * any other symptoms that happen at repeated intervals during our cycle
 * menopause, when our natural rhythms often go completely haywire
 
-&nbsp;
-
-Our menstrual and hormone cycles absolutely lend a level of intense complexity to the picture when treating female patients. On top of everything, these factors need to be considered even if a woman is coming in for something “totally unrelated”, like digestive issues or fatigue!
+Our menstrual and hormone cycles absolutely lend a level of intense complexity to the picture when treating female patients. On top of everything, these factors need to be considered even if a woman is coming in for something “totally unrelated”, like digestive issues, migraines, or fatigue!
 
 ### Treatment constantly changes
 
 An additional factor that makes treating women challenging is that you often can’t just give patients the same treatment through the entire phase of their menstrual cycle.
 
-Depending on when they have problems, and/or what the problem is related to, you might have to change up their treatment several times throughout the cycle.
+Depending on when they have problems, and/or what the problem is related to, you might have to change up their treatment numerous times throughout the cycle.
 
-It’s a lot of work! But for me, it’s all about figuring out the complexities, of solving the mystery behind the various symptoms. Yes, this takes much more time, but it’s what I love to do.
+### Requires Customized herbal formulas
 
-## My experience and gynecology background
+While many acupuncturists might not agree with this, I've personally found that unless I tailor-make my patients their herbal prescriptions ("formulas"), then I'm less likely to get great results.
 
-### Primary Acupuncture Training
+It's becoming more and more common in modern day to use "patents", which are pre-blended mixes of herbs in pill form.&nbsp; Requiring no preparation, patents are extremely more convenient for patients and practitioners. They don't require extensive herbal training, since they're often used in a more western way: You have menstrual cramps, use this patent for menstrual cramps.&nbsp; But this often completely misses the underlying cause for the issue.
+
+Chinese herbalism is an insanely complex art form and science, requiring a lifetime to truly master. While most of my patients do get better with my customized blends, I still consider myself nowhere near mastery and dedicate much of my energy towards constantly honing my skills.&nbsp; 17 years into my herbal experience I have a grasp of its richness, yet still a lifetime of improvement ahead.
+
+### Women and emotions
+
+And then there's our emotions. :-) Yes, we CAN be emotional! And everyone is over-stressed these days. If we don't put emotional health at the forefront of treatment, teaching our patient's tools for emotional wellness, we probably won't get very far.
+
+#### Phyoo! That's whole lot to work with!
+
+But for me, it’s all about figuring out these complexities, of solving the mystery behind the various symptoms. This takes much more time, but it’s what I love to do.
+
+## My gynecology training and experience
+
+#### Primary Acupuncture Training
 
 I feel very blessed that for my preliminary Chinese medicine education, I was lucky to have a Chinese gynecology teacher who was the former Chief of Residents, OB/GYN at Shanghai Medical Hospital.
 
