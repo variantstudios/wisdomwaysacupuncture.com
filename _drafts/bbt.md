@@ -1,5 +1,5 @@
 ---
-title: Taking Your Basal Body (BBT) Temperature
+title: 'Acupuncture for Fertility: Taking Your Basal Body Temperature'
 date: 2018-09-02 00:00:00
 categories:
 tags:
@@ -11,13 +11,11 @@ search_engine_optimization:
 layout: post
 ---
 
-Wisdom Ways Acupuncture
+Your basal body temperature is your temperature when you first wake up in the morning, before you have gone to the bathroom, had sex, started a conversation, or done any other activity.
 
-(970) 227-3077
+It changes throughout your cycle and tracking your temperature gives us crucial information regarding when and whether you are ovulating, how well your hormones are regulating a healthy and balanced cycle, and the likely health and viability of your eggs, among other things.
 
-Taking Your Basal Body (BBT) Temperature
-
-Your basal body temperature is your temperature when you first wake up in the morning, before you have gone to the bathroom, had sex, started a conversation, or done any other activity. It changes throughout your cycle and tracking your temperature gives us crucial information regarding when and whether you are ovulating, how well your hormones are regulating a healthy and balanced cycle, and the likely health and viability of your eggs, among other things.
+Acupuncture for Fertility and your BBT
 
 While western medicine, midwives, and Natural Family Planning techniques also rely on your BBT charts, in Chinese medicine (TCM) we rely on them even more, as they reveal a ton of information to us regarding your general organ's and body's state of balance from a TCM perspective. &nbsp;Once the body is balanced, it is rare that there should be a reason that a woman cannot conceive, and so as the weeks and months of treatment progress, we are looking for progress and improvement in the BBT charts. We also use the charts to make our treatment much more precise and accurate, and so the sooner you can start gathering your BBT charts for us, the faster we will have that information to use in your treatment.
 
