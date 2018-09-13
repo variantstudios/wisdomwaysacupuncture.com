@@ -55,21 +55,25 @@ I highly recommend using a good app to log all this information, as not only is 
 
 NOTE: If you are taking your temperature 10 minutes or more outside the typical time, please enter that temperature into an online [Basal Body Temperature Adjuster.](https://www.whenmybaby.com/basalbodytemperature.php){: target="_blank"} Just put in the time you usually take your temp, the time you actually took your temp, and your temp reading that day. Click submit and it will adjust your temperature to a more correct reading for that day. I have found that having women use this gives us a much more accurate reading of their temperature patterns.
 
-Other info about your BBT charts
+### Other info about your BBT charts
 
 As I mentioned, one of the &nbsp;great thing about the BBT chart is that it can help a women see visually that her body is getting healthier and more balanced in ways that matter for her to get pregnant, before she actually conceives.
 
 While other symptoms such as digestive issues, headaches, anxiety or depression, fatigue, etc should start improving as treatment progresses, I know that ultimately, what every woman who is here for fertility is looking for in order to gauge the success of the treatment, is a positive pregnancy test and a healthy baby!
 
-A woman who is generally pretty healthy and doesn't have a lot of other symptoms to go by can use her improving charts and cervical fluid as a way to see that her treatment with acupuncture and herbs is doing something important and that she's heading in the direction needed in order for conception to take place.
+A woman who's generally pretty healthy and doesn't have a lot of other symptoms to go by can use her improving charts and cervical fluid as a way to see that her treatment with acupuncture and herbs is doing something important and that she's heading in the direction needed in order for conception to take place.
 
-Western vs. Traditional Chinese Medicine/Acupuncture for fertility
+#### Western vs. Traditional Chinese Medicine/Acupuncture for fertility
 
-In TCM, we believe that barring specific issues such as prior surgeries, tubal blockages or other structural abnormalities, etc. there is no reason why women of the right age should not be able to conceive. &nbsp;Western medicine does not foster health and balance, but instead uses extreme and often harsh methods to try to circumnavigate or mask the symptoms resulting from that poor health; or to force the body to do something it can't naturally do because it's so out of balance, such as conceiving.
+In TCM, we believe that barring specific issues such as prior surgeries, tubal blockages or other structural abnormalities, etc. there is no reason why women of the right age should not be able to conceive. &nbsp;
 
-Because western medicine is so extreme in its techniques, we as acupuncturists are often hard pressed to convince women that simply gently "balancing" their body with acupuncture, herbs, and potential lifestyle changes, can be enough to solve their infertility problems. However, a balanced body rarely has problems conceiving, and since a balanced body is reflected in a balanced BBT chart, if we can get your chart balanced, then there should be no reason why a woman shouldn't successfully conceive. &nbsp;
+Western medicine doesn't foster health and balance, but instead uses extreme and often harsh methods to try to circumnavigate or mask the symptoms resulting from that poor health; or to force the body to do something it can't naturally do because it's so out of balance, such as conceiving.
 
-But, this doesn't happen overnight.
+Because western medicine is so extreme in its techniques, we as acupuncturists are often hard pressed to convince women that simply and gently "balancing" their body with acupuncture, herbs, and potential lifestyle changes; can be enough to solve their infertility problems.
+
+However, a balanced body rarely has problems conceiving, and since a balanced body is reflected in a balanced BBT chart, if we can get your chart balanced, then there should be no reason why a woman shouldn't successfully conceive. &nbsp;
+
+#### But, this doesn't happen overnight
 
 Because we aren’t going in with harsh drugs and techniques to FORCE pregnancy NOW, but rather are gradually and naturally creating a healthy internal ecosystem where a body will naturally get pregnant on its own without invasive measures, we need some cycles to see the improvement.
 
@@ -77,7 +81,7 @@ Most women who successfully conceive naturally with Chinese medicine do so withi
 
 Women who have been on long courses of hormones such as birth control pills and/or rounds of IVF meds usually need more time to restore balance. Your reproductive health is a function of your overall health, and so the more we can improve all your parameters of health, the closer you are to that positive pregnancy test.
 
-When should you delay attempts at pregnancy?
+### When should you delay attempts at pregnancy?
 
 If there are more severe problems that indicate to us that it will be a longer haul or that you have a high risk of miscarriage, I may recommend NOT trying to conceive for a specific length of time while we work to restore health, vigor, and balance.
 
