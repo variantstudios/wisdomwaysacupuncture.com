@@ -22,7 +22,7 @@ search_engine_optimization:
 layout: post
 ---
 
-In my acupuncture practice, I use Basal Body Temperature (BBT) extensively. All of my fertility patients track their BBTs, and many of my patients coming for menstrual or hormonal issues will as well.
+In my acupuncture practice, I use [Basal Body Temperature (BBT)](/2014/09/02/acupuncture-for-fertility-taking-your-basal-body-temperature/) extensively. All of my fertility patients track their BBTs, and many of my patients coming for menstrual or hormonal issues will as well.
 
 While BBTs don’t tell us the diagnosis, they can definitely help us identify problems we’d have no other way of seeing, as well as target treatment schedules around when you’ll get the most bang for your buck.
 
