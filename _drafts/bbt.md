@@ -1,8 +1,13 @@
 ---
 title: 'Acupuncture for Fertility: Taking Your Basal Body Temperature'
-date: 2018-09-02 00:00:00
+date: 2014-09-02 00:00:00
 categories:
+  - fertility
+  - womens-health
 tags:
+  - fertility
+  - infertility
+  - bbt
 hero_image:
 search_engine_optimization:
   page_title:
