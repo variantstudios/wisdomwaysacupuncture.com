@@ -43,7 +43,7 @@ I recommend taking it vaginally, as this is more accurate than orally. Regardles
 
 ##### You will also want to pay attention to a few other things throughout the month, which you should also note on your chart:
 
-* Your cervical fluid. Our cervix naturally secretes fluids all month, and the consistency changes throughout your cycle. The quality and amount of your fluids gives us a lot of clues not only regarding when you're most fertile, but what imbalances are likely contributing to your inability to conceive to this point.&nbsp; Learning about your fertile cervical mucous, which begins about 6 days before ovulation, alerts you to your most fertile days long before your temperature has risen to indicate ovulation. You want those little sperm up there waiting for the egg to be released, as the egg lives only for 6-12 hours, while the waiting sperm can live for up to 5 days!
+* Your [cervical fluid](/2017/11/01/infertility-fertile-cervical-mucous-do-you-have-it-why-its-important/). Our cervix naturally secretes fluids all month, and the consistency changes throughout your cycle. The quality and amount of your fluids gives us a lot of clues not only regarding when you're most fertile, but what imbalances are likely contributing to your inability to conceive to this point.&nbsp; Learning about your fertile cervical mucous, which begins about 6 days before ovulation, alerts you to your most fertile days long before your temperature has risen to indicate ovulation. You want those little sperm up there waiting for the egg to be released, as the egg lives only for 6-12 hours, while the waiting sperm can live for up to 5 days!
 * The position and texture of your cervix: The position of your cervix also changes through the month, hanging low inside the vaginal wall until before ovulation when estrogen surges, causing it to move higher into the canal. At ovulation time the cervix is also much softer, as the Os (opening) softens.
 * Breast changes: Some women notice no changes in their breasts throughout the month, but if you do, you will want to take note of that on the chart.
 * Any abdominal symptoms, such as pain or cramping around menses or ovulation time, bloating, etc.
@@ -53,7 +53,7 @@ I recommend taking it vaginally, as this is more accurate than orally. Regardles
 
 I highly recommend using a good app to log all this information, as not only is it more convenient than keeping a paper and pen by the bed, but you always have it with you.
 
-NOTE: If you are taking your temperature 10 minutes or more outside the typical time, please enter that temperature into an online Basal Body Temperature Adjuster. Just put in the time you usually take your temp, the time you actually took your temp, and your temp reading that day. Click submit and it will adjust your temperature to a more correct reading for that day. I have found that having women use this gives us a much more accurate reading of their temperature patterns.
+NOTE: If you are taking your temperature 10 minutes or more outside the typical time, please enter that temperature into an online [Basal Body Temperature Adjuster.](https://www.whenmybaby.com/basalbodytemperature.php){: target="_blank"} Just put in the time you usually take your temp, the time you actually took your temp, and your temp reading that day. Click submit and it will adjust your temperature to a more correct reading for that day. I have found that having women use this gives us a much more accurate reading of their temperature patterns.
 
 Other info about your BBT charts
 
