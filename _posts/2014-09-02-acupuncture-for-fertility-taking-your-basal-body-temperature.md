@@ -23,7 +23,7 @@ It changes throughout your cycle and tracking your temperature gives us crucial 
 
 ## How Acupuncturists use your BBT
 
-While western medicine, midwives, and Natural Family Planning techniques also rely on your BBT charts, in Chinese medicine (TCM) we rely on them even more, as they reveal a ton of information to us regarding your general organ's and body's state of balance from a TCM perspective.  
+While western medicine, midwives, and Natural Family Planning techniques also rely on your BBT charts, in Chinese medicine (TCM) we rely on them even more, as they reveal a ton of information to us regarding your general organ's and body's state of balance from a TCM perspective. &nbsp;
 
 Once the body is balanced, it is rare that there should be a reason that a woman cannot conceive, and so as the weeks and months of treatment progress, we are looking for progress and improvement in the BBT charts.
 
@@ -31,7 +31,7 @@ We also use the charts to make our treatment much more precise and accurate, and
 
 Some acupuncturists don’t use BBTs with their fertility patients, for very understandable reasons: Usually women struggling with fertility already have months or years of micromanaging their lives and being self-proclaimed “OCD” in relation to their bodies and fertility. So tracking yet one more thing could create so much stress that it defeats the purpose.
 
-However, except in the most rare case, I’ve found that women actually come to enjoy the process once they get into the habit. There’s nothing they have to DO about the numbers except apart from what they’re already doing, and the peace of mind by seeing the charts improve over time, brings solace before that positive pregnancy test comes.
+However, except in the most rare case, I’ve found that women actually come to enjoy the process once they get into the habit. There’s nothing they have to DO about the numbers apart from what they’re already doing, and the peace of mind by seeing the charts improve over time, brings solace before that positive pregnancy test comes.
 
 ## How to take your BBT
 
@@ -47,13 +47,13 @@ I recommend taking it vaginally, as this is more accurate than orally. Regardles
 
 ##### You will also want to pay attention to a few other things throughout the month, which you should also note on your chart:
 
-* Your [cervical fluid](/2017/11/01/infertility-fertile-cervical-mucous-do-you-have-it-why-its-important/). Our cervix naturally secretes fluids all month, and the consistency changes throughout your cycle. The quality and amount of your fluids gives us a lot of clues not only regarding when you're most fertile, but what imbalances are likely contributing to your inability to conceive to this point.  Learning about your fertile cervical mucous, which begins about 6 days before ovulation, alerts you to your most fertile days long before your temperature has risen to indicate ovulation. You want those little sperm up there waiting for the egg to be released, as the egg lives only for 6-12 hours, while the waiting sperm can live for up to 5 days!
+* Your [cervical fluid](/2017/11/01/infertility-fertile-cervical-mucous-do-you-have-it-why-its-important/). Our cervix naturally secretes fluids all month, and the consistency changes throughout your cycle. The quality and amount of your fluids gives us a lot of clues not only regarding when you're most fertile, but what imbalances are likely contributing to your inability to conceive to this point.&nbsp; Learning about your fertile cervical mucous, which begins about 6 days before ovulation, alerts you to your most fertile days long before your temperature has risen to indicate ovulation. You want those little sperm up there waiting for the egg to be released, as the egg lives only for 6-12 hours, while the waiting sperm can live for up to 5 days!
 * The position and texture of your cervix: The position of your cervix also changes through the month, hanging low inside the vaginal wall until before ovulation when estrogen surges, causing it to move higher into the canal. At ovulation time the cervix is also much softer, as the Os (opening) softens.
 * Breast changes: Some women notice no changes in their breasts throughout the month, but if you do, you will want to take note of that on the chart.
 * Any abdominal symptoms, such as pain or cramping around menses or ovulation time, bloating, etc.
 * Bleeding or spotting: Of course, note the first day of your period and each day you are menstruating, but also be sure to note the quality of the blood. Is it bright red or dark, are there clots, is it mucousy, etc. You may want to consider switching from tampons to pads for the duration of your treatment, as this way you'll be able to see and note changes in your blood more easily. Also notice if you have any mid cycle spotting.
 * When you had intercourse: The app I recommend has a way to distinguish whether it was protected or not.
-* Any anomalies: Did you sleep in a different bed, such as a hotel on vacation? Did you stay up very late the night before or drink way more than usual? Were you sick or did you feel like you were fighting something? Did you use a different thermometer? Anything that is different from your normal routine should also be noted, as these things can alter your temperature. 
+* Any anomalies: Did you sleep in a different bed, such as a hotel on vacation? Did you stay up very late the night before or drink way more than usual? Were you sick or did you feel like you were fighting something? Did you use a different thermometer? Anything that is different from your normal routine should also be noted, as these things can alter your temperature.&nbsp;
 
 I highly recommend using a good app to log all this information, as not only is it more convenient than keeping a paper and pen by the bed, but you always have it with you.
 
@@ -61,7 +61,7 @@ NOTE: If you are taking your temperature 10 minutes or more outside the typical 
 
 ### Other info about your BBT charts
 
-As I mentioned, one of the  great thing about the BBT chart is that it can help a women see visually that her body is getting healthier and more balanced in ways that matter for her to get pregnant, before she actually conceives.
+As I mentioned, one of the &nbsp;great thing about the BBT chart is that it can help a women see visually that her body is getting healthier and more balanced in ways that matter for her to get pregnant, before she actually conceives.
 
 While other symptoms such as digestive issues, headaches, anxiety or depression, fatigue, etc should start improving as treatment progresses, I know that ultimately, what every woman who is here for fertility is looking for in order to gauge the success of the treatment, is a positive pregnancy test and a healthy baby!
 
@@ -69,19 +69,19 @@ A woman who's generally pretty healthy and doesn't have a lot of other symptoms 
 
 #### Western vs. Traditional Chinese Medicine/Acupuncture for fertility
 
-In TCM, we believe that barring specific issues such as prior surgeries, tubal blockages or other structural abnormalities, etc. there is no reason why women of the right age should not be able to conceive.  
+In TCM, we believe that barring specific issues such as prior surgeries, tubal blockages or other structural abnormalities, etc. there is no reason why women of the right age should not be able to conceive. &nbsp;
 
 Western medicine doesn't foster health and balance, but instead uses extreme and often harsh methods to try to circumnavigate or mask the symptoms resulting from that poor health; or to force the body to do something it can't naturally do because it's so out of balance, such as conceiving.
 
 Because western medicine is so extreme in its techniques, we as acupuncturists are often hard pressed to convince women that simply and gently "balancing" their body with acupuncture, herbs, and potential lifestyle changes; can be enough to solve their infertility problems.
 
-However, a balanced body rarely has problems conceiving, and since a balanced body is reflected in a balanced BBT chart, if we can get your chart balanced, then there should be no reason why a woman shouldn't successfully conceive.  
+However, a balanced body rarely has problems conceiving, and since a balanced body is reflected in a balanced BBT chart, if we can get your chart balanced, then there should be no reason why a woman shouldn't successfully conceive. &nbsp;
 
 #### But, this doesn't happen overnight
 
 Because we aren’t going in with harsh drugs and techniques to FORCE pregnancy NOW, but rather are gradually and naturally creating a healthy internal ecosystem where a body will naturally get pregnant on its own without invasive measures, we need some cycles to see the improvement.
 
-Most women who successfully conceive naturally with Chinese medicine do so within 6 months or so. Do not take a negative pregnancy test during that time to mean the treatment has been ineffective! Some changes in the BBT charts need a few cycles to kick in, depending on the imbalances and how deep seated they are.  
+Most women who successfully conceive naturally with Chinese medicine do so within 6 months or so. Do not take a negative pregnancy test during that time to mean the treatment has been ineffective! Some changes in the BBT charts need a few cycles to kick in, depending on the imbalances and how deep seated they are. &nbsp;
 
 Women who have been on long courses of hormones such as birth control pills and/or rounds of IVF meds usually need more time to restore balance. Your reproductive health is a function of your overall health, and so the more we can improve all your parameters of health, the closer you are to that positive pregnancy test.
 
@@ -89,9 +89,9 @@ Women who have been on long courses of hormones such as birth control pills and/
 
 If there are more severe problems that indicate to us that it will be a longer haul or that you have a high risk of miscarriage, I may recommend NOT trying to conceive for a specific length of time while we work to restore health, vigor, and balance.
 
-This will likely result in much easier conception once you do start trying again, but it will also likely mean a much healthier egg and embryo and therefore a much stronger constitution for your much awaited baby.  
+This will likely result in much easier conception once you do start trying again, but it will also likely mean a much healthier egg and embryo and therefore a much stronger constitution for your much awaited baby. &nbsp;
 
-For example, if a woman comes in who is not ovulating at all, and after a couple months of treatment she begins to ovulate but the chart shows that ovulation is happening really early, it is better to wait to try to conceive until ovulation is happening at the correct time. This is because those early releasing eggs will not be as fully developed as possible, which affects the health of the embryo and pregnancy.  Western ART techniques do not take these things into consideration but just force pregnancy at all costs, without first preparing the body for a healthy pregnancy and fetus.
+For example, if a woman comes in who is not ovulating at all, and after a couple months of treatment she begins to ovulate but the chart shows that ovulation is happening really early, it is better to wait to try to conceive until ovulation is happening at the correct time. This is because those early releasing eggs will not be as fully developed as possible, which affects the health of the embryo and pregnancy.&nbsp; Western ART techniques do not take these things into consideration but just force pregnancy at all costs, without first preparing the body for a healthy pregnancy and fetus.
 
 ## What if natural fertility treatment with acupuncture doesn’t work?
 
@@ -99,7 +99,7 @@ Studies continuously show that women who use Chinese medicine have a significant
 
 So while tracking your BBT is admittedly a big pain in the you-know-what, this simple chart gives us so much information that it can eliminate the need to start off with expensive tests, and often entirely prevents the need for any further ART.
 
-Plus, most women are very grateful in the end for the increased awareness of their cycles, their new connection to their body and health, and for a way to track progress in the midst of their anxiety about getting pregnant. 
+Plus, most women are very grateful in the end for the increased awareness of their cycles, their new connection to their body and health, and for a way to track progress in the midst of their anxiety about getting pregnant.&nbsp;
 
 If you think you’re going to start acupuncture treatment soon for fertility, you use this information to start tracking your BBTs now. And if you already know you’re ready to start the treatment process, you can schedule your first appointment using the button below.
 
