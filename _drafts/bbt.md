@@ -85,14 +85,19 @@ Women who have been on long courses of hormones such as birth control pills and/
 
 If there are more severe problems that indicate to us that it will be a longer haul or that you have a high risk of miscarriage, I may recommend NOT trying to conceive for a specific length of time while we work to restore health, vigor, and balance.
 
-This will likely result in much easier conception once you do start trying again, but it will also likely mean a much healthier egg and embryo and therefore a much stronger constitution for your much awaited baby. &nbsp;For example, if a woman comes in who is not ovulating at all, and after a couple months of treatment she begins to ovulate but the chart shows that ovulation is happening early, it is better to wait to try to conceive until ovulation is happening at the correct time, because those early releasing eggs will not be as fully developed as possible, which affects the health of the embryo and pregnancy.&nbsp; Western ART techniques do not take these things into consideration but just force pregnancy at all costs, without first preparing the body for a healthy pregnancy and fetus.
+This will likely result in much easier conception once you do start trying again, but it will also likely mean a much healthier egg and embryo and therefore a much stronger constitution for your much awaited baby. &nbsp;
 
-What if natural fertility treatment with acupuncture doesn’t work?
+For example, if a woman comes in who is not ovulating at all, and after a couple months of treatment she begins to ovulate but the chart shows that ovulation is happening really early, it is better to wait to try to conceive until ovulation is happening at the correct time. This is because those early releasing eggs will not be as fully developed as possible, which affects the health of the embryo and pregnancy.&nbsp; Western ART techniques do not take these things into consideration but just force pregnancy at all costs, without first preparing the body for a healthy pregnancy and fetus.
 
-&nbsp;Studies continuously show that women who use Chinese medicine have a significantly higher success rate with IVF, so if it did get to the point of resorting to ART the improvements in health and balance through Chinese medicine were not a waste, as they can save months of stress, prevent unnecessary repeated invasive drugs and procedures, as well as the resulting tens of thousands of dollars.
+## What if natural fertility treatment with acupuncture doesn’t work?
 
-So while tracking your BBT is admittedly a big pain in the you-know-what, this simple chart gives us so much information that it can eliminate the need to start off with expensive tests, and often entirely prevents the need for any further ART. Plus, most women are very grateful in the end for the increased awareness of their cycles, their new connection to their body and health, and for a way to track progress in the midst of their anxiety about getting pregnant.&nbsp;
+Studies continuously show that women who use Chinese medicine have a significantly higher success rate with IVF, so if it did get to the point of resorting to ART the improvements in health and balance through Chinese medicine were not a waste, as they can save months of stress, prevent unnecessary repeated invasive drugs and procedures, as well as the resulting tens of thousands of dollars.
+
+So while tracking your BBT is admittedly a big pain in the you-know-what, this simple chart gives us so much information that it can eliminate the need to start off with expensive tests, and often entirely prevents the need for any further ART.
+
+Plus, most women are very grateful in the end for the increased awareness of their cycles, their new connection to their body and health, and for a way to track progress in the midst of their anxiety about getting pregnant.&nbsp;
 
 If you think you’re going to start acupuncture treatment soon for fertility, you use this information to start tracking your BBTs now. And if you already know you’re ready to start the treatment process, you can schedule your first appointment using the button below.
 
-Schedule an Appointment
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
