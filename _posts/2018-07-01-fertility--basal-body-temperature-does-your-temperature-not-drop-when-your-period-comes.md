@@ -26,9 +26,9 @@ In my acupuncture practice, I use [Basal Body Temperature (BBT)](/2014/09/02/acu
 
 While BBTs don’t tell us the diagnosis, they can definitely help us identify problems we’d have no other way of seeing, as well as target treatment schedules around when you’ll get the most bang for your buck.
 
-Soon I’ll be writing a general post about BBTs, explaining what an ideal one looks like. For now though if you’re just getting started with BBTs, google will give you all the info you need to get started.
+Soon I’ll be writing a general post about BBTs, explaining what an ideal one looks like. For now though if you’re just getting started with BBTs, read my blog linked above.
 
-This blog is discussing a particular BBT chart quality that is a unique diagnostic indicator to Chinese medicine: temperature not dropping right when the period comes.
+Today's blog is discussing a particular BBT chart quality that is a unique diagnostic indicator to Chinese medicine: temperature not dropping right when the period comes.
 
 ### Why your temperature should drop with your period
 
