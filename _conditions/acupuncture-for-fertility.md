@@ -26,17 +26,17 @@ I [specifically work with women who are choosing to not use ART](/2016/09/20/why
 
 ## How does Chinese Medicine work for infertility?
 
-Fertility is not just related to having good ovarian reserve, although that is one of the most important issues we address and improve, especially in older women. It also depends on hormone regulation, because correct levels of estrogen and progesterone mean ovulation is occurring, the [cervical](/2017/11/01/infertility-fertile-cervical-mucous-do-you-have-it-why-its-important/){: target="_blank"} and [fallopian tube secretions](/2018/06/05/fertility-are-your-fallopian-tube-secretions-mucking-up-your-fertility/) are suitable for smooth motility of sperm and egg, there is good endometrial thickness, and high likeliness of successful implantation in the uterus.&nbsp;
+Fertility is not just related to having good ovarian reserve, although that is one of the most important issues we address and improve, especially in older women. It also depends on hormone regulation, because correct levels of estrogen and progesterone mean ovulation is occurring, the [cervical](/2017/11/01/infertility-fertile-cervical-mucous-do-you-have-it-why-its-important/){: target="_blank"} and [fallopian tube secretions](/2018/06/05/fertility-are-your-fallopian-tube-secretions-mucking-up-your-fertility/){: target="_blank"} are suitable for smooth motility of sperm and egg, there is good endometrial thickness, and high likeliness of successful implantation in the uterus.&nbsp;
 
 Stress is also a huge component, because when we’re stressed, hormone signaling from the pituitary to the ovaries to bring ovulation can be impaired; and everything tenses up and gets blocked, which can impair both the release of the egg from the follicle, as well as the egg’s flow through the fallopian tubes.
 
-These are just a few of the many aspects that are addressed and corrected with acupuncture and herbs. Research continues to show that Chinese medicine dramatically [improves egg quality](/2016/11/21/acupuncture-for-fertility-what-does-improving-egg-quality-really-mean/) and responsiveness to hormone stimulation, which is especially important in women over 35.
+These are just a few of the many aspects that are addressed and corrected with acupuncture and herbs. Research continues to show that Chinese medicine dramatically [improves egg quality](/2016/11/21/acupuncture-for-fertility-what-does-improving-egg-quality-really-mean/){: target="_blank"} and responsiveness to hormone stimulation, which is especially important in women over 35.
 
 If there are issues with sperm count or motility, acupuncture and herbs work very well for this also.
 
 ### Treatment details
 
-I have women start taking their [basal body temperature](/2014/09/02/acupuncture-for-fertility-taking-your-basal-body-temperature/) throughout the month so we can observe subtle changes in cycle that give us important clues into where their imbalances lie which are contributing to the problem.&nbsp;
+I have women start taking their [basal body temperature](/2014/09/02/acupuncture-for-fertility-taking-your-basal-body-temperature/){: target="_blank"} throughout the month so we can observe subtle changes in cycle that give us important clues into where their imbalances lie which are contributing to the problem.&nbsp;
 
 I also have her monitor other changes (such as cervical mucous) through the month which indicate to me her state of balance between yin, yang, (correlated with estrogen and progesterone among other things) and other components that when balanced should result in easy pregnancy and a healthy pregnancy and birth.&nbsp; As the months of treatment go by, we witness improvement in all the markers we are monitoring.&nbsp; Often, a woman that has a spotty history of ovulation will very quickly, even in the first few months, begin to ovulate naturally.
 
