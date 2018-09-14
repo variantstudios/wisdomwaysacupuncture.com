@@ -1,6 +1,6 @@
 ---
 title: 'Acupuncture for Fertility: What Does “Improving Egg Quality” Really Mean?'
-date: 2016-11-21 00:00:00
+date: 2018-06-14 00:00:00
 categories:
   - womens-health
   - fertility
