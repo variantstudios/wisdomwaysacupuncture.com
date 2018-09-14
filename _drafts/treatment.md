@@ -9,10 +9,14 @@ categories:
 tags:
   - fertility
   - infertility
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+hero_image:
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: >-
+    Acupuncture for Fertility: Fertility Treatment Process by Phase of Menstrual
+    Cycle
+  page_description: >-
+    Each phase of your cycle has specific goals that acupuncture treats. This
+    lists those goals.
   share_image_path:
 layout: post
 ---
@@ -35,7 +39,7 @@ But depending on our assessment and diagnosis – which tells us where your prob
 
 Thorough endometrial shedding, for better implantation sites
 
-&nbsp;
+ 
 
 #### Phase 2: Follicular phase
 
@@ -50,7 +54,7 @@ Thorough endometrial shedding, for better implantation sites
 * Nourish egg in follicle: 10-30 should grow, 1-2 should become dominant
 * Encourage good microcirculation to ovaries and uterus for good nutrition/oxygen to eggs, as well as to build good vasculature for uterus
 
-#### &nbsp;
+####  
 
 #### Phase 3: Ovulation
 
@@ -69,7 +73,7 @@ Thorough endometrial shedding, for better implantation sites
   * To improve temp/progesterone rise
   * Help egg move
 
-#### &nbsp;
+####  
 
 #### Phase 4 EARLY: Luteal phase
 
