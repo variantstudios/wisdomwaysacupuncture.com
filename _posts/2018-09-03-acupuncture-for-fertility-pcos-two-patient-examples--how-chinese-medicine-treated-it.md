@@ -31,10 +31,6 @@ Your symptoms might include those I most typically see in my patients:
 * infertility
 * acne.
 
-&nbsp;
-
-&nbsp;
-
 Many PCOS patients also have hypothyroidism, but discussing that is beyond the scope of this blog, so perhaps I’ll write about that in another post.
 
 This post will go over two types of PCOS, how I address it in my clinic to help women get pregnant, and an overview of two recent typical PCOS fertility patient’s cases. &nbsp;
@@ -68,10 +64,6 @@ Atypical PCOS:
 * healthy weight
 * no signs of increased male hormones
 * 8 periods in the past 2 years since her son was born, and based on several months of taking her basal body temperatures (BBT), she never saw a pattern indicating normal hormone cycles or a temperature increase indicating ovulation. She finally gave up trying to track her temperatures after seeing no pattern at all. No period for a few months when she made her appointment to come in.
-
-&nbsp;
-
-&nbsp;
 
 ## Acupuncture and herbal Treatment for PCOS
 
@@ -143,10 +135,6 @@ If you have PCOS and you’re not quite ready to jump into starting fertility tr
 
 * Start reducing your carbs and work on a healthy, sustainable weight loss. Many of us in the fertility world are recommending not just paleo but a keto paleo lifestyle for women with PCOS along with metabolic dysfunction. Of all the things you can do on your own, this could be the most powerful and effective.
 * Start taking your BBT’s now. The more data we have as early as possible, the more precisely we can time your acupuncture appointments where they’ll be the most effective. Your BBT charts never tell us what your diagnosis is, but I definitely find them useful for giving me information I might not get by any other means. And the more months of data we have, the better we see trends, which are much more relevant than just one month. So, start now! Then if you do end up coming for treatment, you’ll have that data for me to add into the mix.
-
-&nbsp;
-
-&nbsp;
 
 And if you feel ready to get going on treatment, you can use the button below to schedule an appointment.
 
