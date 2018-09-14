@@ -1,14 +1,13 @@
 ---
 title: >-
   Acupuncture for fertility: PCOS, Two Patient Examples, & how Chinese Medicine
-  Approaches it
+  Treated It
 date: 2018-09-03 00:00:00
 categories:
   - womens-health
   - fertility
   - success-stories-from-the-clinic-before-and-after-patient-cases
 tags:
-  - PCOS
   - fertility
   - infertility
 hero_image:
@@ -34,6 +33,8 @@ Your symptoms might include those I most typically see in my patients:
 
 &nbsp;
 
+&nbsp;
+
 Many PCOS patients also have hypothyroidism, but discussing that is beyond the scope of this blog, so perhaps I’ll write about that in another post.
 
 This post will go over two types of PCOS, how I address it in my clinic to help women get pregnant, and an overview of two recent typical PCOS fertility patient’s cases. &nbsp;
@@ -48,7 +49,7 @@ I also see many women with atypical PCOS. These patients are actually often very
 
 ## Two PCOS fertility cases, their symptoms, treatment, and final pregnancy
 
-(Keep in mind the explanation of this treatment process has been massively simplified for the sake of length as well as to keep it geared towards the general public with no Chinese medicine background. For anyone interested in looking at a PCOS case broken down by her Chinese medicine diagnosis, check out this [much more detailed blog post](/2018/03/15/clinical-success-stories-two-fertility-patients-far-end-of-extremes-in-severity-of-problem-duration-of-treatment/))
+(Keep in mind the explanation of this treatment process has been massively simplified for the sake of length as well as to keep it geared towards the general public with no Chinese medicine background. For anyone interested in looking at a PCOS case broken down in much more detail according to all the complex factors we were working on, check out this [much more detailed blog post](/2018/03/15/clinical-success-stories-two-fertility-patients-far-end-of-extremes-in-severity-of-problem-duration-of-treatment/))
 
 ### Patient symptoms and signs
 
@@ -60,8 +61,6 @@ Classic PCOS:
 * Excessive hair growth on her chin and neck
 * 3 periods in the last year, which were extremely light flow. Finally came to me when it had been 5 months with no period.
 
-&nbsp;
-
 #### Patient #2:
 
 Atypical PCOS:
@@ -69,6 +68,8 @@ Atypical PCOS:
 * healthy weight
 * no signs of increased male hormones
 * 8 periods in the past 2 years since her son was born, and based on several months of taking her basal body temperatures (BBT), she never saw a pattern indicating normal hormone cycles or a temperature increase indicating ovulation. She finally gave up trying to track her temperatures after seeing no pattern at all. No period for a few months when she made her appointment to come in.
+
+&nbsp;
 
 &nbsp;
 
@@ -142,6 +143,8 @@ If you have PCOS and you’re not quite ready to jump into starting fertility tr
 
 * Start reducing your carbs and work on a healthy, sustainable weight loss. Many of us in the fertility world are recommending not just paleo but a keto paleo lifestyle for women with PCOS along with metabolic dysfunction. Of all the things you can do on your own, this could be the most powerful and effective.
 * Start taking your BBT’s now. The more data we have as early as possible, the more precisely we can time your acupuncture appointments where they’ll be the most effective. Your BBT charts never tell us what your diagnosis is, but I definitely find them useful for giving me information I might not get by any other means. And the more months of data we have, the better we see trends, which are much more relevant than just one month. So, start now! Then if you do end up coming for treatment, you’ll have that data for me to add into the mix.
+
+&nbsp;
 
 &nbsp;
 
