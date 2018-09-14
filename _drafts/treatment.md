@@ -23,7 +23,7 @@ When women first start fertility treatment, it’s normal and expected that thes
 
 The process outlined below is a general overview of the functions that happen at each phase of the cycle, and what treatment during that phase works on.
 
-But depending on our assessment and diagnosis -- which tells us where your problems are likely occurring – we design a plan that will customize treatment for exactly what you need.
+But depending on our assessment and diagnosis – which tells us where your problems are likely occurring – we design a plan that will customize treatment for exactly what you need.
 
 Remember! This is a very general overview.
 
@@ -37,71 +37,63 @@ A woman who is Yin Deficient – a generic example would be someone who is hot a
 
 Thorough endometrial shedding, for better implantation sites
 
+&nbsp;
+
 #### Phase 2: Follicular phase
 
 ##### What’s happening:
 
 * Estrogen from growing follicle primes the endometrium (estrogen receptors on endometrium)
-* As estrogen increases, FSH is secreted, 1-2 follicles become dominant, LH levels increase which causes ovulation. In HEALTHY system, the process of selection of dominant follicle &agrave; ovulation, takes FIVE DAYS. If it takes longer than that, it means the egg quality isn’t good
+* As estrogen increases, FSH is secreted, 1-2 follicles become dominant, LH levels increase which causes ovulation. In HEALTHY system, the process of selection of dominant follicle til ovulation, takes FIVE DAYS. If it takes longer than that, it means the egg quality isn’t good
 
-Treatment goals:
+##### Treatment goals:
 
-Nourish yin/estrogen/cervical secretions
+* Nourish yin/estrogen/cervical secretions
+* Nourish egg in follicle: 10-30 should grow, 1-2 should become dominant
+* Encourage good microcirculation to ovaries and uterus for good nutrition/oxygen to eggs, as well as to build good vasculature for uterus
 
-Nourish egg in follicle: 10-30 should grow, 1-2 should become dominant
+#### &nbsp;
 
-Encourage good microcirculation to ovaries and uterus for good nutrition/oxygen to eggs, as well as to build good vasculature for uterus
+#### Phase 3: Ovulation
 
-Phase 3: Ovulation
+##### What’s happening:
 
-What’s happening:
+* LH trigger and egg is released
 
-LH trigger and egg is released
+##### Treatment goals:
 
-Treatment goals:
+* Regulate Qi and Blood, so:
+  * Egg can be released
+  * Fallopian tubes can reach out and grab
+  * Egg will be held up for just the right amount of time for proper maturation, in tube
+* Clear damp
+* Promote yang:
+  * To improve temp/progesterone rise
+  * Help egg move
 
-Regulate Qi and Blood, so:
+#### Phase 4 EARLY: Luteal phase
 
-Egg can be released
+##### What’s happening:
 
-Fallopian tubes can reach out and grab
+* Egg is maturing in tubes
+* Tubal secretions must be perfect for timing of egg maturity
 
-Egg will be held up for just the right amount of time for proper maturation, in tube
+##### Treatment goals:
 
-Clear damp
+* Acupuncture is very important in this phase if there’s stagnation and/or dampness: we keep qi in pelvic area moving well
 
-Promote yang:
+#### Phase 4 LATE: Implantation window in Luteal Phase
 
-To improve temp/progesterone rise
+##### What’s happening:
 
-Help egg move
+* blastocyte enters uterus 5 days after ovulation.
 
-Phase 4 EARLY: Luteal phase
+##### IMPLANTATION WINDOW:
 
-What’s happening:
+* Adheres to lining 6-7 days after ovulation. Takes 3 days to implant after adhering. So, 9-11 days after ovulation, it’s implanted
+* new cells and vessels are developing, need good microcirculation, endometrium is becoming more vascular
+* acceptance of embryo by mom
 
-Egg is maturing in tubes
+##### Treatment goals:
 
-Tubal secretions must be perfect for timing of egg maturity
-
-Treatment goals:
-
-Acupuncture is very important in this phase if there’s stagnation and/or dampness: we keep qi in pelvic area moving well
-
-Phase 4 LATE: Implantation window in Luteal Phase
-
-What’s happening:
-
-blastocyte enters uterus 5 days after ovulation.
-
-IMPLANTATION WINDOW:
-
-Adheres to lining 6-7 days after ovulation. Takes 3 days to implant after adhering. So, 9-11 days after ovulation, it’s implanted
-
-new cells and vessels are developing, need good microcirculation, endometrium is becoming more vascular
-
-acceptance of embryo by mom
-
-Treatment goals:
-
-Just small gentle bits of movement with acupuncture
+* Just small gentle bits of movement with acupuncture
