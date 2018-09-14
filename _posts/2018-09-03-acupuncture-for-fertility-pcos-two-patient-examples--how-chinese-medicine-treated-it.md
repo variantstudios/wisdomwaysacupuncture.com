@@ -136,6 +136,8 @@ If you have PCOS and you’re not quite ready to jump into starting fertility tr
 * Start reducing your carbs and work on a healthy, sustainable weight loss. Many of us in the fertility world are recommending not just paleo but a keto paleo lifestyle for women with PCOS along with metabolic dysfunction. Of all the things you can do on your own, this could be the most powerful and effective.
 * Start taking your BBT’s now. The more data we have as early as possible, the more precisely we can time your acupuncture appointments where they’ll be the most effective. Your BBT charts never tell us what your diagnosis is, but I definitely find them useful for giving me information I might not get by any other means. And the more months of data we have, the better we see trends, which are much more relevant than just one month. So, start now! Then if you do end up coming for treatment, you’ll have that data for me to add into the mix.
 
+&nbsp;
+
 And if you feel ready to get going on treatment, you can use the button below to schedule an appointment.
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
