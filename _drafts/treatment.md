@@ -2,9 +2,13 @@
 title: >-
   Acupuncture for Fertility: The Fertility Treatment Process, by Phase of
   Menstrual Cycle
-date:
+date: 2016-09-27 00:00:00
 categories:
+  - fertility
+  - womens-health
 tags:
+  - fertility
+  - infertility
 hero_image: /assets/images/heroes/sub-page-hero-example.jpg
 search_engine_optimization:
   page_title:
@@ -24,12 +28,6 @@ When women first start fertility treatment, it’s normal and expected that thes
 The process outlined below is a general overview of the functions that happen at each phase of the cycle, and what treatment during that phase works on.
 
 But depending on our assessment and diagnosis – which tells us where your problems are likely occurring – we design a plan that will customize treatment for exactly what you need.
-
-Remember! This is a very general overview.
-
-For example, if a woman is extremely cold all the time and has hypo/under-functioning of her organs in general (what we might diagnose as yang deficiency), then we’d be working on that the entire cycle, along with the other things we’re working to fix in the various phases.
-
-A woman who is Yin Deficient – a generic example would be someone who is hot all the time, dry, tends to ovulate early – would need her yin addressed her entire cycle as well, not just in the “yin phase” listed below.
 
 ## Here are the menstrual phases, what’s occurring in your body in each phase, and what the treatment goals are for each phase
 
@@ -71,6 +69,8 @@ Thorough endometrial shedding, for better implantation sites
   * To improve temp/progesterone rise
   * Help egg move
 
+#### &nbsp;
+
 #### Phase 4 EARLY: Luteal phase
 
 ##### What’s happening:
@@ -97,3 +97,17 @@ Thorough endometrial shedding, for better implantation sites
 ##### Treatment goals:
 
 * Just small gentle bits of movement with acupuncture
+
+Remember! This is a very general overview.
+
+These are the things we want to support and promote in every patient. But depending on your individual situation, treatment will be much more specific and geared towards fixing your particular problems.
+
+Examples:
+
+* if a woman is extremely cold all the time and has hypo/under-functioning of her organs in general (what we might diagnose as yang deficiency), then we’d be working on that the entire cycle, along with the other things we’re working to fix in the various phases.
+* A woman who is Yin Deficient – a generic example would be someone who is hot all the time, dry, tends to ovulate early – would need her yin addressed her entire cycle as well, not just in the “yin phase” listed below.
+
+I hope this helps you have a good understanding of how Chinese medicine can help your fertility improve. And if you're ready to start the treatment process, you can schedule an appointment using the button below.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
