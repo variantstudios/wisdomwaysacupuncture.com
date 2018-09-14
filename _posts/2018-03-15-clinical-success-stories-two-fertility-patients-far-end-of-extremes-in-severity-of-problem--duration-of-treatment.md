@@ -41,12 +41,14 @@ Aged 34, she came to me having tried to get pregnant for about 1.5 years. &nbsp;
 
 Her other symptoms were: mild anxiety, moderate to severe PMS, and migraines most typically in the week after her menstrual cycle. Her blood was light in flow, had some small dark clots, and she had moderate cramps starting a couple days before her period. Other than some mild dizziness when she got really stressed out, she was in good health. She had a thin, wiry body build and described herself as being a “stress-case”. To alleviate her stress she would do very vigorous exercise almost daily.
 
-She had already started taking her [basal body temperature (BBT)](https://www.verywellfamily.com/ovulation-on-body-basal-temperature-chart-1960284) before coming to see me, and her charts showed that her temperatures in all phases of her cycle were not only all over the place, but also only showed a very slow increase in temperature at ovulation and then not staying up high like it should in the luteal phase. Her temperatures also didn’t drop down as they should on day one of bleeding, until about 6 days into her period.
+She had already started taking her [basal body temperature (BBT)](https://www.verywellfamily.com/ovulation-on-body-basal-temperature-chart-1960284) before coming to see me, and her charts showed that her temperatures in all phases of her cycle were not only all over the place, but also only showed a very slow increase in temperature at ovulation and then not staying up high like it should in the luteal phase. Her temperatures also [didn’t drop down as they should on day one of](/2018/07/01/fertility-basal-body-temperature-does-your-temperature-not-drop-when-your-period-comes/){: target="_blank"} bleeding, until about 6 days into her period.
 
 She had a classic pulse and tongue picture for these symptoms:
 
 * pulses:&nbsp; wiry and small across all points
 * tongue: mildly purple and pale, with some slight red dots along the sides
+
+&nbsp;
 
 ### Acupuncture assessment/diagnosis:
 
@@ -91,6 +93,8 @@ Pulse and tongue diagnosis:
 * Pulse: many conflicting qualities, including wiry and full in some positions, almost imperceptible in others, and soggy and full in others. Over time this balanced out to being mostly small and soggy.
 * Tongue: puffy and wet, with red dots on the sides and a thin yellow coat, getting thicker and greasy towards the back.
 
+&nbsp;
+
 ### Acupuncture Assessment/Diagnosis:
 
 This patient had an extremely complex case, with many facets of imbalance. In a case this complex it’s too much to explain the diagnostics in an understandable way to laypeople, so I’ll just list out some of our treatment goals.
@@ -115,7 +119,7 @@ But of course none of that matters if she’s not ovulating.
 
 I advised her to decrease her carbs as much as possible, and to do her best to get some form of movement in every day, even just a relaxing walk. I put her on an herbal formula that she would just take continuously until either 1) she had a period, or 2) she started getting fertile mucous. At that point her herbs would switch to different “[formulas](http://www.wisdomwaysacupuncture.com/services-offered/acupuncture-and-chinese-herbs/)“.
 
-Progress:
+##### Progress:
 
 Cycles 1-2 (approx 6 months): After 9 weeks of regular acupuncture treatments and continued use of herbs, she ovulated. Her BBTs continued to be all over the place and her temps didn’t stay up well after that ovulation. 10 days later she had a period. It was less sludgy but still as heavy. After another 11 weeks she ovulated again and this time her temps stayed higher and she got another period a perfect 14 days later. She had fertile mucous for the first time she could remember, in that second cycle.
 
