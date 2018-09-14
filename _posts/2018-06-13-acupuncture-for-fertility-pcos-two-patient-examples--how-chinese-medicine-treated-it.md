@@ -127,16 +127,14 @@ These cases are pretty typical of what PCOS treatment looks like in my clinic. T
 
 Some PCOS cases take much longer than these two cases, and the shortest PCOS case is one I’m actually currently treating:
 
-She got pregnant the second month of treatment and just had her first ultrasound where they got a perfect heartbeat and the fetus measured 8 weeks. She’s still in her first trimester so we’re keeping our fingers crossed, but so far so good!
+After not having a period for 8 months before coming to see me, she got pregnant the second month of treatment and just had her first ultrasound. They got a perfect heartbeat and the fetus measured 8 weeks. She’s still in her first trimester so we’re keeping our fingers crossed, but so far so good!
 
 ## Do you have PCOS?
 
 If you have PCOS and you’re not quite ready to jump into starting fertility treatment, but you want to take proactive steps now, you can do these things:
 
-* Start reducing your carbs and work on a healthy, sustainable weight loss. Many of us in the fertility world are recommending not just paleo but a keto paleo lifestyle for women with PCOS along with metabolic dysfunction. Of all the things you can do on your own, this could be the most powerful and effective.
+* If you have metabolic dysfunction, start reducing your carbs and work on a healthy, sustainable weight loss. Many of us in the fertility world are recommending not just paleo but a keto paleo lifestyle for women with PCOS/metabolic dysfunction. Of all the things you can do on your own, this could be the most powerful and effective.
 * Start taking your BBT’s now. The more data we have as early as possible, the more precisely we can time your acupuncture appointments where they’ll be the most effective. Your BBT charts never tell us what your diagnosis is, but I definitely find them useful for giving me information I might not get by any other means. And the more months of data we have, the better we see trends, which are much more relevant than just one month. So, start now! Then if you do end up coming for treatment, you’ll have that data for me to add into the mix.
-
-&nbsp;
 
 And if you feel ready to get going on treatment, you can use the button below to schedule an appointment.
 
