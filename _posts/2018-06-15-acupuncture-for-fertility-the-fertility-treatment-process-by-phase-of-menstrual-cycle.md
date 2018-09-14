@@ -2,7 +2,7 @@
 title: >-
   Acupuncture for Fertility: The Fertility Treatment Process, by Phase of
   Menstrual Cycle
-date: 2016-09-27 00:00:00
+date: 2018-06-15 00:00:00
 categories:
   - fertility
   - womens-health
