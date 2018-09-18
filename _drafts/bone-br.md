@@ -1,12 +1,18 @@
 ---
 title: How to eat bone broth without eating bone broth
-date:
+date: 2018-07-23 00:00:00
 categories:
+  - my-paleo-life
+  - nutrition--food
 tags:
-hero_image: /assets/images/heroes/sub-page-hero-example.jpg
+  - paleo
+  - bone broth
+hero_image:
 search_engine_optimization:
-  page_title:
-  page_description:
+  page_title: How to eat bone broth without eating bone broth
+  page_description: >-
+    If you're like me you really don't like the taste of bone broth. Here's a
+    way to drink it daily without noticing!
   share_image_path:
 layout: post
 ---
@@ -29,20 +35,22 @@ And if you’ve been doing paleo Auto-Immune Protocol (AIP) and struggle with br
 
 Years ago, my Significant Other got diagnosed with MS. So we went 100% paleo and I even did 6 months of AIP with him in solidarity. Veggie scrambles or frittatas had been our normal breakfasts, so we had no idea what to replace them with. We wanted something that still felt rich and comforting.
 
-We started making huge vats of this Chicken Bisque, and even without any cream, when all the veggies and chicken were pureed together we ended up with a savory, creamy, comforting bisque that we could just heat up quickly each morning. It fit the bill perfectly!
+We started making huge vats of [this Chicken Bisque](/2016/09/02/aip-paleo-savory-creamy-breakfast-idea/){: target="_blank"}, and even without any cream, when all the veggies and chicken were pureed together we ended up with a savory, creamy, comforting bisque that we could just heat up quickly each morning. It fit the bill perfectly!
 
 Even though he’s been living completely symptom-free and we’ve added eggs back into our diet, our most common breakfast remains this yummy chicken bisque.
 
 ### Bone broth a la Chicken Bisque
 
-We’ve got a ton of large bones in our freezer from various whole animals we’ve purchased, including pig, yak, and lamb. Just this week I got the idea to, instead of throwing away my chicken carcass each time we make the bisque, to immediately put it onto another large stock pot, add in a couple large bones from the freezer, and let it simmer overnight for making bone broth.
+We’ve got a ton of large bones in our freezer from various whole animals we’ve purchased, including pig, yak, and lamb.
+
+Just this week I got an idea: instead of throwing away my chicken carcass each time we make the bisque, I immediately put it onto another large stock pot, add in a couple large bones from the freezer, and let it simmer overnight for making bone broth.
 
 Then, stick it in the freezer, so that in a few days when it’s time to make chicken bisque again, I can just pull out the bone broth and replace it with the usual boring store-bought bland chicken stock I usually use.
 
 We just tried this for the first time, and holy COW did our bisque turn out amazing!!! It had the most rich, savory, incredibly full flavor. And, in addition to getting this boost in flavor, I got the satisfaction of knowing I was getting my bone broth in every single morning!
 
-So, I’m super excited about this little bone broth trick, and I hope it helps anyone else out there who also has a hard time with the taste of bone broth!
+#### Now we're drinking bone broth every single day!
 
-And if you’re struggling with breakfast ideas on AIP, grab a recipe for a basic chicken veggie soup, and just mix it into a bisque like we do using either an immersion blender, a regular blender, or a food processor.
+So, I’m super excited about this little bone broth trick, and I hope it helps anyone else out there who also has a hard time with the taste of bone broth!
 
 Enjoy!
