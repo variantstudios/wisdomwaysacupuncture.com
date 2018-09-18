@@ -1,12 +1,10 @@
 ---
-title: How to eat bone broth without eating bone broth
+title: How to Eat Bone Broth Without Eating Bone Broth
 date: 2018-07-23 00:00:00
 categories:
   - my-paleo-life
   - nutrition--food
 tags:
-  - paleo
-  - bone broth
 hero_image:
 search_engine_optimization:
   page_title: How to eat bone broth without eating bone broth
