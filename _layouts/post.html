@@ -37,7 +37,7 @@ layout: page
 
     <div>{{ content }}</div>
     {% if page.tags[0] %}
-    <p class="tags-label"><strong>Tags:</strong> {% for cat in page.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+    <p class="tags-label"><strong>Tags:</strong> {% for cat in page.tags %} {{cat}} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
     </p>
     {% endif %}
     <div class="social-share-wrapper">
