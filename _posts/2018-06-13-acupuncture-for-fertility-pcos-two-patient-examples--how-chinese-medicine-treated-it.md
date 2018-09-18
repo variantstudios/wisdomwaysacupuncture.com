@@ -8,8 +8,6 @@ categories:
   - fertility
   - success-stories-from-the-clinic-before-and-after-patient-cases
 tags:
-  - fertility
-  - infertility
 hero_image:
 search_engine_optimization:
   page_title: 'Acupuncture for fertility: Two Successful PCOS Cases'
@@ -33,13 +31,13 @@ Your symptoms might include those I most typically see in my patients:
 
 Many PCOS patients also have hypothyroidism, but discussing that is beyond the scope of this blog, so perhaps I’ll write about that in another post.
 
-This post will go over two types of PCOS, how I address it in my clinic to help women get pregnant, and an overview of two recent typical PCOS fertility patient’s cases. &nbsp;
+This post will go over two types of PCOS, how I address it in my clinic to help women get pregnant, and an overview of two recent typical PCOS fertility patient’s cases.  
 
 Both women ended up pregnant and the first recently gave birth, while the other just entered her 3rd trimester.
 
 ## Typical vs. Atypical PCOS
 
-Most women have the “typical” type of PCOS which goes hand in hand with metabolic disorder. These patients tend to be overweight and have blood sugar and insulin resistance issues. &nbsp;They often have a history of eating lots of processed carb-rich foods and infrequent or no exercise. Weirdly enough, these cases are often the easier type to treat.
+Most women have the “typical” type of PCOS which goes hand in hand with metabolic disorder. These patients tend to be overweight and have blood sugar and insulin resistance issues.  They often have a history of eating lots of processed carb-rich foods and infrequent or no exercise. Weirdly enough, these cases are often the easier type to treat.
 
 I also see many women with atypical PCOS. These patients are actually often very thin, take stellar care of themselves and eat great. There is no metabolic dysfunction in these cases but they often have a confirmation of PCOS by Ultrasound showing the [“string of pearls”](http://www.pcosaa.org/what-is-an-ovarian-cyst/){: target="_blank"}.
 
@@ -75,15 +73,15 @@ I’ve discovered that for many PCOS patients who are rarely having periods at a
 
 If patient’s schedules allow for it and they’re able to start out with maybe 4-5 weeks of twice/week acupuncture appointments, in many cases we’ve been able to get the ball rolling again and trigger a cycle to start.
 
-Then, once the period comes we reduce to weekly appointments or whatever is appropriate to their case. &nbsp;During those first weeks I have them start [taking their BBTs](/2014/09/02/acupuncture-for-fertility-taking-your-basal-body-temperature/){: target="_blank"}, which over time give us data to help us schedule treatments when they’re most needed, and will therefore be most beneficial. Every fertility patient also gets started on herbs as soon as possible.
+Then, once the period comes we reduce to weekly appointments or whatever is appropriate to their case.  During those first weeks I have them start [taking their BBTs](/2014/09/02/acupuncture-for-fertility-taking-your-basal-body-temperature/){: target="_blank"}, which over time give us data to help us schedule treatments when they’re most needed, and will therefore be most beneficial. Every fertility patient also gets started on herbs as soon as possible.
 
 This assertive treatment strategy doesn’t work in every case; some are certainly very stubborn.
 
-So if we can’t get a period to come in those first several weeks with assertive treatment, then I expect we’re in for a longer haul and reduce the treatment schedule down to a more reasonable pace. &nbsp;
+So if we can’t get a period to come in those first several weeks with assertive treatment, then I expect we’re in for a longer haul and reduce the treatment schedule down to a more reasonable pace.  
 
 #### Which cases tend to be more stubborn, needing longer treatment for success?
 
-The most stubborn PCOS &nbsp;cases I see are often the women who’ve been trying for several years to get pregnant, or who haven’t had a period for almost or more than a year. Patience is required in these cases! These patients often have to be on herbs for some months before we start seeing reliable periods and hormone cycles.
+The most stubborn PCOS  cases I see are often the women who’ve been trying for several years to get pregnant, or who haven’t had a period for almost or more than a year. Patience is required in these cases! These patients often have to be on herbs for some months before we start seeing reliable periods and hormone cycles.
 
 In cases where a woman needs to lose weight, this gives her time to do this as well. Even just a small 10% reduction in weight has been shown to dramatically increase the chances of success in PCOS patients with metabolic dysfunction.
 
@@ -97,7 +95,7 @@ Since both patients hadn’t had periods for a long time, they both started at 2
 
 After 4 weeks of 2x/week acupuncture and taking BBTs, there was no sign of a normal hormone cycle.
 
-However, at the beginning, her temperatures started out wildly all over the place and by the end of the 4 weeks had dramatically stabilized. &nbsp;But there was no fertile mucous and no rise in her temperature indicating ovulation.
+However, at the beginning, her temperatures started out wildly all over the place and by the end of the 4 weeks had dramatically stabilized.  But there was no fertile mucous and no rise in her temperature indicating ovulation.
 
 We knew the treatments were helping because of the improvement in her BBTs, but we decided to just put her on herbs and stop acupuncture until her first cycle came.
 
@@ -113,13 +111,13 @@ She got pregnant the next month (after about 8 months of treatment) and had no p
 
 #### Patient #2:
 
-She got a period 3 weeks into the twice/week acupuncture treatment.&nbsp; Her BBTs started showing clear hormone cycles, but her follicular phase (the phase before ovulation) was way too long and it jumped all over the place. After she ovulated her temps would stabilize.
+She got a period 3 weeks into the twice/week acupuncture treatment.  Her BBTs started showing clear hormone cycles, but her follicular phase (the phase before ovulation) was way too long and it jumped all over the place. After she ovulated her temps would stabilize.
 
 We continued to treat her with both herbs and acupuncture, scheduling almost all her appointments in her follicular phase. As the months progressed her follicular phase shortened.
 
 ##### Success!
 
-After 5 months of regular acupuncture and herbs she got pregnant, and is due in a few months.&nbsp;
+After 5 months of regular acupuncture and herbs she got pregnant, and is due in a few months. 
 
 ## Summary of PCOS treatment
 
