@@ -4,12 +4,9 @@ title: >-
   Period Comes?
 date: 2018-07-01 00:00:00
 categories:
-  - fertility
-  - womens-health
 tags:
   - fertility
   - infertility
-  - Basal body temperature
 hero_image: /assets/images/fertility-acupuncture-fort-collins-BBT.jpg
 search_engine_optimization:
   page_title: >-
