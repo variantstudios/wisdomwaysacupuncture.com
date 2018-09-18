@@ -76,12 +76,14 @@ class: blog
     <div class="editable call-to-action-sidebar top">
         <p> You can edit me. This will show just on the blog view page.</p>
     </div>
+     {% comment %}
     <h4>Categories</h4>
     <ul class="categories">
         {% for category in site.categories %}
         <li><a href={{category.url}}>{{category.title}}</a></li>
         {% endfor %}
     </ul>
+     {% comment %}
     <div class="editable call-to-action-sidebar">
         <p>You can edit me. This will show just on the blog Tags view page.</p>
     </div>
