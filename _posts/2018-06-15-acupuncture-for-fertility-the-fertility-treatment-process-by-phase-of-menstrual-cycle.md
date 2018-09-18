@@ -7,8 +7,6 @@ categories:
   - fertility
   - womens-health
 tags:
-  - fertility
-  - infertility
 hero_image:
 search_engine_optimization:
   page_title: >-
@@ -111,7 +109,7 @@ Examples:
 * if a woman is extremely cold all the time and has hypo/under-functioning of her organs in general (what we might diagnose as yang deficiency), then we’d be working on that the entire cycle, along with the other things we’re working to fix in the various phases.
 * A woman who is Yin Deficient – a generic example would be someone who is hot all the time, dry, tends to ovulate early – would need her yin addressed her entire cycle as well, not just in the “yin phase” listed below.
 
-I hope this helps you have a good understanding of how Chinese medicine can help your fertility improve. And if you're ready to start the treatment process, you can schedule an appointment using the button below.
+I hope this helps you have a good understanding of how Chinese medicine can help your fertility improve. And if you’re ready to start the treatment process, you can schedule an appointment using the button below.
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
