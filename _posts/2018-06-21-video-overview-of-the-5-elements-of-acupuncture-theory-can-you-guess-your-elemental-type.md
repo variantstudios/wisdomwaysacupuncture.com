@@ -7,7 +7,6 @@ categories:
   - five-elements
   - videos
 tags:
-  - 5-elements
 hero_image:
 search_engine_optimization:
   page_title: 'The 5 Elements of Acupuncture Theory: Can you Guess Your Elemental Type?'
