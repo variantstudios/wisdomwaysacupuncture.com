@@ -155,11 +155,9 @@ class: blog
 	</ul>
 	<p><a data-cms-editor-link-style="undefined" class="cc-active" href="/blog/category/chronic--opportunistic-infections/">Chronic &amp; Opportunistic Infections</a></p>
 	<p><a data-cms-editor-link-style="undefined" href="/blog/category/random-musings/">Random Musings</a></p>
-	<p>.</p>
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
+
 </div>
+     {% comment %}
     <h4>Categories</h4> 
     <ul class="categories">
         {% for category in site.categories %}
@@ -167,6 +165,7 @@ class: blog
         <li {% if cat_id == page_id %}class="active"{% endif %} ><a href={{category.url}}>{{category.title}}</a></li>
         {% endfor %} 
     </ul>
+     {% endcomment %}
     <div class="editable call-to-action-sidebar">
 	<h5 class="align-to-center">Like what you're reading? Subscribe below to receive posts on topics related to your interest!</h5>
 </div>
