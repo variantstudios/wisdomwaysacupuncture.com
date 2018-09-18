@@ -6,7 +6,6 @@ date: 2018-06-27 09:04:00
 categories:
   - my-approach--philosophy-and-stories
 tags:
-  - auto-immunity
 hero_image: /assets/images/heroes/acupuncture-fort-collins-disease-vs-wellness.jpg
 search_engine_optimization:
   page_title: 'Fascinated by Disease, or by Wellness? This Makes All the Difference'
@@ -33,7 +32,7 @@ We kicked into high gear and he now went paleo with me. Now we were both doing i
 
 ### The Neurologist’s Response to Auto-Immunity
 
-He'd been assigned to a neurologist who was the “top of the top” in MS treatment. She’s doing cutting edge research and people fly in from all over the country to see her. She tries out all the latest and greatest drugs on her patients.
+He’d been assigned to a neurologist who was the “top of the top” in MS treatment. She’s doing cutting edge research and people fly in from all over the country to see her. She tries out all the latest and greatest drugs on her patients.
 
 At our first appointment she was very thorough and patient in explaining the disease, and wanted to put him on drugs, the best one decreasing progression of the disease by about 30%. He would stay on it his entire life. 
 
@@ -59,14 +58,14 @@ But nope…she wasn’t interested at all.
 
 Everything about why I practice natural medicine and was never interested in a western approach for chronic illness became suddenly clear to me:
 
-Natural medicine is FASCINATED by health and the body's own ability to be well;<br>Western medicine is FASCINATED by disease.
+Natural medicine is FASCINATED by health and the body’s own ability to be well;<br>Western medicine is FASCINATED by disease.
 {: .frost_message.align-to-center}
 
 The focus on natural medicine is about everything the body already knows how to do right, about what it was designed to do, and to do well.
 
 It’s about learning to nurture that body wisdom.
 
-The focus on western medicine is on disease, testing for it and managing it, and coming up with expensive drugs and procedures to treat it. If all tests show up normal and no disease process is measurable, or if you're healing your disease without drugs; western medicine has nothing to offer.
+The focus on western medicine is on disease, testing for it and managing it, and coming up with expensive drugs and procedures to treat it. If all tests show up normal and no disease process is measurable, or if you’re healing your disease without drugs; western medicine has nothing to offer.
 
 ### Are YOU fascinated by disease, or by your body’s ability to heal?
 
