@@ -34,6 +34,15 @@ layout: page
 
                 <div class="post-content">
                 <h3><a href="{{ post.url }}" class="title">{{ post.title }}</a></h3>
+                {% comment %} <p class="posted">{{ post.date | date: "%a, %b %d, %Y" }}</p>
+
+                {% if post.categories %}
+                <p class="category-label"><strong>Categories:</strong> {% for cat in post.categories | sort: "title" %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+                </p>
+                {% endif %} {% if post.tags[0] %}
+                <p class="tags-label"><strong>Tags:</strong> {% for cat in post.tags %} <a href="{{ cat | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+                </p>
+                {% endif %}  {% endcomment %}
                  </div>
 
                  </div>
@@ -79,6 +88,16 @@ layout: page
 	<p><a data-cms-editor-link-style="undefined" href="/blog/category/random-musings/">Random Musings</a></p>
 </div>
 
+{% comment %}
+    <h4>Categories</h4>
+    
+    
+    <ul class="categories">
+        {% for category in site.categories %}
+        <li><a href={{category.url}}>{{category.title}}</a></li>
+        {% endfor %}
+    </ul>
+     {% endcomment %}
     <div class="editable call-to-action-sidebar">
 	<h5 class="align-to-center">&nbsp;</h5>
 	<h5 class="align-to-center">&nbsp;</h5>
