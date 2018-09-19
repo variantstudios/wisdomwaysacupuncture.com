@@ -20,7 +20,7 @@ search_engine_optimization:
 layout: post
 ---
 
-Last week, I wrote about our [Jing](http://www.wisdomwaysacupuncture.com/2017/12/29/is-your-jing-depleted/), how In Chinese Medicine it’s connected to our Kidney energy, and therefore the [Water Element](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), and the season that we’re in right now: winter.
+Last week, I wrote about our [Jing](http://www.wisdomwaysacupuncture.com/2017/12/29/is-your-jing-depleted/), how In Chinese Medicine it’s connected to our Kidney energy, and therefore the [Water Element](/2017/12/31/water-element-its-depths-will-keep-you-balanced-in-winter/), and the season that we’re in right now: winter.
 
 Acupuncturists know that we want to do everything possible to avoid tapping into and therefore depleting our Jing — the root of all energy —, so this week,&nbsp; I will go into a little bit more detail on some foods you can eat to keep your Jing strong.
 
