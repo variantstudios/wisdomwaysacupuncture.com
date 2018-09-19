@@ -5,7 +5,6 @@ categories:
   - my-paleo-life
   - nutrition--food
 tags:
-  - test-category
 hero_image: /assets/images/heroes/jing-bone-broth.jpg
 search_engine_optimization:
   page_title: How to eat bone broth without eating bone broth
