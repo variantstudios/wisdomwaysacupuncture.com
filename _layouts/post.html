@@ -40,7 +40,7 @@ layout: page
     <p class="tags-label"><strong>Tags:</strong> 
     {% for tag in page.tags %} {% assign tagVar = tag %}
     {% for sitetag in site.tags %}
-    {% if sitetag.path = tagVar %}
+    {% if sitetag.path == tagVar %}
     {{sitetag}}
     <!--<a href="{{ tag | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ tag | replace: '-', ' ' | capitalize }}</a> -->
     {% endif %}
