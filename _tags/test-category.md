@@ -1,5 +1,5 @@
 ---
-title: Test Category
+title: Test  Change Category
 hero_image:
 search_engine_optimization:
   page_title:
