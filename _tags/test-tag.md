@@ -1,5 +1,5 @@
 ---
-title: Test Tag
+title: Changed Test Tag
 hero_image:
 search_engine_optimization:
   page_title:
