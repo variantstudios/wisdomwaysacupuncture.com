@@ -38,14 +38,16 @@ layout: page
     <div>{{ content }}</div>
     {% if page.tags[0] %}
     <p class="tags-label"><strong>Tags:</strong> 
-    {% for tag in page.tags %} {% assign tagVar = tag %}
-    {% for sitetag in site.tags %}
-    {% if sitetag.path == tagVar %}
-    {{sitetag}}
+    {% for tag in page.tags %} 
+        {% assign tagVar = tag %}
+            {% for sitetag in site.tags %}
+            {{sitetag}}
+                {% if sitetag.path == tagVar %}
+                    {{sitetag}}
     <!--<a href="{{ tag | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ tag | replace: '-', ' ' | capitalize }}</a> -->
-    {% endif %}
-    {% endfor %}
-    {% endfor %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
     </p>
     {% endif %}
     <div class="social-share-wrapper">
