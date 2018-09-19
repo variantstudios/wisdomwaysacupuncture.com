@@ -30,23 +30,27 @@ layout: page
 
     <h1>{{page.title }}</h1>
 
-    <div>{{ content }}</div>
+    {% comment %} {% if page.categories %}
+    <p class="category-label"><strong>Categories:</strong> {% for cat in page.categories %} <a href="{{ cat | prepend: '/blog/category/' | append: '/' }}">{{ cat | replace: '-', ' ' | capitalize }}</a> {% endfor %}
+    </p>
+    {% endif %}  {% endcomment %}
 
+    <div>{{ content }}</div>
     {% if page.tags[0] %}
     <p class="tags-label"><strong>Tags:</strong> 
     {% for tag in page.tags %} 
-        {% assign postTag = tag %}
-            {% for tag in site.tags %}
-            {% assign tagPath = tag.path | replace: '_tags/', '' | replace: '.md', '' %}
-                {% if tagPath == postTag %}
-                    <a href="{{ tag.url }}">{{ tag.title }}</a> 
+        {% assign tagVar = tag %}
+            {% for sitetag in site.tags %}
+            {{sitetag}}
+                {% if sitetag.path == tagVar %}
+                    {{sitetag}}
+    <!--<a href="{{ tag | replace: ' ', '-' | prepend: '/blog/tag/' | append: '/' }}">{{ tag | replace: '-', ' ' | capitalize }}</a> -->
                 {% endif %}
             {% endfor %}
         {% endfor %}
     </p>
     {% endif %}
-
-
+    
     <div class="social-share-wrapper">
         {% include social-share.html %}
     </div>
