@@ -1,5 +1,5 @@
 ---
-title: Test  Change Category
+title: Fully Changed the Title
 hero_image:
 search_engine_optimization:
   page_title:
