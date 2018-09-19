@@ -30,7 +30,7 @@ Fertility is not just related to having good ovarian reserve, although that is o
 
 Stress is also a huge component, because when we’re stressed, hormone signaling from the pituitary to the ovaries to bring ovulation can be impaired; and everything tenses up and gets blocked, which can impair both the release of the egg from the follicle, as well as the egg’s flow through the fallopian tubes.
 
-These are just a few of the many aspects that are addressed and corrected with acupuncture and herbs. Research continues to show that Chinese medicine dramatically [improves egg quality](/2016/11/21/acupuncture-for-fertility-what-does-improving-egg-quality-really-mean/){: target="_blank"} and responsiveness to hormone stimulation, which is especially important in women over 35.
+These are just a few of the many aspects that are addressed and corrected with acupuncture and herbs. Research continues to show that Chinese medicine dramatically [improves egg quality](/2018/06/14/acupuncture-for-fertility-what-does-improving-egg-quality-really-mean/){: target="_blank"} and responsiveness to hormone stimulation, which is especially important in women over 35.
 
 If there are issues with sperm count or motility, acupuncture and herbs work very well for this also.
 
