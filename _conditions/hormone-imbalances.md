@@ -22,7 +22,7 @@ While this page is focusing on reproductive hormones, Chinese medicine can help 
 
 ## How does Acupuncture regulate hormones?
 
-Acupuncture has an overall regulatory effect on the body. &nbsp;We call it “[balancing](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic/){: target="_blank"}”. Studies have confirmed what I see clinically: that when hormone blood panels are taken before and after a course of acupuncture, they improve or even completely balance themselves out.
+Acupuncture has an overall regulatory effect on the body. &nbsp;We call it “[balancing](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic-how-to-know-if-youre-balanced-and-how-we-get-you-back-to-balance/){: target="_blank"}”. Studies have confirmed what I see clinically: that when hormone blood panels are taken before and after a course of acupuncture, they improve or even completely balance themselves out.
 
 Like everything related to actual healing, if you're looking for an instant, or “bulldozer” effect, acupuncture is not going to be the answer. It takes time for the body to “reset” itself and learn to function correctly, when you’re working naturally. &nbsp;
 
