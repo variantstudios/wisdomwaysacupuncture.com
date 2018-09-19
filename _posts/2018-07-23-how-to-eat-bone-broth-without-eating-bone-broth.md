@@ -18,7 +18,7 @@ layout: post
 
 One of the biggest hurdles for many people to drinking bone broth as they intend, is the taste.
 
-I don’t know how you feel about it, but I personally feel like bone broth tastes like I’m sucking the insides of a live animal’s bones out and slurping it down. As a huge foodie and paleo proponent, I feel like a fraud for thinking bone broth tastes gross! But the truth is, I’m queasy about eating parts of animals that stray from normal American fare.  
+I don’t know how you feel about it, but I personally feel like bone broth tastes like I’m sucking the insides of a live animal’s bones out and slurping it down. As a huge foodie and paleo proponent, I feel like a fraud for thinking bone broth tastes gross! But the truth is, I’m queasy about eating parts of animals that stray from normal American fare. &nbsp;
 
 You’ll not find me ordering liver, heart, tongue, or a gourmet bone marrow appetizer at my nearby locavore restaurant! YUCK!
 
@@ -53,3 +53,5 @@ We just tried this for the first time, and holy COW did our bisque turn out amaz
 So, I’m super excited about this little bone broth trick, and I hope it helps anyone else out there who also has a hard time with the taste of bone broth!
 
 Enjoy!
+
+&nbsp;
