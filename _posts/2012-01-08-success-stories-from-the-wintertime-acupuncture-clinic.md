@@ -15,7 +15,7 @@ search_engine_optimization:
 layout: post
 ---
 
-We’re in the middle of winter, and that means in my acupuncture clinic I am commonly treating issues which have to do with the kidneys and bladder, the two organs associated with the [Water Element](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), according to Chinese Medicine.
+We’re in the middle of winter, and that means in my acupuncture clinic I am commonly treating issues which have to do with the kidneys and bladder, the two organs associated with the [Water Element](/2017/12/31/water-element-its-depths-will-keep-you-balanced-in-winter/){: target="_blank"}, according to Chinese Medicine.
 
 Those issues can be obvious, such as frequent or difficult urination; or they can be mysterious to the non-Chinese Medicine practitioner, such as:
 
