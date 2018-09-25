@@ -41,7 +41,7 @@ One very simple example is menstrual problems related to stress. Because acupunc
 
 Another great example is painful periods: acupuncture, especially combined with [e-stim](http://www.acupuncturetoday.com/abc/electroacupuncture.php), when performed just before or during the painful days of the cycle, typically dramatically reduces the pain.
 
-A [recent study showed that a single acupuncture session with electro-acupuncture resulted in dramatic epigenetic changes in women with PCOS](https://www.researchgate.net/publication/322799461_A_Single_Bout_of_Electroacupuncture_Remodels_Epigenetic_and_Transcriptional_Changes_in_Adipose_Tissue_in_Polycystic_Ovary_Syndrome), resulting “in muscle contractions and increased whole body glucose uptake in women with polycystic ovary syndrome (PCOS)”. This is a FASCINATING study and I encourage you to check out the detailed findings.
+A [recent study showed that a single acupuncture session with electro-acupuncture resulted in dramatic epigenetic changes in women with PCOS](https://www.researchgate.net/publication/322799461_A_Single_Bout_of_Electroacupuncture_Remodels_Epigenetic_and_Transcriptional_Changes_in_Adipose_Tissue_in_Polycystic_Ovary_Syndrome){: target="_blank"}, resulting “in muscle contractions and increased whole body glucose uptake in women with polycystic ovary syndrome (PCOS)”. This is a FASCINATING study and I encourage you to check out the detailed findings.
 
 The point is, acupuncture is definitely an important part of successful treatment for hormone imbalances resulting in menstrual problems. I just have rarely found it to be enough, on its own, to actually get to the root of why the problem is there in the first place, so that we can have lasting results.
 
