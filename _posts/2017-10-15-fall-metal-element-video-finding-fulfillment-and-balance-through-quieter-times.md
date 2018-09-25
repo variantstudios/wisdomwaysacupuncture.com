@@ -1,6 +1,6 @@
 ---
 title: >-
-  Fall/Metal Element Video: Finding Fulfillment and Balance Through Quieter
+  Fall-Metal Element Video: Finding Fulfillment and Balance Through Quieter
   Times
 date: 2017-10-15 16:35:00
 categories:
@@ -22,7 +22,7 @@ layout: post
 
 In this 5 Elements video I discuss the [Metal Element](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/), related to the season of the Fall.
 
-It includes just a few [correlations related to the Metal element](http://www.wisdomwaysacupuncture.com/2011/10/05/time-to-inspire/) — mostly focused on the [emotional/spiritual aspects of Metal](http://www.wisdomwaysacupuncture.com/2011/10/26/what-we-learn-from-the-leaves-as-they-leave/) — and gives a few tips on how to draw on the gifts of the other elements to help balance a Metal element that needs some help.
+It includes just a few [correlations related to the Metal element](/2011/10/05/time-to-inspire-wisdom-from-the-metal-element-as-we-head-into-fall/){: target="_blank"} — mostly focused on the [emotional/spiritual aspects of Metal](http://www.wisdomwaysacupuncture.com/2011/10/26/what-we-learn-from-the-leaves-as-they-leave/) — and gives a few tips on how to draw on the gifts of the other elements to help balance a Metal element that needs some help.
 
 Remember though that the elements are about so much more than a short video can discuss! To learn more about the elements please poke around in Metal "category", which you can reach by the link in the sidebar, or by going back to the homepage and scrolling down to the Metal thumbnail.
 
