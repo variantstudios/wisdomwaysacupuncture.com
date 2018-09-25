@@ -23,7 +23,7 @@ layout: post
 
 <div><p>We&rsquo;ve all seen &rsquo;em, we&rsquo;ve all got &rsquo;em, right?&nbsp;</p><p>Those pesky, durable flowers that sprout up from everywhere in our gardens and driveways.&nbsp; The typical response is to either yank them out and throw them into the garden waste bag, or to give them a good dose of toxic weed killer.</p></div>
 
-Why not use them instead to your advantage, getting FREE food and medicine from an unexpected source, to balance a [Wood Element](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/){: target="_blank"} or liver that [needs all the support it can get](http://www.wisdomwaysacupuncture.com/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/) in the spring?
+Why not use them instead to your advantage, getting FREE food and medicine from an unexpected source, to balance a [Wood Element](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/){: target="_blank"} or liver that needs all the support it can get in the spring?
 
 ### Powerful Medicine for Clearing out the Excesses of Winter
 
