@@ -24,7 +24,7 @@ Nothing like a good scandal to increase the readability of my posts!&nbsp; ;-)
 
 But seriously…I did fall in love again this week…over a bowl of Cauliflower Cheese soup, and yes, the man is married. He is the famous [Jamie Oliver](http://r20.rs6.net/tn.jsp?et=1103404855210&amp;s=0&amp;e=001iMIvx37xq1hI4e0NaAVKZNZ_r8bafP1AR1bYWyRFQakyck_v7jxlP8EmCe5OtszXi9q2WvFKFK0n8fejdjUc8Gwj0uZcxKZRcW5hMH8jm11TuRelSKotSS8hUrC74Olt){: target="_blank"}, and if you haven’t heard of him, please inform yourself! Because by following his playfulness, inspiration and guidance, your life will become healthier and way more fun.
 
-<div>As my next seasonal newsletter will explain, it&rsquo;s actually important to focus on playfulness through the <a href="http://www.wisdomwaysacupuncture.com/2017/05/27/out-of-the-wood-and-into-the-fire-tips-for-keeping-your-fire-element-balanced-this-summer/">Summer/Fire</a> season.</div>
+<div>As my next seasonal newsletter will explain, it&rsquo;s actually important to focus on playfulness through the <a target="_blank" data-cms-editor-link-style="undefined" href="/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/">Summer/Fire</a> season.</div>
 
 <div>&nbsp;</div>
 
