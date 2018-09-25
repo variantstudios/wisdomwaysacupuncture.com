@@ -106,7 +106,7 @@ layout: post
 
 <div>&nbsp;</div>
 
-<div><p>Stay tuned next week for Part II of this topic, where I will go into more detail on what these supercharging foods and supplements are. As much as possible, I will build bridges between Chinese and western viewpoints on this topic, helping people make the connections between the two.</p><p>And in the meantime, whether you are a patient of mine, I met you at one of my Seasonal Eating talks, or you&rsquo;re just tuning in to my blog, I hope you all remember (or know, if you&rsquo;ve had the benefit of seeing an acupuncturist in your own hometown) the foods that are medicinal for you to be eating in general for good health and vibrancy.</p></div>
+<div><p>Stay tuned next week for <a data-cms-editor-link-style="undefined" href="/2013/02/27/constantly-sick-in-colorado-what-can-we-do-part-ii-an-acupuncturists-approach/">Part II</a> of this topic, where I will go into more detail on what these supercharging foods and supplements are. As much as possible, I will build bridges between Chinese and western viewpoints on this topic, helping people make the connections between the two.</p><p>And in the meantime, whether you are a patient of mine, I met you at one of my Seasonal Eating talks, or you&rsquo;re just tuning in to my blog, I hope you all remember (or know, if you&rsquo;ve had the benefit of seeing an acupuncturist in your own hometown) the foods that are medicinal for you to be eating in general for good health and vibrancy.</p></div>
 
 <div>And if you need some extra help with your immune system, you can schedule some acupuncture today, and we can find out your unique imbalances that are contributing to your frequent illnesses.</div>
 
