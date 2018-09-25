@@ -38,7 +38,7 @@ It was Monday morning, the beginning of another very full week.
 
 I had no food in the house.
 
-My entire “food plan” hinges upon me taking the time at some point over the weekend to shop and spend about 3-4 hours in the kitchen cooking. If I don’t take that time over the weekend, that next entire week basically goes down the drain. 
+My entire “food plan” hinges upon me taking the time at some point over the weekend to shop and spend about 3-4 hours in the kitchen cooking. If I don’t take that time over the weekend, that next entire week basically goes down the drain.&nbsp;
 
 I end up grabbing take-out food from Whole Foods deli at best, or grabbing things like Veggie puffs and crackers at worst, and just snacking on those all day to get through. (update: Since going paleo my go-to rushy snacks have changed…but the relevance of the article remains)
 
@@ -62,7 +62,7 @@ It seems so silly looking back, but suddenly, the nothing-to-eat-before-I-leave-
 * All the effort I make in the midst of the crazy processed food world we live in, to still take care of myself.
 * The fact that I’d also like to feel like I had a life outside of my food choices that should allow for some weekends “off” of cooking.
 
-I was frustrated. 
+I was frustrated.&nbsp;
 
 I was sad and teary.
 
@@ -74,9 +74,9 @@ The usual activities I love, of shopping at the farmers market, poring over my c
 
 ##### To be honest, I was just downright pissed.
 
-I was pissed at the entire industrial food complex that seemed to be “controlling” how hard eating healthy can be (do I hear Victim?). 
+I was pissed at the entire industrial food complex that seemed to be “controlling” how hard eating healthy can be (do I hear Victim?).&nbsp;
 
-I was pissed that I don’t have the kind of body that can just eat whatever I want and still feel great. 
+I was pissed that I don’t have the kind of body that can just eat whatever I want and still feel great.&nbsp;
 
 I was pissed that I wasn’t one of those people who can just tune out of their bodies completely and feel totally “fine” sitting in front of the TV munching on Doritos and delivered pizza, or working themselves into a frenzy for years on end, never taking the time to prioritize food.
 
@@ -114,7 +114,7 @@ Well, I stopped by Whole Foods on my way to work and once again, with red puffy 
 
 I stumbled through my day feeling “off” and not myself.
 
-And then, since as the saying goes, I was sick and tired enough of feeling sick and tired, I sucked it up and went against my usual weekday routine and the first chance I got, I made a list and  went to Whole Foods for real this time, and did the shop that I usually do on the weekend.
+And then, since as the saying goes, I was sick and tired enough of feeling sick and tired, I sucked it up and went against my usual weekday routine and the first chance I got, I made a list and&nbsp; went to Whole Foods for real this time, and did the shop that I usually do on the weekend.
 
 I wasn’t in the mood, and I felt like I “should” have been working if I’d been a more responsible person and “had my act together” in the first place. But I did it, so that come the next day’s lunch break, I could go home and cook, however inconvenient.
 
@@ -124,15 +124,15 @@ And that’s what I did.
 
 And I felt better.
 
-Ahhhh, relief.  The meltdown was over, inspiration renewed, and my fridge was stocked once again.
+Ahhhh, relief.&nbsp; The meltdown was over, inspiration renewed, and my fridge was stocked once again.
 
-And, I started sharing this story with some of you during your appointments as you came  for your treatments over the next few days.
+And, I started sharing this story with some of you during your appointments as you came&nbsp; for your treatments over the next few days.
 
 ### The lesson?
 
 I knew this was important to share. Why?
 
-Because as I said, I think so many of us mistake the hard times with meaning that we’re doing “it” wrong. (“It” meaning: living life like a person who “has it all together” and does IT,  RIGHT)
+Because as I said, I think so many of us mistake the hard times with meaning that we’re doing “it” wrong. (“It” meaning: living life like a person who “has it all together” and does IT,&nbsp; RIGHT)
 
 It reminds me of new meditators who think they're doing it wrong when they can't control their thoughts and "mess up" AGAIN. But to paraphrase one spiritual teacher: "Ahhhh, a million thoughts a minute! That's wonderful…a million opportunities every minute to turn your mind back to the Divine"
 
@@ -152,7 +152,7 @@ Sometimes we soar, sometimes we crawl out of the trash can and start over. This 
 
 I can happily say that I met the rest of that week with a fridge stocked full of yummy, prepared food:
 
-* Pina-Colada Chicken over Zucchini Noodles (yes, they ARE pure zucchini, no flour at all, made with my [spiralizor](http://r20.rs6.net/tn.jsp?e=001YkC9hIhNwOu6SIFvFFYQX9tPuFRk35oaHhI6DJn0j_w6PHrOfSmoOcokdNOAMluSJjEGt60SC6eroiZ6Or88l5XWy0W9CZDekrrA5av3ugaRDbyOACbXxiPhsF3J5ZL7FGdP7XIUfqwWidZSgcL7bTb9M54zKc4M6_acD_YDZUaEfVFiCSJvo3w4eC0bWESpsCON6LbJwCg-l6520FS1ToMK1GEavXY6SF1GGEEd5JJ9vVuaXmFtnAbR6yRu3tWHlFNcPMhkYd9jf91XukpJPAxsJdASecZnrSDSN-LomHFV1SbaMm_JXg==){: target="_blank"}…yay to the patient who shared that idea with me months ago, I LOVE it!)
+* Pina-Colada Chicken over Zucchini Noodles (yes, they ARE pure zucchini, no flour at all, made with my spiralizor…yay to the patient who shared that idea with me months ago, I LOVE it!)
 * Middle Eastern Lamb Meatballs over a diced cabbage, daikon radish, and cucumber salad with homeade, creamy paleo gyro sauce to drizzle over
 * Paleo Shepherd’s Pie, made with cauliflower and sweet potato mash instead of potatoes, combining both the best of Paleo and Chinese medicine nutrition principles for this time of year.
 
