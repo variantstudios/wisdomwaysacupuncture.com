@@ -22,7 +22,7 @@ layout: post
 
 I promised in my [last post on the Wood element](http://www.wisdomwaysacupuncture.com/2018/03/30/do-you-feel-the-wood-energy-rising-already-tips-for-staying-sane-as-we-switch-from-winter-to-spring/ "Do you Feel the Wood Element Energy Rising Already?: Tips From the Acupuncture Office for Staying Sane as we Switch from Winter to Spring") that I would write on the cellular affects of meditation, and why it is such an important practice for all of us to be doing.
 
-Especially as we begin to head into [wood element season](http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/) — the element notorious for, shall we say, being a little temperamental -- it’s even more important that we have some tools to counteract the heightened stress that may happen in our body.
+Especially as we begin to head into [wood element season](http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/) — the element notorious for, shall we say, being a little temperamental – it’s even more important that we have some tools to counteract the heightened stress that may happen in our body.
 
 ### The temperamental Liver
 
@@ -58,7 +58,7 @@ The longer our telomeres, the more protection our DNA has.
 
 It also turns out that the longer our telomeres, the happier and more calm and relaxed we are—and also the more mental and emotional stress we’re under, the shorter our telomeres become.
 
-#### So here's the kicker...
+#### So here's the kicker…
 
 They found that meditation actually increases the size of our telomeres. This means that not only does meditation slow the aging process of our cells, but it makes us happier and more calm!
 
@@ -74,7 +74,7 @@ So I'd suggest looking on your phone for meditation apps and pick one you like a
 
 #### Don’t forget, acupuncture was also proven to reduce stress by up-regulating and down-regulating stress hormones!
 
-And of course, let’s not forget acupuncture’s proven effects in improving our stress hormones. As explained in detail [in this post](http://www.wisdomwaysacupuncture.com/2014/01/10/acupuncture-reduces-stress-by-regulating-hormones-new-study-shows/){: target="_blank"} of mine, this was discovered by watching the areas of the brain that light up in response to acupuncture points—the same areas that control stress hormone regulation. So when you’re laying on the table and wondering how, oh how can this possibly be SO RELAXING…just visualize those brain centers lighting up, and your channels opening as all your Qi starts flowing smoothly and everything gets a change to just&nbsp; c&nbsp; a&nbsp; l&nbsp; m&nbsp; &nbsp;&nbsp; d o w n n n n nnnnn…. :-)
+And of course, let’s not forget acupuncture’s proven effects in improving our stress hormones. As explained in detail [in this post](/2014/03/28/acupuncture-helps-stress-by-regulating-hormones-new-study-shows/){: target="_blank"} of mine, this was discovered by watching the areas of the brain that light up in response to acupuncture points—the same areas that control stress hormone regulation. So when you’re laying on the table and wondering how, oh how can this possibly be SO RELAXING…just visualize those brain centers lighting up, and your channels opening as all your Qi starts flowing smoothly and everything gets a change to just&nbsp; c&nbsp; a&nbsp; l&nbsp; m&nbsp; &nbsp;&nbsp; d o w n n n n nnnnn…. :-)
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
