@@ -44,7 +44,7 @@ Why is this?
 * Second, we all have our weak links in our bodies, made worse by our lifestyle habits.&nbsp; Overwork, stress, and not eating well…all the things we all KNOW deplete us, continue to chip away at our weak link, over time causing the need for rebalancing. This can actually happen at any time of year, and is not just limited to fall.
 * Third, while some patients go from practically disabled to pretty well-functioning, they may have a hard time progressing to really thriving.&nbsp; They might get dramatic improvement that feels like a success to them, but then reach a plateau. In almost every case this is due to lifestyle factors mentioned.&nbsp; So, I don’t count these as 100% recovered.
 
-Because [Late Summer/Earth](/2016/08/21/acupuncture-tips-from-the-earth-element-for-staying-balanced-in-late-summer/) time is related to the muscle tissue as well as to the organs of digestion, this is another great reason to treat muscle issues/pain during this time of year, in addition to the digestive issues spoken about in the seasonal article.
+Because [Late Summer/Earth](/2016/08/21/tips-from-earth-its-all-about-receiving-and-nourishment/) time is related to the muscle tissue as well as to the organs of digestion, this is another great reason to treat muscle issues/pain during this time of year, in addition to the digestive issues spoken about in the seasonal article.
 
 Remember…no one need be debilitated by Chronic Fatigue and Fibromyalgia!
 
