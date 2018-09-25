@@ -19,7 +19,7 @@ layout: post
 
 &nbsp;
 
-Because according to Chinese medicine we are still in the season related to the [liver (Wood)](http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/), I am continuing to focus my posts on various things you can do to help keep your liver balanced.&nbsp; Don’t worry…soon enough we’ll be in the season related to [Fire](http://www.wisdomwaysacupuncture.com/2017/05/22/summer-is-here-time-to-nurture-your-heart-fire/), and you’ll get to hear some completely new stuff. :-)
+Because according to Chinese medicine we are still in the season related to the [liver (Wood)](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/){: target="_blank"}, I am continuing to focus my posts on various things you can do to help keep your liver balanced.&nbsp; Don’t worry…soon enough we’ll be in the season related to [Fire](/2017/05/23/into-the-fire-we-go-tips-for-staying-balanced-in-summer/){: target="_blank"}, and you’ll get to hear some completely new stuff. :-)
 
 ## Western vs. Chinese “Liver”
 
