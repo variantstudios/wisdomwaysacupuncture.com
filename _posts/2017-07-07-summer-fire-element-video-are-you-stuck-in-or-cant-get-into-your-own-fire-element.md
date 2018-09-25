@@ -1,7 +1,7 @@
 ---
 title: >-
-  Summer/Fire Element VIDEO: Are You Stuck in, or Can&#8217;t Get Into, Your Own
-  Fire Element?
+  Summer-Fire Element VIDEO: Are You Stuck in, or Can't Get Into, Your Own Fire
+  Element?
 date: 2017-07-07 18:07:00
 categories:
   - summer--fire-element
@@ -22,9 +22,9 @@ search_engine_optimization:
 layout: post
 ---
 
-Welcome to [Summer, the Fire season](http://www.wisdomwaysacupuncture.com/2011/06/15/out-of-the-wood-and-into-the-fire-tips-for-keeping-your-fire-element-balanced-this-summer/), and my latest video in my 5 Elements series!
+Welcome to [Summer, the Fire season](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/){: target="_blank"}, and my latest video in my 5 Elements series!
 
-This one focuses on the [Fire element](http://www.wisdomwaysacupuncture.com/2017/05/23/into-the-fire-we-go-more-tips-from-an-acupuncturist-for-staying-balanced-in-summer/), and while there’s way too much to say about each element to fit into a short helpful video, I cover three vital aspects and functions of the Fire energy, and leave you with some tips you can follow if after watching the video, you think your [Fire Element could use some nurturing](http://www.wisdomwaysacupuncture.com/2014/08/15/fire-element-robin-williams-suicidedepression/).
+This one focuses on the [Fire element](/2017/05/23/into-the-fire-we-go-tips-for-staying-balanced-in-summer/){: target="_blank"}, and while there’s way too much to say about each element to fit into a short helpful video, I cover three vital aspects and functions of the Fire energy, and leave you with some tips you can follow if after watching the video, you think your [Fire Element could use some nurturing](/2011/08/03/a-powerful-recipe-to-nourish-and-cleanse-your-heartfire-element/){: target="_blank"}.
 
 Enjoy!
 
