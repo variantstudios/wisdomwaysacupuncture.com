@@ -5,8 +5,6 @@ categories:
   - nutrition--food
   - random-musings
 tags:
-  - food-safety
-  - monsanto-evil
 hero_image: /assets/images/heroes/Genetically-modified-foods.jpg
 search_engine_optimization:
   page_title: 'We Deserve to Know: An Acupuncturist''s Persepective on GM Foods'
