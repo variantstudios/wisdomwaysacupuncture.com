@@ -42,4 +42,5 @@ Are you currently under a lot of stress?&nbsp; As we head into â€œ[liver seasonâ
 
 &nbsp;To schedule an appointment to decrease your stress and try acupuncture for yourself, click the button below.
 
-Schedule an Appointment
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
