@@ -16,7 +16,7 @@ search_engine_optimization:
 layout: post
 ---
 
-<div id="attachment_2177"><p>Anxiety is one of the most common things I treat here in the acupuncture clinic.</p><p>Recently I posted a blog about the <a href="http://www.wisdomwaysacupuncture.com/2017/04/11/new-study-shows-how-acupuncture-helps-stress/">new study that gives us a clue as to how acupuncture is helping with stress</a>, by regulating our stress hormones in the brain, blocking the HPA pathway to ward off heightened tension.</p></div>
+<div id="attachment_2177"><p>Anxiety is one of the most common things I treat here in the acupuncture clinic.</p><p>Recently I posted a blog about the <a target="_blank" data-cms-editor-link-style="undefined" href="/2014/03/28/acupuncture-helps-stress-by-regulating-hormones-new-study-shows/">new study that gives us a clue as to how acupuncture is helping with stress</a>, by regulating our stress hormones in the brain, blocking the HPA pathway to ward off heightened tension.</p></div>
 
 On the heels of that report, this week I am going to share a real world story of a current patient who is a very typical one which I see for stress and anxiety.&nbsp; Her name has been changed for confidentiality, and I will call her Brenna.&nbsp;
 
