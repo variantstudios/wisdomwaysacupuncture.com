@@ -30,7 +30,7 @@ Chinese medicine is the primary course of treatment in these cases all over Chin
 
 ## Chinese Herbs for Gynecological Issues
 
-Herbs are often a non-negotiable aspect of the treatment for many gynecological issues. &nbsp;Like the use of herbs for any other condition, the herbs chosen will be targeted towards each woman’s specific [imbalances](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic/){: target="_blank"}. &nbsp;They might also be given in “phases”, changing throughout the course of a woman’s monthly cycle.
+Herbs are often a non-negotiable aspect of the treatment for many gynecological issues. &nbsp;Like the use of herbs for any other condition, the herbs chosen will be targeted towards each woman’s specific [imbalances](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic-how-to-know-if-youre-balanced-and-how-we-get-you-back-to-balance/){: target="_blank"}. &nbsp;They might also be given in “phases”, changing throughout the course of a woman’s monthly cycle.
 
 Herbs are so powerful for treating gynecological issues that they are commonly the first-course and only treatment used to resolve these issues in China.
 
