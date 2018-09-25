@@ -27,7 +27,7 @@ This week, I will focus on fibromyalgia, which unfortunately is becoming more an
 
 ## Acupuncturists say pain relates to the liver?
 
-But lets continue with the theme of last week and talk about what all of this has to do with [the liver](http://www.wisdomwaysacupuncture.com/2012/04/25/avoid-random-pains-by-keeping-your-liver-healthy/).
+But lets continue with the theme of last week and talk about what all of this has to do with [the liver](/2012/04/25/avoid-random-pains-by-keeping-your-liver-healthy/){: target="_blank"}.
 
 If you’ve been my patient or have been receiving my emails or reading my blog for any length of time, then you’re familiar by now with the liver’s role in creating and regulating stress. This is a unique function of the liver only recognized by Chinese medicine, and when we treat it successfully and manage to balance the liver, dramatic shifts begin to occur in emotional symptoms.
 
