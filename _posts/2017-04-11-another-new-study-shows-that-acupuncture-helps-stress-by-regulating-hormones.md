@@ -40,4 +40,6 @@ The results from this acupuncture study also shed light on why our sex drive and
 
 Are you currently under a lot of stress?&nbsp; As we head into “[liver season” (spring, related to the Wood element](http://www.wisdomwaysacupuncture.com/2018/03/30/do-you-feel-the-wood-energy-rising-already-tips-for-staying-sane-as-we-switch-from-winter-to-spring/)), we will all be more prone to increased impatience, agitation, and irritation.&nbsp; Why not come in soon for some acupuncture and give your brain a chance to relax by blocking that HPA pathway, or in Chinese medical terms, getting your liver qi to flow smoothly.&nbsp; Your entire body will thank you for it!
 
-&nbsp;To schedule an appointment to decrease your stress and try acupuncture for yourself, click here: [online scheduling page](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/ "Online Acupuncture Scheduling")
+&nbsp;To schedule an appointment to decrease your stress and try acupuncture for yourself, click the button below.
+
+Schedule an Appointment
