@@ -27,7 +27,7 @@ Because of how absolutely debilitating chronic headaches and migraines can be, a
 
 ## Acupuncture treatment for headaches and migraines
 
-Each person has the symptom for a unique reason, and we call that reason an “[imbalance](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic/)”.
+Each person has the symptom for a unique reason, and we call that reason an “[imbalance](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic-how-to-know-if-youre-balanced-and-how-we-get-you-back-to-balance/){: target="_blank"}”.
 
 Through a thorough diagnostic intake, during which I ask many detailed questions about the rest of the body, I’m able to hone it down to a diagnosis that not only explains the migraines, but any other symptoms a person is having as well. From there, we start treatment with acupuncture.
 
