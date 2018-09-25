@@ -19,15 +19,15 @@ search_engine_optimization:
 layout: post
 ---
 
-Since I wrote [an article](http://www.wisdomwaysacupuncture.com/2011/01/08/buying-grassfed-beef-locally-through-sunrise-ranch/) in my newsletter for my acupuncture patients on Sunrise Ranch Grass-fed beef, I thought I would include my latest favorite recipe which does include beef.
+Since I wrote [an article](/2011/01/08/buying-grassfed-beef-locally-through-sunrise-ranch/) in my newsletter for my acupuncture patients on Sunrise Ranch Grass-fed beef, I thought I would include my latest favorite recipe which does include beef.
 
-This recipe is loaded with veggies that will build up your Qi and Yang and keep you fortified and toasty during our cold weather.&nbsp; Also, because it is very slowly baked for 3-4 hours, it is virtually swimming in [warming Yang energy…and you’ll like that all you coldies!](http://www.wisdomwaysacupuncture.com/2013/01/11/brrrrrrr-are-you-hypersensitive-to-the-cold-your-acupuncturist-says-you-may-be-yang-deficient-signs-and-symptoms-of-yang-deficiency/)
+This recipe is loaded with veggies that will build up your Qi and Yang and keep you fortified and toasty during our cold weather.&nbsp; Also, because it is very slowly baked for 3-4 hours, it is virtually swimming in [warming Yang energy…and you’ll like that all you coldies!](/2013/01/11/brrrrrrr-are-you-hypersensitive-to-the-cold-your-acupuncturist-says-you-may-be-yang-deficient-signs-and-symptoms-of-yang-deficiency/){: target="_blank"}
 
-Serve it with some sauerkraut on the side to contain and direct your Qi even deeper inside where it can stay protected and warm. (For those of you who missed [the article](http://www.wisdomwaysacupuncture.com/2010/12/07/when-eating-more-salt-will-help-conserve-your-qi/) I sent out several weeks ago to my acupuncture patients, sour and salty flavors serve to contain and direct inwards, which is exactly what we want to happen to our Qi in the cold winter months so it does not scatter out and dissipate)&nbsp; Also, sauerkraut will add a nice balance of soft and crunchy, cold and warm, savory and sour.
+Serve it with some sauerkraut on the side to contain and direct your Qi even deeper inside where it can stay protected and warm. (For those of you who missed [the article](/2010/12/07/when-eating-more-salt-will-help-conserve-your-qi/){: target="_blank"} I sent out several weeks ago to my acupuncture patients, sour and salty flavors serve to contain and direct inwards, which is exactly what we want to happen to our Qi in the cold winter months so it does not scatter out and dissipate)&nbsp; Also, sauerkraut will add a nice balance of soft and crunchy, cold and warm, savory and sour.
 
 \*Please know, for those of you who have damp and/or heat conditions, you want to go very easy on beef, or even switch it to chicken in this recipe and let me know how it goes!&nbsp; Also, because there is quite a bit of red wine in this recipe, even though the alcohol will evaporate out during cooking, those with damp-heat conditions (gout, red/swelling arthritic conditions) will want to go easy…if you can stand it. :-)
 
-#### Let’s give thanks once again to [Jamie Oliver](http://r20.rs6.net/tn.jsp?llr=lem6kddab&amp;et=1104078084179&amp;s=0&amp;e=001VPMzYI6b7ar9WEyjKRWHHQkuqK4wiGZ2Oehm8X2oxTFy17klLxhgSMT_QXjJFDprlV0Dh2PUMcQUH7Yvyhoms2DDlDPpquy6q4qrNU9P0oFB-5gLS037qmqxlxBq6wEZvgzHjMTcqUIz_ofls4Ubrb-EKdT2_GcxsgJQa0lb1JAMuIOzAX459mGyv1OD0ojdW00ZESX_vqHZv1ZVMI01X1heIm0z_v9j){: target="_blank"} for creating yet another fabulous and easy recipe from which I adapted the following!
+#### Let’s give thanks once again to Jamie Oliver for creating yet another fabulous and easy recipe from which I adapted the following!
 
 #### Jool’s Favorite Beef Stew
 
