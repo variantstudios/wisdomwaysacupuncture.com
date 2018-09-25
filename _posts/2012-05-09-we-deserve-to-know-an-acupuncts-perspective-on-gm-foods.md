@@ -17,7 +17,7 @@ search_engine_optimization:
 layout: post
 ---
 
-##### 5/9/2012
+##### &nbsp;
 
 I usually don’t send out even quasi-political emails to my patients, because I feel in most cases it’s not appropriate.&nbsp;
 
@@ -57,9 +57,9 @@ Because Monsanto is doing their best to own as much of the seeds in the world as
 
 <div>Not when the top officials in both agencies are the same people who cycle through top executive or legal positions within the biotech industry.&nbsp; Just some examples:<br />&nbsp;<ul><li>Tom Vilsack, Secretary of Agriculture: a leading advocate for Monsanto: Our own leader of the USDA, as Iowa state governor originated a bill that effectively blocked local communities from regulating where genetically engineered crops would be grown; additionally, Vilsack was the founder and former chair of the Governor&rsquo;s Biotechnology Partnership, and was named Governor of the Year by the <a>Biotechnology Industry Organization</a>, an industry <a>lobbying</a> group.</li></ul></div>
 
-* [Michael Taylor, Senior Adviser to the Food and Drug Administration Commissioner on Food Safety](): former Monsanto lobbyist
+* [Michael Taylor, Senior Adviser to the Food and Drug Administration Commissioner on Food Safety](){: .cc-active}: former Monsanto lobbyist
 
-* [Roger Beachy, Director of the National Institute of Food and Agriculture](): long time Monsanto collaborator : Heads an institute which was established by Monsanto and academic partners with a $70-million pledge from the corporation. It’s effectively a Monsanto front.
+* [Roger Beachy, Director of the National Institute of Food and Agriculture](){: .cc-active}: long time Monsanto collaborator : Heads an institute which was established by Monsanto and academic partners with a $70-million pledge from the corporation. It’s effectively a Monsanto front.
 
 ### But I’ve heard that GM foods are identical to their non-GMO counterparts?
 
