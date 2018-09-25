@@ -27,9 +27,9 @@ layout: post
 
 People love hating beets.
 
-I do admit, they can go either way…if not cooked right, they have a taste that can be a little...well, bad. But I just tried a new recipe this week that has me fanatical over this humble red root.
+I do admit, they can go either way…if not cooked right, they have a taste that can be a little…well, bad. But I just tried a new recipe this week that has me fanatical over this humble red root.
 
-Because beets are so wonderful for nourishing your “liver blood”, and according to acupuncture and Chinese medicine theory we are in [Wood season](/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/) which relates to the liver, this is a perfect time to get down as many of these little spherical friends as possible.
+Because beets are so wonderful for nourishing your “liver blood”, and according to acupuncture and Chinese medicine theory we are in [Wood season](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/){: target="_blank"} which relates to the liver, this is a perfect time to get down as many of these little spherical friends as possible.
 
 ### Women can especially benefit from eating beets
 
