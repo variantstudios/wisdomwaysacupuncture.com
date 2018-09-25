@@ -1,6 +1,6 @@
 ---
 title: >-
-  An Acupuncturist's Insight: What your Impatience/Agitation and What I Saw in
+  An Acupuncturist's Insight: What your Impatience-Agitation and What I Saw in
   My Garden Have in Common
 date: 2018-03-04 14:40:00
 categories:
