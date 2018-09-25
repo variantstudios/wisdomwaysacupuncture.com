@@ -59,7 +59,7 @@ Springtime, in general, is a time when most of us can start adding more raw food
 
 The foods we tend to eat as the base of salads, (greens of all kinds, including lettuces) grow and move upwards very quickly.&nbsp; That means that those foods impart those qualities of movement and growth in us as well.&nbsp; This ability of these foods to “move” our energy is perfect in the spring, as we come out of typically more stagnant winters, when we are more sedentary and tend to accumulate some extra weight.
 
-[Springtime, being associated with the Wood Element](http://www.wisdomwaysacupuncture.com/2013/03/23/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/ "Ready, Set…WOOD SEASON! What Acupuncture Theory Has to Say About Spring"), is also about personal growth and vision. So if you’re feeling stagnant and blocked in life, eating foods that impart the qualities of moving stagnation and rapid growth, can help get you out of an emotional or psychological rut as well.
+[Springtime, being associated with the Wood Element](/2018/03/10/wood-element-spring-acupuncture-theory-video-tips-to-keep-your-wood-element-balanced-as-we-head-into-spring/ "Ready, Set…WOOD SEASON! What Acupuncture Theory Has to Say About Spring"), is also about personal growth and vision. So if you’re feeling stagnant and blocked in life, eating foods that impart the qualities of moving stagnation and rapid growth, can help get you out of an emotional or psychological rut as well.
 
 #### Caution for cold people!
 
