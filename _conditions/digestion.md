@@ -30,13 +30,13 @@ Perhaps you:
 
 Because problems like this are so prevalent, I'm typically working on improving the digestion of every patient. The prognosis is generally very good – even for life-long problems.
 
-And because digestion — and therefore good nutrient absorption —  is so important for overall health and wellness, it is vital that we not only improve your digestive problems, but that we address it during the treatment of any ailment.
+And because digestion — and therefore good nutrient absorption —&nbsp; is so important for overall health and wellness, it is vital that we not only improve your digestive problems, but that we address it during the treatment of any ailment.
 
 Whether caused by stress/anxiety, food allergies, auto-immunity, parasites, or just general poor health and weakness, I see great results using both acupuncture and herbs.
 
 ## Acupuncture Treatment for Digestion
 
-Acupuncture always works by first figuring out how all your symptoms are related to your own unique [imbalances](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic/){: target="_blank"}. Two people with the exact same digestive symptoms could have completely different underlying imbalances.
+Acupuncture always works by first figuring out how all your symptoms are related to your own unique [imbalances](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic-how-to-know-if-youre-balanced-and-how-we-get-you-back-to-balance/){: target="_blank"}. Two people with the exact same digestive symptoms could have completely different underlying imbalances.
 
 Being able to diagnose why you are having your symptoms, and how your imbalances are playing out, is the key to not only resolving your issues, but to treating any accompanying symptoms that go along with your imbalance.
 
