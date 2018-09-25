@@ -1,7 +1,7 @@
 ---
 title: >-
   Liver Imbalance: Acupuncture and: Headaches, Migraines, Digestive Problems,
-  Insomnia, Stress/Agitation and More!
+  Insomnia, Stress-Agitation and More!
 date: 2012-03-14 12:59:00
 categories:
   - my-approach--philosophy-and-stories
@@ -26,7 +26,7 @@ layout: post
 
 ## Liver related symptoms get exacerbated in the Wood Element Season of acupuncture theory
 
-As I wrote about in my “[chive](http://www.wisdomwaysacupuncture.com/2018/03/04/an-acupuncturists-insight-what-your-inmpatience-agitation-and-what-i-saw-in-my-yard-have-in-common/)” blog, it is common as an acupuncturist to see an increase in each season of symptoms related to the organ that is associated with that current season.&nbsp;
+As I wrote about in my “[chive](/2018/03/04/an-acupuncturists-insight-what-your-impatience-agitation-and-what-i-saw-in-my-garden-have-in-common/){: target="_blank"}” blog, it is common as an acupuncturist to see an increase in each season of symptoms related to the organ that is associated with that current season.&nbsp;
 
 #### According to Chinese Medicine, Spring is associated with the Wood Season.&nbsp;
 
@@ -36,7 +36,7 @@ The Wood Element is related to the liver, and because the liver is an organ that
 
 One area where acupuncture excels is “moving” Qi, or life force energy.&nbsp; Western medicine would translate this into “increasing circulation”; or “activating the nervous system”, which is simply a series of electrical pathways in our body along which electricity, or energy, flows.&nbsp;
 
-Because it is the liver’s nature to move rapidly, and in fact that is one of the “jobs” associated with the liver in Chinese Medicine; using acupuncture -- which helps the energy move -- immediately affects the liver.
+Because it is the liver’s nature to move rapidly, and in fact that is one of the “jobs” associated with the liver in Chinese Medicine; using acupuncture – which helps the energy move – immediately affects the liver.
 
 ## Blocked Qi and Liver Imbalance
 
