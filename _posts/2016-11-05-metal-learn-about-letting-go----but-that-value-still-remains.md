@@ -28,11 +28,11 @@ As with every season in Chinese Medicine, Fall brings with it its own value, whi
 
 ## Metal Element and Autumn
 
-Fall is the season of the [Metal element](http://www.wisdomwaysacupuncture.com/2017/10/15/metal-element-video-live/), and is related physically to the lungs and bowels, and psychologically to not only grief and sadness, but also inspiration and wisdom.
+Fall is the season of the [Metal element](/2017/10/15/fall-metal-element-video-finding-fulfillment-and-balance-through-quieter-times/){: target="_blank"}, and is related physically to the lungs and bowels, and psychologically to not only grief and sadness, but also inspiration and wisdom.
 
 Just as precious metals contain value, so is this time of year about looking towards that which adds value to our lives, and letting the rest go.
 
-We inspire with our lungs, and likewise, [by aligning with that which is valuable, we bring the inspiration](http://www.wisdomwaysacupuncture.com/2011/11/20/the-gift-of-inspiration-tips-for-holiday-shopping-from-the-metal-element/) needed to pull through times of sorrow and quiet.
+We inspire with our lungs, and likewise, [by aligning with that which is valuable, we bring the inspiration](/2011/11/20/the-gift-of-inspiration-tips-for-holiday-shopping-from-the-metal-element/){: target="_blank"} needed to pull through times of sorrow and quiet.
 
 But while it’s a time of letting go, we must realize that all is not lost. For as falling leaves, fruits, and seeds are potentized by their descent into the soil and used as compost for next Spring’s new growth, so too can what’s left after the “letting go” bring powerful gifts for our future expansion.
 
@@ -50,7 +50,7 @@ As we emotionally let go of what no longer serves us, our bowels let go also, mo
 
 Constipation comes for those who have a hard time letting go, and this manifests emotionally in the form of depression — we lose all inspiration for life.
 
- 
+&nbsp;
 
 ## Balance your Metal with the following tips:
 
