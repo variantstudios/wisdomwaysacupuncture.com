@@ -24,7 +24,7 @@ search_engine_optimization:
 layout: post
 ---
 
-The past few weeks I’ve been focusing on our Jing, which is stored in our Kidneys, and is related to the [Water Element](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/) in Chinese Medicine.
+The past few weeks I’ve been focusing on our Jing, which is stored in our Kidneys, and is related to the [Water Element](/2017/12/31/water-element-its-depths-will-keep-you-balanced-in-winter/){: target="_blank"} in Chinese Medicine.
 
 This week, I’m going to teach you a simple, pleasurable meditation exercise that you can do outside the acupuncture clinic, to increase your kidney function, [build your vital Qi](/2018/01/02/foods-to-nourish-your-jing-an-acupuncturists-approach-to-using-chinese-medicine-nutritional-principles-for-staying-healthy/){: target="_blank"} to enhance health and immunity, and connect back into your peaceful center. This peaceful center is known to acupuncturists as the lower “Dan Tian”.
 
