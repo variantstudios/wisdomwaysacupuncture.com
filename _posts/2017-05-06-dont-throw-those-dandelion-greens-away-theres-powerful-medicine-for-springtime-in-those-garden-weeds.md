@@ -49,7 +49,7 @@ The body is overwhelmed and taxed with all these foods that weaken the digestion
 
 Eating more foods that help rid this condition from the body at the same time as stimulating the digestive function, is key.&nbsp;
 
-And springtime is the best time of year to do this, because [it is the season associated with, according to the 5 Elements theory of Chinese medicine, the Liver](http://www.wisdomwaysacupuncture.com/2018/03/09/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/).&nbsp;
+And springtime is the best time of year to do this, because it is the season associated with, according to the 5 Elements theory of Chinese medicine, the Liver.&nbsp;
 
 The liver is the organ that processes our fats and detoxes our body.&nbsp; Since springt is the season when the liver is king, eating foods during this season to aid it in its clearing-out function, will have a dramatic affect on its ability to do its job well.
 
