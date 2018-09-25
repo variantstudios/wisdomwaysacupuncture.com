@@ -52,9 +52,9 @@ But this doesn’t mean that the functions&nbsp; or effects of the medicine are 
 
 ### You don’t have to believe in the Yin/Yang theory for acupuncture to work.
 
-Studies, such as those I wrote about in [this blog](http://www.wisdomwaysacupuncture.com/2014/02/12/acupuncture-points-proven-exist-scientific-study/ "Acupuncture Points Proven to Exist in Scientific Study!"){: target="_blank"}, are proving the physiological effects of acupuncture on the brain and hormones.&nbsp; So if you want to say it’s balancing your yin and yang, fine.
+Studies, such as those I wrote about in the following blog, are [proving the physiological effects of acupuncture](/2014/02/12/acupuncture-points-proven-to-exist-in-scientific-study/){: target="_blank"} on the brain and hormones.&nbsp; So if you want to say it’s balancing your yin and yang, fine.
 
-But you could just as easily say it’s balancing your hormones, because that’s one of the effects science is acknowledging&nbsp; is happening, by the acupuncture stimulating areas of the brain that regulate our hormones.
+But you could just as easily say it’s balancing your hormones, because that’s one of the effects science is acknowledging is happening, by the acupuncture stimulating areas of the brain that regulate our hormones.
 
 To give an example, it is very common that a woman will come in with lab results showing hormone imbalance. I will translate her imbalance into whatever TCM (Traditional Chinese Medicine) imbalances are showing up in her body, and work to resolve those imbalances using acupuncture and herbs. Once her TCM imbalances are restored, when she goes back in to recheck her hormones, they are naturally balanced without the use of chemical intervention.
 
