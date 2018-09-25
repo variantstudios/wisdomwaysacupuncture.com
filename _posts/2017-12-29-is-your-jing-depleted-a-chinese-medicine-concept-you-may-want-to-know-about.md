@@ -18,9 +18,9 @@ layout: post
 
 ## What is Jing, and why does it matter for my health?
 
-Jing is a concept that I don’t talk about much in the acupuncture clinic, but according to Chinese Medicine, it has everything to do with the elemental season we’re in now: Water. 
+Jing is a concept that I don’t talk about much in the acupuncture clinic, but according to Chinese Medicine, it has everything to do with the elemental season we’re in now: Water.&nbsp;
 
-It is all wrapped up with the kidney energy; and for those of you who read my [winter seasonal article](http://www.wisdomwaysacupuncture.com/2015/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/ "The Depths of the Water Element will Keep you Balanced this Winter"){: target="_blank"}, you know that the kidneys, the Water Element, and Winter, are all related.
+It is all wrapped up with the kidney energy; and for those of you who read my [winter seasonal article](/2017/12/31/water-element-its-depths-will-keep-you-balanced-in-winter/ "The Depths of the Water Element will Keep you Balanced this Winter"){: target="_blank"}, you know that the kidneys, the Water Element, and Winter, are all related.
 
 <div>According to Acupuncture theory, the kidneys store our root Qi, which is comprised of both kidney yin and kidney yang.&nbsp; If you&rsquo;re my patient and you haven&rsquo;t heard me talk much about your kidneys, you are probably doing great in that regard.&nbsp;</div>
 
@@ -56,7 +56,7 @@ It is all wrapped up with the kidney energy; and for those of you who read my [w
 
 Or, we may be living such an exhausting, overworked and undernourished lifestyle, that our daily nutrition can’t keep up with our body’s needs; so we end up tapping into our Jing for energy, causing serious health issues and major debilitation.
 
-For anyone trying to get pregnant and having problems, it could be a Jing deficiency issue.  (There are many reasons why a person could have fertility issues, and Jing deficiency is just one of them. But since winter is a great time to nourish your kidneys and thus retain as much Jing as possible, I mention this now.)
+For anyone trying to get pregnant and having problems, it could be a Jing deficiency issue.&nbsp; (There are many reasons why a person could have fertility issues, and Jing deficiency is just one of them. But since winter is a great time to nourish your kidneys and thus retain as much Jing as possible, I mention this now.)
 
 <div>&nbsp;</div>
 
@@ -71,8 +71,8 @@ For anyone trying to get pregnant and having problems, it could be a Jing defici
 * Qi Gong,Tai Qi, and restorative/yin yoga are fabulous for nurturing the jing
 * many forms of meditation focus your energy into your jing
 * specific Chinese herbs are fabulous for building strong and vital Kidney Qi, which then prevents your body from tapping into your jing.
-* If you’re a patient of mine and we have discussed your diagnosis and you know you are kidney yin depleted, then go back to my [last blog](http://www.wisdomwaysacupuncture.com/2015/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/ "The Depths of the Water Element will Keep you Balanced this Winter"){: target="_blank"} for the Water Element and focus on eating as many foods from the Yin nourishing list as possible. If you’re yang deficient, then focus on those yang building foods, the warming ones.  Winter is an especially good time to work on building up the kidneys since it is their season. 
-* Royal Jelly and Bee Pollen are both fabulous tonics, and specifically, Jing tonics.  Royal jelly promotes longevity and reproductive ability in the queen bee, and can impart those same attributes to humans.  For those with a low sex drive, this can help promote sexual energy.  Most of you don’t need quite such a strong tonic, and can maintain your jing well with Bee Pollen, which is less potent. 
+* If you’re a patient of mine and we have discussed your diagnosis and you know you are kidney yin depleted, then go back to my [last blog](http://www.wisdomwaysacupuncture.com/2015/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/ "The Depths of the Water Element will Keep you Balanced this Winter"){: target="_blank"} for the Water Element and focus on eating as many foods from the Yin nourishing list as possible. If you’re yang deficient, then focus on those yang building foods, the warming ones.&nbsp; Winter is an especially good time to work on building up the kidneys since it is their season.&nbsp;
+* Royal Jelly and Bee Pollen are both fabulous tonics, and specifically, Jing tonics.&nbsp; Royal jelly promotes longevity and reproductive ability in the queen bee, and can impart those same attributes to humans.&nbsp; For those with a low sex drive, this can help promote sexual energy.&nbsp; Most of you don’t need quite such a strong tonic, and can maintain your jing well with Bee Pollen, which is less potent.&nbsp;
 
 <div>Even for those of us who don&rsquo;t have kidney imbalances, we ALL need to work on maintaining strong and vibrant kidneys, for they do store our life-force energy.&nbsp;</div>
 
