@@ -23,7 +23,7 @@ layout: post
 
 <div><p>We&rsquo;ve all seen &rsquo;em, we&rsquo;ve all got &rsquo;em, right?&nbsp;</p><p>Those pesky, durable flowers that sprout up from everywhere in our gardens and driveways.&nbsp; The typical response is to either yank them out and throw them into the garden waste bag, or to give them a good dose of toxic weed killer.</p></div>
 
-Why not use them instead to your advantage, getting FREE food and medicine from an unexpected source, to balance a [Wood Element](http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/) or liver that [needs all the support it can get](http://www.wisdomwaysacupuncture.com/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/) in the spring?
+Why not use them instead to your advantage, getting FREE food and medicine from an unexpected source, to balance a [Wood Element](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/){: target="_blank"} or liver that [needs all the support it can get](http://www.wisdomwaysacupuncture.com/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/) in the spring?
 
 ### Powerful Medicine for Clearing out the Excesses of Winter
 
@@ -61,7 +61,7 @@ The foods we tend to eat as the base of salads, (greens of all kinds, including 
 
 [Springtime, being associated with the Wood Element](http://www.wisdomwaysacupuncture.com/2013/03/23/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/ "Ready, Set…WOOD SEASON! What Acupuncture Theory Has to Say About Spring"), is also about personal growth and vision. So if you’re feeling stagnant and blocked in life, eating foods that impart the qualities of moving stagnation and rapid growth, can help get you out of an emotional or psychological rut as well.
 
-### Caution for cold people!
+#### Caution for cold people!
 
 Be careful if you're someone who has “cold” conditions.&nbsp; If you're my patient, you will know whether you do or not.&nbsp;
 
