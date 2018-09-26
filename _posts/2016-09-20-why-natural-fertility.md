@@ -40,7 +40,7 @@ When treating IVF patients, the goal is different: do everything possible to sup
 
 While our treatments during ART definitely improve a woman’s tolerance of and successful results from the ART, it’s not at all about correcting the underlying imbalances that are causing her infertility in the first place — ART is going around those problems, and we’re just supporting that process. &nbsp;
 
-And that’s great, for the many acupuncturists and patients who work with ART. But it’s just not where my skills are focused.
+And that’s great, for anyone working with ART. But it’s just not where my skills are focused.
 
 When we focus on natural fertility, we believe that barring specific circumstances, fertility is the natural outcome of wellness and healthy/normal physiological functions. Restoring normal function however takes time, and when women are doing ART they’re usually starting it in the immediate future, which doesn’t give us time to fix anything. Again that’s just not the goal of the treatment in those cases anyway.
 
