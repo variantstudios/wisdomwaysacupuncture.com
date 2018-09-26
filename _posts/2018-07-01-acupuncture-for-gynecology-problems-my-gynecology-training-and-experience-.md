@@ -16,7 +16,7 @@ layout: post
 
 If you’re in Fort Collins area and you’re looking for help from acupuncture with a gynecology problem, this blog should help you figure out if I might be a good fit for you.
 
-Because treating women's health/gynecology issues comes with its extra challenges, successful treatment requires a complex use of Chinese medicine. I'll explain not only these complexities, but also my gynecology training and experience.
+Because treating women’s health/gynecology issues comes with its extra challenges, successful treatment requires a complex use of Chinese medicine. I’ll explain not only these complexities, but also my gynecology training and experience.
 
 If you just want to see my gynecology training/experience, scroll down to that section.
 
@@ -32,6 +32,8 @@ We’ve got:
 * any other symptoms that happen at repeated intervals during our cycle
 * menopause, when our natural rhythms often go completely haywire
 
+&nbsp;
+
 Our menstrual and hormone cycles absolutely lend a level of intense complexity to the picture when treating female patients. On top of everything, these factors need to be considered even if a woman is coming in for something “totally unrelated”, like digestive issues, migraines, or fatigue!
 
 ### Treatment constantly changes
@@ -42,17 +44,17 @@ Depending on when they have problems, and/or what the problem is related to, you
 
 ### Requires Customized herbal formulas
 
-While many acupuncturists might not agree with this, I've personally found that unless I tailor-make my patients their herbal prescriptions ("formulas"), then I'm less likely to get great results.
+While many acupuncturists might not agree with this, I’ve personally found that unless I [tailor-make my patients their herbal prescriptions (“formulas”)](/services-offered/chinese-herbs/), then I’m less likely to get great results.
 
-It's becoming more and more common in modern day to use "patents", which are pre-blended mixes of herbs in pill form.&nbsp; Requiring no preparation, patents are extremely more convenient for patients and practitioners. They don't require extensive herbal training, since they're often used in a more western way: You have menstrual cramps, use this patent for menstrual cramps.&nbsp; But this often completely misses the underlying cause for the issue.
+It’s becoming more and more common in modern day to use “patents”, which are pre-blended mixes of herbs in pill form.&nbsp; Requiring no preparation, patents are much more convenient for patients and practitioners. They don’t require extensive herbal training, since they’re often used in a more western way: You have menstrual cramps, use this patent for menstrual cramps.&nbsp; Got yeast infections, take this formula for yeast. But this often completely misses the underlying cause for the issue.
 
-Chinese herbalism is an insanely complex art form and science, requiring a lifetime to truly master. While most of my patients do get better with my customized blends, I still consider myself nowhere near mastery and dedicate much of my energy towards constantly honing my skills.&nbsp; 17 years into my herbal experience I have a grasp of its richness, yet still a lifetime of improvement ahead.
+Chinese herbalism is an insanely complex art form and science, requiring a lifetime to truly master. While most of my patients do get better with my customized blends, I still consider myself nowhere near mastery and dedicate much of my energy towards constantly honing my skills. 17 years into my herbal experience I have a grasp of its richness and potential, yet still a lifetime of improvement ahead.
 
 ### Women and emotions
 
-And then there's our emotions. :-) Yes, we CAN be emotional! And everyone is over-stressed these days. If we don't put emotional health at the forefront of treatment, teaching our patient's tools for emotional wellness, we probably won't get very far.
+And then there’s our emotions. :-) Yes, we CAN be emotional! And everyone is over-stressed these days. If we don’t put emotional health at the forefront of treatment, teaching our patient’s tools for emotional wellness, we probably won’t get very far.
 
-#### Phyoo! That's whole lot to work with!
+#### Phyoo! That’s whole lot to work with!
 
 But for me, it’s all about figuring out these complexities, of solving the mystery behind the various symptoms. This takes much more time, but it’s what I love to do.
 
@@ -70,7 +72,7 @@ My education continued when I lived in China for a stint to do clinical internsh
 
 Since herbal medicine is still their first course treatment for most gynecology problems, it’s used extensively. Each week I observed hundreds and hundreds of women being treated with herbs for their gynecology problems, and getting better.
 
-If a woman had hormone imbalances, heavy bleeding, menstrual cramps, masses up to a certain size, endometriosis, vaginal discharges, menopause symptoms etc; they would all come to the herbalist first. And because Chinese medicine is used in China not only for so many MORE gynecology conditions, but for more SEVERE gynecology conditions than it's used for in the west; I saw things I would never get to see here in the US.
+If a woman had hormone imbalances, heavy bleeding, menstrual cramps, masses up to a certain size, endometriosis, vaginal discharges, menopause symptoms etc; they would all come to the herbalist first. And because Chinese medicine is used in China not only for so many MORE gynecology conditions, but for more SEVERE gynecology conditions than it’s used for in the west; I saw things I would never get to see here in the US.
 
 I left convinced that Chinese medicine can handle even conditions that we’d think are “too severe” for little ol’ Chinese medicine. You can read a good example of this in my [fibroid post](/2017/09/03/successfully-treat-fibroids-with-acupuncture-herbs/).
 
