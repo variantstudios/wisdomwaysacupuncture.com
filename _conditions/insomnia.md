@@ -29,3 +29,6 @@ In rare cases acupuncture alone successfully treats the insomnia, but most commo
 Depending on the nature of the underlying imbalance, after the initial consultation I can often predict the likelihood of a woman needing to expect a shorter or longer treatment plan; as I like to be very honest and explain that even successful insomnia cases can sometimes be very tricky to treat. Especially if the insomnia is severe enough that she’s on nightly prescription sleeping meds.
 
 It’s not uncommon however that women are eventually able to get off their sleeping medications.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
