@@ -1,11 +1,14 @@
 ---
 title: >-
-  The Stoplight that Never Turned Green&#8230;   Keeping Your Liver Calm &#038;
-  Happy in Spring
-date: 2011-04-13 10:48:00
+  The Stoplight that Never Turned Green: Keeping Your Liver Calm & Happy in
+  Spring
+date: 2016-04-13 10:48:00
 categories:
   - spring--wood-element
 tags:
+  - liver-imbalance
+  - acupuncture-and-stress
+  - acupuncture-and-anxiety
 hero_image: /assets/images/heroes/impatience-liver-element.jpg
 search_engine_optimization:
   page_title: The Stoplight that Never Turned Green... Liver Imbalance as Spring Hits
@@ -23,7 +26,7 @@ As if that isn’t bad enough, the lights seem to be turning green particularly�
 
 ### Winter Turns to Spring — in its own good time…
 
-When I moved here to Fort Collins almost 3 years ago, it was my first time living somewhere where we actually had a change in seasons.&nbsp; Never before had I experienced that breath-held, anxiously awaited climax of the bursting forth of spring.
+When I moved here to Fort Collins, it was my first time living somewhere where we actually had a change in seasons.&nbsp; Never before had I experienced that breath-held, anxiously awaited climax of the bursting forth of spring.
 
 It was brown brown brown everywhere I looked….except where it was grey, of course.
 
