@@ -51,3 +51,6 @@ Like the acupuncture points chosen, each herb is chosen not only for its individ
 #### Food Allergies, Sensitivities, and Other Nutritional Causes of Digestive Problems
 
 In some cases, it is important to take a look at potential foods that could be causing your imbalances. I always choose a Chinese medicine treatment approach first, but in some cases, figuring out foods which could be playing into a person’s symptoms, and then avoiding them, can help us make huge strides forward in treatment.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
