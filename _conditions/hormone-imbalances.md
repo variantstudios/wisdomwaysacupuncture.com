@@ -31,3 +31,6 @@ Luckily, in the meantime as you're improving you can expect to experience better
 And the good news is, while “imbalanced hormones” may be what brings you in, as an acupuncturist I’m not just interested in resolving symptoms, but in resolving the underlying imbalances that were causing the symptoms. Then those same imbalances can’t progress further over time and turn into other worse symptoms or diseases. &nbsp;So we’re working not only on resolution of symptoms, but on prevention.
 
 ![](/assets/images/icons/acupuncture-in-fort-collins-blog.jpg){: .left-inline}To find out if I’d be a good fit for your hormone problem, check out my&nbsp;[Women’s Health blog page](/blog/category/womens-health/){: target="_blank"} for my blogs illustrating my approach, real-life patient recoveries, and more about my experience with your issue.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
