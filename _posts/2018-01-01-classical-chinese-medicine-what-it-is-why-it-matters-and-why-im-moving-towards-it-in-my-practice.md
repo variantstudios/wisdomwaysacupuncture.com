@@ -1,12 +1,11 @@
 ---
 title: >-
-  Classical Chinese Medicine &#8211; What it is, Why it Matters, and why
-  I&#8217;m Moving Towards it in my Practice
+  Classical Chinese Medicine: What it is, Why it Matters, and why I'm Moving
+  Towards it in my Practice
 date: 2018-01-01 07:15:00
 categories:
   - my-approach--philosophy-and-stories
 tags:
-  - classical chinese medicine
 hero_image: /assets/images/heroes/Classical-chinese-medicine-classical books.jpg
 search_engine_optimization:
   page_title: >-
@@ -34,9 +33,9 @@ The medicine that was used before this time has now come to be called “Classic
 
 Why this matters is because unfortunately patients don’t always fit into the neat and tidy standardized categorizations of diseases that TCM would make students and practitioners believe they should.
 
-To oversimplify things, TCM is based on what we call “patterns of imbalance”, where you’re basically taught that all patients fit into these neat diagnostic categories, each diagnosis comprising a complex mix of symptoms. You should theoretically just be able to memorize (or look up in a book) all the symptoms related to each diagnostic category, find your patient’s complex combination of symptoms listed there, and then have your diagnosis and treatment — including acupuncture and herbs — presented to you.&nbsp; Very handy!
+To oversimplify things, TCM is based on what we call “patterns of imbalance”, where you’re basically taught that all patients fit into these neat diagnostic categories, each diagnosis comprising a complex mix of symptoms. You should theoretically just be able to memorize (or look up in a book) all the symptoms related to each diagnostic category, find your patient’s complex combination of symptoms listed there, and then have your diagnosis and treatment — including acupuncture and herbs — presented to you.  Very handy!
 
-If only that matched up with real life clinical experience.&nbsp; :-(
+If only that matched up with real life clinical experience.  :-(
 
 TCM works fabulous when patients do fit into these perfect categories or even a clear mix of categories, but when they don’t, most of us practitioners find ourselves at a loss for how to diagnose and handle these more complex cases; which unfortunately are the norm rather than the exception.
 
@@ -66,7 +65,7 @@ When I study this timeless medicine, and then see its truths play out in my pati
 
 It is so much incredibly bigger than me, as is the wisdom of the human body; and and it makes me understand why devotees of Classical Medicine bring such reverence to the study and the lineage of teachers who came before them.
 
-I am just starting out on my Classical Medicine journey, but it’s a journey I don’t see ending any time soon.&nbsp; I hope I can continue to benefit all my patients with my studies.
+I am just starting out on my Classical Medicine journey, but it’s a journey I don’t see ending any time soon.  I hope I can continue to benefit all my patients with my studies.
 
 [Schedule an Appointment](/make-an-appointment/){: .call-to-action}
 {: .align-to-center}
