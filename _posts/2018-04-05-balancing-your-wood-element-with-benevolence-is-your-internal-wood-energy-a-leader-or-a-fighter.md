@@ -22,8 +22,6 @@ search_engine_optimization:
 layout: post
 ---
 
-| &nbsp; |
-| &nbsp; |
 
 Those of you who’ve been around the block with me for a few years have heard me talk about how essential it is in the Spring to have clear goals, and to be moving towards them with ambition.&nbsp; This is because according to Chinese Medicine and acupuncture theory, we are [in the season related to the Liver/Wood Element](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/).
 
