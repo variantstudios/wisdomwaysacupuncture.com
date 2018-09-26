@@ -32,7 +32,7 @@ However, there are certain conditions that I feel are better treated by others w
 
 If in doubt, give us a call! Our primary goal is to help you work with the person who can help you the most and give you the best care; and if we don’t think that’s us, we’ll tell you!
 
-(970) 227-3077
+[(970) 227-3077](tel://+19702273077)
 {: .frost_message.align-to-center}
 
 OR
