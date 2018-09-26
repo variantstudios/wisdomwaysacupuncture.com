@@ -9,7 +9,7 @@ search_engine_optimization:
   share_image_path:
 ---
 
-Once you've had your initial consultation and I have diagnosed your condition, interested patients can then set up a nutrition consultation. This gives us time to discuss changes you can make in your diet to dramatically improve your health. I address nutrition from both the holistic western as well as the Chinese medical approaches discussed below.  These changes will help you to recover from symptoms and in some cases might be necessary for your healing.
+Once you've had your initial consultation and I have diagnosed your condition, interested patients can then set up a nutrition consultation. This gives us time to discuss changes you can make in your diet to dramatically improve your health. I address nutrition from both the holistic western as well as the Chinese medical approaches discussed below. &nbsp;These changes will help you to recover from symptoms and in some cases might be necessary for your healing.
 
 ### 1) Functional/Holistic Nutrition Approach:
 
@@ -25,11 +25,11 @@ If we don’t start there, unfortunately the subtle changes discussed below (fro
 
 #### Eat foods for balance
 
-An acupuncturist’s way of viewing food and nutrition is very different than in the west.  Since Chinese medicine was derived before the days of advanced technology, (which can tell us the exact nutritional make up of a food) the Chinese had to come up with some other way of prescribing foods as medicine.  
+An acupuncturist’s way of viewing food and nutrition is very different than in the west. &nbsp;Since Chinese medicine was derived before the days of advanced technology, (which can tell us the exact nutritional make up of a food) the Chinese had to come up with some other way of prescribing foods as medicine. &nbsp;
 
 Instead of breaking a food down into its basic components — for instance, proteins, sugars, fats, etc, or vitamins and minerals — they looked at the food as a whole and examined what overall effect it had on the body.
 
-Since everything in Chinese Medicine is about “balance”, they discovered how the balance of the body would be either maintained or disrupted by eating certain foods. For instance, they noted that people who suffer from too much heat in the body — such as a woman going through menopause — would become even more hot if eating things like peppers, onions, ginger, etc.  Conversely, someone who is cold all the time might need to add just these foods in.
+Since everything in Chinese Medicine is about “balance”, they discovered how the balance of the body would be either maintained or disrupted by eating certain foods. For instance, they noted that people who suffer from too much heat in the body — such as a woman going through menopause — would become even more hot if eating things like peppers, onions, ginger, etc. &nbsp;Conversely, someone who is cold all the time might need to add just these foods in.
 
 Depending on the season as well, certain foods are beneficial or detrimental in large quantities.
 
@@ -37,8 +37,11 @@ While these are just basic examples, an actual study of the principles reveals h
 
 #### Eat foods for their effects on organs
 
-Each food is also looked at for which organ or organs it will have an effect on.  If a person has weakness in their digestive system for example, they would need to add foods that have a strengthening effect on those organs.  Some examples would be sweet potatoes, winter squash, and many of the root vegetables. Foods also need to be eliminated based on these theories. For example, cold foods are very damaging for the digestion, so a person with weakness there needs to stay away from iced drinks and chilled fruit.
+Each food is also looked at for which organ or organs it will have an effect on. &nbsp;If a person has weakness in their digestive system for example, they would need to add foods that have a strengthening effect on those organs. &nbsp;Some examples would be sweet potatoes, winter squash, and many of the root vegetables. Foods also need to be eliminated based on these theories. For example, cold foods are very damaging for the digestion, so a person with weakness there needs to stay away from iced drinks and chilled fruit.
 
 #### Chinese medical nutrition vs. Mainstream western nutrition
 
-You can see that unlike mainstream Western nutrition — where there is a standard protocol which it is believed everyone should follow — in Chinese nutrition, based on a person’s diagnosis, each person is seen as an individual, and there is never any one specific way that everyone needs to eat.  Furthermore, what one person may need during one stage of their life — while they are leading tours up the volcanoes in Hawaii for a summer job, for example — is going to be very different from what they need just a few months later when they’re sitting down all day studying for exams in the middle of a winter snow.  As the balance in the weather shifts outside, so does the balance point in our body, and we need to change our foods accordingly.
+You can see that unlike mainstream Western nutrition — where there is a standard protocol which it is believed everyone should follow — in Chinese nutrition, based on a person’s diagnosis, each person is seen as an individual, and there is never any one specific way that everyone needs to eat. &nbsp;Furthermore, what one person may need during one stage of their life — while they are leading tours up the volcanoes in Hawaii for a summer job, for example — is going to be very different from what they need just a few months later when they’re sitting down all day studying for exams in the middle of a winter snow. &nbsp;As the balance in the weather shifts outside, so does the balance point in our body, and we need to change our foods accordingly.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
