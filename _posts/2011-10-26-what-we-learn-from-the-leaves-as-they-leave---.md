@@ -25,19 +25,19 @@ I know the snow will be magical and beautiful, but I must admit that I already g
 
 I came home from the clinic today and donned layers of fleeces and decided to just head out for a long walk.
 
-I didn’t want to run today, worried I might miss even one colorful bush or tree -- I just wanted to take it all in, to soak up every shade of red and auburn and orange and yellow. I wanted to virtually absorb the nature around me, to be a part of it…to participate for one last moment in this dance of the changing of the seasons.
+I didn’t want to run today, worried I might miss even one colorful bush or tree – I just wanted to take it all in, to soak up every shade of red and auburn and orange and yellow. I wanted to virtually absorb the nature around me, to be a part of it…to participate for one last moment in this dance of the changing of the seasons.
 
 But I noticed I felt sad.
 
 Why, why, when it all just became so beautiful and stunning, does the snow have to come so early, and ruin the celebration of Fall? Why not just one week later, so I could enjoy the fiery vibrancy for a few more days?
 
-I felt into this sadness and the sense of loss as I headed out the door, and contemplated [what I’ve been writing about for the past few weeks](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/), related to the season of Metal.
+I felt into this sadness and the sense of loss as I headed out the door, and contemplated [what I’ve been writing about for the past few weeks](/2016/11/05/metal-learn-about-letting-go-but-that-value-still-remains/), related to the season of Metal.
 
 #### It is indeed a time of letting go…no matter how hard I resist, the storm will come.
 
 Tomorrow, I will likely look outside my window and see sagging branches, their leaves assaulted by the heavy early season snow. And when it melts, the autumnal painting outside my window will be gone — so fleeting it was — not to return til next year only to disappear as fast as it came again.
 
-This is so [Metal](http://www.wisdomwaysacupuncture.com/2017/10/15/metal-element-video-live/)!
+This is so [Metal](/2017/10/15/fall-metal-element-video-finding-fulfillment-and-balance-through-quieter-times/)!
 {: .align-to-center}
 
 Even the leaves appear as valuable jewels, symbols of the season, the rubies, garnets, ambers, corals, and sapphires; reminding us to pay attention, to appreciate, to not take things for granted.
