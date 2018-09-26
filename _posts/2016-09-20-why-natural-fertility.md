@@ -48,7 +48,7 @@ When we focus on natural fertility, we believe that barring specific circumstanc
 
 My second reason is that I realized I can only really master a limited number of medical perspectives.
 
-I found that keeping up on all the changing medical protocols, latest reproductive technology, new studies refuting the last ones, etc.; was time taken away from learning more and more and therefore getting better and better at the very complex art of Chinese medicine.
+I found that keeping up on all the changing medical protocols, latest reproductive technology, new studies refuting the last ones, etc.; was time taken away from learning more and more and therefore getting better and better at the very complex art of using Chinese medicine to restore normal reproductive function.
 
 My fertility work felt completely divided between two varying paradigms. So I chose to stick with my passion and dive 100% into the world of natural fertility.
 
