@@ -34,3 +34,9 @@ If in doubt, give us a call! Our primary goal is to help you work with the perso
 
 (970) 227-3077
 {: .frost_message.align-to-center}
+
+OR
+{: .align-to-center}
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
