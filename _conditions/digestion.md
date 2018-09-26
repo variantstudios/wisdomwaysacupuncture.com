@@ -46,7 +46,7 @@ Regardless of what your western diagnosis is, acupuncture looks underneath that 
 
 I typically combine Chinese herbs with acupuncture treatment for most patients, because I see faster and more dramatic results.
 
-Like the acupuncture points chosen, each herb is chosen not only for its individual effects, but for its synergistic effects with the other herbs in your customized herbal “formula”. The purpose is to help restore balance in the body and to correct that underlying root cause, in order to alleviate and prevent symptoms.
+Like the acupuncture points chosen, each herb is chosen not only for its individual effects, but for its synergistic effects with the other herbs in your [customized herbal “formula”](/services-offered/chinese-herbs/). The purpose is to help restore balance in the body and to correct that underlying root cause, in order to alleviate and prevent symptoms.
 
 #### Food Allergies, Sensitivities, and Other Nutritional Causes of Digestive Problems
 
