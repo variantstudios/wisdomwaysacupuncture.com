@@ -9,10 +9,10 @@ layout: null
 	>
 	<channel>
 		<title>Compass Community Collaborative School - Blog Feed</title>
-		<link>https://compassfortcollins.org/feed.xml</link>
-		<description>Your latest Compass news</description>
+		<link>https://www.wisdomwaysacupuncture.com/feed.xml</link>
+		<description>Your latest Wisdom Ways Acupuncture news</description>
 		<pubDate>{% assign postz = site.posts | sort:'date' | reverse %}{% for post in postz limit:1 %}{% unless post.draft %}{{ post.date | date_to_rfc822 }}{% endunless %}{% endfor %}</pubDate>
-		<atom:link href="https://compassfortcollins.org/feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://www.wisdomwaysacupuncture.com/feed.xml" rel="self" type="application/rss+xml" />
 		{% assign postz = site.posts | sort:'date' | reverse %}{% for post in postz%}
           {% unless post.draft %}
             <item>
