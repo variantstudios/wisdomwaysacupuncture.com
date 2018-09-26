@@ -27,9 +27,9 @@ Undeniably, something is stirring outside…the days are suddenly noticeably sho
 
 ### **And so comes the season of Metal, according to Chinese medicine’s 5 element theory.**
 
-While I’ve been [writing a lot](http://www.wisdomwaysacupuncture.com/2017/05/23/into-the-fire-we-go-more-tips-from-an-acupuncturist-for-staying-balanced-in-summer/) for the past several months about connection and fun with others, as well as the nourishment we get from relationships, now begins the time of year that is much more internal.
+While I’ve been [writing a lot](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/) for the past several months about connection and fun with others, as well as the nourishment we get from relationships, now begins the time of year that is much more internal.
 
-The [Metal element](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/){: target="_blank"} is about taking stock, letting go of what no longer holds value for our lives, and putting our attention towards what inspires us. Just as the trees let go of their leaves at this time of year, we must too be willing to let go of what is no longer needed in our lives.
+The [Metal element](/2016/11/05/metal-learn-about-letting-go-but-that-value-still-remains/){: target="_blank"} is about taking stock, letting go of what no longer holds value for our lives, and putting our attention towards what inspires us. Just as the trees let go of their leaves at this time of year, we must too be willing to let go of what is no longer needed in our lives.
 
 The organs associated with the Metal season are the lungs and large intestines. With these organs we not only take in (inspire), but we let go (excrement). And so, over the next couple months, it’s a time to make sure that we are taking in what’s beneficial for us, and letting go of what isn’t.
 
