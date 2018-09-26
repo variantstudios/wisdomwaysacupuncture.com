@@ -35,11 +35,11 @@ It's that complex pattern of the way these "internal" medical issues play out in
 
 It can be confusing to understand how an acupuncturist can specialize in such varying ailments, but here's why.
 
-Acupuncture is a holistic form of treatment – meaning that the entire body and all its symptoms are treated as a whole rather than as separate problems.  So the reason why we can "specialize" in many different illnesses, is because symptoms tend to all be related to the same underlying problem, and come not individually but along with many others.
+Acupuncture is a holistic form of treatment – meaning that the entire body and all its symptoms are treated as a whole rather than as separate problems.&nbsp; So the reason why we can "specialize" in many different illnesses, is because symptoms tend to all be related to the same underlying problem, and come not individually but along with many others.
 
-You have probably experienced that yourself—your migraines tend to be worse the same months your PMS is really bad.  Your depression/anxiety acts up right when your IBS is at its worst.  Your fibromyalgia worsens when you are extra fatigued.
+You have probably experienced that yourself—your migraines tend to be worse the same months your PMS is really bad.&nbsp; Your depression/anxiety acts up right when your IBS is at its worst.&nbsp; Your fibromyalgia worsens when you are extra fatigued.
 
-If you were seeing western specialists, you would go to a different specialist for each of these issues.  But because acupuncturists don't treat based on symptoms, and rather on "patterns" of symptoms which make up your diagnosis of imbalance, we treat all the things associated with an imbalance at the same time.  
+If you were seeing western specialists, you would go to a different specialist for each of these issues.&nbsp; But because acupuncturists don't treat based on symptoms, and rather on "patterns" of symptoms which make up your diagnosis of imbalance, we treat all the things associated with an imbalance at the same time. &nbsp;
 
 ### Don't all acupuncturists work holistically then?
 
@@ -48,3 +48,6 @@ While using Chinese medicine holistically goes back to the foundations of the me
 Personal treatment style plays a huge role in how holistic any given acupuncturist is. But other factors like a person's foundational training, if they specialize in issues like orthopedic pain which are often treated as stand-alone issues, or if they incorporate nutrition and emotional work into the treatment; will influence how holistically an acupuncturist works.
 
 Many schools have also moved into teaching a more western and "integrative" approach to acupuncture, which inevitably means that diagnosis becomes more mechanistic, moving away from holism and more towards a western reductionist model.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
