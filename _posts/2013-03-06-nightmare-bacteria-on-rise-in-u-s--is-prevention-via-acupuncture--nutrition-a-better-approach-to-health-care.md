@@ -21,7 +21,7 @@ layout: post
 
 What perfect timing.&nbsp; I had barely clicked “publish” on my last blog entry about nourishing up the immune system to ward off common infections, when I saw an article on Yahoo news on the topic of bacteria that are “shrugging off” antibiotics.
 
-Acupuncture theory states that prevention, through keeping the body balanced, is the best way to take care of ourselves, and true “health care” -- rather than the “sick care” that many have come to call western medicine -- is a better approach to wellness than waiting til you’re sick to take a harmful medicine.
+Acupuncture theory states that prevention, through keeping the body balanced, is the best way to take care of ourselves, and true “health care” – rather than the “sick care” that many have come to call western medicine – is a better approach to wellness than waiting til you’re sick to take a harmful medicine.
 
 ## The problem with antibiotics
 
@@ -37,7 +37,7 @@ The cattle industry, by feeding corn to their cows (which were never meant to ea
 
 The best remedy is to set ourselves up to not need medicines at all, by keeping our immune systems as strong as possible so that our body can do its magic job of killing the little buggers as soon as they enter our system, so they can’t reproduce inside us and cause illness.&nbsp;
 
-This takes discipline, and doing pretty much everything opposite from what the typical American lifestyle and Standard American Diet promotes.&nbsp; Please read my recent [blogs](http://www.wisdomwaysacupuncture.com/2013/02/13/1408/ "acupuncture for immunity"){: target="_blank"} on the immune system so that you can see how an acupuncturist addresses this issue of preventing illness, from a more preventative approach.
+This takes discipline, and doing pretty much everything opposite from what the typical American lifestyle and Standard American Diet promotes.&nbsp; Please read my recent [blogs](/2013/02/13/why-are-people-constantly-sick-in-colorado-part-i/ "acupuncture for immunity"){: target="_blank"} on the immune system so that you can see how an acupuncturist addresses this issue of preventing illness, from a more preventative approach.
 
 ### Along with nutrition, acupuncture and Chinese herbs have been proven to increase immunity.&nbsp;
 
