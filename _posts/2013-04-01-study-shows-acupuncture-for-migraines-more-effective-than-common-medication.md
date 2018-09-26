@@ -25,7 +25,7 @@ A migraine can stop someone dead in their tracks, and appear out of nowhere.&nbs
 
 Very rarely have I had someone follow through with the recommended course of treatment, and NOT experience huge improvements, if not complete remission of their migraines.&nbsp; Usually, when someone doesn’t experience the results they are hoping for, it is because they do not complete their treatment course,&nbsp; or perhaps choose to not take recommended herbs.
 
-To see more about how I work with migraines, visit this page: [headaches/migraines](http://www.wisdomwaysacupuncture.com/acupuncture-conditions-treated/chronic-internal-medical-conditions/acupuncture-for-migraines/)
+To see more about how I work with migraines, visit this page: [headaches/migraines](/conditions-treated/headaches-migraines/){: target="_blank"}
 
 ## The difference between using acupuncture for migraines vs. medication
 
