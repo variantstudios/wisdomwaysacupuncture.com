@@ -1,10 +1,9 @@
 # Site settings
 title: "Wisdom Ways Acupuncture"
-email: "team@variantstudios.com"
+email: ""
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/ - keep empty!
-url: "https://solitary-chinchilla.cloudvent.net" # the base hostname & protocol for your site - don't include the forward slash
-#timezone: America/Denver - Don't set for CloudCannon...for reasons.
+url: "https://www.wisdomwaysacupuncture.com"
 version: "3.8.2" # the version of jekyll
 
 #CloudCannon defaults
@@ -187,11 +186,8 @@ _comments:
 #Cloudinary
 cloudinaryurl: 'https://res.cloudinary.com/wisdomways/'
 
-# Typekit
-# typekit: "dan8xfd"
-
 # Google Analytics 
-google_analytics_tracking_id:
+google_analytics_tracking_id: 'UA-100379926-1'
 
 exclude: [
   "siteicon.png",

@@ -36,7 +36,7 @@ Please print and complete ALL of the relevant\* forms in the links below, and br
 
 ### ![](/assets/images/icons/shield.svg)&nbsp;For Patients Wishing to Bill Insurance:
 
-* [Insurance Verification And Financial Agreement](/INSURANCE VERIFICATION &amp; FINANCIAL AGREEMENT.2018.pdf)
+* [Insurance Verification And Financial Agreement](/assets/pdf/INSURANCE VERIFICATION &amp; FINANCIAL AGREEMENT.2018.pdf){: target="_blank"}
 
 Complete this form by calling your insurance and asking the questions provided, and bring it to your first acupuncture appointment along with your insurance card. If you do NOT arrive at your first appointment with this form completed, we will simply apply the self-pay fee at the time of your visit, until the time at which your coverage has been verified
 

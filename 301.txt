@@ -1,8 +1,2 @@
 # /old_file.html /new_file.html
 
-/why-compass/ /community-engaged-learning/
-/compass-community-collaborative-experience/ /a-day-in-the-life/
-/why-compass/ /venture-projects/
-/compass-x/ /transparency/
-/become-a-volunteer/ /volunteer/
-/research-resources-guiding-innovation/ /resources/
