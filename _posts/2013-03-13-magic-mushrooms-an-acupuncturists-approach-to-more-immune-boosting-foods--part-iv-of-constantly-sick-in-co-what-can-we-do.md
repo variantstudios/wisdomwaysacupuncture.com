@@ -23,7 +23,7 @@ search_engine_optimization:
 layout: post
 ---
 
-<div>This article continues my <a href="http://www.wisdomwaysacupuncture.com/2013/02/13/1408/">series</a> outlining what we can do to boost our immune system here in CO where our weather patterns change frequently. From an acupuncturist&rsquo;s perspective, these sudden changes cause imbalances in our system that weaken our defenses and make us more susceptible to common colds.&nbsp;</div>
+<div>This article continues my <a data-cms-editor-link-style="undefined" href="/2013/02/13/why-are-people-constantly-sick-in-colorado-part-i/">series</a> outlining what we can do to boost our immune system here in CO where our weather patterns change frequently. From an acupuncturist&rsquo;s perspective, these sudden changes cause imbalances in our system that weaken our defenses and make us more susceptible to common colds.&nbsp;</div>
 
 <div>&nbsp;</div>
 
@@ -33,7 +33,7 @@ layout: post
 
 <div>&nbsp;</div>
 
-[Last week](http://www.wisdomwaysacupuncture.com/2013/03/14/an-acupuncturist-makes-dinner-mushroom-spinach-goat-cheese-salad-yummy-your-way-to-superimmunity/) I wrote about the power of greens.&nbsp; I hope you’ve all been getting in lots and lots of dosages of greens every single day, since reading about how important they are for boosting your immunity.&nbsp;
+[Last week](/2013/03/14/an-acupuncturist-makes-dinner-mushroom-spinach-goat-cheese-salad-yummy-your-way-to-superimmunity/) I wrote about the power of greens.&nbsp; I hope you’ve all been getting in lots and lots of dosages of greens every single day, since reading about how important they are for boosting your immunity.&nbsp;
 
 This week, I’m going to focus on another food that is essential for not only warding off the viruses and bacterium that cause the common cold, but for fighting cancer and inflammatory conditions: Mushrooms!
 
