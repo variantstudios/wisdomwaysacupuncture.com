@@ -28,7 +28,7 @@ A new [study](http://topnews.net.nz/content/226835-acupuncture-reduces-stress-re
 
 This study showed that among other things, acupuncture blocked the HPA pathway, which, as quoted in wikipedia, is “a major part of the [neuroendocrine system](http://en.wikipedia.org/wiki/Neuroendocrinology "Neuroendocrinology") that controls reactions to [stress](http://en.wikipedia.org/wiki/Stress_%28medicine%29 "Stress (medicine)") and regulates many body processes, including [digestion](http://en.wikipedia.org/wiki/Digestion "Digestion"), the [immune system](http://en.wikipedia.org/wiki/Immune_system "Immune system"), mood and emotions, sexuality and energy storage and expenditure.”
 
-And what a perfect time to get the results of this study, right in the middle of my [article series on immunity](http://www.wisdomwaysacupuncture.com/2013/02/13/1408/ "Acupuncture for Immunity"){: target="_blank"}, where I have stressed at times that the immune system is closely related to stress, and that stress is one of the lead causes of illness and immune dysfunction!&nbsp; It makes sense that if the same areas of the brain relate to both functions, if one is impaired, so will the other be.
+And what a perfect time to get the results of this study, right in the middle of my [article series on immunity](/2013/02/13/why-are-people-constantly-sick-in-colorado-part-i/ "Acupuncture for Immunity"){: target="_blank"}, where I have stressed at times that the immune system is closely related to stress, and that stress is one of the lead causes of illness and immune dysfunction!&nbsp; It makes sense that if the same areas of the brain relate to both functions, if one is impaired, so will the other be.
 
 To read specifically about my specialty with stress/anxiety/depression, click here: [acupuncture for anxiety/depression](/conditions-treated/stress-anxiety-depression/ "Acupuncture for Anxiety, Acupuncture for Depression")
 
@@ -38,7 +38,7 @@ In Chinese Medicine, we relate stress to the liver.&nbsp; We also say that when 
 
 The results from this acupuncture study also shed light on why our sex drive and stress are also so closely connected, and why it is so difficult for many people to have a healthy desire when they are consumed with stress.
 
-Are you currently under a lot of stress?&nbsp; As we head into “[liver season” (spring, related to the Wood element](http://www.wisdomwaysacupuncture.com/2018/03/30/do-you-feel-the-wood-energy-rising-already-tips-for-staying-sane-as-we-switch-from-winter-to-spring/)), we will all be more prone to increased impatience, agitation, and irritation.&nbsp; Why not come in soon for some acupuncture and give your brain a chance to relax by blocking that HPA pathway, or in Chinese medical terms, getting your liver qi to flow smoothly.&nbsp; Your entire body will thank you for it!
+Are you currently under a lot of stress?&nbsp; As we head into “[liver season” (spring, related to the Wood element](/2015/03/30/do-you-feel-the-wood-element-energy-rising-already-tips-for-staying-sane-as-we-move-from-winter-to-spring/)), we will all be more prone to increased impatience, agitation, and irritation.&nbsp; Why not come in soon for some acupuncture and give your brain a chance to relax by blocking that HPA pathway, or in Chinese medical terms, getting your liver qi to flow smoothly.&nbsp; Your entire body will thank you for it!
 
 &nbsp;To schedule an appointment to decrease your stress and try acupuncture for yourself, click the button below.
 
