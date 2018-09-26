@@ -25,3 +25,6 @@ Although not listed on the tabs, we also commonly treat: endometriosis, abnormal
 &nbsp;
 
 ![](/assets/images/icons/acupuncture-in-fort-collins-blog.jpg){: .left-inline}Check out my[ Women's Health blog category](/blog/category/womens-health/) for blogs I've written on these topics, which illustrate how I approach various women's health issues, including fertility. If you're ONLY wanting to read my fertility related blogs, then go to my [Fertility blog page](/blog/category/fertility/).
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
