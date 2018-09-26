@@ -5,8 +5,7 @@ popular_blog_topics:
   popular_title: My Approach
   popular_image: /assets/images/my-acupuncture-approach-fort-collins.jpg
   order: 1
-post: >-
-  2018-07-11-who-will-get-the-most-benefit-from-treatment-at-wisdom-ways-acupuncture
+post:
 hero_image: /assets/images/acupuncture-education-fort-collins.jpg
 search_engine_optimization:
   page_title: My Approach to Acupuncture
