@@ -44,3 +44,6 @@ For chronic conditions which are already in maintenance mode however, they can b
 ### Quality of Chinese Herbs
 
 There have been many concerns over recent years as to the purity and quality of Chinese Herbs. &nbsp;This is a very real concern, and it is absolutely necessary that an herbalist know where their products come from, and that they have done extensive checks to make sure that the product they are offering is of the highest quality. &nbsp;They should be able to list the steps that each manufacturer has taken to ensure the quality of their herbs.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
