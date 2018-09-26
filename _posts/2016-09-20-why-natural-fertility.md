@@ -20,7 +20,7 @@ layout: post
 
 ## Natural Fertility vs. ART/IVF
 
-If you’re hoping to get pregnant naturally, feel better than ever once baby comes; and you have or are willing to take the time and potentially make some necessary lifestyle changes to bring that about, then you’re probably a great fit for our practice!
+If you’re hoping to get pregnant naturally, feel better than ever once baby comes; and you're willing to potentially make some necessary lifestyle changes to bring that about, then you’re probably a great fit for our practice!
 
 For three reasons, I have chosen to focus my fertility/infertility work specifically with women who are trying to get pregnant without the use of Assisted Reproductive Technology (ART).
 
@@ -32,13 +32,13 @@ But I quickly discovered, after working more and more with infertility in my cli
 
 My number one goal with every patient who walks through my door, is to restore normal and healthy balance and wellness to their system. That’s my passion, that’s why I love this medicine, and it’s what makes me excited to go to work every day.
 
-When treating IVF patients, the goal is different: do everything possible to support the IVF treatment, often using protocol-based (i.e. not individualized) treatments based on modern studies; and increase the women’s wellness in the process as much as possible.
+When treating IVF patients, the goal is different: do everything possible to support the IVF treatment, often using protocol-based (i.e. not individualized) treatments based on modern studies; and increase the women’s tolerance of the process as much as possible.
 
 ## So for the reasons listed below, I focus my fertility work on Natural Fertility
 
 #### 1) Chinese Medicine tries to SOLVE the problem, ART goes around it
 
-While our treatments during ART definitely improve a woman’s tolerance of and successful results from the ART, it’s not at all about correcting the underlying imbalances that are causing her infertility in the first place — ART is going around those problems, and we’re just supporting that process.  
+While our treatments during ART definitely improve a woman’s tolerance of and successful results from the ART, it’s not at all about correcting the underlying imbalances that are causing her infertility in the first place — ART is going around those problems, and we’re just supporting that process. &nbsp;
 
 And that’s great, for the many acupuncturists and patients who work with ART. But it’s just not where my skills are focused.
 
