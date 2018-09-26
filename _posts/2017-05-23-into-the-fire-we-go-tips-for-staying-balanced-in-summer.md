@@ -48,7 +48,7 @@ Lovely!&nbsp; These are all aspects of the natural expression of Qi at its highe
 
 Because the Fire element is related to the heart, it is important to nurture heart connections during this time of year.
 
-When these traits are nurtured in the summertime, like the sun high in the sky the warmth and love that fill us during this season continue to be warm us emotionally through the year. Then [sorrow is kept in check](http://www.wisdomwaysacupuncture.com/2014/08/15/fire-element-robin-williams-suicidedepression/) when the days become shorter and our energies start directing inward.&nbsp;
+When these traits are nurtured in the summertime, like the sun high in the sky the warmth and love that fill us during this season continue to be warm us emotionally through the year. Then [sorrow is kept in check](/2014/08/15/the-fire-element-robin-williams-and-suicidedepression/) when the days become shorter and our energies start directing inward.&nbsp;
 
 ### What happens when Fire becomes imbalanced, and what can you do to resolve it?&nbsp;
 
@@ -80,7 +80,7 @@ Those who tend toward Fire excess:
 
 * If you fall in love constantly, take a break from romantic relationships.&nbsp; Feed your Fire by connecting with loved ones instead, and try cultivating a love with yourself for just this season, and see what comes of it.
 
-* [Spend time near water](http://www.wisdomwaysacupuncture.com/2010/12/07/spend-time-near-water-to-keep-yourself-balanced-during-dry-winters/).&nbsp; Water balances fire and can calm your flaring sparks!
+* [Spend time near water](/2010/12/07/spend-time-near-water-to-keep-yourself-balanced-during-dry-winters/).&nbsp; Water balances fire and can calm your flaring sparks!
 
 * Because the fire element is about connection and understanding, make a point this season of focusing on understanding and really listening to those around you, before overriding their comments with your own
 * Schedule some acupuncture appointments to address issues of depression, or conversely a hyperactive inability to slow down and relax..
