@@ -30,7 +30,7 @@ Before I get into those reasons, I want to make it clear that I have nothing aga
 
 But I quickly discovered, after working more and more with infertility in my clinic, that to work with ART patients meant dividing my work and brain between two — often conflicting — goals and realities.
 
-My number one goal with every patient who walks through my door, is to restore normal and healthy balance and wellness to their system. That’s my passion, that’s why I love this medicine, and it’s what makes me excited to go to work every day.
+My number one goal with every patient who walks through my door, is to restore normal and healthy balance and wellness to their system, as explained in this post which goes into more detail about [what exactly acupuncture and herbs do to help fertility](/2018/06/15/acupuncture-for-fertility-the-fertility-treatment-process-by-phase-of-menstrual-cycle/){: target="_blank"} in all the various phases of the menstrual cycle. That’s my passion, that’s why I love this medicine, and it’s what makes me excited to go to work every day.&nbsp;
 
 When treating IVF patients, the goal is different: do everything possible to support the IVF treatment, often using protocol-based (i.e. not individualized) treatments based on modern studies; and increase the women’s tolerance of the process as much as possible.
 
