@@ -58,7 +58,7 @@ So when we don’t have enough activities in our lives that nurture our Fire or 
 
 ### Do you have plans for nourishing your Fire Element this summer?
 
-Soon I will post a repeat of an [article I wrote for Healing Path Magazine a few years ago, which covers the Fire element](http://www.wisdomwaysacupuncture.com/2017/05/23/into-the-fire-we-go-more-tips-from-an-acupuncturist-for-staying-balanced-in-summer/) in more depth.&nbsp; But for now, think about your plans for the summer…
+Soon I will post a repeat of an [article I wrote for Healing Path Magazine a few years ago, which covers the Fire element](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/) in more depth.&nbsp; But for now, think about your plans for the summer…
 
 Are you planning on just staying in Wood mode and work work working the summer away?&nbsp;
 
