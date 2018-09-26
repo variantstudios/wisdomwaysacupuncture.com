@@ -31,7 +31,7 @@ My primary training was both in the US and China, where I interned at [one of th
 
 I’m extremely grateful for the intensive training I received in California, because the rigorous requirements there set me up with the foundations needed to practice with a level of complexity that I feel is necessary for the types of conditions I treat.
 
-I‘m also constantly continuing my studies, most recently focusing on [Classical Medicine](http://www.wisdomwaysacupuncture.com/2018/01/01/classical-chinese-medicine-what-it-is-why-it-matters-and-why-im-moving-towards-it-in-my-practice/){: target="_blank"} and deepening my many years of work with the complex practice of customized herbal formulas — which in China is a primary treatment for most of the conditions I treat.&nbsp; By digging deeper and deeper into the medicine and applying this knowledge to my current patients, I am often able to have breakthroughs with even the most stubborn, confusing cases.&nbsp;
+I‘m also constantly continuing my studies, most recently focusing on [Classical Medicine](/2018/01/01/classical-chinese-medicine-what-it-is-why-it-matters-and-why-im-moving-towards-it-in-my-practice/){: target="_blank"} and deepening my many years of work with the complex practice of customized herbal formulas — which in China is a primary treatment for most of the conditions I treat.&nbsp; By digging deeper and deeper into the medicine and applying this knowledge to my current patients, I am often able to have breakthroughs with even the most stubborn, confusing cases.&nbsp;
 
 The more I learn, I can absolutely say the more humbled I become by the absolute beauty and power of this old medicine.&nbsp;
 
