@@ -22,10 +22,9 @@ search_engine_optimization:
 layout: post
 ---
 
-
 Those of you who’ve been around the block with me for a few years have heard me talk about how essential it is in the Spring to have clear goals, and to be moving towards them with ambition.&nbsp; This is because according to Chinese Medicine and acupuncture theory, we are [in the season related to the Liver/Wood Element](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/).
 
-But in this post I’m focusing on common pitfalls that occur along the way; which often stem from, or cause, an [imbalanced Liver/Wood element](http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/).
+But in this post I’m focusing on common pitfalls that occur along the way; which often stem from, or cause, an [imbalanced Liver/Wood element](/2018/03/10/wood-element-spring-acupuncture-theory-video-tips-to-keep-your-wood-element-balanced-as-we-head-into-spring/).
 
 ### Tools Chinese Medicine has to help you avoid common Liver/Wood Element pitfalls
 
@@ -74,12 +73,12 @@ Are we stepping all over others to accomplish our wishes?&nbsp; Does getting “
 ### Tips for bringing out the positive traits of your Wood element:
 
 * If you find yourself feeling impatient or ruthless, or answering “yes” to the above questions, take some time to call on your more lofty intentions, and connect back to the core of your goodwill; either through meditation, prayer, an inspiring book, a talk with a good friend, your spiritual counsel, or life coach.
-* Perhaps examine your goals on your own to explore whether you can step them up a notch even higher to include others in the beneficial fallout.
+* Perhaps examine your goals on your own to explore whether you can step them up a notch even higher to include others in the beneficial outcome.
 * Get some acupuncture which is great for balancing your Liver energy and therefore bringing balance to your Wood element as well.
 
-All of these things will keep your Wood in check and set you up for the Fire (summer) season which is right around the corner, and which is all about connection and joy shared with others.&nbsp; Runaway Wood energy can tend to alienate the very people we need the most to be on our sides, and how horrible to turn around suddenly and discover we’ve lost those closest to us in our quest for success.
+All of these things will keep your Wood in check and set you up for the [Fire (summer) season](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/) which is right around the corner, and which is all about connection and joy shared with others.&nbsp; Runaway Wood energy can tend to alienate the very people we need the most to be on our sides, and how horrible to turn around suddenly and discover we’ve lost those closest to us in our quest for success.
 
-&nbsp;As always, if you’re my patient I look forward to hearing your stories in the clinic this week about how benevolence resonated with YOU in your life and challenges.
+As always, if you’re my patient I look forward to hearing your stories in the clinic this week about how benevolence resonated with YOU in your life and challenges.
 
 To schedule some acupuncture to start working on balancing your Wood energy, click the button below.
 {: .align-to-center}
