@@ -26,3 +26,6 @@ I typically also prescribe herbal formulas that change along with the cycle, and
 Depending on your situation, I might have you start taking your basal body temperature, which can help us target treatment and gives us another lens through which to look at what is happening at the various stages of your cycle.
 
 ![](/assets/images/icons/acupuncture-in-fort-collins-blog.jpg){: .left-inline}To find out if I'd be a good fit for your menstrual problem, check out my [Women's Health blog page](/blog/category/womens-health/) for my blogs illustrating my approach, real-life patient recoveries, and more about my experience with your issue.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
