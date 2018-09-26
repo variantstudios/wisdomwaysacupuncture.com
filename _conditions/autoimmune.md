@@ -47,3 +47,6 @@ Of course each patient is different, arriving in my office with a different hist
 Coming to me for auto-immune illness is the best choice for those who are willing to be a part of the healing process – in other words, to look at lifestyle and dietary factors that could be pivotal for longterm health. &nbsp;This is not like the western approach where you’re given a pill (or pills) and told to just live with it, and to continue everything you were doing before.
 
 For those willing to be a partner in their healing, treatment is generally very successful and I’m able to see a dramatic turnaround in people’s health. &nbsp;Often people are able to completely stay off drugs for treatment, and to get back to their “pre auto-immune” lifestyle.
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
