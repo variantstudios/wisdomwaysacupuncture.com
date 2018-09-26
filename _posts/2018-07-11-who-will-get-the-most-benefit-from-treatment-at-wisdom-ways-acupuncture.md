@@ -35,29 +35,33 @@ Acupuncturists view the body through a completely different lens than western me
 
 While western medicine takes a reductionist approach, looking at most symptoms as separate problems, the power of Chinese medicine is in its ability to see the connection between all the various things occurring in the body/mind.
 
-The problem is, when acupuncturists view those connections, we use terms and concepts you never will have heard of before. And because we don't use science's reductionist approach, instead combining all signs and symptoms into infinitely complex and individualized diagnoses; trying to explain to patients how we view their imbalances can be very difficult and challenging.
+The problem is, when acupuncturists view those connections, we use terms and concepts you never will have heard of before. And because we don't use science's reductionist approach, but rather combine all signs and symptoms into infinitely complex and individualized diagnoses; trying to explain to patients how we view their imbalances can be very difficult and challenging.
 
-Therefore, understandably, most acupuncturists don't even try. That's why almost 100% of people who have had acupuncture in the past tell me that even if they found it incredibly helpful, they had no idea what it was even working on, or what their imbalances and diagnoses were.
+Therefore, understandably, most acupuncturists don't even try. That's why almost 100% of people who have had acupuncture in the past tell me that even if they found it incredibly beneficial, they had no idea what it was even working on, or what their imbalances and diagnoses were.
 
 ### The importance of understanding your diagnosis and what we’re working on
 
-Because of how much more effective and transformational I believe healing to be when we understand what the problem is and where/how we went out of balance; I do my best to make sure no patient finishes our work without understanding the goals of treatment.&nbsp; If a patient does finish our work not knowing what we were working on – and even more importantly what they can do to prevent it from happening again in the future – then I've failed at my goal.
+Because of how much more effective and transformational I believe healing to be when we understand what the problem is and where/how we went [out of balance](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic-how-to-know-if-youre-balanced-and-how-we-get-you-back-to-balance/); I do my best to make sure no patient finishes our work without understanding the goals of treatment.&nbsp; If a patient does finish our work not knowing what we were working on – and even more importantly what they can do to prevent it from happening again in the future – then I've failed at my goal.
 
-Being a teacher at heart, I’ve worked hard to create understandable bridges for patients between concepts they’re familiar with and can relate to, and the foreign way we view their symptoms from a Chinese medicine perspective. What I discovered over the years is that I seem to have a knack for making the confusing, understandable. I use analogies to explain patient's symptoms and help them understand what’s going on inside their bodies and why it therefore reacts to, say, stress, in their unique way.
+Being a teacher at heart, I’ve worked hard to create understandable bridges for patients between concepts they’re familiar with and can relate to, and the foreign way we view their symptoms from a Chinese medicine perspective.
 
-Based on that new understanding, as I get to know patients better over the weeks of our work together, I often give “homework”, or tips for things they can do that are unique to their own imbalances. Because they have that foundation of knowing what we’re working on, they are able to start recognizing places in their own lives where their choices will affect these imbalances for good or for bad.
+What I discovered over the years is that I seem to have a knack for making the confusing, understandable. I use analogies to explain patient's symptoms and help them understand what’s going on inside their bodies and why it therefore reacts to, say, stress, in their unique way.
+
+Based on that new understanding, as I get to know patients better over the weeks of our work together, I often give “homework”, or tips for things they can do that are unique to their own imbalances. Because patients have that foundation of knowing what we’re working on, they're able to start recognizing places in their own lives where their choices will affect these imbalances for good or for bad.
 
 Now they’re empowered to make choices that will prevent their imbalances from coming back.
 
 They will stay healthier longer on their own, and need my help way less.
 
-### Are YOU ready to take a whole-body approach to your healing?
+### Are you ready to take a whole-body approach to your healing?
 
-Not everyone is ready to delve this deeply into all the various aspects that might need addressing in order to heal. Some people really want to just come in and have something happen TO them on the treatment table, rather than being an active partner in their process of healing. They don't really care what their diagnosis is, what caused it, or what they need to change in order for it to not reoccur. Unfortunately that’s just not the way I work.
+Not everyone is ready to delve this deeply into all the various aspects that might need addressing in order to heal. Some people really want to just come in and have something happen TO them on the treatment table, rather than being an active partner in their process of healing. They don't really care what their diagnosis is, what caused it, or what they need to change in order for it to not reoccur.
+
+Unfortunately that’s just not the way I work.
 
 I never know what will come up in the course of treatment. I let the body and patient guide me.
 
-But if patients are open to go on whatever journey opens up before us, and to learn new ways of looking at their body and mind, then in almost every case deep healing and transformation occur.
+But if patients are open to go on whatever journey opens up before us, and to learn new ways of looking at their body and mind; then in almost every case deep healing and transformation occur.
 
 Our patients go from feeling powerless or at a loss for how to resolve their health issues, to feeling in control of their bodies, minds, and spirits.
 
