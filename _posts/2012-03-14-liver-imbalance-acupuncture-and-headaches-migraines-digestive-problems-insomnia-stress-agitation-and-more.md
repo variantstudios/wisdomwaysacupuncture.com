@@ -26,7 +26,7 @@ layout: post
 
 ## Liver related symptoms get exacerbated in the Wood Element Season of acupuncture theory
 
-As I wrote about in my “[chive](/2018/03/04/an-acupuncturists-insight-what-your-impatience-agitation-and-what-i-saw-in-my-garden-have-in-common/){: target="_blank"}” blog, it is common as an acupuncturist to see an increase in each season of symptoms related to the organ that is associated with that current season.&nbsp;
+As I wrote about in my “[chive](/2018/03/04/what-your-impatienceagitation-and-what-i-saw-in-my-garden-have-in-common/){: target="_blank"}” blog, it is common as an acupuncturist to see an increase in each season of symptoms related to the organ that is associated with that current season.&nbsp;
 
 #### According to Chinese Medicine, Spring is associated with the Wood Season.&nbsp;
 
