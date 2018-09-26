@@ -2,14 +2,13 @@
 title: >-
   Foods to Nourish Your Jing: An Acupuncturist's Approach to using Chinese
   Medicine Nutritional Principles for Staying Healthy
-date: 2018-01-02 11:34:00
+date: 2015-01-02 11:34:00
 categories:
   - eating-with-the-seasons
   - nutrition--food
   - winter--water-element
 tags:
   - seasonal-eating
-  - jing
 hero_image: /assets/images/heroes/jing-bone-broth.jpg
 search_engine_optimization:
   page_title: 'Chinese Medicine Foods to Nourish Your Jing: An Acupuncturist''s Approach'
@@ -22,11 +21,11 @@ layout: post
 
 Last week, I wrote about our [Jing](http://www.wisdomwaysacupuncture.com/2017/12/29/is-your-jing-depleted/), how In Chinese Medicine it’s connected to our Kidney energy, and therefore the [Water Element](/2017/12/31/water-element-its-depths-will-keep-you-balanced-in-winter/), and the season that we’re in right now: winter.
 
-Acupuncturists know that we want to do everything possible to avoid tapping into and therefore depleting our Jing — the root of all energy —, so this week,&nbsp; I will go into a little bit more detail on some foods you can eat to keep your Jing strong.
+Acupuncturists know that we want to do everything possible to avoid tapping into and therefore depleting our Jing — the root of all energy —, so this week,  I will go into a little bit more detail on some foods you can eat to keep your Jing strong.
 
-While Acupuncture theory believes that there is no such thing as having too much Jing, and&nbsp; therefore that all of us can benefit from eating the right foods; please remember that there is never one food or food type that is right for everyone!
+While Acupuncture theory believes that there is no such thing as having too much Jing, and  therefore that all of us can benefit from eating the right foods; please remember that there is never one food or food type that is right for everyone!
 
-You are all different, and some of the foods in this email are completely inappropriate depending on your own diagnosis.&nbsp; If you’re my patient, you should know what you’re diagnosis is, so follow the guidelines accordingly.
+You are all different, and some of the foods in this email are completely inappropriate depending on your own diagnosis.  If you’re my patient, you should know what you’re diagnosis is, so follow the guidelines accordingly.
 
 <div>If you&rsquo;re confused about what you need, you can still nourish your jing simply by eating foods that will strengthen your digestive organs (refer back to my Earth Element/Late Summer blog entries), thereby enabling them to get the most nutrients out of your food as possible, which will prevent you from depleting your jing.</div>
 
