@@ -2,7 +2,7 @@
 title: >-
   An Acupuncturist's Insight: What your Impatience-Agitation and What I Saw in
   My Garden Have in Common
-date: 2018-03-04 14:40:00
+date: 2018-10-04 14:40:00
 categories:
   - spring--wood-element
 tags:
@@ -22,7 +22,7 @@ search_engine_optimization:
 layout: post
 ---
 
-| &nbsp; | &nbsp; | &nbsp; |
+|  |  | |
 
 Last week, I stepped into my garden for the first time since fall. Low and behold, there, shooting up like little explosive fireworks, were my Chives! In little 5 inch tall bundles, they announced the arrival of Spring. But doesn’t it seem early for this?
 
@@ -43,4 +43,4 @@ I’ll be writing more about this in the coming weeks, and more tips will follow
 
 While I don’t really feel like we even got our winter, and am still hoping for a late season snow dump, whether we’re ready or not, the Wood season has hit. So put on your seatbelts, fasten your safety hat, and get ready for the ride!
 
-| &nbsp; | &nbsp; |
+|  | |
