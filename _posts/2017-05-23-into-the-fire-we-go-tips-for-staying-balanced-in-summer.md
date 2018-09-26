@@ -29,7 +29,7 @@ Let’s explore the [Fire element](/2017/06/19/out-of-the-wood-and-into-the-fire
 
 ## Qualities of the Fire Element
 
-The Spring season, which relates to the [Wood element](http://www.wisdomwaysacupuncture.com/2018/03/09/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/), is about direction and goals–about creating our vision and hopes for our future.
+The Spring season, which relates to the [Wood element](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/), is about direction and goals–about creating our vision and hopes for our future.
 
 The Fire season which follows then, finds us standing in those hopes and dreams fulfilled.&nbsp; Nature, reflecting our inner rhythms, is in perfect display of this pattern of fruition:&nbsp; flowers bloom at their fullest, trees bear their fruit, and the garden grows wildly toward the sun.&nbsp;
 
