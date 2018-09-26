@@ -38,3 +38,6 @@ Depending on the frequency and severity of symptoms, it will take some time to c
 A few types of migraines lend themselves well to treatment with acupuncture alone, and in those cases, acupuncture without herbs can be successful. However, most types require herbs, and are difficult if not impossible to&nbsp; treat if Chinese herbs are not brought into the mix.&nbsp;
 
 Click on the link to see more info re: [a study showing that acupuncture for migraines is more effective than a common migraine medication](/2013/04/01/study-shows-acupuncture-for-migraines-more-effective-than-common-medication/){: target="_blank"}
+
+[Schedule an Appointment](/make-an-appointment/){: .call-to-action}
+{: .align-to-center}
