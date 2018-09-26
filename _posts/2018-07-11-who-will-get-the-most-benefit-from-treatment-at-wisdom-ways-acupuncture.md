@@ -17,8 +17,6 @@ layout: post
 
 If you're open to learning more about yourself in the treatment process, and to be a partner in your own healing, then you're probably a great fit for our practice!
 
-I'm told that I have a very unique style of work in my acupuncture clinic. What this mostly means is that patients find my work to be much more thorough, holistic, and educational than what they're used to.
-
 Women who come in excited and open to addressing whatever is discovered in treatment are the ones who typically benefit the most from our work together; finding it not just relieving of their symptoms, but transformational as well.
 
 ## Acupuncture that’s transformative while relieving symptoms
@@ -43,7 +41,7 @@ Therefore, understandably, most acupuncturists don't even try. That's why almost
 
 ### The importance of understanding your diagnosis and what we’re working on
 
-Because of how much more effective and transformational I believe healing to be when we understand what the problem is and where/how we went out of balance; I do my best to make sure no patient finishes our work without understanding the goals of treatment.  If a patient does finish our work not knowing what we were working on – and even more importantly what they can do to prevent it from happening again in the future – then I've failed at my goal.
+Because of how much more effective and transformational I believe healing to be when we understand what the problem is and where/how we went out of balance; I do my best to make sure no patient finishes our work without understanding the goals of treatment.&nbsp; If a patient does finish our work not knowing what we were working on – and even more importantly what they can do to prevent it from happening again in the future – then I've failed at my goal.
 
 Being a teacher at heart, I’ve worked hard to create understandable bridges for patients between concepts they’re familiar with and can relate to, and the foreign way we view their symptoms from a Chinese medicine perspective. What I discovered over the years is that I seem to have a knack for making the confusing, understandable. I use analogies to explain patient's symptoms and help them understand what’s going on inside their bodies and why it therefore reacts to, say, stress, in their unique way.
 
