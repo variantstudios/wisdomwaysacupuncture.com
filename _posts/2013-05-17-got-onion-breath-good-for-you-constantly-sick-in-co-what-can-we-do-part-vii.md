@@ -51,7 +51,7 @@ Also not surprising that simple green onions, simmered and then drunk as a tea, 
 
 Dr. Joel Fuhrman’s “Super Immunity” quotes results of a case controlled study which showed that the people who ate the most foods from the onion family (about ½ cup chopped onions per day) had more than 50% less cancers than those who did not eat these foods often.
 
-* 56 % reduction in colon cancer
+* 56% reduction in colon cancer
 * 73% reduction on ovarian cancer
 * 88% reduction in esophageal cancer
 * 71% reduction in prostate cancer
@@ -71,7 +71,7 @@ The more convenient you can make it for yourself when time is under a crunch, th
 
 ### Take the Journey to Super Immunity with Me!
 
-We are at the end of this article series…now all that’s left is to actually eat these foods often, and/or add in the [recommended supplements](http://www.wisdomwaysacupuncture.com/2013/05/09/when-youre-constantly-sick-and-constantly-sick-in-co-part-vi-when-your-diet-just-isnt-cutting-it-these-supplements-can-be-the-missing-link/) if it sounds like something that would benefit you.&nbsp; From here on out, I will resume my articles focusing predominantly on health from a Chinese medical perspective.
+We are at the end of this article series…now all that’s left is to actually eat these foods often, and/or add in the [recommended supplements](/2013/05/09/constantly-sick-in-co-part-vi-when-your-diet-just-isnt-cutting-it-these-supplements-can-be-the-missing-link/) if it sounds like something that would benefit you.&nbsp; From here on out, I will resume my articles focusing predominantly on health from a Chinese medical perspective.
 
 But before I end, I will ask if you remember, that at the very beginning of the series I said I was going to ask you to go on a journey with me, a journey to boost your immune system.&nbsp; I hope everyone will participate, because these dietary strategies are necessary to follow NOW so that we set up our body as a fortress to ward off, as well as disarm, viruses and pathogenic cells BEFORE they get a chance to take over our bodies, causing common colds, auto-immune diseases, and other illnesses such as chronic fatigue and cancer.&nbsp;
 
