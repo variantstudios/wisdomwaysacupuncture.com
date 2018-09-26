@@ -1,6 +1,6 @@
 ---
 title: Who Will Get the Most Benefit from Treatment at Wisdom Ways Acupuncture
-date: 2018-07-11 00:00:00
+date: 2018-09-25 00:00:00
 categories:
   - my-approach--philosophy-and-stories
 tags:
@@ -41,7 +41,7 @@ Therefore, understandably, most acupuncturists don't even try. That's why almost
 
 ### The importance of understanding your diagnosis and what we’re working on
 
-Because of how much more effective and transformational I believe healing to be when we understand what the problem is and where/how we went [out of balance](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic-how-to-know-if-youre-balanced-and-how-we-get-you-back-to-balance/); I do my best to make sure no patient finishes our work without understanding the goals of treatment.&nbsp; If a patient does finish our work not knowing what we were working on – and even more importantly what they can do to prevent it from happening again in the future – then I've failed at my goal.
+Because of how much more effective and transformational I believe healing to be when we understand what the problem is and where/how we went [out of balance](/2018/06/30/what-does-balance-actually-mean-in-the-acupuncture-clinic-how-to-know-if-youre-balanced-and-how-we-get-you-back-to-balance/); I do my best to make sure no patient finishes our work without understanding the goals of treatment.  If a patient does finish our work not knowing what we were working on – and even more importantly what they can do to prevent it from happening again in the future – then I've failed at my goal.
 
 Being a teacher at heart, I’ve worked hard to create understandable bridges for patients between concepts they’re familiar with and can relate to, and the foreign way we view their symptoms from a Chinese medicine perspective.
 
