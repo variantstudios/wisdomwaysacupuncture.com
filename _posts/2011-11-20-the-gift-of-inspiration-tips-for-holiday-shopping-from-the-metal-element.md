@@ -25,11 +25,11 @@ Even if I don’t buy anything, it can be fun seeing all the colors, the new des
 
 Typically, I try to avoid the whole thing…the frantic crowds, the shallow focus of our consumerist culture that leaves me feeling frazzled, drained, and disconnected.&nbsp;
 
-It’s become cliche to say that we are a culture whose values have become quite skewed.&nbsp; But I will say it anyway to remind us this [Metal season](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/) of things we can do to stay balanced.
+It’s become cliche to say that we are a culture whose values have become quite skewed.&nbsp; But I will say it anyway to remind us this [Metal season](/2017/10/15/fall-metal-element-video-finding-fulfillment-and-balance-through-quieter-times/) of things we can do to stay balanced.
 
 Indeed I believe that our outward focus, and our focus on “things” is partly to blame for our health issues…we forget to focus inside, toward what we really need to feel vibrant, healthy, and valuable.&nbsp; And the less valuable and the more crappy we feel, the more likely we are to put our focus towards outer fulfillment, which just continues the vicious cycle.
 
-#### What does the [Metal element](http://www.wisdomwaysacupuncture.com/2017/10/15/metal-element-video-live/) tell us about all of this, and what tips can it give us for the holiday season?
+#### What does the [Metal element](/2017/10/15/fall-metal-element-video-finding-fulfillment-and-balance-through-quieter-times/) tell us about all of this, and what tips can it give us for the holiday season?
 
 Before we go into this further, I’d like to share an article I sent you last year over the Thanksgiving weekend.
 
@@ -39,25 +39,17 @@ Before we go into this further, I’d like to share an article I sent you last y
 ###### &nbsp;
 {: .align-to-center}
 
-###### Tomorrow, in the United States, families and friends will gather around tables large and small to give Thanks together.
-{: .align-to-center}
+Tomorrow, in the United States, families and friends will gather around tables large and small to give Thanks together.
 
-###### Thanksgiving is one of my favorite holidays (revisionist history aside). It is two full days during which many of us are liberated from work and school. It comes at a time when the days are getting shorter, trees have lost their leaves and we’re pulling the sweaters out from the back of our overstuffed closets. It’s the perfect time to cozy up and nest with friends and family. And, of course, remembering those who can’t be with us.
-{: .align-to-center}
+Thanksgiving is one of my favorite holidays (revisionist history aside). It is two full days during which many of us are liberated from work and school. It comes at a time when the days are getting shorter, trees have lost their leaves and we’re pulling the sweaters out from the back of our overstuffed closets. It’s the perfect time to cozy up and nest with friends and family. And, of course, remembering those who can’t be with us.
 
-###### Each Thanksgiving, I think of Marie Tellismond. Two years ago on Black Friday, Marie lost her 34 year-old son, Jdimytai Damour. Jimmy-as his friends called him-was trampled to death while trying to protect a pregnant woman from a stampede of bargain shoppers at a New York Walmart.
-{: .align-to-center}
+Each Thanksgiving, I think of Marie Tellismond. Two years ago on Black Friday, Marie lost her 34 year-old son, Jdimytai Damour. Jimmy-as his friends called him-was trampled to death while trying to protect a pregnant woman from a stampede of bargain shoppers at a New York Walmart.
 
-###### Now, I’ve never met Marie Tellismond, but as a fellow mother, I am pretty sure she would give anything to have a day with her son again. &nbsp;Losing, or even coming close to losing someone we love, makes us get our priorities straight really, really fast.
-{: .align-to-center}
+Now, I’ve never met Marie Tellismond, but as a fellow mother, I am pretty sure she would give anything to have a day with her son again. &nbsp;Losing, or even coming close to losing someone we love, makes us get our priorities straight really, really fast.
 
-###### Most of us have a choice this Friday that Marie no longer has. &nbsp;We can chose to leave the warmth of our beds before dawn, to sit in our cars in a parking lot at some mall and to spend the day searching for low prices on products which we don’t really need and often don’t event want, but getting them is all part of the Black Friday Frenzy. &nbsp;Or we have a choice to stay put with loved ones, to play board games and eat leftovers and maybe even play a game of football together.
-{: .align-to-center}
+Most of us have a choice this Friday that Marie no longer has. &nbsp;We can chose to leave the warmth of our beds before dawn, to sit in our cars in a parking lot at some mall and to spend the day searching for low prices on products which we don’t really need and often don’t event want, but getting them is all part of the Black Friday Frenzy. &nbsp;Or we have a choice to stay put with loved ones, to play board games and eat leftovers and maybe even play a game of football together.
 
-###### If we’re going to figure out how to build an economy and society that is healthy for people and the planet, this Friday is a good place to start. &nbsp;Let’s opt out of the frenzy this year.
-{: .align-to-center}
-
-&nbsp;
+If we’re going to figure out how to build an economy and society that is healthy for people and the planet, this Friday is a good place to start. &nbsp;Let’s opt out of the frenzy this year.
 
 The Metal element reminds us to focus on what is valuable in our lives…and I mean, deeply valuable…not just the value of our homes, jewelry and possessions.&nbsp;
 
