@@ -55,7 +55,7 @@ Although there have been a couple times where she thought she may have a panic a
 To schedule an appointment to start treating your anxiety, click here:
 {: .align-to-center}
 
-[Schedule an Appointment](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/ "Online Acupuncture Scheduling"){: .call-to-action}
+[Schedule an Appointment](/make-an-appointment/ "Online Acupuncture Scheduling"){: .call-to-action}
 {: .align-to-center}
 
 ### Summary of Acupuncture treatment for anxiety
@@ -68,7 +68,7 @@ Although I am writing about Brenna, this could just as likely have been about Jo
 
 ### We're now in Spring, associated with the Liver and therefore affecting stress
 
-As I wrote about last week, we are now in [Spring, which is the season related to the liver and the Wood Element, according to 5 Element acupuncture theory](http://www.wisdomwaysacupuncture.com/2018/03/09/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/).&nbsp; The liver is related to stress and its job is to regulate stress.&nbsp; Because it is easier for the liver to get out of balance in the spring, patients may notice [increased tension and impatience](http://www.wisdomwaysacupuncture.com/2018/04/15/wood-element-agitation-tips/).&nbsp;
+As I wrote about last week, we are now in [Spring, which is the season related to the liver and the Wood Element, according to 5 Element acupuncture theory](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/).&nbsp; The liver is related to stress and its job is to regulate stress.&nbsp; Because it is easier for the liver to get out of balance in the spring, patients may notice [increased tension and impatience](/2016/04/15/3-tips-for-turning-the-added-impatience-and-agitation-of-the-wood-element-season-to-your-advantage/).&nbsp;
 
 The good news however, is that treatments aimed at balancing the liver, given at this time of year, will also have a heightened affect.
 
