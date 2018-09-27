@@ -64,7 +64,7 @@ In Chinese medicine, we say the Liver is related to the eyes, and this includes 
 
 ### Metal "controls" Wood
 
-All of our Elements interact to nurture and control the others – an internal checks and balance system that works wonderfully when we are in balance.&nbsp; The [Metal element](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/) happens to “control” the Wood element, and Metal is all about value, integrity, proper judgment, and doing the right thing.
+All of our Elements interact to nurture and control the others – an internal checks and balance system that works wonderfully when we are in balance.&nbsp; The [Metal element](/2016/11/05/metal-learn-about-letting-go-but-that-value-still-remains/) happens to “control” the Wood element, and Metal is all about value, integrity, proper judgment, and doing the right thing.
 
 So the exercise for all of us especially this Spring/Wood season when our Wood element may get out of check, is to call on those qualities of Metal to examine our own mission, plans, and goals.&nbsp;
 
@@ -83,5 +83,5 @@ As always, if you’re my patient I look forward to hearing your stories in the 
 To schedule some acupuncture to start working on balancing your Wood energy, click the button below.
 {: .align-to-center}
 
-[Schedule an Appointment](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/ "Online Acupuncture Scheduling"){: .call-to-action}
+[Schedule an Appointment](/make-an-appointment/ "Online Acupuncture Scheduling"){: .call-to-action}
 {: .align-to-center}
