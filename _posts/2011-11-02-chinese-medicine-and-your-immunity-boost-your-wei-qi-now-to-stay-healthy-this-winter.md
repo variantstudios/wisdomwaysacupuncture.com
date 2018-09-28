@@ -50,7 +50,7 @@ So while western studies may use fancy terms and talk about cellular activity, w
 
 Because no organ is an island, usually when someone has weak lungs, or wei qi, we can trace it back to other deficiencies in the body as well. By treating the body as a whole, overall health and wellness is promoted, and energy is increased.
 
-There are many other things that one can do to increase their qi and promote health–specifically for their lungs during this [Metal season](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/)–which I have been writing about in my last few blogs. To take advantage of this season, try to incorporate some of those activities and foods into the next several weeks, before winter, the Water season hits.
+There are many other things that one can do to increase their qi and promote health–specifically for their lungs during this [Metal season](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/)–which I have been writing about in my last few blogs. To take advantage of this season, try to incorporate some of those activities and foods into the next several weeks, before winter, the Water season hits.
 
 And if it’s been a while since you’ve been in, it may be time for a few “seasonal tune-up” treatments to put you at your best before the holidays hit!
 

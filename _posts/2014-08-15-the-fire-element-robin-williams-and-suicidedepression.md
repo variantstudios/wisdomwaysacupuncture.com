@@ -37,7 +37,7 @@ So for whatever it’s worth, and if this can help anyone experiencing greater s
 
 The [Fire element](http://www.wisdomwaysacupuncture.com/2017/07/07/latest-5-element-video-fire-season-released/), related to the heart and summer, is about joy and connection. It’s about intimacy; not just with other humans but with what some call God, others Infinite Intelligence, Love, Creative Source, The Divine. Whatever you want to call it, or even if you don’t believe in it at all, when we’re connected to aspects of these things as part of who we are and how we experience life on a day to day basis, we tend to not feel depression. The energy of Love fills our life more frequently and we feel a contentedness and a well of fulfillment.
 
-[The Metal Element](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/), and its corresponding emotions of grief, sadness, and depression; is about as opposite to the Joy of Fire as we can get. &nbsp;It relates to Fall, so think of loss as you think of the falling of the leaves at the time of year when darkness sets in.
+[The Metal Element](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/), and its corresponding emotions of grief, sadness, and depression; is about as opposite to the Joy of Fire as we can get. &nbsp;It relates to Fall, so think of loss as you think of the falling of the leaves at the time of year when darkness sets in.
 
 We all have all the elements in us and experience the emotions of each one. But when the elements get out of balance and we get stuck in or can’t access one of them, we can become trapped in a spiral of feeling one particular emotional state ongoingly.
 

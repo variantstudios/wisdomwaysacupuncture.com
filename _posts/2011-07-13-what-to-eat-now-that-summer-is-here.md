@@ -18,7 +18,7 @@ layout: post
 
 Many of you have asked me “What should I be eating now that it’s summer?”&nbsp;
 
-While of course this is going to depend on your individual Chinese Medicine diagnosis, there are a few overarching guidelines that most people can follow. In my general article about the [Fire Element](http://www.wisdomwaysacupuncture.com/2017/05/23/into-the-fire-we-go-more-tips-from-an-acupuncturist-for-staying-balanced-in-summer/) and Summer, I addressed the topic of foods, but I will use this week’s “Wisdom” to go into more detail.
+While of course this is going to depend on your individual Chinese Medicine diagnosis, there are a few overarching guidelines that most people can follow. In my general article about the [Fire Element](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/) and Summer, I addressed the topic of foods, but I will use this week’s “Wisdom” to go into more detail.
 
 ### The most important thing to understand when deciding which foods will be appropriate, is the acupuncture theory of Yin and Yang.
 

@@ -45,7 +45,7 @@ And indeed, fear is the emotion associated with the Water Element, Winter, and k
 
 As their kidneys get restored and their symptoms start improving, patient’s outlook and emotional state begins to improve as well.
 
-As I’ve written in my last blog post, and will continue in my next post, the [kidneys store our root qi](http://www.wisdomwaysacupuncture.com/2017/12/29/is-your-jing-depleted/) deep inside our body.&nbsp; This qi easily gets drained, which will bring on the imbalance which causes these medical issues.&nbsp;
+As I’ve written in my last blog post, and will continue in my next post, the [kidneys store our root qi](/2017/12/29/is-your-jing-depleted-a-chinese-medicine-concept-you-may-want-to-know-about/) deep inside our body.&nbsp; This qi easily gets drained, which will bring on the imbalance which causes these medical issues.&nbsp;
 
 Having them resolved from the core is the best way to treat them; naturally, without harmful drugs, or invasive treatments.&nbsp; By simply increasing the vital Qi in the body, acupuncturists see many issues easily resolve on their own.
 

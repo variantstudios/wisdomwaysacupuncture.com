@@ -47,7 +47,7 @@ Now that we’re in Spring when the abundance of green is everywhere, sure enoug
 
 ## Why are greens beneficial?
 
-* Leafy greens stimulate the [liver](http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/), preventing stagnation and encouraging a healthy flow of our Qi. One of the most important jobs of the liver is to keep our qi flowing smoothly, so we prevent locked up muscles, stress and anxiety, headaches, constipation, bloating, menstrual cramps…and many, many other symptoms.
+* Leafy greens stimulate the [liver](/2017/12/29/is-your-jing-depleted-a-chinese-medicine-concept-you-may-want-to-know-about/), preventing stagnation and encouraging a healthy flow of our Qi. One of the most important jobs of the liver is to keep our qi flowing smoothly, so we prevent locked up muscles, stress and anxiety, headaches, constipation, bloating, menstrual cramps…and many, many other symptoms.
 * They help to detox our liver, so if you’re wanting to do a spring cleanse but you know you’re depleted and shouldn’t be fasting, try adding in a huge serving of leafy greens every day. (I’m talking, like an entire bunch of kale or chard every day for 10 or so days).
 * They nourish our “liver blood”; helping anemia, insomnia and stress/agitation, nourishing the eyes for floaters or blurry vision, preventing cramps, and keeping our hair, skin, and nails lustrous.
 

@@ -17,7 +17,7 @@ layout: post
 
 One of the most common issues I treat in my acupuncture clinic is fatigue, and the conglomeration of symptoms that commonly go along with it.
 
-Because we are currently in [fall season](http://www.wisdomwaysacupuncture.com/2016/11/05/metal-season-the-time-for-learning-about-letting-go-but-that-whats-of-value-remains/), and the energy is waning everywhere around us, I thought I’d focus my success stories of this week around fatigue, since more and more people are coming in for treatment at this time of year for this issue, and see me throughout the winter to keep their energy and spirits up.
+Because we are currently in [fall season](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/), and the energy is waning everywhere around us, I thought I’d focus my success stories of this week around fatigue, since more and more people are coming in for treatment at this time of year for this issue, and see me throughout the winter to keep their energy and spirits up.
 
 I will profile some of the patients I am currently treating, combining their common issues into just two examples which demonstrate how the same symptoms can come from two very different underlying imbalances.
 

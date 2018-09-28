@@ -53,7 +53,7 @@ In my Fall newsletter, I wrote about the importance of the Metal season for buil
 
 While it is not quite the time now to be focusing on our lungs, there is still a lot that we can do TODAY.
 
-Because we are now in the season related to the [kidneys](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), we should do all that we can to keep our energies stored deep inside [in the warmth of our kidneys](http://www.wisdomwaysacupuncture.com/2017/12/29/is-your-jing-depleted/).
+Because we are now in the season related to the [kidneys](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), we should do all that we can to keep our energies stored deep inside [in the warmth of our kidneys](/2017/12/29/is-your-jing-depleted-a-chinese-medicine-concept-you-may-want-to-know-about/).
 
 \* When you’re symptom-free, focus on adding more sour foods to your diet, which contract scattered energies: sourdough bread, sauerkraut, olives, pickles, leeks, salt plums, rosehip tea, vinegar, yogurt, lemons, limes, grapefruit, and the sour varieties of apples, plums, and grapes.
 
