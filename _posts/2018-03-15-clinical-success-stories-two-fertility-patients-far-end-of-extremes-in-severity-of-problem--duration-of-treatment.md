@@ -19,15 +19,13 @@ search_engine_optimization:
 layout: post
 ---
 
-<div id="attachment_3640">
-		<p>Since I just had two fertility patients this week give birth to bouncing little perfectly healthy babies, I thought I&rsquo;d share a write-up of what the treatment process looked like for them both.</p>
-	</div>
+<div id="attachment_3640"><p>Since I just had two fertility patients this week give birth to bouncing little perfectly healthy babies, I thought I&rsquo;d share a write-up of what the treatment process looked like for them both.</p></div>
 
 Their cases were about as opposite as they come on the scale of both difficulty, as well as time to conceive & live birth. So I thought outlining the two cases would give people a perfect — and realistic — look at how natural fertility treatment with acupuncture goes.
 
 ## Acupuncture for Natural Fertility Treatment vs. to Support IVF
 
-Keep in mind that I only work with women who are trying to [get pregnant naturally](http://www.wisdomwaysacupuncture.com/acupuncture-conditions-treated/acupuncture-for-womens-health/acupuncture-for-fertility/). The reasons why warrant [another post](http://www.wisdomwaysacupuncture.com/2016/09/20/why-natural-fertility/). But what this means is that the job before us is to FIX the underlying problem that’s causing the infertility, rather than going around it, which is where [IVF](https://en.wikipedia.org/wiki/In_vitro_fertilisation) excels.&nbsp;
+Keep in mind that I only work with women who are trying to [get pregnant naturally](/conditions-treated/acupuncture-for-fertility/). The reasons why warrant [another post](/2016/09/20/why-natural-fertility/). But what this means is that the job before us is to FIX the underlying problem that’s causing the infertility, rather than going around it, which is where [IVF](https://en.wikipedia.org/wiki/In_vitro_fertilisation) excels.&nbsp;
 
 When women choose IVF and are just using acupuncture to support that modality, the results are often much faster, because each IVF cycle&nbsp; either works or it doesn’t, but it doesn’t depend on a woman taking the time (sometimes several cycles) to heal the underlying cause for needing to use IVF in the first place.
 
