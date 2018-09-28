@@ -22,7 +22,7 @@ search_engine_optimization:
 layout: post
 ---
 
-<div><p>Every year, it&rsquo;s either my acupuncture patients, or the plants in my yard (sometimes both) which alert me to the fact that <a href="http://www.wisdomwaysacupuncture.com/2018/05/10/the-wood-element-of-acupuncture-theory/">the wood element energy, associated with the liver</a>, is starting to rise up around us.</p><p>Because it seems to be raring its nasty little head earlier than usual this year, I'm posting about this energy, how it affects us, and what you can do to avoid the <a href="http://www.wisdomwaysacupuncture.com/2018/04/15/wood-element-agitation-tips/">common symptoms that seem to flare up more often</a> once we really start heading into Wood season.</p></div>
+<div><p>Every year, it&rsquo;s either my acupuncture patients, or the plants in my yard (sometimes both) which alert me to the fact that <a data-cms-editor-link-style="undefined" href="/2018/03/10/wood-element-spring-acupuncture-theory-video-tips-to-keep-your-wood-element-balanced-as-we-head-into-spring/">the wood element energy, associated with the liver</a>, is starting to rise up around us.</p><p>Because it seems to be raring its nasty little head earlier than usual this year, I'm posting about this energy, how it affects us, and what you can do to avoid the <a data-cms-editor-link-style="undefined" href="/2016/04/15/3-tips-for-turning-the-added-impatience-and-agitation-of-the-wood-element-season-to-your-advantage/">common symptoms that seem to flare up more often</a> once we really start heading into Wood season.</p></div>
 
 ## The 5 Elements of Acupuncture Theory
 
@@ -82,7 +82,7 @@ I’ll be writing more about this as we actually enter into Wood season when spr
 
 1) Relaxation Techniques: I can’t stress how important relaxation techniques are, and in particular, meditation. I will soon post a blog which includes information related to a fascinating study that was just done that measured the changes that happen when we meditate, as compared to just doing calming activities. But in the meantime, you can start trying to implement some kind of relaxation tools into your daily routines.
 
-2) Relaxation techniques: In case you didn’t quite get how important this is the first time I said it, I’ll repeat it again. :-) Every time you meditate, it’s like you’re self treating yourself and sticking a little invisible needle into those pesky liver points that help so much to regulate your liver, calm your liver,  and keep it happy.
+2) Relaxation techniques: In case you didn’t quite get how important this is the first time I said it, I’ll repeat it again. :-) Every time you meditate, it’s like you’re self treating yourself and sticking a little invisible needle into those pesky liver points that help so much to regulate your liver, calm your liver,&nbsp; and keep it happy.
 
 3) Relaxation techniques: OK I really mean it. If you want to keep your liver happy, one of the best ways to do it, and to keep the great successes we’ve had during treatment progressing forward and not regressing, is to implement relaxation techniques into your regular self-care practices.
 
@@ -92,5 +92,5 @@ Well my best advice is to start working on that now, so that when the wood seaso
 
 To schedule an appointment to try acupuncture for yourself, click the button below
 
-[Schedule an Appointment](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/ "Online Acupuncture Scheduling"){: .call-to-action}
+[Schedule an Appointment](/make-an-appointment/ "Online Acupuncture Scheduling"){: .call-to-action}
 {: .align-to-center}
