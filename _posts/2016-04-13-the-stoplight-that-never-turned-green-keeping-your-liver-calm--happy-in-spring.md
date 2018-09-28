@@ -42,7 +42,7 @@ Tapping my finger agitatedly against the steering wheel, I thought, “What’s 
 
 And that was when it hit me:&nbsp;
 
-“My god…this is what [Wood/Liver](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/) type people struggle with ALL – THE – TIME!!!”
+“My god…this is what [Wood/Liver](/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/) type people struggle with ALL – THE – TIME!!!”
 
 While I have my own emotions to deal with, this sense of bottled up impatience is so unusual for me that I can count the times on one hand that I remember experiencing it.
 

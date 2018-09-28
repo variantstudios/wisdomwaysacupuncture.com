@@ -20,7 +20,7 @@ layout: post
 
 #### And of what time of year am I speaking?
 
-[Wood time.](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)&nbsp; The season, according to the 5 Elements theory of Chinese medicine, related to the Liver, to the energy of discipline, “getting it done”, frustration (when things don’t happen with the ease or timeliness that we would wish), and to a great VISION for where we want our lives to be heading.
+[Wood time.](/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)&nbsp; The season, according to the 5 Elements theory of Chinese medicine, related to the Liver, to the energy of discipline, “getting it done”, frustration (when things don’t happen with the ease or timeliness that we would wish), and to a great VISION for where we want our lives to be heading.
 
 ## The challenge of the Wood Element
 

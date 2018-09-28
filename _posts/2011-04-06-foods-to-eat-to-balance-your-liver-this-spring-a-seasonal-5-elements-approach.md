@@ -49,7 +49,7 @@ The most miraculous thing is to realize that the foods that grow during each sea
 If you want to know what foods you should be eating at various times of the year, rather than shopping at the supermarket where everything is available all year round, visit the farmers market and see what’s available.
 {: .present-before-paste}
 
-If there’s only root vegetables and winter squashes, chances are, that’s what we should be eating.&nbsp; Even in winter, the preservation methods of salting and pickling foods serve to draw our Qi deep inside where we want it safely preserved during the colder months.&nbsp; Now that we’re in Spring when the abundance of green is everywhere, sure enough that is what will help our [liver–the organ related to springtime](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)–stay balanced.
+If there’s only root vegetables and winter squashes, chances are, that’s what we should be eating.&nbsp; Even in winter, the preservation methods of salting and pickling foods serve to draw our Qi deep inside where we want it safely preserved during the colder months.&nbsp; Now that we’re in Spring when the abundance of green is everywhere, sure enough that is what will help our [liver–the organ related to springtime](/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)–stay balanced.
 {: .present-before-paste}
 
 ##### Why are greens beneficial?
