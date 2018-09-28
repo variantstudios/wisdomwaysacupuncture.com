@@ -35,7 +35,7 @@ It’s actually just sweet potatoes with eggs. That’s practically it!
 
 All I added were some sunflower seeds and flax seeds sprinkled on top, along with a little salt and pepper to give it some flavor.
 
-In my acupuncture practice, [I am often advising that patients get wheat and other inflammatory foods out of their diet](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2013/07/11/to-grains-or-not-to-grains-that-is-the-question-part-i/), which leaves people wondering…what do I do for sandwiches? A quick snack? Muffins? Breakfast waffles? Hamburger buns?
+In my acupuncture practice, [I am often advising that patients get wheat and other inflammatory foods out of their diet](/2013/07/11/to-grains-or-not-to-grains-that-is-the-question-part-i/), which leaves people wondering…what do I do for sandwiches? A quick snack? Muffins? Breakfast waffles? Hamburger buns?
 
 By using this same basic recipe of 2 whipped eggs to every one cup of shredded or pulverized (in a food processor) Hannah Sweet potatoes, you can make whatever you’d like out of it.&nbsp;
 

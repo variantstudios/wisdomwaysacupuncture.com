@@ -64,7 +64,7 @@ While the Wikipedia page on FODMAPs says ” Poor absorption of most FODMAP carb
 
 ### My proposal for why FODMAPS have become such a big problem:
 
-Like my argument in the [grains article series](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2013/07/11/to-grains-or-not-to-grains-that-is-the-question-part-i/){: target="_blank"}, I am proposing that FODMAPs have suddenly become a problem because our guts are already so out of whack.
+Like my argument in the [grains article series](/2013/07/11/to-grains-or-not-to-grains-that-is-the-question-part-i/){: target="_blank"}, I am proposing that FODMAPs have suddenly become a problem because our guts are already so out of whack.
 
 Many healthy and common foods contain chemicals that are not good for us on their own, but our bodies evolved over the years to deal with them without being harmed, while getting benefits.
 

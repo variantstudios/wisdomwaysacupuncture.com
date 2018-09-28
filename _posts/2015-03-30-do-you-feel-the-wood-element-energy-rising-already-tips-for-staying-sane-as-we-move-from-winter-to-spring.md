@@ -38,7 +38,7 @@ Even though we’re in one of the coldest spells of the year right now, sure eno
 
 ### The liver is the organ associated with the spring
 
-If you’ve been my patient over the course of a few years, you’ve seen me often write that the [Wood season](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2018/03/09/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/) is commonly the most loved, yet most feared time of the year for acupuncturists.
+If you’ve been my patient over the course of a few years, you’ve seen me often write that the [Wood season](/2018/03/10/wood-element-spring-acupuncture-theory-video-tips-to-keep-your-wood-element-balanced-as-we-head-into-spring/) is commonly the most loved, yet most feared time of the year for acupuncturists.
 
 That’s because it’s associated with the energy of the liver, which is often, in 5 elements terms, given the name “the general”, or “the sergeant”. The liver energy is that energy we feel in the springtime when we feel we can take on anything, and possibilities seem to have no end.
 

@@ -17,7 +17,7 @@ search_engine_optimization:
 layout: post
 ---
 
-What a response to my [last article](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2013/07/11/to-grains-or-not-to-grains-that-is-the-question-part-i/)! Based on all the replies, it seems my article rang a bell with many of you and spoke to a concern you’ve been experiencing.
+What a response to my [last article](/2013/07/11/to-grains-or-not-to-grains-that-is-the-question-part-i/)! Based on all the replies, it seems my article rang a bell with many of you and spoke to a concern you’ve been experiencing.
 
 As a health care provider, my concern is no less, as people grant me their trust every day to advise them on what is best for their wellness.
 
