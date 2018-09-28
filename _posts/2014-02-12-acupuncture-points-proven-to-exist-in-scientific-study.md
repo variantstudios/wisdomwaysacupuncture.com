@@ -60,7 +60,7 @@ This particularly study is one using amperometric oxygen microsensors, and the f
 
 [photo source](http://www.healthcmi.com/Acupuncture-Continuing-Education-News/1230-new-ct-scans-reveal-acupuncture-points "acupuncture point photo source"){: target="_blank"}
 
-A [recent post of mine](http://www.wisdomwaysacupuncture.com/2017/04/11/new-study-shows-how-acupuncture-helps-stress/ "acupuncture reduces stress"){: target="_blank"} outlined the affects of acupuncture on the areas of the brain responsible for regulating our stress, when acupuncture points that have been known to decrease stress were used.  The areas of the brain associated with hormone regulation, and in particular upregulating or downregulating stress hormones, lit up when these calming points were needled.  
+A [recent post of mine](/2017/04/11/another-new-study-shows-that-acupuncture-helps-stress-by-regulating-hormones/ "acupuncture reduces stress"){: target="_blank"} outlined the affects of acupuncture on the areas of the brain responsible for regulating our stress, when acupuncture points that have been known to decrease stress were used.  The areas of the brain associated with hormone regulation, and in particular upregulating or downregulating stress hormones, lit up when these calming points were needled.  
 
 So if you put these exciting studies all together, it is hard to continue denying the legitimate physiological and healing affects of the medicine.
 

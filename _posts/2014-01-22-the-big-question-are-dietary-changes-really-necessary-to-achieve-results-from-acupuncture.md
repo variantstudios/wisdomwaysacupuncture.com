@@ -90,7 +90,7 @@ I hate to be such a meanie, but I’m just laying out the facts as I experience 
 
 My job is to empower, not to mislead.
 
-But I get it, really I do…completely overhauling the way you eat is a big challenge! In fact, I wrote an [entire blog](http://www.wisdomwaysacupuncture.com/2016/08/06/portrait-of-a-food-meltdown-even-acupuncturists-have-to-find-ways-to-keep-keepin-on-when-eating-healthy-feels-too-overwhelming/) about how difficult keeping up with healthy eating can be.
+But I get it, really I do…completely overhauling the way you eat is a big challenge! In fact, I wrote an [entire blog](/2016/08/06/portrait-of-a-food-meltdown-even-acupuncturists-must-find-ways-to-keep-keepin-on-when-eating-healthy-feels-too-overwhelming/) about how difficult keeping up with healthy eating can be.
 
 ### A final question to ponder
 

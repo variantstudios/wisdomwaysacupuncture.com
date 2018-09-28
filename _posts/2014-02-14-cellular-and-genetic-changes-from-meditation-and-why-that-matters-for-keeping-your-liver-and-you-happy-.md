@@ -20,7 +20,7 @@ search_engine_optimization:
 layout: post
 ---
 
-I promised in my [last post on the Wood element](/2015/03/30/do-you-feel-the-wood-element-energy-rising-already-tips-for-staying-sane-as-we-move-from-winter-to-spring/"Do you Feel the Wood Element Energy Rising Already?: Tips From the Acupuncture Office for Staying Sane as we Switch from Winter to Spring") that I would write on the cellular affects of meditation, and why it is such an important practice for all of us to be doing.
+I promised in my [last post on the Wood element](/2015/03/30/do-you-feel-the-wood-element-energy-rising-already-tips-for-staying-sane-as-we-move-from-winter-to-spring/ "Do you Feel the Wood Element Energy Rising Already?: Tips From the Acupuncture Office for Staying Sane as we Switch from Winter to Spring") that I would write on the cellular affects of meditation, and why it is such an important practice for all of us to be doing.
 
 Especially as we begin to head into [wood element season](/2017/12/29/is-your-jing-depleted-a-chinese-medicine-concept-you-may-want-to-know-about/) — the element notorious for, shall we say, being a little temperamental – it’s even more important that we have some tools to counteract the heightened stress that may happen in our body.
 
