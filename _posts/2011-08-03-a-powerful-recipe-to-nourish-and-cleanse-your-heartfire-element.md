@@ -19,7 +19,7 @@ layout: post
 
 Being that we’re now in summer, the season related to the [Heart/Fire element,](/2017/06/19/out-of-the-wood-and-into-the-fire-more-tips-for-keeping-your-fire-element-balanced-this-summer/) after an emotionally impactful event this week I’m inspired to focus a post on the connection between our words — or what we communicate — and our Heart/Fire Element.
 
-A Fire Element that is vibrant and strong leads to more joy, better relationships, and an overall happier “shen” (spirit, mind). So I’m going to give a seasonal “recipe” for a balanced [Fire element.](http://www.wisdomwaysacupuncture.com/2017/07/07/latest-5-element-video-fire-season-released/)
+A Fire Element that is vibrant and strong leads to more joy, better relationships, and an overall happier “shen” (spirit, mind). So I’m going to give a seasonal “recipe” for a balanced [Fire element.](/2017/09/09/late-summer-season-earth-element-of-acupuncture-video-receiving-and-nurturing-for-yourself-and-others/)
 
 The good news is, the ingredients are free, completely healthy, and as local as it gets, being that they stem from inside your own heart.&nbsp; The ingredients for this recipe are not foods, but words.&nbsp;
 

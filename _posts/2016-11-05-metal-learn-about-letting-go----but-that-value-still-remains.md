@@ -46,7 +46,7 @@ As we emotionally let go of what no longer serves us, our bowels let go also, mo
 
 ### Traits of imbalanced Metal Element
 
-[Imbalanced Metal then brings the opposite, and symptoms often worsen during this time of year. Breathing issues, such as asthma or shortness of breath](http://www.wisdomwaysacupuncture.com/2011/10/05/time-to-inspire/); as well as frequent colds or flues, are common.
+[Imbalanced Metal then brings the opposite, and symptoms often worsen during this time of year. Breathing issues, such as asthma or shortness of breath](/2011/10/05/time-to-inspire-wisdom-from-the-metal-element-as-we-head-into-fall/); as well as frequent colds or flues, are common.
 
 Constipation comes for those who have a hard time letting go, and this manifests emotionally in the form of depression — we lose all inspiration for life.
 

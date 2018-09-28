@@ -26,7 +26,7 @@ While the long, playful days of summer have past, the air is still warm and the 
 
 ## The significance of Late Summer
 
-Traditionally, this was the season for [building our stores of nourishment](http://www.wisdomwaysacupuncture.com/2011/09/07/out-of-the-fire-and-deep-into-earth/) for the coming months, and hours would be spent toiling in the kitchen putting up the summer bounty.
+Traditionally, this was the season for [building our stores of nourishment](/2011/09/07/out-of-the-fire-and-deep-into-earth-use-earths-bounty-to-build-up-your-qi-as-we-head-into-earth-element-season/) for the coming months, and hours would be spent toiling in the kitchen putting up the summer bounty.
 
 Nowadays modern agriculture has all but eliminated this ritual, teaching us that it's no longer necessary. But one glance at the 5 Elements roots of Acupuncture theory shows us just the opposite—that in fact there are critical activities we should engage in at this time of year to both build and store our sources of nourishment (or "Qi"/energy), to ensure a vibrant and emotionally balanced winter ahead.
 

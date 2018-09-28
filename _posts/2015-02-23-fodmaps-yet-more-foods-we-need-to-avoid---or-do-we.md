@@ -16,7 +16,7 @@ search_engine_optimization:
   share_image_path:
 ---
 
-<div id="attachment_2480"><p>More and more patients have been coming in over the last couple years reporting that reducing FODMAPS in their diet has really helped them feel better.</p><p>I first learned about these potential problem foods when I switched to a more <a href="http://www.wisdomwaysacupuncture.com/services-offered/acupuncture-nutritional-principles/">Paleo-TCM-fusion</a> way of eating, and I remember thinking &ldquo;oh great&hellip;yet ANOTHER thing that people are supposed to eliminate!?&rdquo;</p></div>
+<div id="attachment_2480"><p>More and more patients have been coming in over the last couple years reporting that reducing FODMAPS in their diet has really helped them feel better.</p><p>I first learned about these potential problem foods when I switched to a more <a href="/services-offered/nutritional-guidance/">Paleo-TCM-fusion</a> way of eating, and I remember thinking &ldquo;oh great&hellip;yet ANOTHER thing that people are supposed to eliminate!?&rdquo;</p></div>
 
 ### But is there something we can do to increase the likelihood of being able to eat these foods without problems? That’s the question I’m addressing in this article.
 

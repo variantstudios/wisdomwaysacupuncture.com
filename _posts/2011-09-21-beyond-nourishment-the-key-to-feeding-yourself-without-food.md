@@ -16,7 +16,7 @@ search_engine_optimization:
 layout: post
 ---
 
-Last week, I sent out perhaps my most important email of the year, related to the [Earth Element](http://www.wisdomwaysacupuncture.com/2011/09/07/out-of-the-fire-and-deep-into-earth/) (if you haven’t read it, it’s worth going back and reading now!).  During the Earth season, the most important thing to focus on is nourishing your Qi.
+Last week, I sent out perhaps my most important email of the year, related to the [Earth Element](/2011/09/07/out-of-the-fire-and-deep-into-earth-use-earths-bounty-to-build-up-your-qi-as-we-head-into-earth-element-season/) (if you haven’t read it, it’s worth going back and reading now!).  During the Earth season, the most important thing to focus on is nourishing your Qi.
 
 ## What is Qi?
 

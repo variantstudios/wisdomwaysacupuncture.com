@@ -115,7 +115,7 @@ But of course none of that matters if she’s not ovulating.
 
 ### Acupuncture & herbal treatment process and progress:
 
-I advised her to decrease her carbs as much as possible, and to do her best to get some form of movement in every day, even just a relaxing walk. I put her on an herbal formula that she would just take continuously until either 1) she had a period, or 2) she started getting fertile mucous. At that point her herbs would switch to different “[formulas](http://www.wisdomwaysacupuncture.com/services-offered/acupuncture-and-chinese-herbs/)“.
+I advised her to decrease her carbs as much as possible, and to do her best to get some form of movement in every day, even just a relaxing walk. I put her on an herbal formula that she would just take continuously until either 1) she had a period, or 2) she started getting fertile mucous. At that point her herbs would switch to different “[formulas](/services-offered/chinese-herbs/)“.
 
 ##### Progress:
 

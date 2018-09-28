@@ -86,7 +86,7 @@ No…this is a feeling that sprung up within me out of nowhere…a sudden epipha
 
 <div>&nbsp;</div>
 
-<div>So for one last word of wisdom from the<strong> <a href="http://www.wisdomwaysacupuncture.com/2017/05/27/out-of-the-wood-and-into-the-fire-tips-for-keeping-your-fire-element-balanced-this-summer/">Fire Element</a> </strong>before we head into the <strong><a href="http://www.wisdomwaysacupuncture.com/2011/09/07/out-of-the-fire-and-deep-into-earth/">Earth Element</a> </strong>which is right around the corner, I&rsquo;d like to put the call out for gratitude.</div>
+<div>So for one last word of wisdom from the<strong> <a href="http://www.wisdomwaysacupuncture.com/2017/05/27/out-of-the-wood-and-into-the-fire-tips-for-keeping-your-fire-element-balanced-this-summer/">Fire Element</a> </strong>before we head into the <strong><a href="/2011/09/07/out-of-the-fire-and-deep-into-earth-use-earths-bounty-to-build-up-your-qi-as-we-head-into-earth-element-season/">Earth Element</a> </strong>which is right around the corner, I&rsquo;d like to put the call out for gratitude.</div>
 
 Gratitude is an energy that comes from our heart, which is the Fire Element’s organ.&nbsp; When our hearts are filled with gratitude, things look much brighter and there’s an intangible warmth to life–and we’ll want lots of practice with conjuring up bright feelings when there’s no brightness and warmth to be found outside!&nbsp; Especially for those who suffer from Seasonal Affective Disorder (SAD).
 

@@ -17,7 +17,7 @@ layout: post
 
 <div id="attachment_945" style="width: 129px" class="wp-caption alignleft">&nbsp;</div>
 
-We’re entering into [Water season](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/), the season related to the [Kidneys](/2017/12/29/is-your-jing-depleted-a-chinese-medicine-concept-you-may-want-to-know-about/).&nbsp;
+We’re entering into [Water season](/2017/12/31/water-element-its-depths-will-keep-you-balanced-in-winter/), the season related to the [Kidneys](/2017/12/29/is-your-jing-depleted-a-chinese-medicine-concept-you-may-want-to-know-about/).&nbsp;
 
 Energy, or Qi, is at it’s lowest point in the cycle of the year, so during winter, it’s appropriate to be less active and to conserve our energy stores. Unfortunately, just because it’s appropriate to do less, doesn’t mean that modern life always allows it; so the more we can do to take care of our energy during this time of year, the more of it we’ll have.
 

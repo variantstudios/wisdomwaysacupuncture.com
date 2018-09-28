@@ -28,7 +28,7 @@ Minutes later, back at the office, I came across [this article](https://nhs.geor
 
 Science tells us that there is something called the The HPAA (Hypothalamic-Pituitary-Adrenal Axis), which controls our reactions to stress by regulating hormones. One particular hormone, CRH (corticotrophin releasing hormone), plays a huge role in initiating the stress response. It was found that acupuncture dramatically inhibited CRH response when exposed to stress. Other hormones related to stress were either up-regulated or down-regulated, in whichever direction reduced the stress response.
 
-For more info on how I work with stress in my practice, see this page: [Acupuncture and Anxiety/Depression](http://www.wisdomwaysacupuncture.com/acupuncture-conditions-treated/chronic-internal-medical-conditions/acupuncture-for-anxiety-depression/ "Anxiety/Depression")
+For more info on how I work with stress in my practice, see this page: [Acupuncture and Anxiety/Depression](/conditions-treated/stress-anxiety-depression/ "Anxiety/Depression")
 
 It is also interesting to note that the point combination which proved more effective included a point along the Liver channel, the channel which is classically treated when a person is stressed out, due to the Liver’s close relationship with stress.&nbsp;
 

@@ -28,7 +28,7 @@ Anyone who understands the 5 Elements knows that Wood energy presents a great ch
 
 So why did I choose an image displaying beautiful, serene water, to display this energy?&nbsp;
 
-Because, as the image states, “In the confrontation between the stream and the rock, the stream always wins…”.&nbsp; And, because we are still in the season related [Water](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/). When our Water element is nice and full, it nourishes our Wood; and come Spring (Wood) time, we are able to bend like bamboo, as the Chinese say, in times of challenge, instead of snapping and breaking. We will lead our lives with a flexibility that just may allow circumstances and others to bend to our will more gracefully as well.&nbsp; We will keep our VISION on the greater good for ourselves and everyone, thus more easily enrolling others into our mission.
+Because, as the image states, “In the confrontation between the stream and the rock, the stream always wins…”.&nbsp; And, because we are still in the season related [Water](/2017/12/31/water-element-its-depths-will-keep-you-balanced-in-winter/). When our Water element is nice and full, it nourishes our Wood; and come Spring (Wood) time, we are able to bend like bamboo, as the Chinese say, in times of challenge, instead of snapping and breaking. We will lead our lives with a flexibility that just may allow circumstances and others to bend to our will more gracefully as well.&nbsp; We will keep our VISION on the greater good for ourselves and everyone, thus more easily enrolling others into our mission.
 
 ## Relationship between Wood and Water
 

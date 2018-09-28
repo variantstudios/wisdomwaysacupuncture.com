@@ -70,7 +70,7 @@ When we can work with the positive traits and use them to our advantage, we will
 
 If you want to make an appointment to start balancing your Wood element, click the button below.
 
-&nbsp; [Schedule an Appointment](http://www.wisdomwaysacupuncture.com/acupuncture-appointment-scheduling/ "Online Acupuncture Scheduling"){: .call-to-action}
+&nbsp; [Schedule an Appointment](/make-an-appointment/ "Online Acupuncture Scheduling"){: .call-to-action}
 {: .align-to-center}
 
 &nbsp;

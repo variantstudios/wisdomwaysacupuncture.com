@@ -24,7 +24,7 @@ But as the days get colder and shorter as we progress into fall, I begin to see 
 
 ## Chronic Fatigue/Fibromyalgia in the Acupuncture Clinic
 
-A major increase in symptoms in the winter months can be explained by the fact that Chronic Fatigue/Fibromyalgia is often due to depleted Qi, and according to Chinese Medicine the [depth of winter](http://www.wisdomwaysacupuncture.com/2018/01/12/the-depths-of-water-will-keep-you-balanced-this-winter/) is when the Qi in nature is at the lowest point in its cycle through the seasons.
+A major increase in symptoms in the winter months can be explained by the fact that Chronic Fatigue/Fibromyalgia is often due to depleted Qi, and according to Chinese Medicine the [depth of winter](/2017/12/31/water-element-its-depths-will-keep-you-balanced-in-winter/) is when the Qi in nature is at the lowest point in its cycle through the seasons.
 
 For some people, even now as the days have begun to shorten dramatically, they feel their symptoms coming on.&nbsp; Luckily, acupuncture and Chinese herbs are extremely effective in treating this condition; and using a combination of the two, I have had almost a 100% success rate in my practice when patients follow the recommended treatment.
 
