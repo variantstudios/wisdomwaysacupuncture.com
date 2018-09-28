@@ -18,7 +18,7 @@ permalink: /make-an-appointment/
 
 #### **Schedule an Acupuncture Appointment:**&nbsp; [Online Scheduling](https://instant-scheduling.com/sch.php?kn=184475){: target="_blank"}
 
-#### **Or call:** [(970) 227-3077](tel://+19702273077)
+#### **Or call:** [(970) 227-3077](tel:+19702273077)
 
 *When scheduling online, please be sure to read all relevant information below:*
 
