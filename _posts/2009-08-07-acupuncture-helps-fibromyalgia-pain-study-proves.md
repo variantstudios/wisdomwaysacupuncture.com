@@ -46,7 +46,7 @@ We don’t treat diseases, but rather the underlying root imbalance which is cau
 
 From a Chinese perspective, we do not diagnose patients with disease. Rather, we look at seemingly unrelated symptoms to find an underlying “pattern of imbalance.” Once that imbalance is identified and treated, symptoms begin to resolve. The muscles, which are the primary tissue involved in FMS, are related to the digestive system in Chinese Medicine. This is why, whenever there is a problem related to the muscles, we look toward the spleen/pancreas. Because we are now in Late Summer, the season associated with the Earth Element and the digestive system, it is an ideal time of year to address issues related to the muscles, which, again, are related to the digestive system. Treating an issue during its corresponding season can greatly magnify the effects of the treatment.
 
-Then we also commonly find liver imbalance, since as pointed out in this article about [random pains](http://www.wisdomwaysacupuncture.com/2012/04/25/avoid-random-pains-by-keeping-your-liver-healthy/), that is often due liver imbalance and when the liver is treated and balanced, pain throughout the entire body improves.
+Then we also commonly find liver imbalance, since as pointed out in this article about [random pains](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2012/04/25/avoid-random-pains-by-keeping-your-liver-healthy/), that is often due liver imbalance and when the liver is treated and balanced, pain throughout the entire body improves.
 
 But ultimately, each person is seen as an individual, and in real life each person with FMS will have at least a slightly different diagnosis.
 

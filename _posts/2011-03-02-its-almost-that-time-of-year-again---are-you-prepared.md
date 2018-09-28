@@ -20,7 +20,7 @@ layout: post
 
 #### And of what time of year am I speaking?
 
-[Wood time.](http://www.wisdomwaysacupuncture.com/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)&nbsp; The season, according to the 5 Elements theory of Chinese medicine, related to the Liver, to the energy of discipline, “getting it done”, frustration (when things don’t happen with the ease or timeliness that we would wish), and to a great VISION for where we want our lives to be heading.
+[Wood time.](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)&nbsp; The season, according to the 5 Elements theory of Chinese medicine, related to the Liver, to the energy of discipline, “getting it done”, frustration (when things don’t happen with the ease or timeliness that we would wish), and to a great VISION for where we want our lives to be heading.
 
 ## The challenge of the Wood Element
 
@@ -40,7 +40,7 @@ Are you constantly in forward motion but not even sure where you’re headed? Do
 
 Steven Covey, in his book “The Seven Habits of Highly Effective People” explains that so many of us are climbing frantically up the ladder to reach the top, only to find, upon arriving there, that our ladder was leaning against the wrong building. That frantic climbing is the Wood energy.&nbsp; The Water Element is the deep, wise pondering before we start climbing, making sure that when we DO reach the top, the view we see from that vantage is our Vision fulfilled.
 
-So for these next weeks until we enter Wood season, make it a point to create a little down time every day.&nbsp; Make it a point to [get out and walk near water](http://www.wisdomwaysacupuncture.com/2010/12/07/spend-time-near-water-to-keep-yourself-balanced-during-dry-winters/).&nbsp; Listen to the water, let its smooth effortlessness teach you how to go with the flow; and let the quiet time nourish your whole Spirit, perhaps giving you a more clear view of your priorities. If your church or spiritual center offers classes on tuning into your gifts and your purpose, now is the perfect time to sign up!&nbsp; There will be plenty of time in a few weeks to get into the actual “do-ing”, when the energy of the entire universe will be backing you up to live your dream.
+So for these next weeks until we enter Wood season, make it a point to create a little down time every day.&nbsp; Make it a point to [get out and walk near water](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2010/12/07/spend-time-near-water-to-keep-yourself-balanced-during-dry-winters/).&nbsp; Listen to the water, let its smooth effortlessness teach you how to go with the flow; and let the quiet time nourish your whole Spirit, perhaps giving you a more clear view of your priorities. If your church or spiritual center offers classes on tuning into your gifts and your purpose, now is the perfect time to sign up!&nbsp; There will be plenty of time in a few weeks to get into the actual “do-ing”, when the energy of the entire universe will be backing you up to live your dream.
 
 The energy of the Elements is here to help us…if we stay in tuned with the current season of Water and let its wisdom guide us, we will avoid being in a frantic state of hyperaction now, and be much better set up to live our Visions with that smooth grace of water, come Spring.
 

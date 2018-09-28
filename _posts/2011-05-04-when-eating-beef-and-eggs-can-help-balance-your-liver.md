@@ -23,7 +23,7 @@ Because according to Chinese medicine we are still in the season related to the 
 
 ## Western vs. Chinese “Liver”
 
-When acupuncturists use the word “[liver”](http://www.wisdomwaysacupuncture.com/2018/05/15/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/), we sometimes mean the actual organ as recognized by western medicine.&nbsp; But more often than not we mean the functions and characteristics ascribed by Chinese medical theory.&nbsp; If you are my patient and you have any kind of liver imbalance (which most of us do at least on some level since the liver is related to stress), then you know by now some of the “Chinese” jobs of the liver:
+When acupuncturists use the word “[liver”](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2018/05/15/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/), we sometimes mean the actual organ as recognized by western medicine.&nbsp; But more often than not we mean the functions and characteristics ascribed by Chinese medical theory.&nbsp; If you are my patient and you have any kind of liver imbalance (which most of us do at least on some level since the liver is related to stress), then you know by now some of the “Chinese” jobs of the liver:
 
 * Keeping your Qi flowing smoothly
 * Regulating stress

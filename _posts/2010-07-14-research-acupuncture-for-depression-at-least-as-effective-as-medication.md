@@ -15,7 +15,7 @@ search_engine_optimization:
 layout: post
 ---
 
-I am writing about depression for this season’s research article because as you can see from reading the featured [Fire/Summer piece](http://www.wisdomwaysacupuncture.com/2017/05/22/summer-is-here-time-to-nurture-your-heart-fire/), it is actually vital for our health–not a luxury– that we experience joy, connection, and fun.&nbsp; Because I’ve experienced such good results with using Chinese medicine for emotional imbalances, I decided to go online and see what the research has to say about acupuncture and “the blues”.
+I am writing about depression for this season’s research article because as you can see from reading the featured [Fire/Summer piece](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2017/05/22/summer-is-here-time-to-nurture-your-heart-fire/), it is actually vital for our health–not a luxury– that we experience joy, connection, and fun.&nbsp; Because I’ve experienced such good results with using Chinese medicine for emotional imbalances, I decided to go online and see what the research has to say about acupuncture and “the blues”.
 
 Although unfortunately it turns out not many studies have been done to this day, the ones that have been done have pretty unanimously agreed that acupuncture is at least as effective as antidepressants, yet without the side-effects of medication.
 

@@ -35,7 +35,7 @@ But this year is different.&nbsp; Being the first year that I focused on eating 
 
 ### Seasonal/Local Eating
 
-And it turns out, absence indeed has made the heart, or should I say, [LIVER](http://www.wisdomwaysacupuncture.com/2018/05/15/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/), grow fonder…for I’d never been so excited about a simple bag of spinach as I was that day I saw it in the market. After happily paying the farmer, I carefully tucked it into my canvass tote and protectively drove it home like it was a beautiful newborn baby in the back seat.
+And it turns out, absence indeed has made the heart, or should I say, [LIVER](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2018/05/15/ready-set-wood-season-what-acupuncture-theory-has-to-say-about-spring/), grow fonder…for I’d never been so excited about a simple bag of spinach as I was that day I saw it in the market. After happily paying the farmer, I carefully tucked it into my canvass tote and protectively drove it home like it was a beautiful newborn baby in the back seat.
 {: .present-before-paste}
 
 Before this winter respite, I had never really appreciate greens, no matter how good they made me feel or how much I liked them. I guess knowing in the past that I could have them whenever I wanted made me take them a bit for granted…and isn’t that the way these things go!?&nbsp; But for the first time this spring, I cant WAIT for those Farmer’s Market tables to sag with the weight of crispy greens!
@@ -49,7 +49,7 @@ The most miraculous thing is to realize that the foods that grow during each sea
 If you want to know what foods you should be eating at various times of the year, rather than shopping at the supermarket where everything is available all year round, visit the farmers market and see what’s available.
 {: .present-before-paste}
 
-If there’s only root vegetables and winter squashes, chances are, that’s what we should be eating.&nbsp; Even in winter, the preservation methods of salting and pickling foods serve to draw our Qi deep inside where we want it safely preserved during the colder months.&nbsp; Now that we’re in Spring when the abundance of green is everywhere, sure enough that is what will help our [liver–the organ related to springtime](http://www.wisdomwaysacupuncture.com/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)–stay balanced.
+If there’s only root vegetables and winter squashes, chances are, that’s what we should be eating.&nbsp; Even in winter, the preservation methods of salting and pickling foods serve to draw our Qi deep inside where we want it safely preserved during the colder months.&nbsp; Now that we’re in Spring when the abundance of green is everywhere, sure enough that is what will help our [liver–the organ related to springtime](/2018/03/15/ready-set-wood-season-tips-for-staying-balanced-in-spring/2011/03/21/its-wood-season-tips-for-keeping-your-liver-happy-this-spring/)–stay balanced.
 {: .present-before-paste}
 
 ##### Why are greens beneficial?
