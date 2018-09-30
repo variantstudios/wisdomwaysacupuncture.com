@@ -54,6 +54,9 @@
         }]
     });
     blogView.on("updated", function() {
+        document.querySelector('.search').scrollIntoView({
+            behavior: 'smooth'
+        });
         if (blogView.matchingItems.length === 0) {
             $('.list').html('<p class="error_message">Sorry, there are no results for this search/filter.<p>');
         }
